@@ -15,7 +15,7 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Iterable of single character tokens that should be recognized as word separator
 - `missing_data`: `('?', '-')`
   Iterable of strings that are used to mark missing data
-- `strip_inside_brackets`: `True`
+- `strip_inside_brackets`: `False`
   Flag signaling whether to strip content in brackets (**and** strip leading and trailing whitespace)
 - `replacements`: `[]`
   List of pairs (`source`, `target`) used to replace occurrences of `source` in formswith `target` (before stripping content in brackets)
