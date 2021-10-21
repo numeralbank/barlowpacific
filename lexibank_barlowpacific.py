@@ -28,16 +28,18 @@ class Dataset(pylexibank.Dataset):
     def cmd_makecldf(self, args):
         data = self.raw_dir.read_csv("barlowpacific.csv", dicts=True)
 
-        concept_map = args.writer.add_concepts(lookup_factory="gloss")
+        concept_map = args.writer.add_concepts(
+            id_factory=lambda c: c.gloss, lookup_factory="gloss"
+        )
         args.writer.add_languages()
         args.writer.add_sources()
 
         for row in pylexibank.progressbar(data):
-            args.writer.add_form(
+            args.writer.add_forms_from_value(
                 Language_ID=row["Glottocode"],
                 Parameter_ID=concept_map[row["Numeral"]],
                 Value=row["Form"],
-                Form=row["Form"],
+                # Form=row["Form"],
                 Comment=row["Comment"],
                 Loan=True if row["Loan?"] == "TRUE" else False,
                 Pages=row["Pages"],

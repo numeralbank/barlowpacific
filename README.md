@@ -1,4 +1,4 @@
-# Barlow Pacific
+# CLDF dataset derived from Barlow's "Numerals of the Pacific" from 2021
 
 [![CLDF validation](https://github.com/numeralbank/barlowpacific/workflows/CLDF-validation/badge.svg)](https://github.com/numeralbank/barlowpacific/actions?query=workflow%3ACLDF-validation)
 
@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Barlow, Russell ...
+  > Barlow, Russell (ed.). 2021. Numerals of the Pacific: A collection of numeral terms in Austronesian and Papuan languages.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -19,14 +19,14 @@ This dataset is licensed under a CC-BY-4.0 license
 
 [![CLDF validation](https://github.com/numeralbank/barlowpacific/workflows/CLDF-validation/badge.svg)](https://github.com/numeralbank/barlowpacific/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 17%](https://img.shields.io/badge/Concepticon-17%25-red.svg "Concepticon: 17%")
+![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 1,187
+- **Varieties:** 1,186
 - **Concepts:** 168
-- **Lexemes:** 30,346
+- **Lexemes:** 30,193
 - **Sources:** 322
-- **Synonymy:** 1.69
+- **Synonymy:** 1.68
 
 ## Possible Improvements:
 
