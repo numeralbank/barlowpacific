@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/barlowpacific",
             "rdf:type": "prov:Entity",
-            "dc:created": "22293dd",
+            "dc:created": "ccd6c14",
             "dc:title": "Repository"
         },
         {
@@ -25,7 +25,7 @@
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.5.0-18-gd45045e",
+            "dc:created": "v2.5.0-23-g8a7321d",
             "dc:title": "Concepticon"
         },
         {
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 30372,
+            "dc:extent": 30371,
             "tableSchema": {
                 "columns": [
                     {
@@ -164,7 +164,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1187,
+            "dc:extent": 2215,
             "tableSchema": {
                 "columns": [
                     {
@@ -220,6 +220,18 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "UltimateSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Pages"
                     }
                 ],
                 "primaryKey": [

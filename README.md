@@ -22,17 +22,19 @@ This dataset is licensed under a CC-BY-4.0 license
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 1,187
+- **Varieties:** 2,215
 - **Concepts:** 168
-- **Lexemes:** 30,372
+- **Lexemes:** 30,371
 - **Sources:** 322
-- **Synonymy:** 1.69
+- **Synonymy:** 1.09
 
 ## Possible Improvements:
 
 - Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - None [bika1251](http://glottolog.org/resource/languoid/id/bika1251)
-  - None [elpa1240](http://glottolog.org/resource/languoid/id/elpa1240)
+  - Bikaru [from L. Bragge] [bika1251](http://glottolog.org/resource/languoid/id/bika1251)
+  - Elpaputih: Seram (from M. Leatemia) [elpa1240](http://glottolog.org/resource/languoid/id/elpa1240)
+  - Elpaputih: Seram (mentioned in NBG 1919) [elpa1240](http://glottolog.org/resource/languoid/id/elpa1240)
+  - Samasuru-Paulohij, Elpaputih: Seram [elpa1240](http://glottolog.org/resource/languoid/id/elpa1240)
 
 
 

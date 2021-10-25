@@ -9,17 +9,24 @@ class CustomLexeme(pylexibank.Lexeme):
     Pages = attr.ib(default=None)
 
 
+@attr.s
+class CustomLanguage(pylexibank.Language):
+    UltimateSource = attr.ib(default=None)
+    Source = attr.ib(default=None)
+    Pages = attr.ib(default=None)
+
+
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "barlowpacific"
     lexeme_class = CustomLexeme
+    language_class = CustomLanguage
 
-    # define the way in which forms should be handled
     form_spec = pylexibank.FormSpec(
-        brackets={"(": ")"},  # characters that function as brackets
-        separators=";/,",  # characters that split forms e.g. "a, b".
-        missing_data=("?", "-"),  # characters that denote missing data.
-        strip_inside_brackets=False,  # do you want data removed in brackets or not?
+        brackets={"(": ")"},
+        separators=";/,",
+        missing_data=("?", "-"),
+        strip_inside_brackets=False,
     )
 
     def cmd_download(self, args):
@@ -28,20 +35,17 @@ class Dataset(pylexibank.Dataset):
     def cmd_makecldf(self, args):
         data = self.raw_dir.read_csv("barlowpacific.csv", dicts=True)
 
-        concept_map = args.writer.add_concepts(
-            id_factory=lambda c: c.gloss, lookup_factory="gloss"
-        )
+        concept_map = args.writer.add_concepts(id_factory=lambda c: c.gloss, lookup_factory="gloss")
         args.writer.add_languages()
         args.writer.add_sources()
 
         for row in pylexibank.progressbar(data):
             args.writer.add_forms_from_value(
-                Language_ID=row["Glottocode"],
-                Parameter_ID=concept_map[row["Numeral"]],
+                Language_ID=row["Language_ID"],
+                Parameter_ID=concept_map[row["Parameter_ID"]],
                 Value=row["Form"],
-                # Form=row["Form"],
                 Comment=row["Comment"],
-                Loan=True if row["Loan?"] == "TRUE" else False,
+                Loan=True if row["Loan"] == "TRUE" else False,
                 Pages=row["Pages"],
                 Source=row["Source"],
             )
