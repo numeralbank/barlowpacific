@@ -2,5 +2,5 @@
 
 Name | GitHub user | Description |Role
 --- | --- | --- | ---
-Russell Barlow |  | | Author
+Russell Barlow | @barlowrussell | | Author
 Christoph Rzymski | @chrzyki | patron, maintainer | Other
