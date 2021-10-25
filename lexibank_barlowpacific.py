@@ -22,13 +22,6 @@ class Dataset(pylexibank.Dataset):
     lexeme_class = CustomLexeme
     language_class = CustomLanguage
 
-    form_spec = pylexibank.FormSpec(
-        brackets={"(": ")"},
-        separators=";/,",
-        missing_data=("?", "-"),
-        strip_inside_brackets=False,
-    )
-
     def cmd_download(self, args):
         pass
 
@@ -40,10 +33,11 @@ class Dataset(pylexibank.Dataset):
         args.writer.add_sources()
 
         for row in pylexibank.progressbar(data):
-            args.writer.add_forms_from_value(
+            args.writer.add_form(
                 Language_ID=row["Language_ID"],
                 Parameter_ID=concept_map[row["Parameter_ID"]],
                 Value=row["Form"],
+                Form=row["Form"],
                 Comment=row["Comment"],
                 Loan=True if row["Loan"] == "TRUE" else False,
                 Pages=row["Pages"],

@@ -24,7 +24,7 @@ This dataset is licensed under a CC-BY-4.0 license
 
 - **Varieties:** 2,215
 - **Concepts:** 168
-- **Lexemes:** 30,371
+- **Lexemes:** 30,345
 - **Sources:** 322
 - **Synonymy:** 1.09
 
@@ -42,7 +42,7 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Name | GitHub user | Description |Role
 --- | --- | --- | ---
-Russell Barlow | @barlowrussell |compiler, editor | Author
+Russell Barlow | @barlowrussell | compiler, editor | Author
 Christoph Rzymski | @chrzyki | patron, maintainer | Other
 
 
