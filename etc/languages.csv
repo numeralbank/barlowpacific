@@ -401,6 +401,7 @@ buru1309-1,Sawos,LeanEastSepik,p.42,"4 CSQs. Villages: Wereman, Kampupu, Tinboli
 busa1255-1,Boesangsch,Barth1910,pp.234-279,,busa1255,Busang Kayan,bfg,Papunesia,0.03494,115.401,Austronesian
 bush1250-1,Antalote,Gevrey1870,p.117,,bush1250,Kibosy Kiantalaotsy-Majunga,buc,Africa,-12.9652,45.1368,Austronesian
 bush1250-2,Kiantalaotsy,Gueunier1986,pp.334-358,,bush1250,Kibosy Kiantalaotsy-Majunga,buc,Africa,-12.9652,45.1368,Austronesian
+buta1242-1,Butam,Laufer1959,p.209,,buta1242,Butam,,Papunesia,-4.471696,152.245674,Taulil-Butam
 bwai1242-1,Bwaidoka,Lean1986Vol06,p.71,2 CSQs. Village: Mataita.,bwai1242,Bwaidoka,bwd,Papunesia,-9.51158,150.297,Austronesian
 bwan1241-1,Tubetube,Lean1986Vol06,p.63,S.I.L word list (1971). Village: Pai.,bwan1241,Bwanabwana,tte,Papunesia,-10.6599,151.034,Austronesian
 camp1262-1,Campalagian,Grimes1987,pp.128-134,,camp1262,Campalagian,cml,Papunesia,-4.016667,119.623611,Austronesian
@@ -420,6 +421,8 @@ cent2100-1,Kadazan Membakut,Lobel2016,pp.234-239,,cent2100,Central Dusun,dtp,Pap
 cent2100-2,Kadazan Papar,Lobel2016,pp.234-239,,cent2100,Central Dusun,dtp,Papunesia,6.02998,116.681,Austronesian
 cent2117-1,Asmat,Galis1955,p.167,,cent2117,Central Asmat,cns,Papunesia,-5.80391,138.471,Nuclear Trans New Guinea
 cent2117-2,Central Asmat/Isyaman,Lebold2013,p.43,,cent2117,Central Asmat,cns,Papunesia,-5.80391,138.471,Nuclear Trans New Guinea
+cent2117-3,Asmat (Kawenak),Drabbe1963,p.104,,cent2117,Central Asmat,cns,Papunesia,-5.80391,138.471,Nuclear Trans New Guinea
+cent2117-4,Asmat (Keenok),Drabbe1963,p.105,,cent2117,Central Asmat,cns,Papunesia,-5.80391,138.471,Nuclear Trans New Guinea
 cent2118-1,Awyu: Ketah,Kriens2010,pp.48-49,,cent2118,Central Awyu,awu,Papunesia,-6.29363,139.693,Nuclear Trans New Guinea
 cent2118-2,Awyu: Nohon,Kriens2010,pp.48-49,,cent2118,Central Awyu,awu,Papunesia,-6.29363,139.693,Nuclear Trans New Guinea
 cent2118-3,Awyu: Taim,Kriens2010,pp.48-49,,cent2118,Central Awyu,awu,Papunesia,-6.29363,139.693,Nuclear Trans New Guinea
@@ -1542,6 +1545,8 @@ patt1249-3,Pattani Malay (Pathumthani),Pakkhem2007,pp.192-283,,patt1249,Kelantan
 paul1238-1,Paulohi,Stresemann1918,p.59,,paul1238,Paulohi,plh,Papunesia,-3.25404,128.779,Austronesian
 pauw1243-1,Pauwi,Ray1912,pp.340-341,,pauw1243,Pauwi,,Papunesia,-1.65,137.8,Austronesian
 pauw1243-2,Pauwi,Galis1955,p.142,,pauw1243,Pauwi,,Papunesia,-1.65,137.8,Austronesian
+pauw1243-3,Pauwe und Busumassi,Stroeve1911,p.28,,pauw1243,Pauwi,,Papunesia,-1.65,137.8,Austronesian
+pauw1243-4,Pauwi,Moszkowski1913,p.258,,pauw1243,Pauwi,,Papunesia,-1.65,137.8,Austronesian
 pawa1255-1,Aurama,Brown1921Aurama,p.124,,pawa1255,Pawaia,pwa,Papunesia,-6.88021,145.081,Pawaia
 pawa1255-2,Huaruha,Murray1920,p.117,,pawa1255,Pawaia,pwa,Papunesia,-6.88021,145.081,Pawaia
 payn1244-1,Manat,Daniels2015,pp.558-560,,payn1244,Manat,pmr,Papunesia,-4.94303,144.879,Nuclear Trans New Guinea
@@ -1870,6 +1875,7 @@ tarp1240-2,Tarfia,Ray1912,pp.340-341,,tarp1240,Tarpia,tpf,Papunesia,-2.322279,14
 tata1257-1,Tatana,Lobel2016,pp.234-239,,tata1257,Tatana,txx,Papunesia,5.49808,115.553,Austronesian
 taua1242-1,Afoa,Strong1912,p.332,,taua1242,Tauade,ttd,Papunesia,-8.3486,147.094,Goilalan
 taul1251-1,Taulil,Laufer1951,p.638,,taul1251,Taulil,tuh,Papunesia,-4.44425,152.095,Taulil-Butam
+taul1251-2,Taulil,Futscher1959,p.31,,taul1251,Taulil,tuh,Papunesia,-4.44425,152.095,Taulil-Butam
 taut1234-1,Tau't Batu,Thiessen1980,pp.72-78,,taut1234,Taut Batu,,Papunesia,8.88129,117.673091,Austronesian
 tauy1241-1,Tauya,LeanMadang,p.58,SIL Word List (1977). Village: Tauya.,tauy1241,Tauya,tya,Papunesia,-5.74255,145.366,Nuclear Trans New Guinea
 tawa1275-1,Kehelala,Lean1986Vol06,p.59,"11 CSQs. Villages: Rabae (2), Gwavili, Sikwala, Awaiama, Tuboda, Likaboga, Huhuna, East Cape, Waema, Nigila.",tawa1275,Tawala,tbo,Papunesia,-10.3115,150.644,Austronesian
@@ -2166,6 +2172,7 @@ yang1296-1,Aiku,LeanSandaun,p.38,1 CSQ. Village: Monandin (Monadin).,yang1296,Ya
 yang1296-2,Umbrak-Aiku,Laycock1967C03,p.34,,yang1296,Yangum Mon,ymo,Papunesia,-3.55,142.527,Nuclear Torricelli
 yang1298-1,Englam,Ray1919,p.329,,yang1298,Yangulam,ynl,Papunesia,-5.52697,145.858,Nuclear Trans New Guinea
 yaos1235-1,Asmat (Yaosakor village),Preston1984,p.1,,yaos1235,Yaosakor Asmat,asy,Papunesia,-5.61024,138.582,Nuclear Trans New Guinea
+yaos1235-2,Asmat (Keenakap),Drabbe1963,p.105,,yaos1235,Yaosakor Asmat,asy,Papunesia,-5.61024,138.582,Nuclear Trans New Guinea
 yaqa1246-1,Jaqay,Galis1955,p.168,,yaqa1246,Yaqay,jaq,Papunesia,-6.66632,139.249,Anim
 yaqa1246-2,Yaqay: Kogo,Kriens2010,pp.48-49,,yaqa1246,Yaqay,jaq,Papunesia,-6.66632,139.249,Anim
 yaqa1246-3,Yaqay: Kotup,Kriens2010,pp.48-49,,yaqa1246,Yaqay,jaq,Papunesia,-6.66632,139.249,Anim
