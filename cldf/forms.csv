@@ -5422,6 +5422,24 @@ bush1250-2-30-1,,bush1250-2,30,telompolo,telompolo,,,Gueunier1986,,false,,,pp.33
 bush1250-2-50-1,,bush1250-2,50,dimiampolo,dimiampolo,,,Gueunier1986,,false,,,pp.334-358
 bush1250-2-100-1,,bush1250-2,100,zato,zato,,,Gueunier1986,,false,,,pp.334-358
 bush1250-2-1000-1,,bush1250-2,1000,arivo,arivo,,,Gueunier1986,,false,,,pp.334-358
+buta1242-1-1-1,,buta1242-1,1,tagata,tagata,,,Laufer1959,,false,,,p.209
+buta1242-1-1-2,,buta1242-1,1,tanqata,tanqata,,,Laufer1959,,false,,,p.209
+buta1242-1-2-1,,buta1242-1,2,mukumip,mukumip,,,Laufer1959,,false,,,p.209
+buta1242-1-2-2,,buta1242-1,2,mugumip,mugumip,,,Laufer1959,,false,,,p.209
+buta1242-1-3-1,,buta1242-1,3,mukuvala,mukuvala,,,Laufer1959,,false,,,p.209
+buta1242-1-3-2,,buta1242-1,3,muguvala,muguvala,,,Laufer1959,,false,,,p.209
+buta1242-1-4-1,,buta1242-1,4,valagataria,valagataria,,,Laufer1959,,false,,,p.209
+buta1242-1-5-1,,buta1242-1,5,limavati,limavati,,,Laufer1959,,false,,,p.209
+buta1242-1-5-2,,buta1242-1,5,inogati,inogati,,(from nok “the hand”),Laufer1959,,false,,,p.209
+buta1242-1-6-1,,buta1242-1,6,limavati ma tanqata,limavati ma tanqata,,,Laufer1959,,false,,,p.209
+buta1242-1-6-2,,buta1242-1,6,inogati ko tagata,inogati ko tagata,,,Laufer1959,,false,,,p.209
+buta1242-1-7-1,,buta1242-1,7,limavati ko mugumip,limavati ko mugumip,,,Laufer1959,,false,,,p.209
+buta1242-1-8-1,,buta1242-1,8,limavati ko muguvala,limavati ko muguvala,,,Laufer1959,,false,,,p.209
+buta1242-1-9-1,,buta1242-1,9,limavati ko valagataria,limavati ko valagataria,,,Laufer1959,,false,,,p.209
+buta1242-1-10-1,,buta1242-1,10,inokatakam,inokatakam,,(= both hands),Laufer1959,,false,,,p.209
+buta1242-1-11-1,,buta1242-1,11,lul kaita,lul kaita,,(meaning?),Laufer1959,,false,,,p.209
+buta1242-1-20-1,,buta1242-1,20,lul takarma,lul takarma,,the whole man,Laufer1959,,false,,,p.209
+buta1242-1-20-2,,buta1242-1,20,molimoli takarma,molimoli takarma,,the whole person,Laufer1959,,false,,,p.209
 bwai1242-1-1-1,,bwai1242-1,1,seyana,seyana,,,Lean1986Vol06,,false,,,p.71
 bwai1242-1-1-2,,bwai1242-1,1,(se'eyana),(se'eyana),,,Lean1986Vol06,,false,,,p.71
 bwai1242-1-2-1,,bwai1242-1,2,luwei,luwei,,,Lean1986Vol06,,false,,,p.71
@@ -5798,6 +5816,59 @@ cent2117-2-8-1,,cent2117-2,8,poman man mamim t͡ʃok̚,poman man mamim t͡ʃok̚
 cent2117-2-9-1,,cent2117-2,9,poman man ɛkt͡ʃu ok̚ bab,poman man ɛkt͡ʃu ok̚ bab,,,Lebold2013,,false,,,p.43
 cent2117-2-10-1,,cent2117-2,10,bamd͡ʒam nuk̚ at͡ʃakas,bamd͡ʒam nuk̚ at͡ʃakas,,,Lebold2013,,false,,,p.43
 cent2117-2-20-1,,cent2117-2,20,banam bejam at͡ʃakas,banam bejam at͡ʃakas,,,Lebold2013,,false,,,p.43
+cent2117-3-1-1,,cent2117-3,1,tsjowok,tsjowok,,,Drabbe1963,,false,,,p.104
+cent2117-3-2-1,,cent2117-3,2,(j)amnuk,(j)amnuk,,,Drabbe1963,,false,,,p.104
+cent2117-3-3-1,,cent2117-3,3,mbamintsjop,mbamintsjop,,,Drabbe1963,,false,,,p.104
+cent2117-3-4-1,,cent2117-3,4,ek tsjowok mbap,ek tsjowok mbap,,"lit. one finger remaining; i.e., one finger of the hand is not used when counting",Drabbe1963,,false,,,p.104
+cent2117-3-5-1,,cent2117-3,5,mban tsjowok takas,mban tsjowok takas,,"lit. one hand whole, thus five fingers",Drabbe1963,,false,,,p.104
+cent2117-3-6-1,,cent2117-3,6,poman mban tsjowok,poman mban tsjowok,,"lit. the other hand one, thus five plus one",Drabbe1963,,false,,,p.104
+cent2117-3-7-1,,cent2117-3,7,poman mban amnuk,poman mban amnuk,,"lit. the other hand two, thus five plus two",Drabbe1963,,false,,,p.104
+cent2117-3-8-1,,cent2117-3,8,poman mban mbamintsjop,poman mban mbamintsjop,,,Drabbe1963,,false,,,p.104
+cent2117-3-8-2,,cent2117-3,8,ek jamnuk mbap,ek jamnuk mbap,,two fingers (of two hands) remain,Drabbe1963,,false,,,p.104
+cent2117-3-9-1,,cent2117-3,9,poman mban ek tsjowok mbap,poman mban ek tsjowok mbap,,of the other hand one finger left,Drabbe1963,,false,,,p.104
+cent2117-3-10-1,,cent2117-3,10,mban amnuk takas,mban amnuk takas,,"lit. two hands all the way, all fingers",Drabbe1963,,false,,,p.104
+cent2117-3-11-1,,cent2117-3,11,mbeị mbetet tsjowok,mbeị mbetet tsjowok,,from the feet one big toe,Drabbe1963,,false,,,p.104
+cent2117-3-12-1,,cent2117-3,12,mbeị amnuk,mbeị amnuk,,from the foot two (toes),Drabbe1963,,false,,,p.104
+cent2117-3-13-1,,cent2117-3,13,mbeị mbamintsjop,mbeị mbamintsjop,,,Drabbe1963,,false,,,p.104
+cent2117-3-14-1,,cent2117-3,14,mbeị ek tsjowok mbap,mbeị ek tsjowok mbap,,from the foot one toe left,Drabbe1963,,false,,,p.104
+cent2117-3-15-1,,cent2117-3,15,poman mbeị takas,poman mbeị takas,,one foot all the way,Drabbe1963,,false,,,p.104
+cent2117-3-16-1,,cent2117-3,16,poman mbeị tsjowok,poman mbeị tsjowok,,from the other foot one,Drabbe1963,,false,,,p.104
+cent2117-3-17-1,,cent2117-3,17,poman mbeị amnuk,poman mbeị amnuk,,,Drabbe1963,,false,,,p.104
+cent2117-3-18-1,,cent2117-3,18,poman mbeị mbamintsjop,poman mbeị mbamintsjop,,,Drabbe1963,,false,,,p.104
+cent2117-3-19-1,,cent2117-3,19,poman mbeị ek tsjowok mbap,poman mbeị ek tsjowok mbap,,from the other foot one toe left,Drabbe1963,,false,,,p.104
+cent2117-3-20-1,,cent2117-3,20,mbeị amnuk takas,mbeị amnuk takas,,both feet all the way,Drabbe1963,,false,,,p.104
+cent2117-3-20-2,,cent2117-3,20,"mban amnuk am, mbeị amnuk am takas","mban amnuk am, mbeị amnuk am takas",,both hands and both feet completely,Drabbe1963,,false,,,p.104
+cent2117-4-1-1,,cent2117-4,1,toko,toko,,,Drabbe1963,,false,,,p.105
+cent2117-4-2-1,,cent2117-4,2,(j)omnok,(j)omnok,,,Drabbe1963,,false,,,p.105
+cent2117-4-3-1,,cent2117-4,3,mbemtiap,mbemtiap,,,Drabbe1963,,false,,,p.105
+cent2117-4-4-1,,cent2117-4,4,eak toko mbeap,eak toko mbeap,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-4-2,,cent2117-4,4,mbetet mbeemap,mbetet mbeemap,,thumb remaining,Drabbe1963,,false,,,p.105
+cent2117-4-4-3,,cent2117-4,4,poman mban toko mbeemap,poman mban toko mbeemap,,from one hand one left,Drabbe1963,,false,,,p.105
+cent2117-4-4-4,,cent2117-4,4,poman mban toko mbeap,poman mban toko mbeap,,from one hand one left,Drabbe1963,,false,,,p.105
+cent2117-4-5-1,,cent2117-4,5,mban toko takas,mban toko takas,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-5-2,,cent2117-4,5,poman mban mbitakas,poman mban mbitakas,,one hand whole,Drabbe1963,,false,,,p.105
+cent2117-4-6-1,,cent2117-4,6,poman mban toko,poman mban toko,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-7-1,,cent2117-4,7,poman mban jomnok,poman mban jomnok,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-8-1,,cent2117-4,8,poman mban mbemtiap,poman mban mbemtiap,,,Drabbe1963,,false,,,p.105
+cent2117-4-8-2,,cent2117-4,8,eak jomnok mbeap,eak jomnok mbeap,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-9-1,,cent2117-4,9,poman mban eak toko mbeap,poman mban eak toko mbeap,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-10-1,,cent2117-4,10,mban jomnok takas,mban jomnok takas,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-11-1,,cent2117-4,11,mbee mbetet toko,mbee mbetet toko,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-11-2,,cent2117-4,11,wen mbee toko,wen mbee toko,,the one foot one,Drabbe1963,,false,,,p.105
+cent2117-4-11-3,,cent2117-4,11,poman mbee toko,poman mbee toko,,the one foot one,Drabbe1963,,false,,,p.105
+cent2117-4-12-1,,cent2117-4,12,mbee jomnok,mbee jomnok,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-12-2,,cent2117-4,12,wen mbee jomnok,wen mbee jomnok,,,Drabbe1963,,false,,,p.105
+cent2117-4-12-3,,cent2117-4,12,poman mbee jomnok,poman mbee jomnok,,,Drabbe1963,,false,,,p.105
+cent2117-4-12-4,,cent2117-4,12,mbee poman jomnok,mbee poman jomnok,,,Drabbe1963,,false,,,p.105
+cent2117-4-13-1,,cent2117-4,13,mbee mbemtiap,mbee mbemtiap,,,Drabbe1963,,false,,,p.105
+cent2117-4-14-1,,cent2117-4,14,mbee eak toko mbeap,mbee eak toko mbeap,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-15-1,,cent2117-4,15,poman mbee takas,poman mbee takas,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-16-1,,cent2117-4,16,poman mbee toko,poman mbee toko,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-17-1,,cent2117-4,17,poman mbee jomnok,poman mbee jomnok,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-18-1,,cent2117-4,18,poman mbee mbemtiap,poman mbee mbemtiap,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-19-1,,cent2117-4,19,poman mbee eak toko mbeap,poman mbee eak toko mbeap,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-20-1,,cent2117-4,20,mbee jomnok takas,mbee jomnok takas,,cf. Kawenak,Drabbe1963,,false,,,p.105
+cent2117-4-20-2,,cent2117-4,20,"mban jomnok am, mbee jomnok am takas","mban jomnok am, mbee jomnok am takas",,cf. Kawenak,Drabbe1963,,false,,,p.105
 cent2118-1-1-1,,cent2118-1,1,kɑmi sigɛ,kɑmi sigɛ,,,Kriens2010,,false,,,pp.48-49
 cent2118-1-2-1,,cent2118-1,2,ˈkurumɑ,ˈkurumɑ,,,Kriens2010,,false,,,pp.48-49
 cent2118-1-3-1,,cent2118-1,3,kuruˈsijo,kuruˈsijo,,,Kriens2010,,false,,,pp.48-49
@@ -7318,89 +7389,6 @@ elke1240-2-7-1,,elke1240-2,7,yŭtulŭsɛ wiŋɛ tɑ purol,yŭtulŭsɛ wiŋɛ tɑ
 elke1240-2-8-1,,elke1240-2,8,yŭtulŭsɛ wiŋɑli tɑli purol,yŭtulŭsɛ wiŋɑli tɑli purol,,,Laycock1967C02,,false,,,p.13
 elke1240-2-9-1,,elke1240-2,9,yŭtulŭsɛ wiŋɛ wiŋɛ purol,yŭtulŭsɛ wiŋɛ wiŋɛ purol,,,Laycock1967C02,,false,,,p.13
 elke1240-2-10-1,,elke1240-2,10,yitu purol yitu purol,yitu purol yitu purol,,[yisi ~ yitŭ- = hand],Laycock1967C02,,false,,,p.13
-elpa1240-1-1-1,,elpa1240-1,1,Sa'è,Sa'è,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-2-1,,elpa1240-1,2,Roe'à,Roe'à,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-3-1,,elpa1240-1,3,Toroè,Toroè,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-4-1,,elpa1240-1,4,Falè,Falè,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-5-1,,elpa1240-1,5,Rīmà,Rīmà,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-6-1,,elpa1240-1,6,Nōjo,Nōjo,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-7-1,,elpa1240-1,7,Fītoe,Fītoe,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-8-1,,elpa1240-1,8,Waroè,Waroè,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-9-1,,elpa1240-1,9,Sīwà,Sīwà,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-10-1,,elpa1240-1,10,Hoetoe sa'è,Hoetoe sa'è,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-11-1,,elpa1240-1,11,Hoetoe sa'è la'īti,Hoetoe sa'è la'īti,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-12-1,,elpa1240-1,12,Hoetoe sa'è la'īti roe'a,Hoetoe sa'è la'īti roe'a,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-13-1,,elpa1240-1,13,Hoetoe sa'è la'īti tōroè,Hoetoe sa'è la'īti tōroè,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-14-1,,elpa1240-1,14,Hoetoe sa'è la'īti falè,Hoetoe sa'è la'īti falè,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-15-1,,elpa1240-1,15,Hoetoe sa'è la'īti rīma,Hoetoe sa'è la'īti rīma,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-16-1,,elpa1240-1,16,Hoetoe sa'è la'īti nōjo,Hoetoe sa'è la'īti nōjo,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-17-1,,elpa1240-1,17,Hoetoe sa'è la'īti fītoè,Hoetoe sa'è la'īti fītoè,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-18-1,,elpa1240-1,18,Hoetoe sa'è la'īti waroè,Hoetoe sa'è la'īti waroè,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-19-1,,elpa1240-1,19,Hoetoe sa'è la'īti sīwa,Hoetoe sa'è la'īti sīwa,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-20-1,,elpa1240-1,20,Hoetoe roe'à,Hoetoe roe'à,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-21-1,,elpa1240-1,21,Hoetoe roe'à La'īti,Hoetoe roe'à La'īti,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-25-1,,elpa1240-1,25,Hoetoe sa'è la'īti rima,Hoetoe sa'è la'īti rima,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-30-1,,elpa1240-1,30,Hoetoe toroe,Hoetoe toroe,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-40-1,,elpa1240-1,40,Hoetoe falè,Hoetoe falè,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-50-1,,elpa1240-1,50,Hoetoe rima,Hoetoe rima,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-60-1,,elpa1240-1,60,Hoetoe nōjo,Hoetoe nōjo,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-100-1,,elpa1240-1,100,Oetoeni,Oetoeni,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-1000-1,,elpa1240-1,1000,Rihoeni,Rihoeni,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-1-10000-1,,elpa1240-1,10000,Rihoeni laini hoetoe sa'è,Rihoeni laini hoetoe sa'è,,,Stokhof1981Vol3.2,,false,,,p.92
-elpa1240-2-1-1,,elpa1240-2,1,sae,sae,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-2-1,,elpa1240-2,2,roea,roea,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-3-1,,elpa1240-2,3,toroe,toroe,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-4-1,,elpa1240-2,4,fale,fale,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-5-1,,elpa1240-2,5,rima,rima,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-6-1,,elpa1240-2,6,nojo,nojo,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-7-1,,elpa1240-2,7,fitoe,fitoe,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-8-1,,elpa1240-2,8,waroe,waroe,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-9-1,,elpa1240-2,9,siwa,siwa,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-10-1,,elpa1240-2,10,hoetoe-sae,hoetoe-sae,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-11-1,,elpa1240-2,11,hoetoe-sae lai-sae laiti,hoetoe-sae lai-sae laiti,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-12-1,,elpa1240-2,12,hoetoe-sae lai roea,hoetoe-sae lai roea,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-13-1,,elpa1240-2,13,hoetoe-sae lai (toroe),hoetoe-sae lai (toroe),,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-18-1,,elpa1240-2,18,hoetoe-sae lai waroe,hoetoe-sae lai waroe,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-19-1,,elpa1240-2,19,hoetoe-sae lai siwa,hoetoe-sae lai siwa,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-20-1,,elpa1240-2,20,hoetoe-roea,hoetoe-roea,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-21-1,,elpa1240-2,21,hoetoe-roea lai sae(laiti),hoetoe-roea lai sae(laiti),,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-25-1,,elpa1240-2,25,hoetoe-roea lai-rima,hoetoe-roea lai-rima,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-30-1,,elpa1240-2,30,hoetoe toroe,hoetoe toroe,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-40-1,,elpa1240-2,40,hoetoe fale,hoetoe fale,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-50-1,,elpa1240-2,50,hoetoe rima,hoetoe rima,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-60-1,,elpa1240-2,60,hoetoe nojo,hoetoe nojo,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-100-1,,elpa1240-2,100,oetoeni,oetoeni,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-1000-1,,elpa1240-2,1000,rihoeni,rihoeni,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-2-10000-1,,elpa1240-2,10000,rihoe hoetoe sae,rihoe hoetoe sae,,,Stokhof1981Vol3.2,,false,,,pp.153-154
-elpa1240-3-1-1,,elpa1240-3,1,Sa'è,Sa'è,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-2-1,,elpa1240-3,2,Roe'à,Roe'à,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-3-1,,elpa1240-3,3,Toroè,Toroè,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-4-1,,elpa1240-3,4,Falè,Falè,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-5-1,,elpa1240-3,5,Rīmà,Rīmà,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-6-1,,elpa1240-3,6,Nojo,Nojo,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-7-1,,elpa1240-3,7,Fitoe,Fitoe,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-8-1,,elpa1240-3,8,Waroè,Waroè,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-9-1,,elpa1240-3,9,Sīwà,Sīwà,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-10-1,,elpa1240-3,10,Hoetoe sa'è,Hoetoe sa'è,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-11-1,,elpa1240-3,11,Hoetoe sa'è laiti,Hoetoe sa'è laiti,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-12-1,,elpa1240-3,12,Hoetoe sa'è laiti roe'a,Hoetoe sa'è laiti roe'a,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-13-1,,elpa1240-3,13,Hoetoe sa'è laiti toroe,Hoetoe sa'è laiti toroe,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-14-1,,elpa1240-3,14,Hoetoe sa'è laiti falè,Hoetoe sa'è laiti falè,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-15-1,,elpa1240-3,15,Hoetoe sa'è laiti rīmà,Hoetoe sa'è laiti rīmà,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-16-1,,elpa1240-3,16,Hoetoe sa'è laiti nojo,Hoetoe sa'è laiti nojo,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-17-1,,elpa1240-3,17,Hoetoe sa'è laiti fitoe,Hoetoe sa'è laiti fitoe,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-18-1,,elpa1240-3,18,Hoetoe sa'è laiti waroè,Hoetoe sa'è laiti waroè,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-19-1,,elpa1240-3,19,Hoetoe sa'è laiti sīwa,Hoetoe sa'è laiti sīwa,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-20-1,,elpa1240-3,20,Hoetoe roe'à,Hoetoe roe'à,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-21-1,,elpa1240-3,21,Hoetoe roea laiti,Hoetoe roea laiti,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-25-1,,elpa1240-3,25,Hoetoe roea laiti rima,Hoetoe roea laiti rima,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-30-1,,elpa1240-3,30,Hoetoe toroe,Hoetoe toroe,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-40-1,,elpa1240-3,40,Hoetoe falè,Hoetoe falè,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-50-1,,elpa1240-3,50,Hoetoe rima,Hoetoe rima,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-60-1,,elpa1240-3,60,Hoetoe nojo,Hoetoe nojo,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-100-1,,elpa1240-3,100,Oetoeni,Oetoeni,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-1000-1,,elpa1240-3,1000,Rihoeni,Rihoeni,,,Stokhof1981Vol3.2,,false,,,p.114
-elpa1240-3-10000-1,,elpa1240-3,10000,Rihoeni laini hoetoe sa'è,Rihoeni laini hoetoe sa'è,,,Stokhof1981Vol3.2,,false,,,p.114
 else1239-1-1-1,,else1239-1,1,mɛŋɡɑftɑ,mɛŋɡɑftɑ,,,Laycock1971D18,,false,,,p.2554
 else1239-1-2-1,,else1239-1,2,tɑftɑn,tɑftɑn,,,Laycock1971D18,,false,,,p.2554
 else1239-1-3-1,,else1239-1,3,tɑftɑn yowɛn,tɑftɑn yowɛn,,,Laycock1971D18,,false,,,p.2554
@@ -7664,6 +7652,20 @@ erav1244-1-15-1,,erav1244-1,15,pasaa mindi,pasaa mindi,,‘mid shoulder’,Frank
 erav1244-1-16-1,,erav1244-1,16,kalambe,kalambe,,‘top shoulder’,Franklin1968,,false,,,p.32
 erav1244-1-17-1,,erav1244-1,17,maa,maa,,‘neck’,Franklin1968,,false,,,p.32
 erav1244-1-18-1,,erav1244-1,18,yaŋɡa,yaŋɡa,,‘jaw’,Franklin1968,,false,,,p.32
+erav1244-2-1-1,,erav1244-2,1,enga-li,enga-li,,‘little finger’,Franklin2001,,false,,,pp.152-153
+erav1244-2-2-1,,erav1244-2,2,enga-li ame,enga-li ame,,‘ring finger’,Franklin2001,,false,,,pp.152-153
+erav1244-2-3-1,,erav1244-2,3,adaa ki,adaa ki,,‘middle finger’,Franklin2001,,false,,,pp.152-153
+erav1244-2-4-1,,erav1244-2,4,maala,maala,,‘index finger’,Franklin2001,,false,,,pp.152-153
+erav1244-2-5-1,,erav1244-2,5,su,su,,‘thumb’,Franklin2001,,false,,,pp.152-153
+erav1244-2-6-1,,erav1244-2,6,waraa,waraa,,‘palm’,Franklin2001,,false,,,pp.152-153
+erav1244-2-7-1,,erav1244-2,7,kerepo,kerepo,,‘wrist’,Franklin2001,,false,,,pp.152-153
+erav1244-2-8-1,,erav1244-2,8,noe,noe,,‘forearm’,Franklin2001,,false,,,pp.152-153
+erav1244-2-9-1,,erav1244-2,9,noe repa,noe repa,,‘inside elbow’,Franklin2001,,false,,,pp.152-153
+erav1244-2-10-1,,erav1244-2,10,ali ropa,ali ropa,,‘upper middle arm’,Franklin2001,,false,,,pp.152-153
+erav1244-2-11-1,,erav1244-2,11,pasaa,pasaa,,‘shoulder’,Franklin2001,,false,,,pp.152-153
+erav1244-2-12-1,,erav1244-2,12,kalambe,kalambe,,‘collarbone area’,Franklin2001,,false,,,pp.152-153
+erav1244-2-13-1,,erav1244-2,13,maa,maa,,‘upper neck’,Franklin2001,,false,,,pp.152-153
+erav1244-2-18-1,,erav1244-2,18,yanga,yanga,,‘jaw’,Franklin2001,,false,,,pp.152-153
 eree1241-1-1-1,,eree1241-1,1,sih ,sih ,,,Blust2021,,false,,,"pp.25, 30, 32, 38"
 eree1241-1-2-1,,eree1241-1,2,ruoh ,ruoh ,,,Blust2021,,false,,,"pp.25, 30, 32, 38"
 eree1241-1-3-1,,eree1241-1,3,tulah ,tulah ,,,Blust2021,,false,,,"pp.25, 30, 32, 38"
@@ -7826,6 +7828,24 @@ fasu1242-2-5-1,,fasu1242-2,5,kakorea,kakorea,,[kakoɾea = thumb],Bullock2015,,fa
 fasu1242-2-10-1,,fasu1242-2,10,kaiako(su),kaiako(su),,,Bullock2015,,false,,,p.66
 fasu1242-3-1-1,,fasu1242-3,1,hankasa,hankasa,,,Lean1986Vol10,,false,,,"pp.23, 52"
 fasu1242-3-2-1,,fasu1242-3,2,tita,tita,,Numerals 1 and 2 only,Lean1986Vol10,,false,,,"pp.23, 52"
+fasu1242-4-1-1,,fasu1242-4,1,mèno,mèno,,‘little finger’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-2-1,,fasu1242-4,2,tetá,tetá,,‘ring finger’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-3-1,,fasu1242-4,3,isiã,isiã,,‘middle finger’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-4-1,,fasu1242-4,4,ki-tafá,ki-tafá,,‘index finger’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-5-1,,fasu1242-4,5,kakõ-rea,kakõ-rea,,‘thumb’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-6-1,,fasu1242-4,6,namá,namá,,‘palm’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-7-1,,fasu1242-4,7,yatipú-nu,yatipú-nu,,‘wrist’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-8-1,,fasu1242-4,8,kàri,kàri,,‘forearm’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-9-1,,fasu1242-4,9,tòkana,tòkana,,‘inside elbow’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-10-1,,fasu1242-4,10,kãê yãko,kãê yãko,,‘upper middle arm’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-11-1,,fasu1242-4,11,kí-nu,kí-nu,,‘shoulder’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-12-1,,fasu1242-4,12,kenó,kenó,,‘collarbone area’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-13-1,,fasu1242-4,13,fúfu,fúfu,,‘upper neck’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-14-1,,fasu1242-4,14,sena-kí,sena-kí,,‘ear’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-15-1,,fasu1242-4,15,parè,parè,,‘cheekbone’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-16-1,,fasu1242-4,16,hî,hî,,‘eye’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-17-1,,fasu1242-4,17,nò,nò,,‘side of nose’,Franklin2001,,false,,,pp.152-153
+fasu1242-4-18-1,,fasu1242-4,18,tera-yia,tera-yia,,‘ridge of nose’,Franklin2001,,false,,,pp.152-153
 fata1247-1-1-1,,fata1247-1,1,úkan(i),úkan(i),,,Arnaud1998,,false,,,pp.863-879 [word list item numbers]
 fata1247-1-2-1,,fata1247-1,2,éce,éce,,"objects, animals",Arnaud1998,,false,,,pp.863-879 [word list item numbers]
 fata1247-1-2-2,,fata1247-1,2,écafu,écafu,,people,Arnaud1998,,false,,,pp.863-879 [word list item numbers]
@@ -7891,6 +7911,25 @@ foii1241-1-16-1,,foii1241-1,16,bobo,bobo,,between ear and eye,Lean1986Vol10,,fal
 foii1241-1-17-1,,foii1241-1,17,ii,ii,,eye,Lean1986Vol10,,false,,,p.25
 foii1241-1-18-1,,foii1241-1,18,do,do,,side of nose,Lean1986Vol10,,false,,,p.25
 foii1241-1-19-1,,foii1241-1,19,gisi,gisi,,centre of nose (midpoint),Lean1986Vol10,,false,,,p.25
+foii1241-2-1-1,,foii1241-2,1,mena-gi,mena-gi,,‘little finger’,Franklin2001,,false,,,pp.152-153
+foii1241-2-2-1,,foii1241-2,2,ha-gi,ha-gi,,‘ring finger’,Franklin2001,,false,,,pp.152-153
+foii1241-2-3-1,,foii1241-2,3,i-gi,i-gi,,‘middle finger’,Franklin2001,,false,,,pp.152-153
+foii1241-2-4-1,,foii1241-2,4,tugu-bu,tugu-bu,,‘index finger’,Franklin2001,,false,,,pp.152-153
+foii1241-2-5-1,,foii1241-2,5,kaba,kaba,,‘thumb’,Franklin2001,,false,,,pp.152-153
+foii1241-2-6-1,,foii1241-2,6,tama,tama,,‘palm’,Franklin2001,,false,,,pp.152-153
+foii1241-2-7-1,,foii1241-2,7,bona-gi,bona-gi,,‘wrist’,Franklin2001,,false,,,pp.152-153
+foii1241-2-8-1,,foii1241-2,8,kwebo,kwebo,,‘forearm’,Franklin2001,,false,,,pp.152-153
+foii1241-2-9-1,,foii1241-2,9,karo-habo,karo-habo,,‘inside elbow’,Franklin2001,,false,,,pp.152-153
+foii1241-2-10-1,,foii1241-2,10,ame-ni,ame-ni,,‘upper middle arm’,Franklin2001,,false,,,pp.152-153
+foii1241-2-11-1,,foii1241-2,11,ki,ki,,‘shoulder’,Franklin2001,,false,,,pp.152-153
+foii1241-2-12-1,,foii1241-2,12,keno,keno,,‘collarbone area’,Franklin2001,,false,,,pp.152-153
+foii1241-2-12-2,,foii1241-2,12,heno-go,heno-go,,‘lower neck’,Franklin2001,,false,,,pp.152-153
+foii1241-2-13-1,,foii1241-2,13,fufu,fufu,,‘upper neck’,Franklin2001,,false,,,pp.152-153
+foii1241-2-14-1,,foii1241-2,14,kia,kia,,‘ear’,Franklin2001,,false,,,pp.152-153
+foii1241-2-15-1,,foii1241-2,15,bobo,bobo,,‘cheekbone’,Franklin2001,,false,,,pp.152-153
+foii1241-2-16-1,,foii1241-2,16,i,i,,‘eye’,Franklin2001,,false,,,pp.152-153
+foii1241-2-17-1,,foii1241-2,17,to,to,,‘side of nose’,Franklin2001,,false,,,pp.152-153
+foii1241-2-18-1,,foii1241-2,18,kisi,kisi,,‘ridge of nose’,Franklin2001,,false,,,pp.152-153
 folo1238-1-1-1,,folo1238-1,1,betą,betą,,,Anderson2010,,false,,,pp.44-45
 folo1238-1-1-2,,folo1238-1,1,kolosale,kolosale,,‘small finger’,Anderson2010,,false,,,pp.44-45
 folo1238-1-2-1,,folo1238-1,2,tamo,tamo,,,Anderson2010,,false,,,pp.44-45
@@ -7996,7 +8035,7 @@ fuyu1242-1-2-1,,fuyu1242-1,2,zuvalo,zuvalo,,,Lean1986Vol07,,false,,,p.42
 fuyu1242-1-3-1,,fuyu1242-1,3,zuvalo minda,zuvalo minda,,"(‘zuvalo nuida’, i.e. ‘two and another’)",Lean1986Vol07,,false,,,p.42
 fuyu1242-1-4-1,,fuyu1242-1,4,zuval ta zuval,zuval ta zuval,,2 + 2,Lean1986Vol07,,false,,,p.42
 fuyu1242-1-5-1,,fuyu1242-1,5,iza badenenga,iza badenenga,,‘iza’ = ‘hand’,Lean1986Vol07,,false,,,p.42
-fuyu1242-1-10-1,,fuyu1242-1,10,iza zuval,iza zuval,,‘hand stwo’,Lean1986Vol07,,false,,,p.42
+fuyu1242-1-10-1,,fuyu1242-1,10,iza zuval,iza zuval,,‘hands two’,Lean1986Vol07,,false,,,p.42
 gada1258-1-1-1,,gada1258-1,1,ˈtɑtɑ,ˈtɑtɑ,,,Anonymous1957,,false,,,pp.3-7
 gada1258-1-2-1,,gada1258-1,2,ɑdwɑ,ɑdwɑ,,,Anonymous1957,,false,,,pp.3-7
 gada1258-1-3-1,,gada1258-1,3,ˈtɑllo,ˈtɑllo,,,Anonymous1957,,false,,,pp.3-7
@@ -21061,6 +21100,118 @@ paul1238-1-200-1,,paul1238-1,200,tuni rua,tuni rua,,,Stresemann1918,,false,,,p.5
 paul1238-1-1000-1,,paul1238-1,1000,rihuni,rihuni,,,Stresemann1918,,false,,,p.59
 paul1238-1-1914-1,,paul1238-1,1914,rihuni 'tuni siwa hutu sa laiti fale,rihuni 'tuni siwa hutu sa laiti fale,,,Stresemann1918,,false,,,p.59
 paul1238-1-2000-1,,paul1238-1,2000,rihuni rua,rihuni rua,,,Stresemann1918,,false,,,p.59
+paul1238-2-1-1,,paul1238-2,1,Sa'è,Sa'è,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-2-1,,paul1238-2,2,Roe'à,Roe'à,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-3-1,,paul1238-2,3,Toroè,Toroè,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-4-1,,paul1238-2,4,Falè,Falè,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-5-1,,paul1238-2,5,Rīmà,Rīmà,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-6-1,,paul1238-2,6,Nōjo,Nōjo,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-7-1,,paul1238-2,7,Fītoe,Fītoe,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-8-1,,paul1238-2,8,Waroè,Waroè,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-9-1,,paul1238-2,9,Sīwà,Sīwà,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-10-1,,paul1238-2,10,Hoetoe sa'è,Hoetoe sa'è,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-11-1,,paul1238-2,11,Hoetoe sa'è la'īti,Hoetoe sa'è la'īti,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-12-1,,paul1238-2,12,Hoetoe sa'è la'īti roe'a,Hoetoe sa'è la'īti roe'a,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-13-1,,paul1238-2,13,Hoetoe sa'è la'īti tōroè,Hoetoe sa'è la'īti tōroè,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-14-1,,paul1238-2,14,Hoetoe sa'è la'īti falè,Hoetoe sa'è la'īti falè,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-15-1,,paul1238-2,15,Hoetoe sa'è la'īti rīma,Hoetoe sa'è la'īti rīma,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-16-1,,paul1238-2,16,Hoetoe sa'è la'īti nōjo,Hoetoe sa'è la'īti nōjo,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-17-1,,paul1238-2,17,Hoetoe sa'è la'īti fītoè,Hoetoe sa'è la'īti fītoè,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-18-1,,paul1238-2,18,Hoetoe sa'è la'īti waroè,Hoetoe sa'è la'īti waroè,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-19-1,,paul1238-2,19,Hoetoe sa'è la'īti sīwa,Hoetoe sa'è la'īti sīwa,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-20-1,,paul1238-2,20,Hoetoe roe'à,Hoetoe roe'à,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-21-1,,paul1238-2,21,Hoetoe roe'à La'īti,Hoetoe roe'à La'īti,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-25-1,,paul1238-2,25,Hoetoe sa'è la'īti rima,Hoetoe sa'è la'īti rima,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-30-1,,paul1238-2,30,Hoetoe toroe,Hoetoe toroe,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-40-1,,paul1238-2,40,Hoetoe falè,Hoetoe falè,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-50-1,,paul1238-2,50,Hoetoe rima,Hoetoe rima,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-60-1,,paul1238-2,60,Hoetoe nōjo,Hoetoe nōjo,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-100-1,,paul1238-2,100,Oetoeni,Oetoeni,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-1000-1,,paul1238-2,1000,Rihoeni,Rihoeni,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-2-10000-1,,paul1238-2,10000,Rihoeni laini hoetoe sa'è,Rihoeni laini hoetoe sa'è,,,Stokhof1981Vol3.2,,false,,,p.92
+paul1238-3-1-1,,paul1238-3,1,Sa'è,Sa'è,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-2-1,,paul1238-3,2,Roe'à,Roe'à,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-3-1,,paul1238-3,3,Toroè,Toroè,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-4-1,,paul1238-3,4,Falè,Falè,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-5-1,,paul1238-3,5,Rīmà,Rīmà,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-6-1,,paul1238-3,6,Nojo,Nojo,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-7-1,,paul1238-3,7,Fitoe,Fitoe,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-8-1,,paul1238-3,8,Waroè,Waroè,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-9-1,,paul1238-3,9,Sīwà,Sīwà,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-10-1,,paul1238-3,10,Hoetoe sa'è,Hoetoe sa'è,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-11-1,,paul1238-3,11,Hoetoe sa'è laiti,Hoetoe sa'è laiti,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-12-1,,paul1238-3,12,Hoetoe sa'è laiti roe'a,Hoetoe sa'è laiti roe'a,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-13-1,,paul1238-3,13,Hoetoe sa'è laiti toroe,Hoetoe sa'è laiti toroe,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-14-1,,paul1238-3,14,Hoetoe sa'è laiti falè,Hoetoe sa'è laiti falè,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-15-1,,paul1238-3,15,Hoetoe sa'è laiti rīmà,Hoetoe sa'è laiti rīmà,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-16-1,,paul1238-3,16,Hoetoe sa'è laiti nojo,Hoetoe sa'è laiti nojo,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-17-1,,paul1238-3,17,Hoetoe sa'è laiti fitoe,Hoetoe sa'è laiti fitoe,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-18-1,,paul1238-3,18,Hoetoe sa'è laiti waroè,Hoetoe sa'è laiti waroè,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-19-1,,paul1238-3,19,Hoetoe sa'è laiti sīwa,Hoetoe sa'è laiti sīwa,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-20-1,,paul1238-3,20,Hoetoe roe'à,Hoetoe roe'à,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-21-1,,paul1238-3,21,Hoetoe roea laiti,Hoetoe roea laiti,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-25-1,,paul1238-3,25,Hoetoe roea laiti rima,Hoetoe roea laiti rima,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-30-1,,paul1238-3,30,Hoetoe toroe,Hoetoe toroe,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-40-1,,paul1238-3,40,Hoetoe falè,Hoetoe falè,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-50-1,,paul1238-3,50,Hoetoe rima,Hoetoe rima,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-60-1,,paul1238-3,60,Hoetoe nojo,Hoetoe nojo,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-100-1,,paul1238-3,100,Oetoeni,Oetoeni,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-1000-1,,paul1238-3,1000,Rihoeni,Rihoeni,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-3-10000-1,,paul1238-3,10000,Rihoeni laini hoetoe sa'è,Rihoeni laini hoetoe sa'è,,,Stokhof1981Vol3.2,,false,,,p.114
+paul1238-4-1-1,,paul1238-4,1,saě,saě,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-2-1,,paul1238-4,2,roea,roea,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-3-1,,paul1238-4,3,taroe,taroe,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-3-2,,paul1238-4,3,tèlo̱e,tèlo̱e,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-4-1,,paul1238-4,4,fale,fale,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-5-1,,paul1238-4,5,rīma,rīma,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-6-1,,paul1238-4,6,nojo,nojo,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-7-1,,paul1238-4,7,fīto̱e,fīto̱e,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-8-1,,paul1238-4,8,waroe,waroe,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-9-1,,paul1238-4,9,siwa,siwa,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-10-1,,paul1238-4,10,hoetoe-saě,hoetoe-saě,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-11-1,,paul1238-4,11,hoetoe-saě laī saě,hoetoe-saě laī saě,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-11-2,,paul1238-4,11,hoetoe-saě laītī,hoetoe-saě laītī,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-12-1,,paul1238-4,12,hoetoe-saě laī roea,hoetoe-saě laī roea,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-13-1,,paul1238-4,13,hoetoe-saě laī tèloe,hoetoe-saě laī tèloe,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-13-2,,paul1238-4,13,hoetoe-saě laī toroe,hoetoe-saě laī toroe,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-18-1,,paul1238-4,18,hoetoe-saě laī waroe,hoetoe-saě laī waroe,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-19-1,,paul1238-4,19,hoetoe-saě laī siwa,hoetoe-saě laī siwa,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-20-1,,paul1238-4,20,hoetoe-roea,hoetoe-roea,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-21-1,,paul1238-4,21,hoetoe-roea laī-saě,hoetoe-roea laī-saě,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-25-1,,paul1238-4,25,hoetoe-roea laī-rīma,hoetoe-roea laī-rīma,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-30-1,,paul1238-4,30,hoetoe-toroe,hoetoe-toroe,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-30-2,,paul1238-4,30,hoetoe-tèloe,hoetoe-tèloe,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-40-1,,paul1238-4,40,hoetoe fale,hoetoe fale,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-50-1,,paul1238-4,50,hoetoe rima,hoetoe rima,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-60-1,,paul1238-4,60,hoetoe nojo,hoetoe nojo,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-100-1,,paul1238-4,100,oetoenī,oetoenī,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-1000-1,,paul1238-4,1000,rīhoenī,rīhoenī,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-4-10000-1,,paul1238-4,10000,rīhoe-hoetoe-saě,rīhoe-hoetoe-saě,,,Stokhof1981Vol3.2,,false,,,pp.136-137
+paul1238-5-1-1,,paul1238-5,1,sae,sae,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-2-1,,paul1238-5,2,roea,roea,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-3-1,,paul1238-5,3,toroe,toroe,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-4-1,,paul1238-5,4,fale,fale,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-5-1,,paul1238-5,5,rima,rima,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-6-1,,paul1238-5,6,nojo,nojo,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-7-1,,paul1238-5,7,fitoe,fitoe,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-8-1,,paul1238-5,8,waroe,waroe,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-9-1,,paul1238-5,9,siwa,siwa,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-10-1,,paul1238-5,10,hoetoe-sae,hoetoe-sae,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-11-1,,paul1238-5,11,hoetoe-sae lai-sae laiti,hoetoe-sae lai-sae laiti,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-12-1,,paul1238-5,12,hoetoe-sae lai roea,hoetoe-sae lai roea,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-13-1,,paul1238-5,13,hoetoe-sae lai (toroe),hoetoe-sae lai (toroe),,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-18-1,,paul1238-5,18,hoetoe-sae lai waroe,hoetoe-sae lai waroe,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-19-1,,paul1238-5,19,hoetoe-sae lai siwa,hoetoe-sae lai siwa,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-20-1,,paul1238-5,20,hoetoe-roea,hoetoe-roea,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-21-1,,paul1238-5,21,hoetoe-roea lai sae(laiti),hoetoe-roea lai sae(laiti),,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-25-1,,paul1238-5,25,hoetoe-roea lai-rima,hoetoe-roea lai-rima,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-30-1,,paul1238-5,30,hoetoe toroe,hoetoe toroe,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-40-1,,paul1238-5,40,hoetoe fale,hoetoe fale,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-50-1,,paul1238-5,50,hoetoe rima,hoetoe rima,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-60-1,,paul1238-5,60,hoetoe nojo,hoetoe nojo,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-100-1,,paul1238-5,100,oetoeni,oetoeni,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-1000-1,,paul1238-5,1000,rihoeni,rihoeni,,,Stokhof1981Vol3.2,,false,,,pp.153-154
+paul1238-5-10000-1,,paul1238-5,10000,rihoe hoetoe sae,rihoe hoetoe sae,,,Stokhof1981Vol3.2,,false,,,pp.153-154
 pauw1243-1-1-1,,pauw1243-1,1,pa-sari,pa-sari,,,Ray1912,,false,,,pp.340-341
 pauw1243-1-2-1,,pauw1243-1,2,pa-ri,pa-ri,,,Ray1912,,false,,,pp.340-341
 pauw1243-1-3-1,,pauw1243-1,3,pa-rosi,pa-rosi,,,Ray1912,,false,,,pp.340-341
@@ -21073,6 +21224,22 @@ pauw1243-2-2-1,,pauw1243-2,2,kaiamba,kaiamba,,,Galis1955,,false,,,p.142
 pauw1243-2-3-1,,pauw1243-2,3,bimessi,bimessi,,,Galis1955,,false,,,p.142
 pauw1243-2-4-1,,pauw1243-2,4,bimengsi,bimengsi,,,Galis1955,,false,,,p.142
 pauw1243-2-5-1,,pauw1243-2,5,boangsi,boangsi,,,Galis1955,,false,,,p.142
+pauw1243-3-1-1,,pauw1243-3,1,bĕse̱rrie,bĕse̱rrie,,,Stroeve1911,,false,,,p.28
+pauw1243-3-2-1,,pauw1243-3,2,kāja̱mbā,kāja̱mbā,,,Stroeve1911,,false,,,p.28
+pauw1243-3-3-1,,pauw1243-3,3,biejāg̱u̱ssie,biejāg̱u̱ssie,,,Stroeve1911,,false,,,p.28
+pauw1243-3-4-1,,pauw1243-3,4,biejāga̱ssie,biejāga̱ssie,,,Stroeve1911,,false,,,p.28
+pauw1243-3-5-1,,pauw1243-3,5,bĕri̱e̱ms,bĕri̱e̱ms,,,Stroeve1911,,false,,,p.28
+pauw1243-3-6-1,,pauw1243-3,6,bĕō̱nims,bĕō̱nims,,,Stroeve1911,,false,,,p.28
+pauw1243-3-7-1,,pauw1243-3,7,riem mangga̱rie,riem mangga̱rie,,,Stroeve1911,,false,,,p.28
+pauw1243-3-8-1,,pauw1243-3,8,jimbā gāg̱u̱ssie,jimbā gāg̱u̱ssie,,,Stroeve1911,,false,,,p.28
+pauw1243-3-9-1,,pauw1243-3,9,bĕsiera̱h,bĕsiera̱h,,,Stroeve1911,,false,,,p.28
+pauw1243-3-10-1,,pauw1243-3,10,tā̱u̱nsie,tā̱u̱nsie,,,Stroeve1911,,false,,,p.28
+pauw1243-3-20-1,,pauw1243-3,20,āsu̱mbjē,āsu̱mbjē,,,Stroeve1911,,false,,,p.28
+pauw1243-4-1-1,,pauw1243-4,1,oschénu,oschénu,,,Moszkowski1913,,false,,,p.258
+pauw1243-4-2-1,,pauw1243-4,2,kaiámba,kaiámba,,,Moszkowski1913,,false,,,p.258
+pauw1243-4-3-1,,pauw1243-4,3,biméssi,biméssi,,,Moszkowski1913,,false,,,p.258
+pauw1243-4-4-1,,pauw1243-4,4,biméngsi,biméngsi,,,Moszkowski1913,,false,,,p.258
+pauw1243-4-5-1,,pauw1243-4,5,baóngsi,baóngsi,,base-five system,Moszkowski1913,,false,,,p.258
 pawa1255-1-1-1,,pawa1255-1,1,Pea-mi,Pea-mi,,,Brown1921Aurama,,false,,,p.124
 pawa1255-1-2-1,,pawa1255-1,2,Na-au,Na-au,,,Brown1921Aurama,,false,,,p.124
 pawa1255-1-3-1,,pawa1255-1,3,Na-a-uara paiara,Na-a-uara paiara,,,Brown1921Aurama,,false,,,p.124
@@ -21498,7 +21665,8 @@ puyu1239-1-6-1,,puyu1239-1,6,ənəm,ənəm,,,Arnaud1998,,false,,,pp.863-878 [wor
 puyu1239-1-7-1,,puyu1239-1,7,pitu,pitu,,,Arnaud1998,,false,,,pp.863-878 [word list item numbers]
 puyu1239-1-8-1,,puyu1239-1,8,waɭu,waɭu,,,Arnaud1998,,false,,,pp.863-878 [word list item numbers]
 puyu1239-1-9-1,,puyu1239-1,9,siwa,siwa,,,Arnaud1998,,false,,,pp.863-878 [word list item numbers]
-puyu1239-1-10-1,,puyu1239-1,10,puɭu ou mekʈep,puɭu ou mekʈep,,,Arnaud1998,,false,,,pp.863-878 [word list item numbers]
+puyu1239-1-10-1,,puyu1239-1,10,puɭu,puɭu,,,Arnaud1998,,false,,,pp.863-878 [word list item numbers]
+puyu1239-1-10-2,,puyu1239-1,10,mekʈep,mekʈep,,,Arnaud1998,,false,,,pp.863-878 [word list item numbers]
 puyu1239-1-11-1,,puyu1239-1,11,məkʈəp misama saya,məkʈəp misama saya,,,Arnaud1998,,false,,,pp.863-878 [word list item numbers]
 puyu1239-1-12-1,,puyu1239-1,12,məkʈəp misama ɖuaya,məkʈəp misama ɖuaya,,,Arnaud1998,,false,,,pp.863-878 [word list item numbers]
 puyu1239-1-20-1,,puyu1239-1,20,maka petaʔan,maka petaʔan,,,Arnaud1998,,false,,,pp.863-878 [word list item numbers]
@@ -25923,6 +26091,20 @@ taut1234-1-8-1,,taut1234-1,8,walu,walu,,,Thiessen1980,,false,,,pp.72-78
 taut1234-1-9-1,,taut1234-1,9,siam,siam,,,Thiessen1980,,false,,,pp.72-78
 taut1234-1-10-1,,taut1234-1,10,puluq,puluq,,,Thiessen1980,,false,,,pp.72-78
 taut1234-1-100-1,,taut1234-1,100,ɡatus,ɡatus,,,Thiessen1980,,false,,,pp.72-78
+taul1251-2-1-1,,taul1251-2,1,tangata,tangata,,,Futscher1959,,false,,,p.31
+taul1251-2-1-2,,taul1251-2,1,tangate,tangate,,,Futscher1959,,false,,,p.31
+taul1251-2-1-3,,taul1251-2,1,tangavon,tangavon,,,Futscher1959,,false,,,p.31
+taul1251-2-2-1,,taul1251-2,2,mukom,mukom,,cf. ip in the dual,Futscher1959,,false,,,p.31
+taul1251-2-2-2,,taul1251-2,2,mulangap,mulangap,,,Futscher1959,,false,,,p.31
+taul1251-2-3-1,,taul1251-2,3,komagrun,komagrun,,,Futscher1959,,false,,,p.31
+taul1251-2-4-1,,taul1251-2,4,bilagataria,bilagataria,,,Futscher1959,,false,,,p.31
+taul1251-2-5-1,,taul1251-2,5,limbeti,limbeti,,,Futscher1959,,false,,,p.31
+taul1251-2-6-1,,taul1251-2,6,limbeti ko tangata,limbeti ko tangata,,5 and 1; cf. nirəita,Futscher1959,,false,,,p.31
+taul1251-2-7-1,,taul1251-2,7,limbeti ko mukom,limbeti ko mukom,,5 and 2,Futscher1959,,false,,,p.31
+taul1251-2-8-1,,taul1251-2,8,limbeti ko magrun,limbeti ko magrun,,5 and 3,Futscher1959,,false,,,p.31
+taul1251-2-9-1,,taul1251-2,9,limbeti ko bilagataria,limbeti ko bilagataria,,5 and 4,Futscher1959,,false,,,p.31
+taul1251-2-10-1,,taul1251-2,10,indonok pakatam,indonok pakatam,,"whole hand (indonok hand, pakatam whole)",Futscher1959,,false,,,p.31
+taul1251-2-20-1,,taul1251-2,20,molimoli dakandam,molimoli dakandam,,whole person,Futscher1959,,false,,,p.31
 tauy1241-1-1-1,,tauy1241-1,1,afanaʔamo,afanaʔamo,,,LeanMadang,,false,,,p.58
 tauy1241-1-1-2,,tauy1241-1,1,afana,afana,,,LeanMadang,,false,,,p.58
 tauy1241-1-2-1,,tauy1241-1,2,awi,awi,,,LeanMadang,,false,,,p.58
@@ -26155,13 +26337,15 @@ tesa1236-1-7-1,,tesa1236-1,7,fito,fito,,,Deschamps1936,,false,,,p.106
 tesa1236-1-8-1,,tesa1236-1,8,valo,valo,,,Deschamps1936,,false,,,p.106
 tesa1236-1-9-1,,tesa1236-1,9,sivi,sivi,,,Deschamps1936,,false,,,p.106
 tesa1236-1-10-1,,tesa1236-1,10,folo,folo,,,Deschamps1936,,false,,,p.106
-tesa1236-1-11-1,,tesa1236-1,11,raik’ ambin’ ni folo ou folo raik’ ambi,raik’ ambin’ ni folo ou folo raik’ ambi,,,Deschamps1936,,false,,,p.106
+tesa1236-1-11-1,,tesa1236-1,11,raik’ ambin’ ni folo,raik’ ambin’ ni folo,,,Deschamps1936,,false,,,p.106
+tesa1236-1-11-2,,tesa1236-1,11,folo raik’ ambi,folo raik’ ambi,,,Deschamps1936,,false,,,p.106
 tesa1236-1-12-1,,tesa1236-1,12,roi ambin’ ni folo,roi ambin’ ni folo,,,Deschamps1936,,false,,,p.106
 tesa1236-1-30-1,,tesa1236-1,30,telopolo,telopolo,,,Deschamps1936,,false,,,p.106
 tesa1236-1-90-1,,tesa1236-1,90,sivapolo,sivapolo,,,Deschamps1936,,false,,,p.106
 tesa1236-1-100-1,,tesa1236-1,100,zato,zato,,,Deschamps1936,,false,,,p.106
 tesa1236-1-1000-1,,tesa1236-1,1000,arivo,arivo,,,Deschamps1936,,false,,,p.106
-tesa1236-1-1935-1,,tesa1236-1,1935,dimi ambi telo polo si sivazato si arivo ou arivo ambi sivazato si telopolo dim’ ambi,dimi ambi telo polo si sivazato si arivo ou arivo ambi sivazato si telopolo dim’ ambi,,,Deschamps1936,,false,,,p.106
+tesa1236-1-1935-1,,tesa1236-1,1935,dimi ambi telo polo si sivazato si arivo,dimi ambi telo polo si sivazato si arivo,,,Deschamps1936,,false,,,p.106
+tesa1236-1-1935-2,,tesa1236-1,1935,arivo ambi sivazato si telopolo dim’ ambi,arivo ambi sivazato si telopolo dim’ ambi,,,Deschamps1936,,false,,,p.106
 tetu1246-1-1-1,,tetu1246-1,1,ida,ida,,,Stokhof1983Vol6,,false,,,p.96
 tetu1246-1-2-1,,tetu1246-1,2,roewa,roewa,,,Stokhof1983Vol6,,false,,,p.96
 tetu1246-1-3-1,,tetu1246-1,3,toloe,toloe,,,Stokhof1983Vol6,,false,,,p.96
@@ -28601,7 +28785,7 @@ want1252-3-11-1,,want1252-3,11,katau kuut musa-at kepine gwendu-at,katau kuut mu
 want1252-3-20-1,,want1252-3,20,aminu tapatutane katakyaat kepinaat,aminu tapatutane katakyaat kepinaat,,‘person one his hands-and his feet (legs)-and’,LeanMorobe,,false,,,p.83
 want1252-4-1-1,,want1252-4,1,tapatu,tapatu,,,LeanMorobe,,false,,,p.83
 want1252-4-2-1,,want1252-4,2,tapaya,tapaya,,,LeanMorobe,,false,,,p.83
-want1252-4-3-1,,want1252-4,3,tapaya tapatu,tapaya tapatu,,3 + 1,LeanMorobe,,false,,,p.83
+want1252-4-3-1,,want1252-4,3,tapaya tapatu,tapaya tapatu,,2 + 1,LeanMorobe,,false,,,p.83
 want1252-4-4-1,,want1252-4,4,tapaya tapaya,tapaya tapaya,,2 + 2,LeanMorobe,,false,,,p.83
 want1252-4-5-1,,want1252-4,5,kat musa,kat musa,,‘kat-’ = ‘hand’,LeanMorobe,,false,,,p.83
 want1252-4-8-1,,want1252-4,8,kat musa kautdu tapaya tapatu,kat musa kautdu tapaya tapatu,,,LeanMorobe,,false,,,p.83
@@ -28623,6 +28807,24 @@ wara1294-1-3-1,,wara1294-1,3,yetho,yetho,,,Ray1912,,false,,,pp.340-341
 wara1294-1-4-1,,wara1294-1,4,asar,asar,,,Ray1912,,false,,,pp.340-341
 wara1294-1-5-1,,wara1294-1,5,tambothoi,tambothoi,,,Ray1912,,false,,,pp.340-341
 wara1294-1-6-1,,wara1294-1,6,nimbo,nimbo,,,Ray1912,,false,,,pp.340-341
+wara1294-2-1-1,,wara1294-2,1,näbi,näbi,,"(restricted, ritualised)",Doehler2018,,false,,,p.94
+wara1294-2-2-1,,wara1294-2,2,eda,eda,,(restricted),Doehler2018,,false,,,p.94
+wara1294-2-2-2,,wara1294-2,2,yda,yda,,(ritualised),Doehler2018,,false,,,p.94
+wara1294-2-3-1,,wara1294-2,3,etha,etha,,(restricted),Doehler2018,,false,,,p.94
+wara1294-2-3-2,,wara1294-2,3,ytho,ytho,,(ritualised),Doehler2018,,false,,,p.94
+wara1294-2-4-1,,wara1294-2,4,asar,asar,,"(restricted, ritualised)",Doehler2018,,false,,,p.94
+wara1294-2-5-1,,wara1294-2,5,tabuthui,tabuthui,,"(restricted, ritualised)",Doehler2018,,false,,,p.94
+wara1294-2-5-2,,wara1294-2,5,tabru,tabru,,(restricted),Doehler2018,,false,,,p.94
+wara1294-2-6-1,,wara1294-2,6,tabuthui nibo,tabuthui nibo,,(restricted),Doehler2018,,false,,,p.94
+wara1294-2-6-2,,wara1294-2,6,nibo,nibo,,"(restricted, ritualised)",Doehler2018,,false,,,p.94
+wara1294-2-36-1,,wara1294-2,36,fta,fta,,6² (ritualised),Doehler2018,,false,,,p.94
+wara1294-2-50-1,,wara1294-2,50,näbi fta a eda nibo a eda,näbi fta a eda nibo a eda,,‘1 times 36 and 2 times 6 and 2’,Doehler2018,,false,,,p.94
+wara1294-2-72-1,,wara1294-2,72,eda fta,eda fta,,‘2 36’ (or ‘2 6²’),Doehler2018,,false,,,p.94
+wara1294-2-73-1,,wara1294-2,73,eda fta a näbi,eda fta a näbi,,‘2 36 and 1’,Doehler2018,,false,,,p.94
+wara1294-2-216-1,,wara1294-2,216,taruba,taruba,,6³ (ritualised),Doehler2018,,false,,,p.94
+wara1294-2-1296-1,,wara1294-2,1296,damno,damno,,6⁴ (ritualised),Doehler2018,,false,,,p.94
+wara1294-2-7776-1,,wara1294-2,7776,wärämäkä,wärämäkä,,6⁵ (ritualised),Doehler2018,,false,,,p.94
+wara1294-2-46656-1,,wara1294-2,46656,wi,wi,,6⁶ (ritualised),Doehler2018,,false,,,p.94
 wara1299-1-1-1,,wara1299-1,1,sɑróʔ,sɑróʔ,,,Nickell1978,,false,,,pp.3-7
 wara1299-1-2-1,,wara1299-1,2,dúwɑ,dúwɑ,,,Nickell1978,,false,,,pp.3-7
 wara1299-1-3-1,,wara1299-1,3,túlo,túlo,,,Nickell1978,,false,,,pp.3-7
@@ -28941,9 +29143,9 @@ wela1235-1-4-1,,wela1235-1,4,hoat,hoat,,,Edwards2019,,false,,,p.55
 wela1235-1-5-1,,wela1235-1,5,lima,lima,,,Edwards2019,,false,,,p.55
 wela1235-1-6-1,,wela1235-1,6,inan,inan,,,Edwards2019,,false,,,p.55
 wela1235-1-6-2,,wela1235-1,6,inam,inam,,,Edwards2019,,false,,,p.55
-wela1235-1-7-1,,wela1235-1,7,walu,walu,,,Edwards2019,,false,,,p.55
-wela1235-1-8-1,,wela1235-1,8,siwi,siwi,,,Edwards2019,,false,,,p.55
-wela1235-1-9-1,,wela1235-1,9,sakulu,sakulu,,,Edwards2019,,false,,,p.55
+wela1235-1-7-1,,wela1235-1,7,hitu,hitu,,,Edwards2019,,false,,,p.55
+wela1235-1-8-1,,wela1235-1,8,walu,walu,,,Edwards2019,,false,,,p.55
+wela1235-1-9-1,,wela1235-1,9,siwi,siwi,,,Edwards2019,,false,,,p.55
 wela1235-1-10-1,,wela1235-1,10,sakulu,sakulu,,,Edwards2019,,false,,,p.55
 wela1235-1-20-1,,wela1235-1,20,rua kulu,rua kulu,,,Edwards2019,,false,,,p.55
 wela1235-1-100-1,,wela1235-1,100,atus isa,atus isa,,,Edwards2019,,false,,,p.55
@@ -29268,6 +29470,52 @@ west2600-7-7-1,,west2600-7,7,tepedingi,tepedingi,,,Teljeur1982,,false,,,pp.145-1
 west2600-7-8-1,,west2600-7,8,tukbange,tukbange,,,Teljeur1982,,false,,,pp.145-146
 west2600-7-9-1,,west2600-7,9,isiwe,isiwe,,,Teljeur1982,,false,,,pp.145-146
 west2600-7-10-1,,west2600-7,10,aunge,aunge,,,Teljeur1982,,false,,,pp.145-146
+west2600-8-1-1,,west2600-8,1,minyé,minyé,,numeral root,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-2-1,,west2600-8,2,edénɡ,edénɡ,,numeral root,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-2-2,,west2600-8,2,edé,edé,,numeral root,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-2-3,,west2600-8,2,je,je,,numeral root,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-3-1,,west2600-8,3,unɡe,unɡe,,numeral root,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-4-1,,west2600-8,4,fati,fati,,numeral root; clearly of Austronesian origin,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-5-1,,west2600-8,5,foy,foy,,numeral root,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-6-1,,west2600-8,6,dam,dam,,numeral root; clearly of Austronesian origin,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-7-1,,west2600-8,7,tepedinɡi,tepedinɡi,,numeral root,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-8-1,,west2600-8,8,tukbanɡe,tukbanɡe,,numeral root,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-9-1,,west2600-8,9,siwe,siwe,,numeral root; clearly of Austronesian origin,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-1-2,,west2600-8,1,minyé,minyé,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-2-4,,west2600-8,2,medénɡ,medénɡ,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-3-2,,west2600-8,3,iunɡe,iunɡe,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-4-2,,west2600-8,4,ifati,ifati,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-5-2,,west2600-8,5,mafoy,mafoy,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-6-2,,west2600-8,6,idam,idam,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-7-2,,west2600-8,7,tepedinɡi,tepedinɡi,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-8-2,,west2600-8,8,tukbanɡe,tukbanɡe,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-9-2,,west2600-8,9,isiwe,isiwe,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-10-1,,west2600-8,10,ainyé,ainyé,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-11-1,,west2600-8,11,ainyé lo minyé,ainyé lo minyé,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-12-1,,west2600-8,12,ainyé lo medénɡ,ainyé lo medénɡ,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-20-1,,west2600-8,20,awedénɡ,awedénɡ,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-21-1,,west2600-8,21,awedénɡ lo minyé,awedénɡ lo minyé,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-30-1,,west2600-8,30,aweiunɡe,aweiunɡe,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-40-1,,west2600-8,40,aweifate,aweifate,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-100-1,,west2600-8,100,atus minyé,atus minyé,,used to count nouns of the Inanimate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-1-3,,west2600-8,1,meminyé,meminyé,,used to count nouns of the Animate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-2-5,,west2600-8,2,dimáede,dimáede,,used to count nouns of the Animate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-3-3,,west2600-8,3,dimaunɡe,dimaunɡe,,used to count nouns of the Animate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-4-3,,west2600-8,4,dimfati,dimfati,,used to count nouns of the Animate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-5-3,,west2600-8,5,dimfoy,dimfoy,,used to count nouns of the Animate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-6-3,,west2600-8,6,dimdam,dimdam,,used to count nouns of the Animate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-7-3,,west2600-8,7,ditepedinɡi,ditepedinɡi,,used to count nouns of the Animate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-8-3,,west2600-8,8,ditukbanɡe,ditukbanɡe,,used to count nouns of the Animate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-9-3,,west2600-8,9,dimsiwe,dimsiwe,,used to count nouns of the Animate Low class,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-1-4,,west2600-8,1,ɡominyé,ɡominyé,,used to count Animate High and Inanimate High nouns,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-2-6,,west2600-8,2,ɡomedénɡ,ɡomedénɡ,,used to count Animate High and Inanimate High nouns,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-3-4,,west2600-8,3,ɡoiunɡe,ɡoiunɡe,,used to count Animate High and Inanimate High nouns,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-4-4,,west2600-8,4,ɡoifati,ɡoifati,,used to count Animate High and Inanimate High nouns,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-5-4,,west2600-8,5,ɡomafoy,ɡomafoy,,used to count Animate High and Inanimate High nouns,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-6-4,,west2600-8,6,ɡoidam,ɡoidam,,used to count Animate High and Inanimate High nouns,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-7-4,,west2600-8,7,ɡotepedinɡi,ɡotepedinɡi,,used to count Animate High and Inanimate High nouns,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-8-4,,west2600-8,8,ɡotukbanɡe,ɡotukbanɡe,,used to count Animate High and Inanimate High nouns,Voorhoeve1982,,false,,,pp.20-21
+west2600-8-9-4,,west2600-8,9,ɡoisiwe,ɡoisiwe,,used to count Animate High and Inanimate High nouns,Voorhoeve1982,,false,,,pp.20-21
 wiar1238-1-1-1,,wiar1238-1,1,yaketale,yaketale,,,LeanEastSepik,,false,,,p.37
 wiar1238-1-2-1,,wiar1238-1,2,yipunem,yipunem,,,LeanEastSepik,,false,,,p.37
 wiar1238-1-2-2,,wiar1238-1,2,yipminem,yipminem,,,LeanEastSepik,,false,,,p.37
@@ -29848,6 +30096,29 @@ yaos1235-1-2-1,,yaos1235-1,2,jamuk,jamuk,,,Preston1984,,false,,,p.1
 yaos1235-1-3-1,,yaos1235-1,3,mamintep,mamintep,,,Preston1984,,false,,,p.1
 yaos1235-1-4-1,,yaos1235-1,4,eaktaka wapuk,eaktaka wapuk,,,Preston1984,,false,,,p.1
 yaos1235-1-5-1,,yaos1235-1,5,ban taka,ban taka,,,Preston1984,,false,,,p.1
+yaos1235-2-1-1,,yaos1235-2,1,taka,taka,,,Drabbe1963,,false,,,p.105
+yaos1235-2-1-2,,yaos1235-2,1,takape,takape,,,Drabbe1963,,false,,,p.105
+yaos1235-2-2-1,,yaos1235-2,2,(z)amnok,(z)amnok,,,Drabbe1963,,false,,,p.105
+yaos1235-2-3-1,,yaos1235-2,3,mbemintep,mbemintep,,,Drabbe1963,,false,,,p.105
+yaos1235-2-4-1,,yaos1235-2,4,eak taka mbaap,eak taka mbaap,,cf. Kawenak,Drabbe1963,,false,,,p.105
+yaos1235-2-5-1,,yaos1235-2,5,mban taka takas,mban taka takas,,cf. Kawenak,Drabbe1963,,false,,,p.105
+yaos1235-2-6-1,,yaos1235-2,6,poman mban taka,poman mban taka,,cf. Kawenak,Drabbe1963,,false,,,p.105
+yaos1235-2-7-1,,yaos1235-2,7,poman mban amnok,poman mban amnok,,cf. Kawenak,Drabbe1963,,false,,,p.105
+yaos1235-2-8-1,,yaos1235-2,8,poman mban mbemintep,poman mban mbemintep,,,Drabbe1963,,false,,,p.105
+yaos1235-2-8-2,,yaos1235-2,8,eak amnok mbaap,eak amnok mbaap,,cf. Kawenak,Drabbe1963,,false,,,p.105
+yaos1235-2-9-1,,yaos1235-2,9,poman mban eak taka mbaap,poman mban eak taka mbaap,,cf. Kawenak,Drabbe1963,,false,,,p.105
+yaos1235-2-10-1,,yaos1235-2,10,mban amnok takas,mban amnok takas,,cf. Kawenak,Drabbe1963,,false,,,p.105
+yaos1235-2-11-1,,yaos1235-2,11,mbaẹü mbitit taka,mbaẹü mbitit taka,,cf. Kawenak,Drabbe1963,,false,,,p.105
+yaos1235-2-12-1,,yaos1235-2,12,mbaẹü zamnok,mbaẹü zamnok,,cf. Kawenak,Drabbe1963,,false,,,p.105
+yaos1235-2-13-1,,yaos1235-2,13,mbaẹü mbemintep,mbaẹü mbemintep,,,Drabbe1963,,false,,,p.105
+yaos1235-2-14-1,,yaos1235-2,14,mbaẹü eak taka mbaap,mbaẹü eak taka mbaap,,cf. Kawenak,Drabbe1963,,false,,,p.105
+yaos1235-2-15-1,,yaos1235-2,15,poman mbaẹü takas,poman mbaẹü takas,,cf. Kawenak,Drabbe1963,,false,,,p.105
+yaos1235-2-16-1,,yaos1235-2,16,poman mbaẹü taka,poman mbaẹü taka,,cf. Kawenak,Drabbe1963,,false,,,p.105
+yaos1235-2-17-1,,yaos1235-2,17,poman mbaẹü zamnok,poman mbaẹü zamnok,,,Drabbe1963,,false,,,p.105
+yaos1235-2-18-1,,yaos1235-2,18,poman mbaẹü mbemintep,poman mbaẹü mbemintep,,,Drabbe1963,,false,,,p.105
+yaos1235-2-19-1,,yaos1235-2,19,poman mbaẹü eak taka mbaap,poman mbaẹü eak taka mbaap,,cf. Kawenak,Drabbe1963,,false,,,p.105
+yaos1235-2-20-1,,yaos1235-2,20,mbaẹü amnok takas,mbaẹü amnok takas,,cf. Kawenak,Drabbe1963,,false,,,p.105
+yaos1235-2-20-2,,yaos1235-2,20,"mban amnok am, mbaẹü zamnok am takas","mban amnok am, mbaẹü zamnok am takas",,cf. Kawenak,Drabbe1963,,false,,,p.105
 yaqa1246-1-1-1,,yaqa1246-1,1,diaqand,diaqand,,,Galis1955,,false,,,p.168
 yaqa1246-1-2-1,,yaqa1246-1,2,qajaqamaère,qajaqamaère,,,Galis1955,,false,,,p.168
 yaqa1246-1-3-1,,yaqa1246-1,3,amara-diaqand-amara-qajaqamaére ,amara-diaqand-amara-qajaqamaére ,,,Galis1955,,false,,,p.168
