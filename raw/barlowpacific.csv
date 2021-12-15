@@ -841,8 +841,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,oetoeno,,FALSE,Stokhof1981Vol3.2,p.32,,amah1245,Amahai: Seram (mentioned in JB 1939),amah1245-3
 1000,rihoeno,,FALSE,Stokhof1981Vol3.2,p.32,,amah1245,Amahai: Seram (mentioned in JB 1939),amah1245-3
 10000,rihoen hoetae,,FALSE,Stokhof1981Vol3.2,p.32,,amah1245,Amahai: Seram (mentioned in JB 1939),amah1245-3
-1,ɡɛsikʌka,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,amai1246,Amaimon,amai1246-1
-2,ɛlɛkapa,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,amai1246,Amaimon,amai1246-1
+1,ɡɛsikʌka,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,amai1246,Amaimon,amai1246-1
+2,ɛlɛkapa,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,amai1246,Amaimon,amai1246-1
 1,keɪka,,FALSE,Laycock1967C06,p.11,,amal1242,Amlo,amal1242-1
 2,kɪla,,FALSE,Laycock1967C06,p.11,,amal1242,Amlo,amal1242-1
 3,kikeika,,FALSE,Laycock1967C06,p.11,,amal1242,Amlo,amal1242-1
@@ -1080,9 +1080,9 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,iyet,,FALSE,LeanMadang,p.54,"2 CSQs. Villages: Amele, Sein.",amel1241,Amele,amel1241-1
 4,waloso,,FALSE,LeanMadang,p.54,"2 CSQs. Villages: Amele, Sein.",amel1241,Amele,amel1241-1
 5,ebenike meula,"‘eben’ = ‘hand, arm’",FALSE,LeanMadang,p.54,"2 CSQs. Villages: Amele, Sein.",amel1241,Amele,amel1241-1
-1,osol,,FALSE,Z'graggen1980Mabuso,p.92,,amel1241,Amele,amel1241-2
-1,leis,,FALSE,Z'graggen1980Mabuso,p.92,,amel1241,Amele,amel1241-2
-2,lɛis,,FALSE,Z'graggen1980Mabuso,p.92,,amel1241,Amele,amel1241-2
+1,osol,,FALSE,Zgraggen1980Mabuso,p.92,,amel1241,Amele,amel1241-2
+1,leis,,FALSE,Zgraggen1980Mabuso,p.92,,amel1241,Amele,amel1241-2
+2,lɛis,,FALSE,Zgraggen1980Mabuso,p.92,,amel1241,Amele,amel1241-2
 1,ambak,,FALSE,LeanSandaun,p.37,1 CSQ. Village: Sunambu.,amol1235,Aru,amol1235-1
 2,nantiyou,,FALSE,LeanSandaun,p.37,1 CSQ. Village: Sunambu.,amol1235,Aru,amol1235-1
 3,warin,,FALSE,LeanSandaun,p.37,1 CSQ. Village: Sunambu.,amol1235,Aru,amol1235-1
@@ -1119,8 +1119,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,kiyaA,,FALSE,Conrad1975,pp.21-24,,amto1250,Amto,amto1250-2
 3,kři:ya,,FALSE,Conrad1975,pp.21-24,,amto1250,Amto,amto1250-2
 4,kiyaᵽei,,FALSE,Conrad1975,pp.21-24,,amto1250,Amto,amto1250-2
-1,minsaka,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,anam1247,Pondoma,anam1247-1
-2,aiɡai,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,anam1247,Pondoma,anam1247-1
+1,minsaka,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,anam1247,Pondoma,anam1247-1
+2,aiɡai,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,anam1247,Pondoma,anam1247-1
 1,miza-,,FALSE,Ingram2001,pp.83-87,,anam1248,Anamuxra,anam1248-1
 2,ai-,requires a suffixed dual marker (-rai ~ -xai ~ -maxai),FALSE,Ingram2001,pp.83-87,,anam1248,Anamuxra,anam1248-1
 3,ai-(xai) maxi-,maxi- is not attested as an isolable form in other combinations,FALSE,Ingram2001,pp.83-87,,anam1248,Anamuxra,anam1248-1
@@ -1147,8 +1147,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,xubugr xubugr aigr aigr,,FALSE,Ingram2001,pp.83-87,,anam1248,Anamuxra,anam1248-1
 21,yaxubugr yaxubugr yaigr yaigr naxubugri mza-,"lit. my arm, my arm, my leg, my leg, on your arm, one",FALSE,Ingram2001,pp.83-87,,anam1248,Anamuxra,anam1248-1
 60,yaxubugr yaxubugr yaigr yaigr naxubugr naxubugr naigr naigr naxubugr naxubugr nigr nigr,"lit. my hand, my hand, my foot, my foot, your hand, your hand, your foot, your foot, her hand, her hand, her foot, her foot",FALSE,Ingram2001,pp.83-87,,anam1248,Anamuxra,anam1248-1
-1,mindaka,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,anam1248,Ikundun,anam1248-2
-2,aiɡai,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,anam1248,Ikundun,anam1248-2
+1,mindaka,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,anam1248,Ikundun,anam1248-2
+2,aiɡai,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,anam1248,Ikundun,anam1248-2
 1,kɑntɑ,,FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Imboin-Namata villages),anda1283-1
 2,kɑmin,,FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Imboin-Namata villages),anda1283-1
 3,kɑmɑin,,FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Imboin-Namata villages),anda1283-1
@@ -1557,8 +1557,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,ralub,,FALSE,LeanMadang,p.62,SIL Word List (1975). Village: Bogadjim.,anja1238,Bom,anja1238-2
 4,rolre,,FALSE,LeanMadang,p.62,SIL Word List (1975). Village: Bogadjim.,anja1238,Bom,anja1238-2
 5,bang ani kumbur,"‘bang’ = ‘hand, arm’",FALSE,LeanMadang,p.62,SIL Word List (1975). Village: Bogadjim.,anja1238,Bom,anja1238-2
-1,ɡuǰai,,FALSE,Z'graggen1980RaiCoast,p.92,,anja1238,Bom,anja1238-3
-2,ayɛl,,FALSE,Z'graggen1980RaiCoast,p.92,,anja1238,Bom,anja1238-3
+1,ɡuǰai,,FALSE,Zgraggen1980RaiCoast,p.92,,anja1238,Bom,anja1238-3
+2,ayɛl,,FALSE,Zgraggen1980RaiCoast,p.92,,anja1238,Bom,anja1238-3
 1,wona,,FALSE,Lean1986Vol11,p.39,"SIL Word List, R. Speece (1980). Swanson River Valley.",anka1246,Ankave,anka1246-1
 2,wauʔ,,FALSE,Lean1986Vol11,p.39,"SIL Word List, R. Speece (1980). Swanson River Valley.",anka1246,Ankave,anka1246-1
 3,wau'wo,2 + 1,FALSE,Lean1986Vol11,p.39,"SIL Word List, R. Speece (1980). Swanson River Valley.",anka1246,Ankave,anka1246-1
@@ -1708,8 +1708,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,elmo miok,elmo + 3,FALSE,LeanWestNewBritain,p.24,1 IMP. Village: Turuk.,apal1255,Palik,apal1255-1
 9,elmo peng,elmo + 4,FALSE,LeanWestNewBritain,p.24,1 IMP. Village: Turuk.,apal1255,Palik,apal1255-1
 10,sungul,,FALSE,LeanWestNewBritain,p.24,1 IMP. Village: Turuk.,apal1255,Palik,apal1255-1
-1,pʌːmbi,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,apal1256,Emerum,apal1256-1
-2,akitʌ,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,apal1256,Emerum,apal1256-1
+1,pʌːmbi,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,apal1256,Emerum,apal1256-1
+2,akitʌ,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,apal1256,Emerum,apal1256-1
 1,wa,(indefinite marker?),FALSE,Barlow2021,p.87,,apma1241,Ap Ma (Yamen village),apma1241-1
 1,mba,,FALSE,Barlow2021,p.87,,apma1241,Ap Ma (Yamen village),apma1241-1
 1,mboa,(< mba-wa ‘a/one one’?),FALSE,Barlow2021,p.87,,apma1241,Ap Ma (Yamen village),apma1241-1
@@ -1809,8 +1809,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,ogi-tobuti,,FALSE,Galis1955,p.135,,aran1237,Jaban-Arandai,aran1237-1
 30,aroi-tobuti,,FALSE,Galis1955,p.135,,aran1237,Jaban-Arandai,aran1237-1
 40,idati-tobuti,,FALSE,Galis1955,p.135,,aran1237,Jaban-Arandai,aran1237-1
-1,deikɛ,,FALSE,Z'graggen1980RaiCoast,p.92,,araw1272,Arawum,araw1272-1
-2,aliki,,FALSE,Z'graggen1980RaiCoast,p.92,,araw1272,Arawum,araw1272-1
+1,deikɛ,,FALSE,Zgraggen1980RaiCoast,p.92,,araw1272,Arawum,araw1272-1
+2,aliki,,FALSE,Zgraggen1980RaiCoast,p.92,,araw1272,Arawum,araw1272-1
 1,kesana,,FALSE,Lean1986Vol06,p.31,"7 CSQs. Villages: Ginada (2), Mukawa (2), Bogaboga, Irikaba (2).",aree1239,Mukawa,aree1239-1
 2,ruamo,,FALSE,Lean1986Vol06,p.31,"7 CSQs. Villages: Ginada (2), Mukawa (2), Bogaboga, Irikaba (2).",aree1239,Mukawa,aree1239-1
 3,tonu,,FALSE,Lean1986Vol06,p.31,"7 CSQs. Villages: Ginada (2), Mukawa (2), Bogaboga, Irikaba (2).",aree1239,Mukawa,aree1239-1
@@ -2078,8 +2078,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,utɨmɑr βɑm utɨmɑr utɨmɑr βɑm utɨmɑr,"[written as <(or uβu, uβu, I think)>]",FALSE,Daniels2014Item335,p.33,,atem1241,Mand,atem1241-2
 10,ndasɨm kɨβɑm ndasɨm kɨβɑm,"kɨβɑm = (an)other, other side [ndasɨm = ‘leg’, p.12--should this be 20?]",FALSE,Daniels2014Item335,p.33,,atem1241,Mand,atem1241-2
 20,ŋɑñ kɨβɑm kɨβɑm,(seems unusual to some of ’em),FALSE,Daniels2014Item335,p.33,,atem1241,Mand,atem1241-2
-1,waman,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,atem1241,Atemple,atem1241-3
-2,otumʌr,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,atem1241,Atemple,atem1241-3
+1,waman,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,atem1241,Atemple,atem1241-3
+2,otumʌr,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,atem1241,Atemple,atem1241-3
 1,pirɐxɐɸ,,FALSE,Sidabutar2002,p.5,,atoh1238,Atohaim (Yagamit village),atoh1238-1
 2,kɐβus tʃɔːpm̩,,FALSE,Sidabutar2002,p.5,,atoh1238,Atohaim (Yagamit village),atoh1238-1
 3,kɐβus pirɐxɐp,,FALSE,Sidabutar2002,p.5,,atoh1238,Atohaim (Yagamit village),atoh1238-1
@@ -2444,8 +2444,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,didaràsobe,,FALSE,Galis1955,p.142,,bagu1251,Kamboi-ramboi,bagu1251-1
 4,manamare,,FALSE,Galis1955,p.142,,bagu1251,Kamboi-ramboi,bagu1251-1
 5,tagarin,,FALSE,Galis1955,p.142,,bagu1251,Kamboi-ramboi,bagu1251-1
-1,nunuɡa,,FALSE,Z'graggen1980Mabuso,p.92,,bagu1252,Bagupi,bagu1252-1
-2,barʌrtɛk,,FALSE,Z'graggen1980Mabuso,p.92,,bagu1252,Bagupi,bagu1252-1
+1,nunuɡa,,FALSE,Zgraggen1980Mabuso,p.92,,bagu1252,Bagupi,bagu1252-1
+2,barʌrtɛk,,FALSE,Zgraggen1980Mabuso,p.92,,bagu1252,Bagupi,bagu1252-1
 1,kujogono,,FALSE,Galis1955,p.135,,baha1258,Patimuni,baha1258-1
 2,kureik,,FALSE,Galis1955,p.135,,baha1258,Patimuni,baha1258-1
 2,kuwareik,,FALSE,Galis1955,p.135,,baha1258,Patimuni,baha1258-1
@@ -2514,8 +2514,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 16,mɑliƀɑ,navel [?],FALSE,Laycock1970D15,p.2090,,baib1251,Baibai,baib1251-2
 17,ɑᵽɑ mɑliƀɑ,,FALSE,Laycock1970D15,p.2090,,baib1251,Baibai,baib1251-2
 18,suɡɑ́ŋkɔmwei,little finger,FALSE,Laycock1970D15,p.2090,,baib1251,Baibai,baib1251-2
-1,oiraf,,FALSE,Z'graggen1980Mabuso,p.92,,baim1245,Baimak,baim1245-1
-2,aːrit,,FALSE,Z'graggen1980Mabuso,p.92,,baim1245,Baimak,baim1245-1
+1,oiraf,,FALSE,Zgraggen1980Mabuso,p.92,,baim1245,Baimak,baim1245-1
+2,aːrit,,FALSE,Zgraggen1980Mabuso,p.92,,baim1245,Baimak,baim1245-1
 1,in ja hambaang,"Used for counting humans and fish, inter alia.",FALSE,Himmelmann2001,pp.101-104,,bala1314,Balaesang,bala1314-1
 1,houdung,"Used for counting coconuts and mountains, inter alia.",FALSE,Himmelmann2001,pp.101-104,,bala1314,Balaesang,bala1314-1
 2,dorua,,FALSE,Himmelmann2001,pp.101-104,,bala1314,Balaesang,bala1314-1
@@ -2997,8 +2997,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 7,ben sor geger,,FALSE,Kasprus1942,pp.746-747,,barg1252,Saker (Pap.) [Mugil],barg1252-2
 8,ben sor ezeman,,FALSE,Kasprus1942,pp.746-747,,barg1252,Saker (Pap.) [Mugil],barg1252-2
 10,ben sorsor mo,,FALSE,Kasprus1942,pp.746-747,,barg1252,Saker (Pap.) [Mugil],barg1252-2
-1,amuliɡmo,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,barg1252,Mugil,barg1252-3
-2,ɡiɡɛr,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,barg1252,Mugil,barg1252-3
+1,amuliɡmo,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,barg1252,Mugil,barg1252-3
+2,ɡiɡɛr,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,barg1252,Mugil,barg1252-3
 1,ge'lede,,FALSE,Lean1985Vol04,p.91,"R. and R. Nicholson, SIL Word List (1966).",bari1286,Bariai,bari1286-1
 2,rua,,FALSE,Lean1985Vol04,p.91,"R. and R. Nicholson, SIL Word List (1966).",bari1286,Bariai,bari1286-1
 3,tol,,FALSE,Lean1985Vol04,p.91,"R. and R. Nicholson, SIL Word List (1966).",bari1286,Bariai,bari1286-1
@@ -3536,8 +3536,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 12,semong-duo,,FALSE,Ray1913,"pp.59, 61",,baub1235,Grogo,baub1235-1
 20,dua-pulu,,FALSE,Ray1913,"pp.59, 61",,baub1235,Grogo,baub1235-1
 100,sa-ratus,,FALSE,Ray1913,"pp.59, 61",,baub1235,Grogo,baub1235-1
-1,osah,,FALSE,Z'graggen1980Mabuso,p.92,,bauu1244,Bau,bauu1244-1
-2,ɛris,,FALSE,Z'graggen1980Mabuso,p.92,,bauu1244,Bau,bauu1244-1
+1,osah,,FALSE,Zgraggen1980Mabuso,p.92,,bauu1244,Bau,bauu1244-1
+2,ɛris,,FALSE,Zgraggen1980Mabuso,p.92,,bauu1244,Bau,bauu1244-1
 1,temdai,,FALSE,LeanCentral,p.48,SIL (1985). Village: Amau.,bauw1240,Bauwaki ,bauw1240-1
 2,yaʔalaʔa,,FALSE,LeanCentral,p.48,SIL (1985). Village: Amau.,bauw1240,Bauwaki ,bauw1240-1
 3,yaʔimi,,FALSE,LeanCentral,p.48,SIL (1985). Village: Amau.,bauw1240,Bauwaki ,bauw1240-1
@@ -3639,8 +3639,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,loe gi loe gi,,FALSE,Lean1986Vol08,p.24,S.I.L survey word list (1975).,bena1264,Benabena (from SIL word list),bena1264-4
 5,nayahi luga'a suhago,,FALSE,Lean1986Vol08,p.24,S.I.L survey word list (1975).,bena1264,Benabena (from SIL word list),bena1264-4
 10,nayahi luga luga suhago,,FALSE,Lean1986Vol08,p.24,S.I.L survey word list (1975).,bena1264,Benabena (from SIL word list),bena1264-4
-1,umaruma,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,bepo1240,Bepour,bepo1240-1
-2,ɛruʔa,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,bepo1240,Bepour,bepo1240-1
+1,umaruma,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,bepo1240,Bepour,bepo1240-1
+2,ɛruʔa,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,bepo1240,Bepour,bepo1240-1
 1,sa-,prefix,FALSE,Collins1994,"pp.303, 304, 306, 309",,bera1262,Berau Malay,bera1262-1
 5,lima,,FALSE,Collins1994,"pp.303, 304, 306, 309",,bera1262,Berau Malay,bera1262-1
 7,tuju,,FALSE,Collins1994,"pp.303, 304, 306, 309",,bera1262,Berau Malay,bera1262-1
@@ -3876,8 +3876,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,wɑki,,FALSE,Laycock1971D28,"pp.4008, 4016",,bika1251,Bikaru [from L. Bragge],bika1251-1
 4,fɑfolo,,FALSE,Laycock1971D28,"pp.4008, 4016",,bika1251,Bikaru [from L. Bragge],bika1251-1
 5,foni,,FALSE,Laycock1971D28,"pp.4008, 4016",,bika1251,Bikaru [from L. Bragge],bika1251-1
-1,ɡasiba,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,bila1257,Bilakura,bila1257-1
-2,ɡial,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,bila1257,Bilakura,bila1257-1
+1,ɡasiba,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,bila1257,Bilakura,bila1257-1
+2,ɡial,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,bila1257,Bilakura,bila1257-1
 1,ketei,,FALSE,LeanMadang,p.53,SIL Word List (1975). Village: Bilbil.,bilb1241,Bilbil,bilb1241-1
 2,oru,,FALSE,LeanMadang,p.53,SIL Word List (1975). Village: Bilbil.,bilb1241,Bilbil,bilb1241-1
 3,toli,,FALSE,LeanMadang,p.53,SIL Word List (1975). Village: Bilbil.,bilb1241,Bilbil,bilb1241-1
@@ -4159,8 +4159,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,awinggama,,FALSE,LeanMadang,p.59,SIL Word List (1977). Village: Omkisi,biyo1244,Biyom,biyo1244-1
 4,ivivi mundum,,FALSE,LeanMadang,p.59,SIL Word List (1977). Village: Omkisi,biyo1244,Biyom,biyo1244-1
 5,anum mindim,‘anum’ = ‘thumb’,FALSE,LeanMadang,p.59,SIL Word List (1977). Village: Omkisi,biyo1244,Biyom,biyo1244-1
-1,ɡamua,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,biyo1244,Biyom,biyo1244-2
-2,awi,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,biyo1244,Biyom,biyo1244-2
+1,ɡamua,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,biyo1244,Biyom,biyo1244-2
+2,awi,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,biyo1244,Biyom,biyo1244-2
 1,nabi,,FALSE,Lean1986Vol12,p.49,1 CSQ. Weam Community School.,blaf1238,Tonda,blaf1238-1
 2,yalmbe,,FALSE,Lean1986Vol12,p.49,1 CSQ. Weam Community School.,blaf1238,Tonda,blaf1238-1
 3,yala,,FALSE,Lean1986Vol12,p.49,1 CSQ. Weam Community School.,blaf1238,Tonda,blaf1238-1
@@ -4462,8 +4462,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,igle-gorle,,FALSE,Ray1919,p.329,,bong1291,Gorendu,bong1291-4
 10,ibon-ali,,FALSE,Ray1919,p.329,,bong1291,Gorendu,bong1291-4
 20,samb ali,,FALSE,Ray1919,p.329,,bong1291,Gorendu,bong1291-4
-1,kuji,,FALSE,Z'graggen1980RaiCoast,p.92,,bong1291,Bongu,bong1291-5
-2,aliti,,FALSE,Z'graggen1980RaiCoast,p.92,,bong1291,Bongu,bong1291-5
+1,kuji,,FALSE,Zgraggen1980RaiCoast,p.92,,bong1291,Bongu,bong1291-5
+2,aliti,,FALSE,Zgraggen1980RaiCoast,p.92,,bong1291,Bongu,bong1291-5
 1,isan,,FALSE,Smith1988,p.95,,bonk1244,Bonkiman,bonk1244-1
 2,bronge,,FALSE,Smith1988,p.95,,bonk1244,Bonkiman,bonk1244-1
 3,kabe,,FALSE,Smith1988,p.95,,bonk1244,Bonkiman,bonk1244-1
@@ -4650,8 +4650,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,ambentavkə'rem,"amben = hand, and tav seems to be “other”",FALSE,Capell1951,p.195,,brem1238,Bunubun,brem1238-2
 9,ambentavdji'rukənem,"amben = hand, and tav seems to be “other”",FALSE,Capell1951,p.195,,brem1238,Bunubun,brem1238-2
 10,ambetavtav,"amben = hand, and tav seems to be “other”",FALSE,Capell1951,p.195,,brem1238,Bunubun,brem1238-2
-1,ɡaɡindiɛ,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,brem1238,Bunabun,brem1238-3
-2,arɛr,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,brem1238,Bunabun,brem1238-3
+1,ɡaɡindiɛ,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,brem1238,Bunabun,brem1238-3
+2,arɛr,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,brem1238,Bunabun,brem1238-3
 1,undugutu,,FALSE,LeanMadang,p.21,1 CSQ. Village: Kwanga.,brer1240,Breri,brer1240-1
 2,ongnoso,,FALSE,LeanMadang,p.21,1 CSQ. Village: Kwanga.,brer1240,Breri,brer1240-1
 3,iniunku,,FALSE,LeanMadang,p.21,1 CSQ. Village: Kwanga.,brer1240,Breri,brer1240-1
@@ -6419,9 +6419,9 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 500,limaatu,,FALSE,Himmelmann2001,pp.101-104,,damp1237,Dampelas,damp1237-1
 1000,seribu,,FALSE,Himmelmann2001,pp.101-104,,damp1237,Dampelas,damp1237-1
 10000,sopulu ribu,,FALSE,Himmelmann2001,pp.101-104,,damp1237,Dampelas,damp1237-1
-1,ɡaran,,FALSE,Z'graggen1980RaiCoast,p.92,,dana1254,Danaru,dana1254-1
-1,ɡrʌkut,,FALSE,Z'graggen1980RaiCoast,p.92,,dana1254,Danaru,dana1254-1
-2,akr̃,,FALSE,Z'graggen1980RaiCoast,p.92,,dana1254,Danaru,dana1254-1
+1,ɡaran,,FALSE,Zgraggen1980RaiCoast,p.92,,dana1254,Danaru,dana1254-1
+1,ɡrʌkut,,FALSE,Zgraggen1980RaiCoast,p.92,,dana1254,Danaru,dana1254-1
+2,akr̃,,FALSE,Zgraggen1980RaiCoast,p.92,,dana1254,Danaru,dana1254-1
 1,hamó',,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,dano1240,Asaro,dano1240-1
 2,sita',,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,dano1240,Asaro,dano1240-1
 3,setó hamo',,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,dano1240,Asaro,dano1240-1
@@ -6653,8 +6653,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,nemoki,,FALSE,LeanMadang,p.25,SIL Word List (undated). Village: Mirap.,dimi1244,Dimir (Mirap village),dimi1244-3
 5,abengbeki,‘aveng’ = ‘hand’,FALSE,LeanMadang,p.25,SIL Word List (undated). Village: Mirap.,dimi1244,Dimir (Mirap village),dimi1244-3
 5,(avengveki),‘aveng’ = ‘hand’,FALSE,LeanMadang,p.25,SIL Word List (undated). Village: Mirap.,dimi1244,Dimir (Mirap village),dimi1244-3
-1,ɡiːbki,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,dimi1244,Dimir,dimi1244-4
-2,arɡɛmki,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,dimi1244,Dimir,dimi1244-4
+1,ɡiːbki,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,dimi1244,Dimir,dimi1244-4
+2,arɡɛmki,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,dimi1244,Dimir,dimi1244-4
 1,ebweuna,,FALSE,Lean1986Vol06,p.77,"16 CSQs. Villages: Asa, Naikwala, Yoo, Sanaroa, Unai, Waluma (2), Gomina, Diu, Wedaweda, Kaiwau, Salakahadi, Bwa'ataya, Etana, (2 not given).",dobu1241,Dobu,dobu1241-1
 1,(ebweu),,FALSE,Lean1986Vol06,p.77,"16 CSQs. Villages: Asa, Naikwala, Yoo, Sanaroa, Unai, Waluma (2), Gomina, Diu, Wedaweda, Kaiwau, Salakahadi, Bwa'ataya, Etana, (2 not given).",dobu1241,Dobu,dobu1241-1
 2,eluwa,,FALSE,Lean1986Vol06,p.77,"16 CSQs. Villages: Asa, Naikwala, Yoo, Sanaroa, Unai, Waluma (2), Gomina, Diu, Wedaweda, Kaiwau, Salakahadi, Bwa'ataya, Etana, (2 not given).",dobu1241,Dobu,dobu1241-1
@@ -6828,9 +6828,9 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,klé,,FALSE,Galis1960,p.147,,dubu1240,Dubu,dubu1240-1
 3,sĕnggĕr,,FALSE,Galis1960,p.147,,dubu1240,Dubu,dubu1240-1
 3,sĕngklé,,FALSE,Galis1960,p.147,,dubu1240,Dubu,dubu1240-1
-1,ititonoy,,FALSE,Z'graggen1980RaiCoast,p.92,,dudu1240,Duduela,dudu1240-1
-1,itonoka,,FALSE,Z'graggen1980RaiCoast,p.92,,dudu1240,Duduela,dudu1240-1
-2,nanonoy,,FALSE,Z'graggen1980RaiCoast,p.92,,dudu1240,Duduela,dudu1240-1
+1,ititonoy,,FALSE,Zgraggen1980RaiCoast,p.92,,dudu1240,Duduela,dudu1240-1
+1,itonoka,,FALSE,Zgraggen1980RaiCoast,p.92,,dudu1240,Duduela,dudu1240-1
+2,nanonoy,,FALSE,Zgraggen1980RaiCoast,p.92,,dudu1240,Duduela,dudu1240-1
 1,isoʔ,,FALSE,Lobel2016,pp.234-239,,dump1242,Dumpas,dump1242-1
 1,sambatu,,FALSE,Lobel2016,pp.234-239,,dump1242,Dumpas,dump1242-1
 2,duo,,FALSE,Lobel2016,pp.234-239,,dump1242,Dumpas,dump1242-1
@@ -6867,8 +6867,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,ʔɛdinani,,FALSE,AnonymousRamuA,"pp.2, 6",,dump1243,Watiwa (Kasikapo Village),dump1243-3
 5,pasɛgɛsu,,FALSE,AnonymousRamuA,"pp.2, 6",,dump1243,Watiwa (Kasikapo Village),dump1243-3
 10,pasɛgɛsupasɛgɛsu,,FALSE,AnonymousRamuA,"pp.2, 6",,dump1243,Watiwa (Kasikapo Village),dump1243-3
-1,ʌtʰ,,FALSE,Z'graggen1980RaiCoast,p.92,,dump1243,Dumpu,dump1243-4
-2,ona,,FALSE,Z'graggen1980RaiCoast,p.92,,dump1243,Dumpu,dump1243-4
+1,ʌtʰ,,FALSE,Zgraggen1980RaiCoast,p.92,,dump1243,Dumpu,dump1243-4
+2,ona,,FALSE,Zgraggen1980RaiCoast,p.92,,dump1243,Dumpu,dump1243-4
 1,ndu,,FALSE,Lean1986Vol10,p.16,"2 CSQs. Villages: Pori, Pori Community School.",duna1248,Duna,duna1248-1
 2,yaba,,FALSE,Lean1986Vol10,p.16,"2 CSQs. Villages: Pori, Pori Community School.",duna1248,Duna,duna1248-1
 3,iduba,,FALSE,Lean1986Vol10,p.16,"2 CSQs. Villages: Pori, Pori Community School.",duna1248,Duna,duna1248-1
@@ -7830,8 +7830,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,ɑriŋɡɑβɨrɑ yɑmesɨm,,FALSE,Daniels2014Item328,p.45,,fait1240,Kursav,fait1240-2
 21,ɑriŋɡɑβɨrɑ yɑmesɨm pɑ,,FALSE,Daniels2014Item328,p.45,,fait1240,Kursav,fait1240-2
 23,ɑriŋɡɑβɨrɑ yɑmesɨm sɑke,,FALSE,Daniels2014Item328,p.45,,fait1240,Kursav,fait1240-2
-1,pakuti,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,fait1240,Faita,fait1240-3
-2,ariŋɡa,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,fait1240,Faita,fait1240-3
+1,pakuti,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,fait1240,Faita,fait1240-3
+2,ariŋɡa,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,fait1240,Faita,fait1240-3
 1,makop,(little finger),FALSE,Lean1986Vol12,p.16,2 CSQs. Village: Boliuip. (Alternatives: SIL Word List).,faiw1243,Faiwol (Boliuip village),faiw1243-1
 1,magop,(little finger),FALSE,Lean1986Vol12,p.16,2 CSQs. Village: Boliuip. (Alternatives: SIL Word List).,faiw1243,Faiwol (Boliuip village),faiw1243-1
 2,allep,(ring finger),FALSE,Lean1986Vol12,p.16,2 CSQs. Village: Boliuip. (Alternatives: SIL Word List).,faiw1243,Faiwol (Boliuip village),faiw1243-1
@@ -8229,8 +8229,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,o ratu moi,,FALSE,Stokhof1980Vol2,pp.132-133,,gale1259,Galela (from M. J. van Baarda),gale1259-3
 1000,o tjala moi,,FALSE,Stokhof1980Vol2,pp.132-133,,gale1259,Galela (from M. J. van Baarda),gale1259-3
 10000,o lā̀kisa moi,,FALSE,Stokhof1980Vol2,pp.132-133,,gale1259,Galela (from M. J. van Baarda),gale1259-3
-1,oti,,FALSE,Z'graggen1980Mabuso,p.92,,gall1278,Gal,gall1278-1
-2,arit,,FALSE,Z'graggen1980Mabuso,p.92,,gall1278,Gal,gall1278-1
+1,oti,,FALSE,Zgraggen1980Mabuso,p.92,,gall1278,Gal,gall1278-1
+2,arit,,FALSE,Zgraggen1980Mabuso,p.92,,gall1278,Gal,gall1278-1
 1,Ne̱hě,,FALSE,Stokhof1981Vol3.1,p.15,,galo1243,Wetar,galo1243-1
 2,Ěro̱e̱-à,,FALSE,Stokhof1981Vol3.1,p.15,,galo1243,Wetar,galo1243-1
 3,Ěte̱loe,,FALSE,Stokhof1981Vol3.1,p.15,,galo1243,Wetar,galo1243-1
@@ -8341,8 +8341,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,pwal,,FALSE,Teljeur1982,pp.145-146,,gane1237,Wosi,gane1237-4
 9,psiwo,,FALSE,Teljeur1982,pp.145-146,,gane1237,Wosi,gane1237-4
 10,yohasó,,FALSE,Teljeur1982,pp.145-146,,gane1237,Wosi,gane1237-4
-1,ktʌpmʌn,,FALSE,Z'graggen1980RaiCoast,p.92,,gang1270,Ganglau,gang1270-1
-2,vidlɛ,,FALSE,Z'graggen1980RaiCoast,p.92,,gang1270,Ganglau,gang1270-1
+1,ktʌpmʌn,,FALSE,Zgraggen1980RaiCoast,p.92,,gang1270,Ganglau,gang1270-1
+2,vidlɛ,,FALSE,Zgraggen1980RaiCoast,p.92,,gang1270,Ganglau,gang1270-1
 1,fagarang,the little finger is bent,FALSE,Aufenanger1960,p.249,,gant1244,Gainj,gant1244-1
 2,koraini,the ring finger together with the little finger,FALSE,Aufenanger1960,p.249,,gant1244,Gainj,gant1244-1
 3,(koraini fagarang ?),,FALSE,Aufenanger1960,p.249,,gant1244,Gainj,gant1244-1
@@ -8382,8 +8382,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,abetehe̱ta abi ana-gumahe̱y,,FALSE,Kasprus1942,pp.746-747,,garu1246,Garus (Pap.) Em-Dialect,garu1246-2
 6,abu alili,(3 x 2 = 6),FALSE,Kasprus1942,pp.746-747,,garu1246,Garus (Pap.) Em-Dialect,garu1246-2
 10,abetehe bubu,[bubu-ta = whole],FALSE,Kasprus1942,pp.746-747,,garu1246,Garus (Pap.) Em-Dialect,garu1246-2
-1,imtɛ,,FALSE,Z'graggen1980Mabuso,p.92,,garu1246,Garus,garu1246-3
-2,ailtɛ,,FALSE,Z'graggen1980Mabuso,p.92,,garu1246,Garus,garu1246-3
+1,imtɛ,,FALSE,Zgraggen1980Mabuso,p.92,,garu1246,Garus,garu1246-3
+2,ailtɛ,,FALSE,Zgraggen1980Mabuso,p.92,,garu1246,Garus,garu1246-3
 1,isa,,FALSE,Stokhof1987Vol11,pp.161-162,,gebe1237,Gebe (Halmahera),gebe1237-1
 2,siloe,,FALSE,Stokhof1987Vol11,pp.161-162,,gebe1237,Gebe (Halmahera),gebe1237-1
 3,sitol,,FALSE,Stokhof1987Vol11,pp.161-162,,gebe1237,Gebe (Halmahera),gebe1237-1
@@ -8621,8 +8621,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,deidei aba deidei,,FALSE,Lean1986Vol06,p.25,S.I.L word list (1972). Village: Etau.,ginu1240,Ginuman,ginu1240-1
 5,inia dibi,‘hand’ = ‘yeinabe’,FALSE,Lean1986Vol06,p.25,S.I.L word list (1972). Village: Etau.,ginu1240,Ginuman,ginu1240-1
 10,binimo'an ,,FALSE,Lean1986Vol06,p.25,S.I.L word list (1972). Village: Etau.,ginu1240,Ginuman,ginu1240-1
-1,ʔarʌ(r),,FALSE,Z'graggen1980Mabuso,p.92,,gira1247,Girawa,gira1247-1
-2,oiror,,FALSE,Z'graggen1980Mabuso,p.92,,gira1247,Girawa,gira1247-1
+1,ʔarʌ(r),,FALSE,Zgraggen1980Mabuso,p.92,,gira1247,Girawa,gira1247-1
+2,oiror,,FALSE,Zgraggen1980Mabuso,p.92,,gira1247,Girawa,gira1247-1
 1,eze,,FALSE,LeanMorobe,p.22,1 CSQ. Village: Gitua.,gitu1237,Gitua,gitu1237-1
 2,rua,,FALSE,LeanMorobe,p.22,1 CSQ. Village: Gitua.,gitu1237,Gitua,gitu1237-1
 3,tolu,,FALSE,LeanMorobe,p.22,1 CSQ. Village: Gitua.,gitu1237,Gitua,gitu1237-1
@@ -8966,8 +8966,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,kada,,FALSE,Chinnery1915,p.163,,guhu1244,Tahari,guhu1244-4
 9,sika sama,,FALSE,Chinnery1915,p.163,,guhu1244,Tahari,guhu1244-4
 10,bodo eseri,,FALSE,Chinnery1915,p.163,,guhu1244,Tahari,guhu1244-4
-1,olaʔie,,FALSE,Z'graggen1980Mabuso,p.92,,guma1255,Gumalu,guma1255-1
-2,ɛrit,,FALSE,Z'graggen1980Mabuso,p.92,,guma1255,Gumalu,guma1255-1
+1,olaʔie,,FALSE,Zgraggen1980Mabuso,p.92,,guma1255,Gumalu,guma1255-1
+2,ɛrit,,FALSE,Zgraggen1980Mabuso,p.92,,guma1255,Gumalu,guma1255-1
 1,mitene,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School. ,guri1248,Kwomtari (Guriaso Community School),guri1248-1
 2,aser,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School. ,guri1248,Kwomtari (Guriaso Community School),guri1248-1
 3,amdir,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School. ,guri1248,Kwomtari (Guriaso Community School),guri1248-1
@@ -10065,10 +10065,10 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,baynte,[from Spanish],TRUE,Anonymous1984Bicol,pp.2-5,,irig1242,Iriga Bicol,irig1242-1
 100,sanɡ ɡatos,,FALSE,Anonymous1984Bicol,pp.2-5,,irig1242,Iriga Bicol,irig1242-1
 1000,sanɡˈribo,,FALSE,Anonymous1984Bicol,pp.2-5,,irig1242,Iriga Bicol,irig1242-1
-1,mɛŋɡɛnɛ,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,isab1240,Isabi,isab1240-1
-2,tɛri,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,isab1240,Isabi,isab1240-1
-1,orofan,,FALSE,Z'graggen1980Mabuso,p.92,,iseb1246,Isebe,iseb1246-1
-2,ɛris,,FALSE,Z'graggen1980Mabuso,p.92,,iseb1246,Isebe,iseb1246-1
+1,mɛŋɡɛnɛ,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,isab1240,Isabi,isab1240-1
+2,tɛri,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,isab1240,Isabi,isab1240-1
+1,orofan,,FALSE,Zgraggen1980Mabuso,p.92,,iseb1246,Isebe,iseb1246-1
+2,ɛris,,FALSE,Zgraggen1980Mabuso,p.92,,iseb1246,Isebe,iseb1246-1
 1,mĕrè,,FALSE,Galis1955,p.143,,isir1237,Sabéri,isir1237-1
 2,náhògé,,FALSE,Galis1955,p.143,,isir1237,Sabéri,isir1237-1
 3,náhòsàt,,FALSE,Galis1955,p.143,,isir1237,Sabéri,isir1237-1
@@ -10243,8 +10243,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,qɑˈlub,[first vowel is marked as “longish”],FALSE,Daniels2014Item584,p.48,,jili1241,Bara,jili1241-1
 4,lil lil ,,FALSE,Daniels2014Item584,p.48,,jili1241,Bara,jili1241-1
 5,lil lil ɡɪdɑi,,FALSE,Daniels2014Item584,p.48,,jili1241,Bara,jili1241-1
-1,ɡid,,FALSE,Z'graggen1980RaiCoast,p.92,,jili1241,Jilim,jili1241-2
-2,lil,,FALSE,Z'graggen1980RaiCoast,p.92,,jili1241,Jilim,jili1241-2
+1,ɡid,,FALSE,Zgraggen1980RaiCoast,p.92,,jili1241,Jilim,jili1241-2
+2,lil,,FALSE,Zgraggen1980RaiCoast,p.92,,jili1241,Jilim,jili1241-2
 1,trafra,,FALSE,LeanEastSepik,p.40,2 CSQs. Village: Palpul.,juwa1238,Muniwara,juwa1238-1
 1,trafera,,FALSE,LeanEastSepik,p.40,2 CSQs. Village: Palpul.,juwa1238,Muniwara,juwa1238-1
 2,neminia,,FALSE,LeanEastSepik,p.40,2 CSQs. Village: Palpul.,juwa1238,Muniwara,juwa1238-1
@@ -11214,8 +11214,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,put-ri,,FALSE,Galis1955,p.135,,kara1499,Karas,kara1499-1
 30,put-karu,,FALSE,Galis1955,p.135,,kara1499,Karas,kara1499-1
 40,put-kansjor,,FALSE,Galis1955,p.135,,kara1499,Karas,kara1499-1
-1,sumbrʌmba,,FALSE,Z'graggen1980Mabuso,p.92,,kare1341,Kare,kare1341-1
-2,iridiɡi,,FALSE,Z'graggen1980Mabuso,p.92,,kare1341,Kare,kare1341-1
+1,sumbrʌmba,,FALSE,Zgraggen1980Mabuso,p.92,,kare1341,Kare,kare1341-1
+2,iridiɡi,,FALSE,Zgraggen1980Mabuso,p.92,,kare1341,Kare,kare1341-1
 1,ɑŋɡənɑŋ,,FALSE,Laycock1970D13,p.1810,,kark1258,Yuri,kark1258-1
 2,ɑnɑŋ,,FALSE,Laycock1970D13,p.1810,,kark1258,Yuri,kark1258-1
 3,yinəŋ,,FALSE,Laycock1970D13,p.1810,,kark1258,Yuri,kark1258-1
@@ -11720,8 +11720,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,ratoet,,FALSE,Stokhof1981Vol3.1,p.80,,keii1239,Kei,keii1239-1
 1000,riwoen,,FALSE,Stokhof1981Vol3.1,p.80,,keii1239,Kei,keii1239-1
 10000,saäk,,FALSE,Stokhof1981Vol3.1,p.80,,keii1239,Kei,keii1239-1
-1,tudʌk,,FALSE,Z'graggen1980Mabuso,p.92,,kein1239,Bemal,kein1239-1
-2,ʌːriʌʔ,,FALSE,Z'graggen1980Mabuso,p.92,,kein1239,Bemal,kein1239-1
+1,tudʌk,,FALSE,Zgraggen1980Mabuso,p.92,,kein1239,Bemal,kein1239-1
+2,ʌːriʌʔ,,FALSE,Zgraggen1980Mabuso,p.92,,kein1239,Bemal,kein1239-1
 1,nowang,,FALSE,LeanMorobe,p.53,SIL (1968). Village: Kui.,kela1255,Kela,kela1255-1
 2,ruwa,,FALSE,LeanMorobe,p.53,SIL (1968). Village: Kui.,kela1255,Kela,kela1255-1
 3,trawa,,FALSE,LeanMorobe,p.53,SIL (1968). Village: Kui.,kela1255,Kela,kela1255-1
@@ -11944,9 +11944,9 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,ʔailatuʔailatu,,FALSE,AnonymousRamuA,"pp.2, 6",,kesa1244,Koromu (Kesawai 2 Village),kesa1244-1
 5,tauho,,FALSE,AnonymousRamuA,"pp.2, 6",,kesa1244,Koromu (Kesawai 2 Village),kesa1244-1
 10,tahuʔailɛ,,FALSE,AnonymousRamuA,"pp.2, 6",,kesa1244,Koromu (Kesawai 2 Village),kesa1244-1
-1,atre,,FALSE,Z'graggen1980RaiCoast,p.92,,kesa1244,Kesawai,kesa1244-2
-1,nemru,,FALSE,Z'graggen1980RaiCoast,p.92,,kesa1244,Kesawai,kesa1244-2
-2,aere,,FALSE,Z'graggen1980RaiCoast,p.92,,kesa1244,Kesawai,kesa1244-2
+1,atre,,FALSE,Zgraggen1980RaiCoast,p.92,,kesa1244,Kesawai,kesa1244-2
+1,nemru,,FALSE,Zgraggen1980RaiCoast,p.92,,kesa1244,Kesawai,kesa1244-2
+2,aere,,FALSE,Zgraggen1980RaiCoast,p.92,,kesa1244,Kesawai,kesa1244-2
 1,Tsā,,FALSE,Mueller1910,pp.238-239,,keta1243,Ketanganan (Ketangapan?),keta1243-1
 2,Rusa,,FALSE,Mueller1910,pp.238-239,,keta1243,Ketanganan (Ketangapan?),keta1243-1
 3,Tsū,,FALSE,Mueller1910,pp.238-239,,keta1243,Ketanganan (Ketangapan?),keta1243-1
@@ -12181,8 +12181,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,toni,,FALSE,Laycock1976,p.416,,kiss1246,Kis,kiss1246-2
 4,owani,,FALSE,Laycock1976,p.416,,kiss1246,Kis,kiss1246-2
 5,lima,,FALSE,Laycock1976,p.416,,kiss1246,Kis,kiss1246-2
-1,utʌm(p),,FALSE,Z'graggen1980NorthernAdelbert,p.92,,kobo1248,Koguman,kobo1248-1
-2,ambur,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,kobo1248,Koguman,kobo1248-1
+1,utʌm(p),,FALSE,Zgraggen1980NorthernAdelbert,p.92,,kobo1248,Koguman,kobo1248-1
+2,ambur,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,kobo1248,Koguman,kobo1248-1
 1,waping kanamba,(left little finger),FALSE,LeanMadang,pp.34-35,SIL Word List (1975).,kobo1249,Kobon,kobo1249-1
 2,mahau,(ring finger),FALSE,LeanMadang,pp.34-35,SIL Word List (1975).,kobo1249,Kobon,kobo1249-1
 3,mahau nangang,(middle finger),FALSE,LeanMadang,pp.34-35,SIL Word List (1975).,kobo1249,Kobon,kobo1249-1
@@ -12287,8 +12287,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 6,kolun-patun-ndaimon,,FALSE,Ray1919,p.329,,kolo1267,Langtub,kolo1267-2
 10,kula-la,,FALSE,Ray1919,p.329,,kolo1267,Langtub,kolo1267-2
 20,kabe-lala,,FALSE,Ray1919,p.329,,kolo1267,Langtub,kolo1267-2
-1,dʌima,,FALSE,Z'graggen1980RaiCoast,p.92,,kolo1267,Kolom,kolo1267-3
-2,lalapa,,FALSE,Z'graggen1980RaiCoast,p.92,,kolo1267,Kolom,kolo1267-3
+1,dʌima,,FALSE,Zgraggen1980RaiCoast,p.92,,kolo1267,Kolom,kolo1267-3
+2,lalapa,,FALSE,Zgraggen1980RaiCoast,p.92,,kolo1267,Kolom,kolo1267-3
 1,'pusup,,FALSE,Lean1985Vol04,p.34,"SIL Word List, 1981. Natuve Catholic Mission.",kolp1236,Kol,kolp1236-1
 2,te'tepe,,FALSE,Lean1985Vol04,p.34,"SIL Word List, 1981. Natuve Catholic Mission.",kolp1236,Kol,kolp1236-1
 3,tetepe 'kosup,,FALSE,Lean1985Vol04,p.34,"SIL Word List, 1981. Natuve Catholic Mission.",kolp1236,Kol,kolp1236-1
@@ -12466,8 +12466,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,gabu soveni,,FALSE,Lean1985Vol05,p.38,SIL Word List (1975).,kora1294,Korafe (Mokorua dialect),kora1294-2
 10,awono eni bako etoto,,FALSE,Lean1985Vol05,p.38,SIL Word List (1975).,kora1294,Korafe (Mokorua dialect),kora1294-2
 10,gabu soveni soveni,,FALSE,Lean1985Vol05,p.38,SIL Word List (1975).,kora1294,Korafe (Mokorua dialect),kora1294-2
-1,itamanuŋo,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,kora1296,Korak,kora1296-1
-2,itiɛl,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,kora1296,Korak,kora1296-1
+1,itamanuŋo,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,kora1296,Korak,kora1296-1
+2,itiɛl,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,kora1296,Korak,kora1296-1
 1,nara,,FALSE,Rausch1912,p.964,,koro1313,Koromira,koro1313-1
 2,keinta,,FALSE,Rausch1912,p.964,,koro1313,Koromira,koro1313-1
 3,bā́ro,,FALSE,Rausch1912,p.964,,koro1313,Koromira,koro1313-1
@@ -12580,8 +12580,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 200,vuno hua,,FALSE,Lean1985Vol04,p.72,"6 CSQs, 1 IMP. Villages: Guhi, Somalani, Kou, Kapo, Nukakau, Kalapeai.",kove1237,Kove-Kaliai (Kove dialect),kove1237-1
 300,vuno tolu,,FALSE,Lean1985Vol04,p.72,"6 CSQs, 1 IMP. Villages: Guhi, Somalani, Kou, Kapo, Nukakau, Kalapeai.",kove1237,Kove-Kaliai (Kove dialect),kove1237-1
 1000,vuno sangaulu,,FALSE,Lean1985Vol04,p.72,"6 CSQs, 1 IMP. Villages: Guhi, Somalani, Kou, Kapo, Nukakau, Kalapeai.",kove1237,Kove-Kaliai (Kove dialect),kove1237-1
-1,atatɛ,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,kowa1245,Kowaki,kowa1245-1
-2,irɛƀ,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,kowa1245,Kowaki,kowa1245-1
+1,atatɛ,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,kowa1245,Kowaki,kowa1245-1
+2,irɛƀ,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,kowa1245,Kowaki,kowa1245-1
 1,samosi,,FALSE,Galis1955,p.134,,kowi1239,Kowiai,kowi1239-1
 1,sĕmus,,FALSE,Galis1955,p.134,,kowi1239,Kowiai,kowi1239-1
 1,ismus,,FALSE,Galis1955,p.134,,kowi1239,Kowiai,kowi1239-1
@@ -13130,8 +13130,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,ubuoɑɪnɛ,,FALSE,Priestley1979,"pp.3, 8",,kwat1244,Waupe (Paraiye village),kwat1244-2
 5,ˈubi ɑnɛmo,,FALSE,Priestley1979,"pp.3, 8",,kwat1244,Waupe (Paraiye village),kwat1244-2
 10,ˈubiɑ burɛ,,FALSE,Priestley1979,"pp.3, 8",,kwat1244,Waupe (Paraiye village),kwat1244-2
-1,itono,,FALSE,Z'graggen1980RaiCoast,p.92,,kwat1244,Kwato,kwat1244-3
-2,nʌnaino,,FALSE,Z'graggen1980RaiCoast,p.92,,kwat1244,Kwato,kwat1244-3
+1,itono,,FALSE,Zgraggen1980RaiCoast,p.92,,kwat1244,Kwato,kwat1244-3
+2,nʌnaino,,FALSE,Zgraggen1980RaiCoast,p.92,,kwat1244,Kwato,kwat1244-3
 1,kɛɡi,,FALSE,Briley1970,p.3,,kwer1264,Kwerisa (Kai village),kwer1264-1
 2,tiɑ,,FALSE,Briley1970,p.3,,kwer1264,Kwerisa (Kai village),kwer1264-1
 1,ˈkɛɡi,,FALSE,Manning1970,p.3,,kwer1264,Kwerisa (Kaiy village),kwer1264-2
@@ -14040,8 +14040,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 19,kalisa dee mage wamee-na,‘a man and one on top’,FALSE,Franklin2012,pp.35-37,,lemb1266,Lembena,lemb1266-2
 20,kalisa laama-na,‘two men’,FALSE,Franklin2012,pp.35-37,,lemb1266,Lembena,lemb1266-2
 21,kalisa laama-na dee wamee-na,‘two men and one’,FALSE,Franklin2012,pp.35-37,,lemb1266,Lembena,lemb1266-2
-1,ʌːndoɡo,,FALSE,Z'graggen1980RaiCoast,p.92,,lemi1243,Lemio,lemi1243-1
-2,ʌr̃ki,,FALSE,Z'graggen1980RaiCoast,p.92,,lemi1243,Lemio,lemi1243-1
+1,ʌːndoɡo,,FALSE,Zgraggen1980RaiCoast,p.92,,lemi1243,Lemio,lemi1243-1
+2,ʌr̃ki,,FALSE,Zgraggen1980RaiCoast,p.92,,lemi1243,Lemio,lemi1243-1
 1,sambua,,FALSE,Grimes1987,pp.129-135,,lemo1243,Lemolang,lemo1243-1
 2,r̃ombua,,FALSE,Grimes1987,pp.129-135,,lemo1243,Lemolang,lemo1243-1
 3,talu,,FALSE,Grimes1987,pp.129-135,,lemo1243,Lemolang,lemo1243-1
@@ -14885,10 +14885,10 @@ Lorengau.",lenk1247,Lenkau,lenk1247-1
 3,arop,,FALSE,LeanMadang,p.11,1 CSQ. Village: Gurube.,maia1254,Saki,maia1254-1
 4,rabam,,FALSE,LeanMadang,p.11,1 CSQ. Village: Gurube.,maia1254,Saki,maia1254-1
 5,igur,The word for ‘hand’ is ‘eme’ and this does not appear in the number word for 5,FALSE,LeanMadang,p.11,1 CSQ. Village: Gurube.,maia1254,Saki,maia1254-1
-1,ndoaka,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,maia1254,Pila,maia1254-2
-2,ŋiɛr,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,maia1254,Pila,maia1254-2
-1,duʌka,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,maia1254,Saki,maia1254-3
-2,iŋɛr,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,maia1254,Saki,maia1254-3
+1,ndoaka,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,maia1254,Pila,maia1254-2
+2,ŋiɛr,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,maia1254,Pila,maia1254-2
+1,duʌka,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,maia1254,Saki,maia1254-3
+2,iŋɛr,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,maia1254,Saki,maia1254-3
 1,sau,,FALSE,Galis1960,p.140,,maib1239,Asman,maib1239-1
 2,ejok,,FALSE,Galis1960,p.140,,maib1239,Asman,maib1239-1
 3,tuf,,FALSE,Galis1960,p.140,,maib1239,Asman,maib1239-1
@@ -15741,10 +15741,10 @@ Lorengau.",lenk1247,Lenkau,lenk1247-1
 9,ikur-maran-ṅaramban,,FALSE,Ray1919,p.330,,mala1494,Tombenam,mala1494-3
 10,ombener,,FALSE,Ray1919,p.330,,mala1494,Tombenam,mala1494-3
 20,moande,,FALSE,Ray1919,p.330,,mala1494,Tombenam,mala1494-3
-1,tuɛla,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,mala1494,Pay,mala1494-4
-2,ŋiɛr̃,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,mala1494,Pay,mala1494-4
-1,ɡɛmɛm,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,mala1495,Malas,mala1495-1
-2,arɛr,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,mala1495,Malas,mala1495-1
+1,tuɛla,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,mala1494,Pay,mala1494-4
+2,ŋiɛr̃,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,mala1494,Pay,mala1494-4
+1,ɡɛmɛm,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,mala1495,Malas,mala1495-1
+2,arɛr,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,mala1495,Malas,mala1495-1
 1,issá,,FALSE,Reid1987,p.6,,mala1534,Malaweg,mala1534-1
 2,duwwá,,FALSE,Reid1987,p.6,,mala1534,Malaweg,mala1534-1
 3,tallú,,FALSE,Reid1987,p.6,,mala1534,Malaweg,mala1534-1
@@ -15827,8 +15827,8 @@ Lorengau.",lenk1247,Lenkau,lenk1247-1
 3,ġalub,,FALSE,Ray1919,p.329,,male1291,Male,male1291-5
 4,ġoġole,,FALSE,Ray1919,p.329,,male1291,Male,male1291-5
 5,bar-gud’i,,FALSE,Ray1919,p.329,,male1291,Male,male1291-5
-1,ɡuǰɛɡa,,FALSE,Z'graggen1980RaiCoast,p.92,,male1291,Male,male1291-6
-2,liko,,FALSE,Z'graggen1980RaiCoast,p.92,,male1291,Male,male1291-6
+1,ɡuǰɛɡa,,FALSE,Zgraggen1980RaiCoast,p.92,,male1291,Male,male1291-6
+2,liko,,FALSE,Zgraggen1980RaiCoast,p.92,,male1291,Male,male1291-6
 1,kudšak,,FALSE,Ray1919,p.329,,male1291,Manikam,male1291-7
 2,ṅalu,,FALSE,Ray1919,p.329,,male1291,Manikam,male1291-7
 3,winoya,,FALSE,Ray1919,p.329,,male1291,Manikam,male1291-7
@@ -16776,8 +16776,8 @@ Lorengau.",lenk1247,Lenkau,lenk1247-1
 9,utalanup,,FALSE,LeanMadang,p.40,"‘Matepi Village, (Guntabak Tribe)’, from the New Guinea Report for 1924-1925 compiled by the district officer at Madang, D. Waugh.",mate1260,Matepi,mate1260-1
 10,bamasum,,FALSE,LeanMadang,p.40,"‘Matepi Village, (Guntabak Tribe)’, from the New Guinea Report for 1924-1925 compiled by the district officer at Madang, D. Waugh.",mate1260,Matepi,mate1260-1
 11,fainag,‘toe’,FALSE,LeanMadang,p.40,"‘Matepi Village, (Guntabak Tribe)’, from the New Guinea Report for 1924-1925 compiled by the district officer at Madang, D. Waugh.",mate1260,Matepi,mate1260-1
-1,oloɡ,,FALSE,Z'graggen1980Mabuso,p.92,,mate1260,Matepi,mate1260-2
-2,wɛrʌr̃,,FALSE,Z'graggen1980Mabuso,p.92,,mate1260,Matepi,mate1260-2
+1,oloɡ,,FALSE,Zgraggen1980Mabuso,p.92,,mate1260,Matepi,mate1260-2
+2,wɛrʌr̃,,FALSE,Zgraggen1980Mabuso,p.92,,mate1260,Matepi,mate1260-2
 1,tɑininɑu,,FALSE,Carter2012,p.60,,mato1252,Mato,mato1252-1
 2,luɑ,,FALSE,Carter2012,p.60,,mato1252,Mato,mato1252-1
 3,tuɑ,,FALSE,Carter2012,p.60,,mato1252,Mato,mato1252-1
@@ -16844,13 +16844,13 @@ Lorengau.",lenk1247,Lenkau,lenk1247-1
 4,erepam,"either a distinct numeral or, possibly, a reduplication of 2",FALSE,LeanMadang,p.16,SIL Word List (1980). Village: Moro.,mauw1238,Ulingan (Moro village),mauw1238-2
 5,wapen(a) inawiya,‘wapen(a)’ = ‘hand’,FALSE,LeanMadang,p.16,SIL Word List (1980). Village: Moro.,mauw1238,Ulingan (Moro village),mauw1238-2
 10,wapen(a) okwaiwi-pa-okwaiwi-pa inek,‘wapen(a)’ = ‘hand’,FALSE,LeanMadang,p.16,SIL Word List (1980). Village: Moro.,mauw1238,Ulingan (Moro village),mauw1238-2
-1,kusob,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,mauw1238,Ulingan,mauw1238-3
-2,ɛrup,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,mauw1238,Ulingan,mauw1238-3
-1,katiɡa,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,mawa1266,Mawak,mawa1266-1
-1,katɛ,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,mawa1266,Mawak,mawa1266-1
-2,irɛb,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,mawa1266,Mawak,mawa1266-1
-1,oripiɡʌːɡ,,FALSE,Z'graggen1980Mabuso,p.92,,mawa1267,Mawan,mawa1267-1
-2,kwarʌːra,,FALSE,Z'graggen1980Mabuso,p.92,,mawa1267,Mawan,mawa1267-1
+1,kusob,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,mauw1238,Ulingan,mauw1238-3
+2,ɛrup,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,mauw1238,Ulingan,mauw1238-3
+1,katiɡa,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,mawa1266,Mawak,mawa1266-1
+1,katɛ,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,mawa1266,Mawak,mawa1266-1
+2,irɛb,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,mawa1266,Mawak,mawa1266-1
+1,oripiɡʌːɡ,,FALSE,Zgraggen1980Mabuso,p.92,,mawa1267,Mawan,mawa1267-1
+2,kwarʌːra,,FALSE,Zgraggen1980Mabuso,p.92,,mawa1267,Mawan,mawa1267-1
 1,mèndakai,[also: mender (Galis 1960)],FALSE,Galis1955,p.143,,mawe1251,Mawes,mawe1251-1
 2,ákènèw,[also: ákèneoi (Galis 1960)],FALSE,Galis1955,p.143,,mawe1251,Mawes,mawe1251-1
 3,ákèjá,,FALSE,Galis1955,p.143,,mawe1251,Mawes,mawe1251-1
@@ -17291,8 +17291,8 @@ Lorengau.",lenk1247,Lenkau,lenk1247-1
 18,tuburomóro dawira aro̱p,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
 19,tuburomóro dawira ará̤bam,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
 20,moato utúa,‘man one’,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
-1,udua,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,mian1254,Tani,mian1254-2
-2,nɛr,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,mian1254,Tani,mian1254-2
+1,udua,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,mian1254,Tani,mian1254-2
+2,nɛr,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,mian1254,Tani,mian1254-2
 1,bicits,,FALSE,Smith1988,p.66,,midd1327,Silisili,midd1327-1
 2,siruc,,FALSE,Smith1988,p.66,,midd1327,Silisili,midd1327-1
 3,siruc a bicits,,FALSE,Smith1988,p.66,,midd1327,Silisili,midd1327-1
@@ -17573,8 +17573,8 @@ Lorengau.",lenk1247,Lenkau,lenk1247-1
 50,maritoa,,FALSE,Stokhof1980Vol2,p.212,,modo1249,Madole,modo1249-1
 100,ratoehoe mooi,,FALSE,Stokhof1980Vol2,p.212,,modo1249,Madole,modo1249-1
 1000,sariboes moi,,FALSE,Stokhof1980Vol2,p.212,,modo1249,Madole,modo1249-1
-1,ŋkonmaŋɛm,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,moer1240,Moere,moer1240-1
-2,ɛrkiɛ,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,moer1240,Moere,moer1240-1
+1,ŋkonmaŋɛm,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,moer1240,Moere,moer1240-1
+2,ɛrkiɛ,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,moer1240,Moere,moer1240-1
 1,mèli,,FALSE,Stokhof1983Vol5.2,p.15,,moii1235,Moi,moii1235-1
 1,máli,,FALSE,Stokhof1983Vol5.2,p.15,,moii1235,Moi,moii1235-1
 2,ali,,FALSE,Stokhof1983Vol5.2,p.15,,moii1235,Moi,moii1235-1
@@ -17951,8 +17951,8 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 8,upɔrkaːrɔp,,FALSE,Capell1951,p.144,,more1258,Murusapa,more1258-1
 9,upɔrrambam,,FALSE,Capell1951,p.144,,more1258,Murusapa,more1258-1
 10,upɔrigur,,FALSE,Capell1951,p.144,,more1258,Murusapa,more1258-1
-1,minzʌk,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,more1258,Moresada,more1258-2
-2,ɛːrʌy,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,more1258,Moresada,more1258-2
+1,minzʌk,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,more1258,Moresada,more1258-2
+2,ɛːrʌy,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,more1258,Moresada,more1258-2
 1,Asa,,FALSE,Stokhof1985Vol7.4,p.55,,mori1268,Mori,mori1268-1
 2,Oroea,,FALSE,Stokhof1985Vol7.4,p.55,,mori1268,Mori,mori1268-1
 3,Otoloe,,FALSE,Stokhof1985Vol7.4,p.55,,mori1268,Mori,mori1268-1
@@ -18008,8 +18008,8 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 1,jènadu,,FALSE,Galis1955,p.168,,moro1289,Moraori,moro1289-1
 2,pènèr,,FALSE,Galis1955,p.168,,moro1289,Moraori,moro1289-1
 3,ndènadu,,FALSE,Galis1955,p.168,,moro1289,Moraori,moro1289-1
-1,nonotʌ,,FALSE,Z'graggen1980Mabuso,p.92,,mosi1248,Mosimo,mosi1248-1
-2,alita,,FALSE,Z'graggen1980Mabuso,p.92,,mosi1248,Mosimo,mosi1248-1
+1,nonotʌ,,FALSE,Zgraggen1980Mabuso,p.92,,mosi1248,Mosimo,mosi1248-1
+2,alita,,FALSE,Zgraggen1980Mabuso,p.92,,mosi1248,Mosimo,mosi1248-1
 1,ta,,FALSE,Lean1986Vol07,p.67,54 CSQs.,motu1246,Motu,motu1246-1
 2,rua,,FALSE,Lean1986Vol07,p.67,54 CSQs.,motu1246,Motu,motu1246-1
 3,toi,,FALSE,Lean1986Vol07,p.67,54 CSQs.,motu1246,Motu,motu1246-1
@@ -18231,8 +18231,8 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 3,uakini,,FALSE,Ray1929,p.81,,mula1254,Mulaha,mula1254-2
 4,ebainebaine,,FALSE,Ray1929,p.81,,mula1254,Mulaha,mula1254-2
 5,ebainebaine-seboke,,FALSE,Ray1929,p.81,,mula1254,Mulaha,mula1254-2
-1,mʉŋɡia,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,mumm1238,Katiati,mumm1238-1
-2,arkita,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,mumm1238,Katiati,mumm1238-1
+1,mʉŋɡia,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,mumm1238,Katiati,mumm1238-1
+2,arkita,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,mumm1238,Katiati,mumm1238-1
 1,ise,,FALSE,Stokhof1985Vol7.4,pp.173-174,,muna1247,Muna,muna1247-1
 2,doea,,FALSE,Stokhof1985Vol7.4,pp.173-174,,muna1247,Muna,muna1247-1
 2,roea,,FALSE,Stokhof1985Vol7.4,pp.173-174,,muna1247,Muna,muna1247-1
@@ -18286,8 +18286,8 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 10,wa tarerak,both (hands) together,FALSE,Smith1988,p.88,,mung1272,Munkip,mung1272-1
 11,kafong wa tarerak kadak kubugan,"hands together, foot one",FALSE,Smith1988,p.88,,mung1272,Munkip,mung1272-1
 20,kadak watarerak,legs finished,FALSE,Smith1988,p.88,,mung1272,Munkip,mung1272-1
-1,tɛtaʔʌt,,FALSE,Z'graggen1980Mabuso,p.92,,muni1257,Munit,muni1257-1
-2,eta,,FALSE,Z'graggen1980Mabuso,p.92,,muni1257,Munit,muni1257-1
+1,tɛtaʔʌt,,FALSE,Zgraggen1980Mabuso,p.92,,muni1257,Munit,muni1257-1
+2,eta,,FALSE,Zgraggen1980Mabuso,p.92,,muni1257,Munit,muni1257-1
 1,nji,,FALSE,Smith2015,pp.351-353,,muri1259,Ngorek (Murik),muri1259-1
 2,luaʔ,,FALSE,Smith2015,pp.351-353,,muri1259,Ngorek (Murik),muri1259-1
 3,təloʔ,,FALSE,Smith2015,pp.351-353,,muri1259,Ngorek (Murik),muri1259-1
@@ -18401,8 +18401,8 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 13,bayá yetara,yetara = right,FALSE,Kasprus1942,pp.746-747,,muru1273,Garus (Pap.) Ate̱-Dialect,muru1273-1
 15,sagiya yetara,,FALSE,Kasprus1942,pp.746-747,,muru1273,Garus (Pap.) Ate̱-Dialect,muru1273-1
 20,samúyata yetara,,FALSE,Kasprus1942,pp.746-747,,muru1273,Garus (Pap.) Ate̱-Dialect,muru1273-1
-1,nunuɡata,,FALSE,Z'graggen1980Mabuso,p.92,,muru1273,Murupi,muru1273-2
-2,ʌliɛta,,FALSE,Z'graggen1980Mabuso,p.92,,muru1273,Murupi,muru1273-2
+1,nunuɡata,,FALSE,Zgraggen1980Mabuso,p.92,,muru1273,Murupi,muru1273-2
+2,ʌliɛta,,FALSE,Zgraggen1980Mabuso,p.92,,muru1273,Murupi,muru1273-2
 1,takolik,,FALSE,LeanMadang,p.22,SIL Word List (1975). Village: Seremben.,musa1265,Musar,musa1265-1
 2,elep,,FALSE,LeanMadang,p.22,SIL Word List (1975). Village: Seremben.,musa1265,Musar,musa1265-1
 3,elep takolik,2 + 1,FALSE,LeanMadang,p.22,SIL Word List (1975). Village: Seremben.,musa1265,Musar,musa1265-1
@@ -18414,16 +18414,16 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 3,e'rep ta'karig,,FALSE,Capell1951,p.197,,musa1265,Vanémbere,musa1265-2
 4,e'repe'rep,,FALSE,Capell1951,p.197,,musa1265,Vanémbere,musa1265-2
 5,e'repe'rp ta'karig,,FALSE,Capell1951,p.197,,musa1265,Vanémbere,musa1265-2
-1,tʌkoːlik,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,musa1265,Musar,musa1265-3
-2,ɛlɛp,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,musa1265,Musar,musa1265-3
+1,tʌkoːlik,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,musa1265,Musar,musa1265-3
+2,ɛlɛp,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,musa1265,Musar,musa1265-3
 1,pabra,,FALSE,Daniels2016,p.219,,musa1266,Aisi,musa1266-1
 2,agrenda,,FALSE,Daniels2016,p.219,,musa1266,Aisi,musa1266-1
 1,pɑβrɑ,,FALSE,Daniels2014Item326,p.94,,musa1266,Aisi,musa1266-2
 2,ɑɣrendɑ,,FALSE,Daniels2014Item326,p.94,,musa1266,Aisi,musa1266-2
 3,sekrendɑ,,FALSE,Daniels2014Item326,p.94,,musa1266,Aisi,musa1266-2
 4,kuru koɡor rɑ,mak blo Tobias (he can’t count higher in Aisi),FALSE,Daniels2014Item326,p.94,,musa1266,Aisi,musa1266-2
-1,pʌbra,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,musa1266,Musak,musa1266-3
-2,aɡrɛnda,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,musa1266,Musak,musa1266-3
+1,pʌbra,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,musa1266,Musak,musa1266-3
+2,aɡrɛnda,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,musa1266,Musak,musa1266-3
 1,munuts,,FALSE,Smith1988,pp.69-70,,muso1238,Musom,muso1238-1
 2,siluk,,FALSE,Smith1988,pp.69-70,,muso1238,Musom,muso1238-1
 3,siluk da wen,,FALSE,Smith1988,pp.69-70,,muso1238,Musom,muso1238-1
@@ -18822,8 +18822,8 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 9,ˈjɑwer,,FALSE,Lebold2014,p.29,,naka1265,Nagi (Tarngob village),naka1265-1
 10,mɑˈɽiŋ,,FALSE,Lebold2014,p.29,,naka1265,Nagi (Tarngob village),naka1265-1
 20,bɑk̚mɑˈɾiŋ,,FALSE,Lebold2014,p.29,,naka1265,Nagi (Tarngob village),naka1265-1
-1,yʌhu,,FALSE,Z'graggen1980Mabuso,p.92,,nake1240,Nake,nake1240-1
-2,ʌriay,,FALSE,Z'graggen1980Mabuso,p.92,,nake1240,Nake,nake1240-1
+1,yʌhu,,FALSE,Zgraggen1980Mabuso,p.92,,nake1240,Nake,nake1240-1
+2,ʌriay,,FALSE,Zgraggen1980Mabuso,p.92,,nake1240,Nake,nake1240-1
 1,sakai,,FALSE,Lean1985Vol01,p.30,"4 CSQs. Villages: Lugagun, Fisoa.",nali1244,"Nalik (Lugagun, Fisoa)",nali1244-1
 2,uru,,FALSE,Lean1985Vol01,p.30,"4 CSQs. Villages: Lugagun, Fisoa.",nali1244,"Nalik (Lugagun, Fisoa)",nali1244-1
 3,oral,,FALSE,Lean1985Vol01,p.30,"4 CSQs. Villages: Lugagun, Fisoa.",nali1244,"Nalik (Lugagun, Fisoa)",nali1244-1
@@ -19332,8 +19332,8 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 2,undamaj,‘two’,FALSE,Harris1990,p.91,,nend1239,Nend,nend1239-1
 3,undama=pam,‘two=one’,FALSE,Harris1990,p.91,,nend1239,Nend,nend1239-1
 4,undamaj=vam,‘two=only’,FALSE,Harris1990,p.91,,nend1239,Nend,nend1239-1
-1,pamuɡ,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,nend1239,Angaua,nend1239-2
-2,undəmajᵊ,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,nend1239,Angaua,nend1239-2
+1,pamuɡ,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,nend1239,Angaua,nend1239-2
+2,undəmajᵊ,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,nend1239,Angaua,nend1239-2
 1,mendai ,PE *menda,FALSE,Franklin2012,p.51,,nete1240,Nete,nete1240-1
 2,rapo ,PE *lyambo,FALSE,Franklin2012,p.51,,nete1240,Nete,nete1240-1
 3,tepo ,PE *tsembo,FALSE,Franklin2012,p.51,,nete1240,Nete,nete1240-1
@@ -19667,8 +19667,8 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 4,wa𝛿ele,,FALSE,Ray1919,p.330,,nobo1238,Nupanob,nobo1238-2
 5,tanigole,,FALSE,Ray1919,p.330,,nobo1238,Nupanob,nobo1238-2
 5,tanige,,FALSE,Ray1919,p.330,,nobo1238,Nupanob,nobo1238-2
-1,labu,,FALSE,Z'graggen1980Mabuso,p.92,,nobo1238,Garuh,nobo1238-3
-2,ar̃is,,FALSE,Z'graggen1980Mabuso,p.92,,nobo1238,Garuh,nobo1238-3
+1,labu,,FALSE,Zgraggen1980Mabuso,p.92,,nobo1238,Garuh,nobo1238-3
+2,ar̃is,,FALSE,Zgraggen1980Mabuso,p.92,,nobo1238,Garuh,nobo1238-3
 1,tora,,FALSE,Lean1986Vol09,p.70,"2 CSQs. Villages: Nomane, Kurigaba.",noma1262,Nomane,noma1262-1
 2,siral,,FALSE,Lean1986Vol09,p.70,"2 CSQs. Villages: Nomane, Kurigaba.",noma1262,Nomane,noma1262-1
 3,siraye,2 + 1,FALSE,Lean1986Vol09,p.70,"2 CSQs. Villages: Nomane, Kurigaba.",noma1262,Nomane,noma1262-1
@@ -20447,8 +20447,8 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 2,tinʌnʌ,,FALSE,Conrad1975,pp.26-29,,odia1239,Busan,odia1239-3
 3,onʌnʌ,,FALSE,Conrad1975,pp.26-29,,odia1239,Busan,odia1239-3
 4,aite,,FALSE,Conrad1975,pp.26-29,,odia1239,Busan,odia1239-3
-1,ɛtɛŋa,,FALSE,Z'graggen1980RaiCoast,p.92,,ogea1238,Erima,ogea1238-1
-2,ŋanonoŋa,,FALSE,Z'graggen1980RaiCoast,p.92,,ogea1238,Erima,ogea1238-1
+1,ɛtɛŋa,,FALSE,Zgraggen1980RaiCoast,p.92,,ogea1238,Erima,ogea1238-1
+2,ŋanonoŋa,,FALSE,Zgraggen1980RaiCoast,p.92,,ogea1238,Erima,ogea1238-1
 1,saaʔ,,FALSE,Lobel2016,pp.234-239,,okol1241,Kolod,okol1241-1
 1,doonoʔ,,FALSE,Lobel2016,pp.234-239,,okol1241,Kolod,okol1241-1
 2,duo,,FALSE,Lobel2016,pp.234-239,,okol1241,Kolod,okol1241-1
@@ -20924,8 +20924,8 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 17,(ma)songo a darloh,,FALSE,Lean1985Vol02,p.18,1 CSQ. Village: Mokara.,pakt1239,Pak-Tong,pakt1239-2
 19,(ma)songo a dardih,,FALSE,Lean1985Vol02,p.18,1 CSQ. Village: Mokara.,pakt1239,Pak-Tong,pakt1239-2
 20,kotohandih,,FALSE,Lean1985Vol02,p.18,1 CSQ. Village: Mokara.,pakt1239,Pak-Tong,pakt1239-2
-1,utʌmʌt,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,pall1244,Abasakur,pall1244-1
-2,arasa,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,pall1244,Abasakur,pall1244-1
+1,utʌmʌt,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,pall1244,Abasakur,pall1244-1
+2,arasa,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,pall1244,Abasakur,pall1244-1
 1,saaʔ,,FALSE,Lobel2016,pp.234-239,,palu1253,Murut Paluan,palu1253-1
 2,duo,,FALSE,Lobel2016,pp.234-239,,palu1253,Murut Paluan,palu1253-1
 3,talu,,FALSE,Lobel2016,pp.234-239,,palu1253,Murut Paluan,palu1253-1
@@ -21017,8 +21017,8 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 100,saatu,,FALSE,Arnaud1998,pp.863-879 [word list item numbers],,pamo1252,Pamona (Poso/Tentena dialect),pamo1252-3
 1000,sancowu,,FALSE,Arnaud1998,pp.863-879 [word list item numbers],,pamo1252,Pamona (Poso/Tentena dialect),pamo1252-3
 1000000,sandiwu,,FALSE,Arnaud1998,pp.863-879 [word list item numbers],,pamo1252,Pamona (Poso/Tentena dialect),pamo1252-3
-1,tuku,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,pamo1253,Hinihon,pamo1253-1
-2,ilob,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,pamo1253,Hinihon,pamo1253-1
+1,tuku,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,pamo1253,Hinihon,pamo1253-1
+2,ilob,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,pamo1253,Hinihon,pamo1253-1
 1,ŏlūfăn,,FALSE,Ray1919,p.329,,pani1258,Panim,pani1258-1
 2,ĕlĭs,,FALSE,Ray1919,p.329,,pani1258,Panim,pani1258-1
 3,izĕd,,FALSE,Ray1919,p.329,,pani1258,Panim,pani1258-1
@@ -21030,8 +21030,8 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 9,ebĕn-woalai,,FALSE,Ray1919,p.329,,pani1258,Panim,pani1258-1
 10,mama-gūnŭm,,FALSE,Ray1919,p.329,,pani1258,Panim,pani1258-1
 20,gu-gunum,,FALSE,Ray1919,p.329,,pani1258,Panim,pani1258-1
-1,holofar,,FALSE,Z'graggen1980Mabuso,p.92,,pani1258,Panim,pani1258-2
-2,ɛlis,,FALSE,Z'graggen1980Mabuso,p.92,,pani1258,Panim,pani1258-2
+1,holofar,,FALSE,Zgraggen1980Mabuso,p.92,,pani1258,Panim,pani1258-2
+2,ɛlis,,FALSE,Zgraggen1980Mabuso,p.92,,pani1258,Panim,pani1258-2
 1,na'ʔaria,,FALSE,Lean1985Vol03,p.42,"Allen and Hurd, SIL Wordlist, (1963); Teperoi village.",papa1265,Papapana,papa1265-1
 2,nu'ataʔ,,FALSE,Lean1985Vol03,p.42,"Allen and Hurd, SIL Wordlist, (1963); Teperoi village.",papa1265,Papapana,papa1265-1
 3,tau'tonu,,FALSE,Lean1985Vol03,p.42,"Allen and Hurd, SIL Wordlist, (1963); Teperoi village.",papa1265,Papapana,papa1265-1
@@ -21097,8 +21097,8 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 20,duɑpulu,,FALSE,Headland1965Paranan,pp.3-7,,para1306,Paranan (Palanenyo),para1306-1
 100,dɑtos,,FALSE,Headland1965Paranan,pp.3-7,,para1306,Paranan (Palanenyo),para1306-1
 1000,libu,,FALSE,Headland1965Paranan,pp.3-7,,para1306,Paranan (Palanenyo),para1306-1
-1,ɡasiːkʌ,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,para1307,Parawen,para1307-1
-2,babarɛkʌ,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,para1307,Parawen,para1307-1
+1,ɡasiːkʌ,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,para1307,Parawen,para1307-1
+2,babarɛkʌ,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,para1307,Parawen,para1307-1
 1,oteso,,FALSE,Lean1986Vol12,"pp.29, 95",[unknown],pare1271,Pa,pare1271-1
 2,diyabo,Number words for 1 and 2 available only.,FALSE,Lean1986Vol12,"pp.29, 95",[unknown],pare1271,Pa,pare1271-1
 1,piso,,FALSE,Stokhof1980Vol2,pp.291-292,,pata1260,Patani,pata1260-1
@@ -21466,8 +21466,8 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 3,añɨŋuta,,FALSE,Daniels2015,pp.558-560,,payn1244,Manat,payn1244-1
 4,añɨŋa kai mu=k añɨŋa kai,"‘two LOC SPEC=ACC two LOC’ (literally, ‘a two and another two’)",FALSE,Daniels2015,pp.558-560,,payn1244,Manat,payn1244-1
 5,_,expressed by referring to a hand ,FALSE,Daniels2015,pp.558-560,,payn1244,Manat,payn1244-1
-1,wayatʌk,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,payn1244,Paynamar,payn1244-2
-2,añakay,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,payn1244,Paynamar,payn1244-2
+1,wayatʌk,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,payn1244,Paynamar,payn1244-2
+2,añakay,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,payn1244,Paynamar,payn1244-2
 1,ɡɑbəɡeyi,,FALSE,Laycock1971D33,p.4902,,peii1238,Pai,peii1238-1
 2,idɑ·rə,,FALSE,Laycock1971D33,p.4902,,peii1238,Pai,peii1238-1
 3,idɑwfɑrɑ,,FALSE,Laycock1971D33,p.4902,,peii1238,Pai,peii1238-1
@@ -21798,8 +21798,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 20,duwɑ pulo,,FALSE,Nickell1981Pudtol,pp.3-7,,pudt1235,"San Jose, Pudtol",pudt1235-1
 100,mɑgɑtóʔ,,FALSE,Nickell1981Pudtol,pp.3-7,,pudt1235,"San Jose, Pudtol",pudt1235-1
 1000,mɑribúʔ,,FALSE,Nickell1981Pudtol,pp.3-7,,pudt1235,"San Jose, Pudtol",pudt1235-1
-1,hamba,,FALSE,Z'graggen1980RaiCoast,p.92,,pula1267,Pulabu,pula1267-1
-2,yobr̃om,,FALSE,Z'graggen1980RaiCoast,p.92,,pula1267,Pulabu,pula1267-1
+1,hamba,,FALSE,Zgraggen1980RaiCoast,p.92,,pula1267,Pulabu,pula1267-1
+2,yobr̃om,,FALSE,Zgraggen1980RaiCoast,p.92,,pula1267,Pulabu,pula1267-1
 1,ji,,FALSE,Urquhart1955,p.195,,puna1275,House Punan Bah,puna1275-1
 2,duo,,FALSE,Urquhart1955,p.195,,puna1275,House Punan Bah,puna1275-1
 3,telu,,FALSE,Urquhart1955,p.195,,puna1275,House Punan Bah,puna1275-1
@@ -22063,8 +22063,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 4,'siura,,FALSE,Lean1985Vol03,p.39,"Allen and Hurd, SIL Wordlist, (1963); Koatoroi village.",rapo1238,Konua,rapo1238-1
 5,'hurou,,FALSE,Lean1985Vol03,p.39,"Allen and Hurd, SIL Wordlist, (1963); Koatoroi village.",rapo1238,Konua,rapo1238-1
 10,kahuroa,,FALSE,Lean1985Vol03,p.39,"Allen and Hurd, SIL Wordlist, (1963); Koatoroi village.",rapo1238,Konua,rapo1238-1
-1,yeuta,,FALSE,Z'graggen1980Mabuso,p.92,,rapt1240,Rapting,rapt1240-1
-2,aliʔliʔ,,FALSE,Z'graggen1980Mabuso,p.92,,rapt1240,Rapting,rapt1240-1
+1,yeuta,,FALSE,Zgraggen1980Mabuso,p.92,,rapt1240,Rapting,rapt1240-1
+2,aliʔliʔ,,FALSE,Zgraggen1980Mabuso,p.92,,rapt1240,Rapting,rapt1240-1
 1,(asa),,FALSE,Ray1913,p.59,,rara1235,Lara,rara1235-1
 2,(dua),,FALSE,Ray1913,p.59,,rara1235,Lara,rara1235-1
 3,(taru),,FALSE,Ray1913,p.59,,rara1235,Lara,rara1235-1
@@ -22166,10 +22166,10 @@ Lorengau.",penc1239,Penchal,penc1239-1
 4,walik,,FALSE,Ray1919,p.330,,remp1241,Rempin,remp1241-3
 5,heta,,FALSE,Ray1919,p.330,,remp1241,Rempin,remp1241-3
 10,hibeka tabel,,FALSE,Ray1919,p.330,,remp1241,Rempin,remp1241-3
-1,atʌl,,FALSE,Z'graggen1980Mabuso,p.92,,remp1241,Rempi,remp1241-4
-2,air,,FALSE,Z'graggen1980Mabuso,p.92,,remp1241,Rempi,remp1241-4
-1,ɡidei,,FALSE,Z'graggen1980RaiCoast,p.92,,rera1240,Rerau,rera1240-1
-2,ʌwil,,FALSE,Z'graggen1980RaiCoast,p.92,,rera1240,Rerau,rera1240-1
+1,atʌl,,FALSE,Zgraggen1980Mabuso,p.92,,remp1241,Rempi,remp1241-4
+2,air,,FALSE,Zgraggen1980Mabuso,p.92,,remp1241,Rempi,remp1241-4
+1,ɡidei,,FALSE,Zgraggen1980RaiCoast,p.92,,rera1240,Rerau,rera1240-1
+2,ʌwil,,FALSE,Zgraggen1980RaiCoast,p.92,,rera1240,Rerau,rera1240-1
 1,mebö,,FALSE,Galis1955,p.169,,rian1263,Riantana,rian1263-1
 2,enava,,FALSE,Galis1955,p.169,,rian1263,Riantana,rian1263-1
 3,pendö,,FALSE,Galis1955,p.169,,rian1263,Riantana,rian1263-1
@@ -22441,8 +22441,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 4,dako,,FALSE,LeanMadang,p.73,SIL Word List (1968). Village: Orinma.,saep1240,Saep,saep1240-1
 5,wambe,‘wab’ = ‘hand’,FALSE,LeanMadang,p.73,SIL Word List (1968). Village: Orinma.,saep1240,Saep,saep1240-1
 10,wam abode,‘hand(s) two’,FALSE,LeanMadang,p.73,SIL Word List (1968). Village: Orinma.,saep1240,Saep,saep1240-1
-1,halɛbɛ,,FALSE,Z'graggen1980RaiCoast,p.92,,saep1240,Saep,saep1240-2
-2,abodɛ,,FALSE,Z'graggen1980RaiCoast,p.92,,saep1240,Saep,saep1240-2
+1,halɛbɛ,,FALSE,Zgraggen1980RaiCoast,p.92,,saep1240,Saep,saep1240-2
+2,abodɛ,,FALSE,Zgraggen1980RaiCoast,p.92,,saep1240,Saep,saep1240-2
 1,anga'no,,FALSE,Smith1988,p.101,,safe1240,Safeyoka,safe1240-1
 2,hufa'u,,FALSE,Smith1988,p.101,,safe1240,Safeyoka,safe1240-1
 3,hufa'u sihune,,FALSE,Smith1988,p.101,,safe1240,Safeyoka,safe1240-1
@@ -22538,8 +22538,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 2,lilo,,FALSE,Ray1919,p.329,,samm1244,Sungum,samm1244-1
 3,galub,,FALSE,Ray1919,p.329,,samm1244,Sungum,samm1244-1
 5,bar-gud’i,,FALSE,Ray1919,p.329,,samm1244,Sungum,samm1244-1
-1,kuji,,FALSE,Z'graggen1980RaiCoast,p.92,,samm1244,Songum,samm1244-2
-2,lilo,,FALSE,Z'graggen1980RaiCoast,p.92,,samm1244,Songum,samm1244-2
+1,kuji,,FALSE,Zgraggen1980RaiCoast,p.92,,samm1244,Songum,samm1244-2
+2,lilo,,FALSE,Zgraggen1980RaiCoast,p.92,,samm1244,Songum,samm1244-2
 1,helenu,,FALSE,Lean1986Vol12,p.30,SIL Word List (1973). (Samo d.). IMP/SIL Questionnaire,samo1303,Nomad (Samo dialect),samo1303-1
 2,benau,,FALSE,Lean1986Vol12,p.30,SIL Word List (1973). (Samo d.). IMP/SIL Questionnaire,samo1303,Nomad (Samo dialect),samo1303-1
 3,behelo,,FALSE,Lean1986Vol12,p.30,SIL Word List (1973). (Samo d.). IMP/SIL Questionnaire,samo1303,Nomad (Samo dialect),samo1303-1
@@ -22547,8 +22547,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 5,benau-ili benau-ili mesantale,2 + 2 + 1 (‘mesantale’ is translated as ‘one alone’),FALSE,Lean1986Vol12,p.30,SIL Word List (1973). (Samo d.). IMP/SIL Questionnaire,samo1303,Nomad (Samo dialect),samo1303-1
 6,benau-ili benau-ili benau-ili,,FALSE,Lean1986Vol12,p.30,SIL Word List (1973). (Samo d.). IMP/SIL Questionnaire,samo1303,Nomad (Samo dialect),samo1303-1
 10,kwa'imodo,,FALSE,Lean1986Vol12,p.30,SIL Word List (1973). (Samo d.). IMP/SIL Questionnaire,samo1303,Nomad (Samo dialect),samo1303-1
-1,noːtate,,FALSE,Z'graggen1980Mabuso,p.92,,samo1306,Samosa,samo1306-1
-2,ariɡita(tɛ),,FALSE,Z'graggen1980Mabuso,p.92,,samo1306,Samosa,samo1306-1
+1,noːtate,,FALSE,Zgraggen1980Mabuso,p.92,,samo1306,Samosa,samo1306-1
+2,ariɡita(tɛ),,FALSE,Zgraggen1980Mabuso,p.92,,samo1306,Samosa,samo1306-1
 1,sěmbau,(when counting: kẹ̌sạ),FALSE,Stokhof1982Vol4,p.184,,sang1336,Sangir: Beran Manganitu,sang1336-1
 1,sěngkatau,,FALSE,Stokhof1982Vol4,p.184,,sang1336,Sangir: Beran Manganitu,sang1336-1
 2,darua,(when counting: dua),FALSE,Stokhof1982Vol4,p.184,,sang1336,Sangir: Beran Manganitu,sang1336-1
@@ -23166,8 +23166,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 20,ruampolo,,FALSE,Yamaguchi2003,p.28,,saru1242,Sarudu,saru1242-1
 100,hatu,,FALSE,Yamaguchi2003,p.28,,saru1242,Sarudu,saru1242-1
 1000,hanjobu,,FALSE,Yamaguchi2003,p.28,,saru1242,Sarudu,saru1242-1
-1,nunuɡata,,FALSE,Z'graggen1980Mabuso,p.92,,saru1243,Saruga,saru1243-1
-2,arɛta,,FALSE,Z'graggen1980Mabuso,p.92,,saru1243,Saruga,saru1243-1
+1,nunuɡata,,FALSE,Zgraggen1980Mabuso,p.92,,saru1243,Saruga,saru1243-1
+2,arɛta,,FALSE,Zgraggen1980Mabuso,p.92,,saru1243,Saruga,saru1243-1
 1,sópó',,FALSE,Stokhof1983Vol6,pp.127-128,,sasa1249,Sasak <Sakra> (Lombok),sasa1249-1
 1,ěsa,,FALSE,Stokhof1983Vol6,pp.127-128,,sasa1249,Sasak <Sakra> (Lombok),sasa1249-1
 2,doeě,,FALSE,Stokhof1983Vol6,pp.127-128,,sasa1249,Sasak <Sakra> (Lombok),sasa1249-1
@@ -23262,8 +23262,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 5,hadɛsakɪn,,FALSE,AnonymousRamuB,"pp.2, 6",,saus1246,Kou (Sausi Village),saus1246-1
 10,hatailtowabunum,,FALSE,AnonymousRamuB,"pp.2, 6",,saus1246,Kou (Sausi Village),saus1246-1
 10,hatail,,FALSE,AnonymousRamuB,"pp.2, 6",,saus1246,Kou (Sausi Village),saus1246-1
-1,ʌdrai,,FALSE,Z'graggen1980RaiCoast,p.92,,saus1246,Sausi,saus1246-2
-2,aere,,FALSE,Z'graggen1980RaiCoast,p.92,,saus1246,Sausi,saus1246-2
+1,ʌdrai,,FALSE,Zgraggen1980RaiCoast,p.92,,saus1246,Sausi,saus1246-2
+2,aere,,FALSE,Zgraggen1980RaiCoast,p.92,,saus1246,Sausi,saus1246-2
 1,puso,,FALSE,Teljeur1982,pp.145-146,,sawa1247,Foya/Mafa,sawa1247-1
 2,pelú,,FALSE,Teljeur1982,pp.145-146,,sawa1247,Foya/Mafa,sawa1247-1
 3,petēl,,FALSE,Teljeur1982,pp.145-146,,sawa1247,Foya/Mafa,sawa1247-1
@@ -24094,8 +24094,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 12,dua-blis,,FALSE,Ray1913,"pp.58, 61",,sibu1258,Siduan,sibu1258-1
 20,dua-puloh,,FALSE,Ray1913,"pp.58, 61",,sibu1258,Siduan,sibu1258-1
 100,jah-ratus,,FALSE,Ray1913,"pp.58, 61",,sibu1258,Siduan,sibu1258-1
-1,oraʔit,,FALSE,Z'graggen1980Mabuso,p.92,,siha1245,Sihan,siha1245-1
-2,ɛrit,,FALSE,Z'graggen1980Mabuso,p.92,,siha1245,Sihan,siha1245-1
+1,oraʔit,,FALSE,Zgraggen1980Mabuso,p.92,,siha1245,Sihan,siha1245-1
+2,ɛrit,,FALSE,Zgraggen1980Mabuso,p.92,,siha1245,Sihan,siha1245-1
 1,ha,,FALSE,Stokhof1983Vol6,p.249,,sika1262,Sikka (Central Flores),sika1262-1
 2,roea,,FALSE,Stokhof1983Vol6,p.249,,sika1262,Sikka (Central Flores),sika1262-1
 3,telloe,,FALSE,Stokhof1983Vol6,p.249,,sika1262,Sikka (Central Flores),sika1262-1
@@ -24250,8 +24250,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 5,numdu kuri,,FALSE,Daniels2014Item331,p.34,,sile1255,Sirva,sile1255-2
 10,musuɣ tuku,tuku = double fist (w/ 2 hands),FALSE,Daniels2014Item331,p.34,,sile1255,Sirva,sile1255-2
 20,erɑŋɑ tuku,,FALSE,Daniels2014Item331,p.34,,sile1255,Sirva,sile1255-2
-1,mususʌ,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,sile1255,Sileibi,sile1255-3
-2,ɛːraŋ,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,sile1255,Sileibi,sile1255-3
+1,mususʌ,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,sile1255,Sileibi,sile1255-3
+2,ɛːraŋ,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,sile1255,Sileibi,sile1255-3
 1,bokiev,,FALSE,LeanSandaun,p.34,SIL Word List (1980). Village: Seleput. ,sili1247,Siliput,sili1247-1
 2,wurikin,,FALSE,LeanSandaun,p.34,SIL Word List (1980). Village: Seleput. ,sili1247,Siliput,sili1247-1
 3,wurbouk,It is uncertain whether 3 is a distinct numeral or whether it is an amalgam of 2 and 1,FALSE,LeanSandaun,p.34,SIL Word List (1980). Village: Seleput. ,sili1247,Siliput,sili1247-1
@@ -24262,8 +24262,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 3,wr̃i boup,,FALSE,Laycock1967C09,p.52,,sili1247,Siliput,sili1247-2
 4,wʊ́rəkŋɑ́wrikɛŋ,,FALSE,Laycock1967C09,p.52,,sili1247,Siliput,sili1247-2
 5,lɛduɡlən,[laŋ = hand],FALSE,Laycock1967C09,p.52,,sili1247,Siliput,sili1247-2
-1,ozɛɡɛn,,FALSE,Z'graggen1980Mabuso,p.92,,silo1240,Silopi,silo1240-1
-2,bɛrɛtɛk,,FALSE,Z'graggen1980Mabuso,p.92,,silo1240,Silopi,silo1240-1
+1,ozɛɡɛn,,FALSE,Zgraggen1980Mabuso,p.92,,silo1240,Silopi,silo1240-1
+2,bɛrɛtɛk,,FALSE,Zgraggen1980Mabuso,p.92,,silo1240,Silopi,silo1240-1
 1,piriminia,,FALSE,Lean1986Vol11,"pp.40, 60",[unknown],simb1255,Simbari,simb1255-1
 2,piviraalna,Data available only for numbers 1 and 2.,FALSE,Lean1986Vol11,"pp.40, 60",[unknown],simb1255,Simbari,simb1255-1
 1,mésa,people,FALSE,Stokhof1987Vol10.3,pp.40-41,,sime1241,Lêkon,sime1241-1
@@ -24538,10 +24538,10 @@ Lorengau.",penc1239,Penchal,penc1239-1
 4,ʔɛdiaɛlʔɛdiaɛl,,FALSE,AnonymousRamuB,"pp.2, 6",,sins1241,Kou (Koroba Village),sins1241-2
 5,wapadɪn,[(his) hand = nɛowapi],FALSE,AnonymousRamuB,"pp.2, 6",,sins1241,Kou (Koroba Village),sins1241-2
 10,wabiɛdɪkwadiboɛdi,,FALSE,AnonymousRamuB,"pp.2, 6",,sins1241,Kou (Koroba Village),sins1241-2
-1,atine,,FALSE,Z'graggen1980RaiCoast,p.92,,sins1241,Sinsauru,sins1241-3
-2,ailɛ,,FALSE,Z'graggen1980RaiCoast,p.92,,sins1241,Sinsauru,sins1241-3
-1,adine,,FALSE,Z'graggen1980RaiCoast,p.92,,sins1241,Asas,sins1241-4
-2,airɛ,,FALSE,Z'graggen1980RaiCoast,p.92,,sins1241,Asas,sins1241-4
+1,atine,,FALSE,Zgraggen1980RaiCoast,p.92,,sins1241,Sinsauru,sins1241-3
+2,ailɛ,,FALSE,Zgraggen1980RaiCoast,p.92,,sins1241,Sinsauru,sins1241-3
+1,adine,,FALSE,Zgraggen1980RaiCoast,p.92,,sins1241,Asas,sins1241-4
+2,airɛ,,FALSE,Zgraggen1980RaiCoast,p.92,,sins1241,Asas,sins1241-4
 1,taitu,,FALSE,Smith1988,pp.62-63,,sioo1240,Sio,sioo1240-1
 2,rua,,FALSE,Smith1988,pp.62-63,,sioo1240,Sio,sioo1240-1
 3,ngato,,FALSE,Smith1988,pp.62-63,,sioo1240,Sio,sioo1240-1
@@ -24590,8 +24590,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 4,bailkamba,,FALSE,LeanMadang,p.70,SIL Word List (undated). Village: Kumisanger.,siro1249,Siroi,siro1249-3
 5,wai inum sulumba,"‘wai’ = ‘hand, arm’",FALSE,LeanMadang,p.70,SIL Word List (undated). Village: Kumisanger.,siro1249,Siroi,siro1249-3
 10,wai armba sulumba,"‘wai’ = ‘hand, arm’",FALSE,LeanMadang,p.70,SIL Word List (undated). Village: Kumisanger.,siro1249,Siroi,siro1249-3
-1,ndindo,,FALSE,Z'graggen1980RaiCoast,p.92,,siro1249,Suroi,siro1249-4
-2,armba,,FALSE,Z'graggen1980RaiCoast,p.92,,siro1249,Suroi,siro1249-4
+1,ndindo,,FALSE,Zgraggen1980RaiCoast,p.92,,siro1249,Suroi,siro1249-4
+2,armba,,FALSE,Zgraggen1980RaiCoast,p.92,,siro1249,Suroi,siro1249-4
 1,keike,,FALSE,Ross2002,p.459,,sisi1250,Sisiqa,sisi1250-1
 2,keri,,FALSE,Ross2002,p.459,,sisi1250,Sisiqa,sisi1250-1
 3,tulu,,FALSE,Ross2002,p.459,,sisi1250,Sisiqa,sisi1250-1
@@ -24782,8 +24782,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 4,dokɔp,,FALSE,AnonymousRamuB,"pp.2, 6",,sopp1247,Usino (Usino/Dakawo Village),sopp1247-4
 5,tapa,,FALSE,AnonymousRamuB,"pp.2, 6",,sopp1247,Usino (Usino/Dakawo Village),sopp1247-4
 10,fɔkɔ,,FALSE,AnonymousRamuB,"pp.2, 6",,sopp1247,Usino (Usino/Dakawo Village),sopp1247-4
-1,ɡuranata,,FALSE,Z'graggen1980RaiCoast,p.92,,sopp1247,Usino,sopp1247-5
-2,akʰuru,,FALSE,Z'graggen1980RaiCoast,p.92,,sopp1247,Usino,sopp1247-5
+1,ɡuranata,,FALSE,Zgraggen1980RaiCoast,p.92,,sopp1247,Usino,sopp1247-5
+2,akʰuru,,FALSE,Zgraggen1980RaiCoast,p.92,,sopp1247,Usino,sopp1247-5
 1,sip ,,FALSE,Blust2021,"pp.24, 30, 31, 37",,sori1242,Sori,sori1242-1
 2,huop ,,FALSE,Blust2021,"pp.24, 30, 31, 37",,sori1242,Sori,sori1242-1
 3,tarop ,,FALSE,Blust2021,"pp.24, 30, 31, 37",,sori1242,Sori,sori1242-1
@@ -25446,8 +25446,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 10,nɑpulu,,FALSE,Anonymous1961,pp.3-7,,sulo1237,"Sugudnon (collected in Villafont, Sibalom, Antique, Panay)",sulo1237-1
 20,dɑrɑwɑm puluʔ,,FALSE,Anonymous1961,pp.3-7,,sulo1237,"Sugudnon (collected in Villafont, Sibalom, Antique, Panay)",sulo1237-1
 100,sɑnɡ ɡɑtus,,FALSE,Anonymous1961,pp.3-7,,sulo1237,"Sugudnon (collected in Villafont, Sibalom, Antique, Panay)",sulo1237-1
-1,kirɛn,,FALSE,Z'graggen1980RaiCoast,p.92,,suma1270,Sumau,suma1270-1
-2,aʔɛri,,FALSE,Z'graggen1980RaiCoast,p.92,,suma1270,Sumau,suma1270-1
+1,kirɛn,,FALSE,Zgraggen1980RaiCoast,p.92,,suma1270,Sumau,suma1270-1
+2,aʔɛri,,FALSE,Zgraggen1980RaiCoast,p.92,,suma1270,Sumau,suma1270-1
 1,tikai,,FALSE,Lean1985Vol01,p.48,"4 CSQs, 2 IMP. Villages: Hilalon, Himau, Samo, Poronbus.",surs1246,"Sursurunga (Hilalon, Himau, Samo, and Poronbus villages)",surs1246-1
 1,(kes),,FALSE,Lean1985Vol01,p.48,"4 CSQs, 2 IMP. Villages: Hilalon, Himau, Samo, Poronbus.",surs1246,"Sursurunga (Hilalon, Himau, Samo, and Poronbus villages)",surs1246-1
 2,(a) ru,,FALSE,Lean1985Vol01,p.48,"4 CSQs, 2 IMP. Villages: Hilalon, Himau, Samo, Poronbus.",surs1246,"Sursurunga (Hilalon, Himau, Samo, and Poronbus villages)",surs1246-1
@@ -26373,8 +26373,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 3,ʔeni,,FALSE,LeanMadang,p.58,SIL Word List (1977). Village: Tauya.,tauy1241,Tauya,tauy1241-1
 4,niawin niawin,2 + 2,FALSE,LeanMadang,p.58,SIL Word List (1977). Village: Tauya.,tauy1241,Tauya,tauy1241-1
 5,apasa ʔusuwana,"‘arm, hand’ is ‘ʔimo’, ‘thumb’ is ‘aniamo’, neither of which appear in ‘apasa ʔusuwana’",FALSE,LeanMadang,p.58,SIL Word List (1977). Village: Tauya.,tauy1241,Tauya,tauy1241-1
-1,aᵽana,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,tauy1241,Tauya,tauy1241-2
-2,awi,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,tauy1241,Tauya,tauy1241-2
+1,aᵽana,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,tauy1241,Tauya,tauy1241-2
+2,awi,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,tauy1241,Tauya,tauy1241-2
 1,emosi,,FALSE,Lean1986Vol06,p.59,"11 CSQs. Villages: Rabae (2), Gwavili, Sikwala, Awaiama, Tuboda, Likaboga, Huhuna, East Cape, Waema, Nigila.",tawa1275,Kehelala,tawa1275-1
 2,luwaga,,FALSE,Lean1986Vol06,p.59,"11 CSQs. Villages: Rabae (2), Gwavili, Sikwala, Awaiama, Tuboda, Likaboga, Huhuna, East Cape, Waema, Nigila.",tawa1275,Kehelala,tawa1275-1
 2,(luaga),,FALSE,Lean1986Vol06,p.59,"11 CSQs. Villages: Rabae (2), Gwavili, Sikwala, Awaiama, Tuboda, Likaboga, Huhuna, East Cape, Waema, Nigila.",tawa1275,Kehelala,tawa1275-1
@@ -28122,8 +28122,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 30,talupuloh,,FALSE,Urquhart1955,pp.195-196,,ukit1237,Ukit,ukit1237-1
 100,aiatu,,FALSE,Urquhart1955,pp.195-196,,ukit1237,Ukit,ukit1237-1
 1000,airibu,,FALSE,Urquhart1955,pp.195-196,,ukit1237,Ukit,ukit1237-1
-1,kapaika,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,ukur1240,Ukuriguma,ukur1240-1
-2,brabraka,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,ukur1240,Ukuriguma,ukur1240-1
+1,kapaika,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,ukur1240,Ukuriguma,ukur1240-1
+2,brabraka,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,ukur1240,Ukuriguma,ukur1240-1
 1,tai,,FALSE,Ray1919,p.328,,ulau1237,(Sauvein),ulau1237-1
 2,ru,,FALSE,Ray1919,p.328,,ulau1237,(Sauvein),ulau1237-1
 3,tul,,FALSE,Ray1919,p.328,,ulau1237,(Sauvein),ulau1237-1
@@ -28391,8 +28391,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 3,eyu'gao'n,,FALSE,LeanMadang,p.60,SIL Word List (1977). Village: Urigina.,urig1240,Urigina,urig1240-3
 4,porumbu,,FALSE,LeanMadang,p.60,SIL Word List (1977). Village: Urigina.,urig1240,Urigina,urig1240-3
 5,a'numgat,"The word for ‘hand’ is ‘kam’be’ and that for ‘thumb’ is ‘simbiobu’, neither of which appears in the number word for 5, ‘a’numgat’.",FALSE,LeanMadang,p.60,SIL Word List (1977). Village: Urigina.,urig1240,Urigina,urig1240-3
-1,kɛɡrʌːk,,FALSE,Z'graggen1980RaiCoast,p.92,,urig1240,Urigina,urig1240-4
-2,akɛr,,FALSE,Z'graggen1980RaiCoast,p.92,,urig1240,Urigina,urig1240-4
+1,kɛɡrʌːk,,FALSE,Zgraggen1980RaiCoast,p.92,,urig1240,Urigina,urig1240-4
+2,akɛr,,FALSE,Zgraggen1980RaiCoast,p.92,,urig1240,Urigina,urig1240-4
 1,kubinik,,FALSE,LeanMorobe,p.87,SIL (1976). Village: Siara.,urii1240,Urii,urii1240-1
 2,famaaʔ,,FALSE,LeanMorobe,p.87,SIL (1976). Village: Siara.,urii1240,Urii,urii1240-1
 3,famaneng,the numeral 3 can [possibly] be regarded as a compound which contains the numeral 2,FALSE,LeanMorobe,p.87,SIL (1976). Village: Siara.,urii1240,Urii,urii1240-1
@@ -28492,8 +28492,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 10,putisá,,FALSE,Galis1960,p.139,,urua1244,Faur,urua1244-1
 11,putisa-resin-sá,,FALSE,Galis1960,p.139,,urua1244,Faur,urua1244-1
 20,putinua,,FALSE,Galis1960,p.139,,urua1244,Faur,urua1244-1
-1,ɡʌri,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,usan1239,Wanuma,usan1239-1
-2,ʌmbur,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,usan1239,Wanuma,usan1239-1
+1,ɡʌri,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,usan1239,Wanuma,usan1239-1
+2,ʌmbur,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,usan1239,Wanuma,usan1239-1
 1,morama,nominal suffix ‘-ma’,FALSE,Lean1986Vol08,p.44,S.I.L word list (1968). Village: Arona.,usar1243,Usarufa,usar1243-1
 2,kaayaqa,nominal suffix ‘-qa’,FALSE,Lean1986Vol08,p.44,S.I.L word list (1968). Village: Arona.,usar1243,Usarufa,usar1243-1
 3,kaomomo,nominal suffix ‘-ma’,FALSE,Lean1986Vol08,p.44,S.I.L word list (1968). Village: Arona.,usar1243,Usarufa,usar1243-1
@@ -28515,12 +28515,12 @@ Lorengau.",penc1239,Penchal,penc1239-1
 4,añɪraiañɪrai,,FALSE,AnonymousUtarmbung,"pp.1, 3",,utar1238,Indavai,utar1238-2
 5,añɪraiañɪraimisaka,,FALSE,AnonymousUtarmbung,"pp.1, 3",,utar1238,Indavai,utar1238-2
 10,oƀřioƀri,,FALSE,AnonymousUtarmbung,"pp.1, 3",,utar1238,Indavai,utar1238-2
-1,mɨsaka,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,utar1238,Osum,utar1238-3
-2,aniǥay,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,utar1238,Osum,utar1238-3
-1,oisak,,FALSE,Z'graggen1980Mabuso,p.92,,utuu1240,Utu,utuu1240-1
-2,br̃ɛtɛk,,FALSE,Z'graggen1980Mabuso,p.92,,utuu1240,Utu,utuu1240-1
-1,itiɡoːɡ,,FALSE,Z'graggen1980RaiCoast,p.92,,uyaa1238,Usu,uyaa1238-1
-2,aliɡoɡ,,FALSE,Z'graggen1980RaiCoast,p.92,,uyaa1238,Usu,uyaa1238-1
+1,mɨsaka,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,utar1238,Osum,utar1238-3
+2,aniǥay,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,utar1238,Osum,utar1238-3
+1,oisak,,FALSE,Zgraggen1980Mabuso,p.92,,utuu1240,Utu,utuu1240-1
+2,br̃ɛtɛk,,FALSE,Zgraggen1980Mabuso,p.92,,utuu1240,Utu,utuu1240-1
+1,itiɡoːɡ,,FALSE,Zgraggen1980RaiCoast,p.92,,uyaa1238,Usu,uyaa1238-1
+2,aliɡoɡ,,FALSE,Zgraggen1980RaiCoast,p.92,,uyaa1238,Usu,uyaa1238-1
 1,nŏntŏ,,FALSE,Ray1919,p.330,,valm1241,Akur,valm1241-1
 2,bĭai,,FALSE,Ray1919,p.330,,valm1241,Akur,valm1241-1
 3,bĭĕ-ṅo,,FALSE,Ray1919,p.330,,valm1241,Akur,valm1241-1
@@ -28662,8 +28662,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 3,netowa katokopu,contains an abbreviated form of 2,FALSE,Lean1986Vol12,p.88,SIL Word List (1975). Village: Maipani.,wabo1241,Wabuda,wabo1241-1
 4,netoworotere netoworotere,2 + 2,FALSE,Lean1986Vol12,p.88,SIL Word List (1975). Village: Maipani.,wabo1241,Wabuda,wabo1241-1
 5,netoworotere netoworotere kaseme,2 + 2 + 1,FALSE,Lean1986Vol12,p.88,SIL Word List (1975). Village: Maipani.,wabo1241,Wabuda,wabo1241-1
-1,mɨndambʌt,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,wada1263,Wadaginam,wada1263-1
-2,yʌːkri,,FALSE,Z'graggen1980SouthernAdelbert,p.46,,wada1263,Wadaginam,wada1263-1
+1,mɨndambʌt,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,wada1263,Wadaginam,wada1263-1
+2,yʌːkri,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,wada1263,Wadaginam,wada1263-1
 1,sa,,FALSE,Antonius1994,pp.28-29,,waer1237,Mbaen,waer1237-1
 2,zua,,FALSE,Antonius1994,pp.28-29,,waer1237,Mbaen,waer1237-1
 3,telu,,FALSE,Antonius1994,pp.28-29,,waer1237,Mbaen,waer1237-1
@@ -28744,8 +28744,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 8,gu-kiam,,FALSE,Ray1919,p.330,,wagi1249,Mis,wagi1249-2
 9,gu-varos,,FALSE,Ray1919,p.330,,wagi1249,Mis,wagi1249-2
 10,evel-leplep,,FALSE,Ray1919,p.330,,wagi1249,Mis,wagi1249-2
-1,usif,,FALSE,Z'graggen1980Mabuso,p.92,,wagi1249,Kamba,wagi1249-3
-2,ʌrit,,FALSE,Z'graggen1980Mabuso,p.92,,wagi1249,Kamba,wagi1249-3
+1,usif,,FALSE,Zgraggen1980Mabuso,p.92,,wagi1249,Kamba,wagi1249-3
+2,ʌrit,,FALSE,Zgraggen1980Mabuso,p.92,,wagi1249,Kamba,wagi1249-3
 1,se,,FALSE,Smith2015,pp.351-353,,waha1238,Uma’ Pawe,waha1238-1
 2,lue,,FALSE,Smith2015,pp.351-353,,waha1238,Uma’ Pawe,waha1238-1
 3,tələw,,FALSE,Smith2015,pp.351-353,,waha1238,Uma’ Pawe,waha1238-1
@@ -28842,8 +28842,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 4,fau,,FALSE,Galis1955,p.142,,wakd1237,Sobei-groep Wakde,wakd1237-2
 5,rim,,FALSE,Galis1955,p.142,,wakd1237,Sobei-groep Wakde,wakd1237-2
 5,lim,,FALSE,Galis1955,p.142,,wakd1237,Sobei-groep Wakde,wakd1237-2
-1,nonogɔta,,FALSE,Z'graggen1980Mabuso,p.92,,wama1247,Wamas,wama1247-1
-2,ʌritʌ,,FALSE,Z'graggen1980Mabuso,p.92,,wama1247,Wamas,wama1247-1
+1,nonogɔta,,FALSE,Zgraggen1980Mabuso,p.92,,wama1247,Wamas,wama1247-1
+2,ʌritʌ,,FALSE,Zgraggen1980Mabuso,p.92,,wama1247,Wamas,wama1247-1
 1,sanoop,,FALSE,Stokhof1982Vol5.1,p.120,,wamb1259,Upper Uwimerah,wamb1259-1
 2,sanoop kandief,,FALSE,Stokhof1982Vol5.1,p.120,,wamb1259,Upper Uwimerah,wamb1259-1
 3,wawibob,,FALSE,Stokhof1982Vol5.1,p.120,,wamb1259,Upper Uwimerah,wamb1259-1
@@ -28911,9 +28911,9 @@ Lorengau.",penc1239,Penchal,penc1239-1
 8,pamwɔmbək weriŋɡɛ ikpɔyɔm kououk,,FALSE,Laycock1967C08,p.41 [of pdf],,wana1268,Kayik,wana1268-2
 9,pamwɔmbək weriŋɡɛ ᵽɔyɔ pɔyɔ·ᵐp,,FALSE,Laycock1967C08,p.41 [of pdf],,wana1268,Kayik,wana1268-2
 10,pamwɔmbək pamwɔmbək,(no masc. - f.),FALSE,Laycock1967C08,p.41 [of pdf],,wana1268,Kayik,wana1268-2
-1,ɡolik,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,wana1269,Wanambre,wana1269-1
-2,oirɛ,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,wana1269,Wanambre,wana1269-1
-2,ɛlilo,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,wana1269,Wanambre,wana1269-1
+1,ɡolik,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,wana1269,Wanambre,wana1269-1
+2,oirɛ,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,wana1269,Wanambre,wana1269-1
+2,ɛlilo,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,wana1269,Wanambre,wana1269-1
 1,ngklala,,FALSE,Galis1955,p.168,,wana1273,Jelmek,wana1273-1
 1,ukai,,FALSE,Galis1955,p.168,,wana1273,Jelmek,wana1273-1
 2,ina,,FALSE,Galis1955,p.168,,wana1273,Jelmek,wana1273-1
@@ -29293,9 +29293,9 @@ Lorengau.",penc1239,Penchal,penc1239-1
 5,agiting peperek suwanta,‘my hand one’,FALSE,LeanMadang,p.24,SIL Word List (undated). Village: Mapor.,wask1241,Waskia (from SIL word list),wask1241-2
 6,agiting peperek se kodegdeg suwan bo karogo,,FALSE,LeanMadang,p.24,SIL Word List (undated). Village: Mapor.,wask1241,Waskia (from SIL word list),wask1241-2
 10,agiting peperek ilagla,‘my hand(s) two’,FALSE,LeanMadang,p.24,SIL Word List (undated). Village: Mapor.,wask1241,Waskia (from SIL word list),wask1241-2
-1,tikɛnta,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,wask1241,Waskia,wask1241-3
-1,suanta,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,wask1241,Waskia,wask1241-3
-2,ilʌːɡala,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,wask1241,Waskia,wask1241-3
+1,tikɛnta,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,wask1241,Waskia,wask1241-3
+1,suanta,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,wask1241,Waskia,wask1241-3
+2,ilʌːɡala,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,wask1241,Waskia,wask1241-3
 1,kaku,,FALSE,LeanEastSepik,p.59,1 CSQ. Village: Marangis.,wata1253,Watam,wata1253-1
 2,mboini,,FALSE,LeanEastSepik,p.59,1 CSQ. Village: Marangis.,wata1253,Watam,wata1253-1
 3,giramot,,FALSE,LeanEastSepik,p.59,1 CSQ. Village: Marangis.,wata1253,Watam,wata1253-1
@@ -30159,16 +30159,16 @@ Lorengau.",penc1239,Penchal,penc1239-1
 9,lemeṅ-teṅ-ṅanu-ali,,FALSE,Ray1919,p.327,,yabe1254,Yabim,yabe1254-3
 10,lemeṅ-lu,,FALSE,Ray1919,p.327,,yabe1254,Yabim,yabe1254-3
 20,ṅa-samu,,FALSE,Ray1919,p.327,,yabe1254,Yabim,yabe1254-3
-1,ɡawʌːd,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,yabe1255,Yaben,yabe1255-1
-2,bulaja,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,yabe1255,Yaben,yabe1255-1
+1,ɡawʌːd,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,yabe1255,Yaben,yabe1255-1
+2,bulaja,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,yabe1255,Yaben,yabe1255-1
 1,belele,,FALSE,LeanMadang,p.75,SIL Word List (1968). Village: Bidua.,yabo1240,Yabong,yabo1240-1
 2,obure,,FALSE,LeanMadang,p.75,SIL Word List (1968). Village: Bidua.,yabo1240,Yabong,yabo1240-1
 3,ab're,,FALSE,LeanMadang,p.75,SIL Word List (1968). Village: Bidua.,yabo1240,Yabong,yabo1240-1
 4,badi,,FALSE,LeanMadang,p.75,SIL Word List (1968). Village: Bidua.,yabo1240,Yabong,yabo1240-1
 5,ambe,‘amo-’ = ‘hand’,FALSE,LeanMadang,p.75,SIL Word List (1968). Village: Bidua.,yabo1240,Yabong,yabo1240-1
 10,am obure,‘hands two’,FALSE,LeanMadang,p.75,SIL Word List (1968). Village: Bidua.,yabo1240,Yabong,yabo1240-1
-1,ɔsʌb,,FALSE,Z'graggen1980RaiCoast,p.92,,yabo1240,Yabong,yabo1240-2
-2,aubdɛ,,FALSE,Z'graggen1980RaiCoast,p.92,,yabo1240,Yabong,yabo1240-2
+1,ɔsʌb,,FALSE,Zgraggen1980RaiCoast,p.92,,yabo1240,Yabong,yabo1240-2
+2,aubdɛ,,FALSE,Zgraggen1980RaiCoast,p.92,,yabo1240,Yabong,yabo1240-2
 1,anggetwáp,,FALSE,Galis1955,p.164,,yafi1240,Wargarindem,yafi1240-1
 2,aníngjaur,,FALSE,Galis1955,p.164,,yafi1240,Wargarindem,yafi1240-1
 1,bogo(ko),,FALSE,Lean1986Vol08,p.27,"6 CSQs. Villages: Fima, Hagavena, Kami, Lagaiyu, Auno, Duto.",yaga1260,Yagaria,yaga1260-1
@@ -30380,8 +30380,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 8,yombu wɑnək,,FALSE,Laycock1967C03,p.34,,yang1296,Umbrak-Aiku,yang1296-2
 9,yombu piyɑ piyɑk,,FALSE,Laycock1967C03,p.34,,yang1296,Umbrak-Aiku,yang1296-2
 10,pɑmombu pɑmombu,,FALSE,Laycock1967C03,p.34,,yang1296,Umbrak-Aiku,yang1296-2
-1,alamalam,,FALSE,Z'graggen1980RaiCoast,p.92,,yang1298,Yangulam,yang1298
-2,ʌːr̃,,FALSE,Z'graggen1980RaiCoast,p.92,,yang1298,Yangulam,yang1298
+1,alamalam,,FALSE,Zgraggen1980RaiCoast,p.92,,yang1298,Yangulam,yang1298
+2,ʌːr̃,,FALSE,Zgraggen1980RaiCoast,p.92,,yang1298,Yangulam,yang1298
 1,taimom,,FALSE,Ray1919,p.329,,yang1298,Englam,yang1298-1
 2,aru,,FALSE,Ray1919,p.329,,yang1298,Englam,yang1298-1
 3,toli,,FALSE,Ray1919,p.329,,yang1298,Englam,yang1298-1
@@ -30445,8 +30445,8 @@ Lorengau.",penc1239,Penchal,penc1239-1
 1,ˈɛtɛid,,FALSE,Lebold2013,p.43,,yaqa1246,Yaqay/Yodom,yaqa1246-7
 1,dijaɣaːnd,,FALSE,Lebold2013,p.43,,yaqa1246,Yaqay/Yodom,yaqa1246-7
 2,ˈxakmar,,FALSE,Lebold2013,p.43,,yaqa1246,Yaqay/Yodom,yaqa1246-7
-1,kasika,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,yara1250,Yarawata,yara1250-1
-2,brɛkaka,,FALSE,Z'graggen1980NorthernAdelbert,p.92,,yara1250,Yarawata,yara1250-1
+1,kasika,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,yara1250,Yarawata,yara1250-1
+2,brɛkaka,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,yara1250,Yarawata,yara1250-1
 1,demurai,,FALSE,Lean1985Vol05,p.52,"Weimar and Weimar (1974, various pp.), (1975, p.692), SIL Word List (1964); Village Bibira. 1 CSQ; Village: Safia.",yare1248,Yareba,yare1248-1
 2,sadei,,FALSE,Lean1985Vol05,p.52,"Weimar and Weimar (1974, various pp.), (1975, p.692), SIL Word List (1964); Village Bibira. 1 CSQ; Village: Safia.",yare1248,Yareba,yare1248-1
 3,rarogonu,,FALSE,Lean1985Vol05,p.52,"Weimar and Weimar (1974, various pp.), (1975, p.692), SIL Word List (1964); Village Bibira. 1 CSQ; Village: Safia.",yare1248,Yareba,yare1248-1
@@ -30870,9 +30870,9 @@ Lorengau.",penc1239,Penchal,penc1239-1
 5,kwutu puruf,(masc) [kwʊtɪt = hand],FALSE,Laycock1967C05,p.13,,yiss1240,Yis,yiss1240-1
 5,kwʊtu puruf,"(fem) [kwʊtɪt ~ kwʊtə- = hand, arm]",FALSE,Laycock1967C05,p.13,,yiss1240,Yis,yiss1240-1
 6,kwutuf nɑkɑ,(masc),FALSE,Laycock1967C05,p.13,,yiss1240,Yis,yiss1240-1
-1,yaʔta,,FALSE,Z'graggen1980Mabuso,p.92,,yoid1240,Yoidik,yoid1240-1
-2,yɛl,,FALSE,Z'graggen1980Mabuso,p.92,,yoid1240,Yoidik,yoid1240-1
-2,ail,,FALSE,Z'graggen1980Mabuso,p.92,,yoid1240,Yoidik,yoid1240-1
+1,yaʔta,,FALSE,Zgraggen1980Mabuso,p.92,,yoid1240,Yoidik,yoid1240-1
+2,yɛl,,FALSE,Zgraggen1980Mabuso,p.92,,yoid1240,Yoidik,yoid1240-1
+2,ail,,FALSE,Zgraggen1980Mabuso,p.92,,yoid1240,Yoidik,yoid1240-1
 1,mimo,(little finger),FALSE,Lean1986Vol12,p.24,"3 CSQs. Villages: Dome (2), Komokbin.",yong1280,Yonggom,yong1280-1
 2,ayop,(ring finger),FALSE,Lean1986Vol12,p.24,"3 CSQs. Villages: Dome (2), Komokbin.",yong1280,Yonggom,yong1280-1
 3,ayop mim,(middle finger),FALSE,Lean1986Vol12,p.24,"3 CSQs. Villages: Dome (2), Komokbin.",yong1280,Yonggom,yong1280-1
