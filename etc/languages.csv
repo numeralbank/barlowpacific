@@ -437,6 +437,9 @@ cent2091-2,Quezon Palaman,Thiessen1980,pp.72-78,,cent2091,Central Palawano,plc,P
 cent2091-3,"Quezon, Palawan",Thiessen1974,pp.2-4,,cent2091,Central Palawano,plc,Papunesia,8.77013,117.838,Austronesian
 cent2100-1,Kadazan Membakut,Lobel2016,pp.234-239,,cent2100,Kadazan Dusun,dtp,Papunesia,6.02998,116.681,Austronesian
 cent2100-2,Kadazan Papar,Lobel2016,pp.234-239,,cent2100,Kadazan Dusun,dtp,Papunesia,6.02998,116.681,Austronesian
+cent2100-3,Dusun Tambunan,Lobel2016,pp.234-239,,cent2100,Kadazan Dusun,kzt,Papunesia,5.68284,116.373,Austronesian
+cent2100-4,Kadazan Kimanis,Lobel2016,pp.234-239,,cent2100,Kadazan Dusun,kzj,Papunesia,5.77065,116.063,Austronesian
+cent2100-5,Tampassuk,Ray1913,pp.61-62,,cent2100,Kadazan Dusun,tdu,Papunesia,6.36389,116.545,Austronesian
 cent2117-1,Asmat,Galis1955,p.167,,cent2117,Central Asmat,cns,Papunesia,-5.80391,138.471,Nuclear Trans New Guinea
 cent2117-2,Central Asmat/Isyaman,Lebold2013,p.43,,cent2117,Central Asmat,cns,Papunesia,-5.80391,138.471,Nuclear Trans New Guinea
 cent2117-3,Asmat (Kawenak),Drabbe1963,p.104,,cent2117,Central Asmat,cns,Papunesia,-5.80391,138.471,Nuclear Trans New Guinea
@@ -452,7 +455,6 @@ chen1259-1,Chenapian,Laycock1971D34,p.4950,,chen1259,Chenapian,cjn,Papunesia,-4.
 chua1250-1,Chuave (from CSQs),Lean1986Vol09,p.70,10 CSQs (both dialect regions).,chua1250,Chuave,cjv,Papunesia,-6.17824,145.139,Nuclear Trans New Guinea
 chua1250-2,Chuave (from IMP/SIL),Lean1986Vol09,p.70,IMP/SIL Questionnaire (1978).,chua1250,Chuave,cjv,Papunesia,-6.17824,145.139,Nuclear Trans New Guinea
 cina1236-1,Manobo - Cinamiguin (from Camiguin Island),Elkins1973,pp.3-7,,cina1236,Cinamiguin Manobo,mkx,Papunesia,9.1793,124.721,Austronesian
-cent2100-4,Kadazan Kimanis,Lobel2016,pp.234-239,,cent2100,Kadazan Dusun,kzj,Papunesia,5.77065,116.063,Austronesian
 coas1295-1,Bonthain (from L. Schotborg and L. Siahaja),Stokhof1984Vol7.3,p.243,,coas1295,Coastal Konjo,kjc,Papunesia,-5.41532,120.304,Austronesian
 coas1295-2,Bonthain (from Mangkalla Daeng Mamasa <Mamase?>),Stokhof1984Vol7.3,p.226,,coas1295,Coastal Konjo,kjc,Papunesia,-5.41532,120.304,Austronesian
 coas1295-3,Kajang?,Stokhof1987Vol11,pp.145-146,,coas1295,Coastal Konjo,kjc,Papunesia,-5.41532,120.304,Austronesian
@@ -1939,7 +1941,6 @@ tala1285-1,"Beo, Talaud language",Stokhof1982Vol4,pp.57-58,,tala1285,Talaud,tld,
 tala1285-2,Lirung,Stokhof1982Vol4,p.40,,tala1285,Talaud,tld,Papunesia,4.11846,126.795,Austronesian
 tali1262-1,Sobojo,Stokhof1980Vol2,p.49,,tali1262,Taliabu,tlv,Papunesia,-1.79516,124.869,Austronesian
 tali1262-2,Taliabu,Stokhof1980Vol2,p.13,,tali1262,Taliabu,tlv,Papunesia,-1.79516,124.869,Austronesian
-cent2100-3,Dusun Tambunan,Lobel2016,pp.234-239,,cent2100,Kadazan Dusun,kzt,Papunesia,5.68284,116.373,Austronesian
 tamb1257-1,"Tambora (from Raffles 1817, 1830)",Donohue2007,p.523,,tamb1257,Tambora,xxt,Papunesia,-8.25,118,Tambora
 tamb1257-2,Tambora (from Zollinger 1850),Donohue2007,p.523,,tamb1257,Tambora,xxt,Papunesia,-8.25,118,Tambora
 tami1290-1,Tami,LeanMorobe,p.58,1 CSQ. Village: Tamigudu.,tami1290,Tami,tmy,Papunesia,-6.70017,147.732,Austronesian
@@ -1975,7 +1976,6 @@ tawa1275-2,Kehelala (Rabe village),Lean1986Vol06,p.59,S.I.L word list (1975). Vi
 tehi1237-1,Kaibus,Galis1955,p.136,,tehi1237,Tehit,kps,Papunesia,-1.51049,131.985,West Bird's Head
 tele1256-1,Telefol,LeanSandaun,p.46,IMP/SIL Questionnaire (1978).,tele1256,Telefol,tlf,Papunesia,-5.07444,141.731,Nuclear Trans New Guinea
 telu1263-1,Laimu (Taluti) Seram,Stokhof1981Vol3.1,p.142,,telu1263,Teluti,tlt,Papunesia,-3.2969,129.663,Austronesian
-cent2100-5,Tampassuk,Ray1913,pp.61-62,,cent2100,Kadazan Dusun,tdu,Papunesia,6.36389,116.545,Austronesian
 teng1267-1,Kutai,Suryadikara1984,passim,,teng1267,Tenggarong Kutai Malay,vkt,Papunesia,0.71803,117.645,Austronesian
 teop1238-1,Teop,Lean1985Vol03,p.37,"6 CSQs. Villages: Teomahoe, Teop Island, Vainana, Petspets, Suangu.",teop1238,Teop,tio,Papunesia,-5.67474,154.971,Austronesian
 teop1238-2,Teop (from SIL word list),Lean1985Vol03,p.37,"Allen and Hurd, SIL Word List, (1963).",teop1238,Teop,tio,Papunesia,-5.67474,154.971,Austronesian
