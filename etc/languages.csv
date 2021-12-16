@@ -414,7 +414,6 @@ buru1304-1,Bulusu,Lobel2016,pp.234-239,,buru1304,Burusu,bqr,Papunesia,3.36912,11
 buru1306-1,Burum,Smith1988,pp.80-81,,buru1306,Burum-Mindik,bmu,Papunesia,-6.51663,147.333,Nuclear Trans New Guinea
 buru1306-2,Yaknge,LeanMorobe,p.93,1 CSQ. Village: Mindik.,buru1306,Burum-Mindik,bmu,Papunesia,-6.51663,147.333,Nuclear Trans New Guinea
 buru1306-3,Yaknge,Smith1988,p.86,,buru1306,Burum-Mindik,bmu,Papunesia,-6.51663,147.333,Nuclear Trans New Guinea
-urua1244-2,Karufa,Ray1912,pp.340-341,,urua1244,Uruangnirin,urn,Papunesia,-3.45498,132.745,Austronesian
 buru1309-1,Sawos,LeanEastSepik,p.42,"4 CSQs. Villages: Wereman, Kampupu, Tinboli, Jiginimbu.",buru1309,Burui,bry,Papunesia,-4.03527,143.015,Ndu
 busa1255-1,Boesangsch,Barth1910,pp.234-279,,busa1255,Busang Kayan,bfg,Papunesia,0.03494,115.401,Austronesian
 bush1250-1,Antalote,Gevrey1870,p.117,,bush1250,Kibosy Kiantalaotsy-Majunga,buc,Africa,-12.9652,45.1368,Austronesian
@@ -542,7 +541,6 @@ edol1239-3,"Etoro (Etolo, Edolo) (from Peter Dwyer)",LeanWestern,pp.14-17,Peter 
 ekar1243-1,Ekari Ekari,Galis1955,p.165,,ekar1243,Ekari,ekg,Papunesia,-3.88974,136.018,Nuclear Trans New Guinea
 ekar1243-2,Ekari Jabi,Galis1955,p.166,,ekar1243,Ekari,ekg,Papunesia,-3.88974,136.018,Nuclear Trans New Guinea
 ekar1243-3,Ekari Simori,Galis1955,p.166,,ekar1243,Ekari,ekg,Papunesia,-3.88974,136.018,Nuclear Trans New Guinea
-ires1239-3,Irsam,Stokhof1983Vol5.2,p.192,,ires1239,Yerisiam,ire,Papunesia,-3.62803,135.025,Austronesian
 ekar1243-4,Jabi,Stokhof1983Vol5.2,p.186,,ekar1243,Ekari,ekg,Papunesia,-3.88974,136.018,Nuclear Trans New Guinea
 ekar1243-5,Kapauku (Paronggo),Stokhof1983Vol5.2,pp.196-197,,ekar1243,Ekari,ekg,Papunesia,-3.88974,136.018,Nuclear Trans New Guinea
 elep1240-1,Samap (Elepi),Laycock1971D35,p.5162,,elep1240,Elepi,ele,Papunesia,-3.7505,143.93,Nuclear Torricelli
@@ -749,6 +747,7 @@ ipil1240-2,Ipili,Franklin2012,pp.46-47,,ipil1240,Ipili,ipi,Papunesia,-5.42586,14
 irar1238-1,Irutu,Galis1955,p.135,,irar1238,Irarutu,irh,Papunesia,-2.94438,133.586,Austronesian
 ires1239-1,"Humuku – Irege, Irisami tribe, south Cinderawasih Bay (Irian Jay)",Stokhof1987Vol11,p.250,,ires1239,Yerisiam,ire,Papunesia,-3.62803,135.025,Austronesian
 ires1239-2,Irésim,Galis1955,p.141,,ires1239,Yerisiam,ire,Papunesia,-3.62803,135.025,Austronesian
+ires1239-3,Irsam,Stokhof1983Vol5.2,p.192,,ires1239,Yerisiam,ire,Papunesia,-3.62803,135.025,Austronesian
 irig1242-1,Iriga Bicol,Anonymous1984Bicol,pp.2-5,,irig1242,Iriga Bicolano,bto,Papunesia,13.3896,123.331,Austronesian
 isab1240-1,Isabi,Zgraggen1980SouthernAdelbert,p.46,,isab1240,Isabi,isa,Papunesia,-5.83809,145.462,Nuclear Trans New Guinea
 iseb1246-1,Isebe,Zgraggen1980Mabuso,p.92,,iseb1246,Isebe,igo,Papunesia,-5.20719,145.691,Nuclear Trans New Guinea
@@ -812,10 +811,9 @@ kamo1255-1,Angadi,Ray1912,pp.340-341,,kamo1255,Kamoro,kgq,Papunesia,-4.30433,135
 kamo1255-2,Goreda,Ray1912,pp.340-341,,kamo1255,Kamoro,kgq,Papunesia,-4.30433,135.883,Nuclear Trans New Guinea
 kamo1255-3,Kamoro Jamur,Galis1955,p.166,,kamo1255,Kamoro,kgq,Papunesia,-4.30433,135.883,Nuclear Trans New Guinea
 kamo1255-4,Kamoro Mimika,Galis1955,p.167,,kamo1255,Kamoro,kgq,Papunesia,-4.30433,135.883,Nuclear Trans New Guinea
-kamo1255-5,Lakahia,Ray1912,pp.340-341,,kamo1255,Kamoro,kgq,Papunesia,-4.30433,135.883,Nuclear Trans New Guinea
-kamo1255-6,Mimika,Ray1912,pp.340-341,,kamo1255,Kamoro,kgq,Papunesia,-4.30433,135.883,Nuclear Trans New Guinea
-kamo1255-7,Nagramadu,Ray1912,pp.340-341,,kamo1255,Kamoro,kgq,Papunesia,-4.30433,135.883,Nuclear Trans New Guinea
-kamo1255-8,Nagramadu,Galis1955,p.141,,kamo1255,Kamoro,kgq,Papunesia,-4.30433,135.883,Nuclear Trans New Guinea
+kamo1255-5,Mimika,Ray1912,pp.340-341,,kamo1255,Kamoro,kgq,Papunesia,-4.30433,135.883,Nuclear Trans New Guinea
+kamo1255-6,Nagramadu,Ray1912,pp.340-341,,kamo1255,Kamoro,kgq,Papunesia,-4.30433,135.883,Nuclear Trans New Guinea
+kamo1255-7,Nagramadu,Galis1955,p.141,,kamo1255,Kamoro,kgq,Papunesia,-4.30433,135.883,Nuclear Trans New Guinea
 kamu1260-1,Kamula,Lean1986Vol12,p.36,"SIL Word List, Reesink (1974); Reesink (1975, p.33).",kamu1260,Kamula,xla,Papunesia,-7.28798,142.639,Kamula-Elevala
 kana1288-1,Sona,Lean1986Vol06,p.25,S.I.L Word List (1981). Village: Gadoa.,kana1288,Kanasi,soq,Papunesia,-10.1658,149.751,Dagan
 kand1301-1,Kandas,Lean1985Vol01,p.56,1 CSQ. Village: Kait.,kand1301,Kandas,kqw,Papunesia,-4.3652,152.781,Austronesian
@@ -959,6 +957,7 @@ kowi1239-1,Kowiai,Galis1955,p.134,,kowi1239,Kowiai,kwh,Papunesia,-4.21954,133.46
 kowi1239-2,Lakahia,Galis1955,p.134,,kowi1239,Kowiai,kwh,Papunesia,-4.21954,133.468,Austronesian
 kowi1239-3,Lobo,Ray1912,pp.340-341,,kowi1239,Kowiai,kwh,Papunesia,-4.21954,133.468,Austronesian
 kowi1239-4,Namatote,Ray1912,pp.340-341,,kowi1239,Kowiai,kwh,Papunesia,-4.21954,133.468,Austronesian
+kowi1239-5,Lakahia,Ray1912,pp.340-341,,kowi1239,Kowiai,kwh,Papunesia,-4.21954,133.468,Austronesian
 kris1246-1,I'saka,Donohue2004Isaka,p.113,,kris1246,I'saka,ksi,Papunesia,-2.80084,141.303,Sko
 kris1246-2,Krisa,Laycock1970D03,p.366,,kris1246,I'saka,ksi,Papunesia,-2.80084,141.303,Sko
 kuan1248-1,Blanchebucht,Schnee1901,pp.247-248,,kuan1248,Kuanua,ksd,Papunesia,-4.30986,152.114,Austronesian
@@ -2105,6 +2104,7 @@ urim1252-1,Kalp,Laycock1967C07,p.54,,urim1252,Urim,uri,Papunesia,-3.58018,142.65
 urua1242-1,Uruava,Lean1985Vol03,p.47,"Allen and Hurd, SIL Wordlist, (1963).",urua1242,Uruava,urv,Papunesia,-6.23314,155.573,Austronesian
 urua1242-2,Uruava,Rausch1912,p.975,,urua1242,Uruava,urv,Papunesia,-6.23314,155.573,Austronesian
 urua1244-1,Faur,Galis1960,p.139,,urua1244,Uruangnirin,urn,Papunesia,-3.45498,132.745,Austronesian
+urua1244-2,Karufa,Ray1912,pp.340-341,,urua1244,Uruangnirin,urn,Papunesia,-3.45498,132.745,Austronesian
 usan1239-1,Wanuma,Zgraggen1980NorthernAdelbert,p.92,,usan1239,Usan,wnu,Papunesia,-4.84265,145.362,Nuclear Trans New Guinea
 usar1243-1,Usarufa,Lean1986Vol08,p.44,S.I.L word list (1968). Village: Arona.,usar1243,Usarufa,usa,Papunesia,-6.38898,145.633,Nuclear Trans New Guinea
 usku1243-1,Usku,Galis1960,p.147,,usku1243,Usku,ulf,Papunesia,-3.63853,140.502,Usku
