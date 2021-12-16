@@ -5381,14 +5381,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 16,angam nambat ni biri kun,,FALSE,Smith1988,p.86,,buru1306,Yaknge,buru1306-3
 16,gem kana angam likep kup wei,,FALSE,Smith1988,p.86,,buru1306,Yaknge,buru1306-3
 20,kana biri yomu,,FALSE,Smith1988,p.86,,buru1306,Yaknge,buru1306-3
-1,simoksi,,FALSE,Ray1912,pp.340-341,,buru1308,Karufa,buru1308-1
-2,rueiti,,FALSE,Ray1912,pp.340-341,,buru1308,Karufa,buru1308-1
-3,tohru,,FALSE,Ray1912,pp.340-341,,buru1308,Karufa,buru1308-1
-4,bahdi,,FALSE,Ray1912,pp.340-341,,buru1308,Karufa,buru1308-1
-5,rimi,,FALSE,Ray1912,pp.340-341,,buru1308,Karufa,buru1308-1
-6,rom-simoksi,,FALSE,Ray1912,pp.340-341,,buru1308,Karufa,buru1308-1
-10,putja,,FALSE,Ray1912,pp.340-341,,buru1308,Karufa,buru1308-1
-20,sìúmput-rueiti,,FALSE,Ray1912,pp.340-341,,buru1308,Karufa,buru1308-1
+1,simoksi,,FALSE,Ray1912,pp.340-341,,urua1244,Karufa,urua1244-2
+2,rueiti,,FALSE,Ray1912,pp.340-341,,urua1244,Karufa,urua1244-2
+3,tohru,,FALSE,Ray1912,pp.340-341,,urua1244,Karufa,urua1244-2
+4,bahdi,,FALSE,Ray1912,pp.340-341,,urua1244,Karufa,urua1244-2
+5,rimi,,FALSE,Ray1912,pp.340-341,,urua1244,Karufa,urua1244-2
+6,rom-simoksi,,FALSE,Ray1912,pp.340-341,,urua1244,Karufa,urua1244-2
+10,putja,,FALSE,Ray1912,pp.340-341,,urua1244,Karufa,urua1244-2
+20,sìúmput-rueiti,,FALSE,Ray1912,pp.340-341,,urua1244,Karufa,urua1244-2
 1,nete,,FALSE,LeanEastSepik,p.42,"4 CSQs. Villages: Wereman, Kampupu, Tinboli, Jiginimbu.",buru1309,Sawos,buru1309-1
 2,vitik,,FALSE,LeanEastSepik,p.42,"4 CSQs. Villages: Wereman, Kampupu, Tinboli, Jiginimbu.",buru1309,Sawos,buru1309-1
 2,viti,,FALSE,LeanEastSepik,p.42,"4 CSQs. Villages: Wereman, Kampupu, Tinboli, Jiginimbu.",buru1309,Sawos,buru1309-1
@@ -7352,103 +7352,103 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 30,èna-mèpèna,,FALSE,Galis1955,p.166,,ekar1243,Ekari Simori,ekar1243-3
 40,mè-pisa,,FALSE,Galis1955,p.166,,ekar1243,Ekari Simori,ekar1243-3
 40,mèpianto,,FALSE,Galis1955,p.166,,ekar1243,Ekari Simori,ekar1243-3
-1,kèta,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-2,roehi,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-3,korihe,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-4,aka,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-5,lima,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-6,kanaètih,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-7,kanaroehe,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-8,kanaorihe,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-9,kanaka,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-10,bagiroehi,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-11,bagiroehi ankanekète,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-12,bagiroehi kanaroehe,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-13,bagiroehi korihe,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-14,bagiroehi kanaka,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-15,bagiroehi lima,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-16,_,"as eleven, etc.",FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-20,hangkoekere,,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-21,_,by compounding?,FALSE,Stokhof1983Vol5.2,p.192,,ekar1243,Irsam,ekar1243-4
-1,ena,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-2,wisa,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-3,wido,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-4,wiï,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-5,idipi,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-6,mennomi,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-7,pitoea,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-8,warowo,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-9,iseh,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-10,rati,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-11,ena,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-12,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-13,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-14,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-15,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-16,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-17,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-18,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-19,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-20,hangkoekere,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-21,_,by compounding?,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-5
-1,ena,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-2,oesa,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-2,wisa,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-3,wiedo,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-4,wie,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-5,idibi,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-6,benowi,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-6,beniwe,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-7,pitowo,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-8,woegoewo,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-8,waroewo,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-9,se,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-9,sje,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-9,je,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-9,ise,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-10,nati,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-10,gati,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-10,dati,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-11,ena,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-11,enama,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-12,oesa,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-12,oesama,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-13,wiedo,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-13,wiedoma,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-14,wie,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-14,wiema,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-15,idibi,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-15,idibima,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-15,idibi milate,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-16,benowi,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-16,benowima,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-17,pitowo,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-17,pitowoma,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-18,woegoewo,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-18,woegoewoma,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-19,wje,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-19,sjema,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-20,mepina,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-20,dati mepina,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-22,wisa mepina,(2nd person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-30,emonata,(2nd person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-30,dati emonata,(2nd person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-30,mona,(2nd person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-35,idibi emonata,(2nd person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-40,mepianto,(2nd person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-40,mepita,(2nd person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-40,dati mepisa,(2nd person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-44,wie mepianto,(3rd person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-50,datibi,(3rd person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-50,jatibéo,(3rd person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-57,pitowo datibi,(3rd person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-60,badona,(3rd person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-70,jati badona,,FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-80,mepina badona,,FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-82,wisa mepina badona,,FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-120,badowisa,,FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-180,badowiedo,,FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
-240,badowie,,FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-6
+1,kèta,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+2,roehi,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+3,korihe,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+4,aka,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+5,lima,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+6,kanaètih,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+7,kanaroehe,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+8,kanaorihe,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+9,kanaka,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+10,bagiroehi,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+11,bagiroehi ankanekète,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+12,bagiroehi kanaroehe,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+13,bagiroehi korihe,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+14,bagiroehi kanaka,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+15,bagiroehi lima,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+16,_,"as eleven, etc.",FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+20,hangkoekere,,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+21,_,by compounding?,FALSE,Stokhof1983Vol5.2,p.192,,ires1239,Irsam,ires1239-3
+1,ena,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+2,wisa,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+3,wido,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+4,wiï,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+5,idipi,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+6,mennomi,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+7,pitoea,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+8,warowo,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+9,iseh,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+10,rati,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+11,ena,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+12,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+13,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+14,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+15,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+16,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+17,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+18,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+19,_,"anew, again",FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+20,hangkoekere,,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+21,_,by compounding?,FALSE,Stokhof1983Vol5.2,p.186,,ekar1243,Jabi,ekar1243-4
+1,ena,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+2,oesa,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+2,wisa,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+3,wiedo,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+4,wie,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+5,idibi,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+6,benowi,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+6,beniwe,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+7,pitowo,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+8,woegoewo,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+8,waroewo,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+9,se,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+9,sje,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+9,je,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+9,ise,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+10,nati,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+10,gati,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+10,dati,(1st person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+11,ena,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+11,enama,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+12,oesa,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+12,oesama,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+13,wiedo,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+13,wiedoma,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+14,wie,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+14,wiema,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+15,idibi,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+15,idibima,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+15,idibi milate,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+16,benowi,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+16,benowima,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+17,pitowo,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+17,pitowoma,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+18,woegoewo,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+18,woegoewoma,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+19,wje,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+19,sjema,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+20,mepina,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+20,dati mepina,(1st person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+22,wisa mepina,(2nd person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+30,emonata,(2nd person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+30,dati emonata,(2nd person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+30,mona,(2nd person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+35,idibi emonata,(2nd person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+40,mepianto,(2nd person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+40,mepita,(2nd person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+40,dati mepisa,(2nd person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+44,wie mepianto,(3rd person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+50,datibi,(3rd person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+50,jatibéo,(3rd person: fingers),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+57,pitowo datibi,(3rd person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+60,badona,(3rd person: toes),FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+70,jati badona,,FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+80,mepina badona,,FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+82,wisa mepina badona,,FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+120,badowisa,,FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+180,badowiedo,,FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
+240,badowie,,FALSE,Stokhof1983Vol5.2,pp.196-197,,ekar1243,Kapauku (Paronggo),ekar1243-5
 1,ɡiñɑnɑ,(masc),FALSE,Laycock1971D35,p.5162,,elep1240,Samap (Elepi),elep1240-1
 1,ɡənɑnɑ,(fem),FALSE,Laycock1971D35,p.5162,,elep1240,Samap (Elepi),elep1240-1
 2,məlɛmɛ,(masc),FALSE,Laycock1971D35,p.5162,,elep1240,Samap (Elepi),elep1240-1
@@ -10811,35 +10811,35 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,amè-jamanè,,FALSE,Galis1955,p.167,,kamo1255,Kamoro Mimika,kamo1255-4
 5,amè-jamanè-ènakwà,,FALSE,Galis1955,p.167,,kamo1255,Kamoro Mimika,kamo1255-4
 5,mbarèa-rauri,,FALSE,Galis1955,p.167,,kamo1255,Kamoro Mimika,kamo1255-4
-1,onarawa,,FALSE,Ray1912,pp.340-341,,kamo1255,Lakahia,kamo1255-5
-2,aboma,,FALSE,Ray1912,pp.340-341,,kamo1255,Lakahia,kamo1255-5
-3,torua,,FALSE,Ray1912,pp.340-341,,kamo1255,Lakahia,kamo1255-5
-4,fāt,,FALSE,Ray1912,pp.340-341,,kamo1255,Lakahia,kamo1255-5
-5,rim,,FALSE,Ray1912,pp.340-341,,kamo1255,Lakahia,kamo1255-5
-6,rim-onarawa,,FALSE,Ray1912,pp.340-341,,kamo1255,Lakahia,kamo1255-5
-1,inakwa,,FALSE,Ray1912,pp.340-341,,kamo1255,Mimika,kamo1255-6
-2,yamani,,FALSE,Ray1912,pp.340-341,,kamo1255,Mimika,kamo1255-6
-3,yamani-īnakwa,,FALSE,Ray1912,pp.340-341,,kamo1255,Mimika,kamo1255-6
-4,ama-yamani,,FALSE,Ray1912,pp.340-341,,kamo1255,Mimika,kamo1255-6
-1,nadi,,FALSE,Ray1912,pp.340-341,,kamo1255,Nagramadu,kamo1255-7
-2,ăbåmă,,FALSE,Ray1912,pp.340-341,,kamo1255,Nagramadu,kamo1255-7
-3,ăbåmă-nadi,,FALSE,Ray1912,pp.340-341,,kamo1255,Nagramadu,kamo1255-7
-4,ăbåmŏ-båmŏ,,FALSE,Ray1912,pp.340-341,,kamo1255,Nagramadu,kamo1255-7
-5,măma-riba,,FALSE,Ray1912,pp.340-341,,kamo1255,Nagramadu,kamo1255-7
-6,mariba-nadi,,FALSE,Ray1912,pp.340-341,,kamo1255,Nagramadu,kamo1255-7
-10,măma-răbåmă,,FALSE,Ray1912,pp.340-341,,kamo1255,Nagramadu,kamo1255-7
-1,nadi,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-8
-2,àbamà,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-8
-3,àbamà-nadi,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-8
-4,àbamà-báma,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-8
-5,mama-riba,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-8
-6,mariba-nadi,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-8
-7,mariba-bama,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-8
-8,mariba-bama-nadi,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-8
-9,mariba-bama-bama,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-8
-10,mama-rabama,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-8
-11,marabama-nadi,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-8
-20,abíasi-nadi,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-8
+1,onarawa,,FALSE,Ray1912,pp.340-341,,kowi1239,Lakahia,kowi1239-5
+2,aboma,,FALSE,Ray1912,pp.340-341,,kowi1239,Lakahia,kowi1239-5
+3,torua,,FALSE,Ray1912,pp.340-341,,kowi1239,Lakahia,kowi1239-5
+4,fāt,,FALSE,Ray1912,pp.340-341,,kowi1239,Lakahia,kowi1239-5
+5,rim,,FALSE,Ray1912,pp.340-341,,kowi1239,Lakahia,kowi1239-5
+6,rim-onarawa,,FALSE,Ray1912,pp.340-341,,kowi1239,Lakahia,kowi1239-5
+1,inakwa,,FALSE,Ray1912,pp.340-341,,kamo1255,Mimika,kamo1255-5
+2,yamani,,FALSE,Ray1912,pp.340-341,,kamo1255,Mimika,kamo1255-5
+3,yamani-īnakwa,,FALSE,Ray1912,pp.340-341,,kamo1255,Mimika,kamo1255-5
+4,ama-yamani,,FALSE,Ray1912,pp.340-341,,kamo1255,Mimika,kamo1255-5
+1,nadi,,FALSE,Ray1912,pp.340-341,,kamo1255,Nagramadu,kamo1255-6
+2,ăbåmă,,FALSE,Ray1912,pp.340-341,,kamo1255,Nagramadu,kamo1255-6
+3,ăbåmă-nadi,,FALSE,Ray1912,pp.340-341,,kamo1255,Nagramadu,kamo1255-6
+4,ăbåmŏ-båmŏ,,FALSE,Ray1912,pp.340-341,,kamo1255,Nagramadu,kamo1255-6
+5,măma-riba,,FALSE,Ray1912,pp.340-341,,kamo1255,Nagramadu,kamo1255-6
+6,mariba-nadi,,FALSE,Ray1912,pp.340-341,,kamo1255,Nagramadu,kamo1255-6
+10,măma-răbåmă,,FALSE,Ray1912,pp.340-341,,kamo1255,Nagramadu,kamo1255-6
+1,nadi,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-7
+2,àbamà,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-7
+3,àbamà-nadi,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-7
+4,àbamà-báma,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-7
+5,mama-riba,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-7
+6,mariba-nadi,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-7
+7,mariba-bama,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-7
+8,mariba-bama-nadi,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-7
+9,mariba-bama-bama,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-7
+10,mama-rabama,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-7
+11,marabama-nadi,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-7
+20,abíasi-nadi,,FALSE,Galis1955,p.141,,kamo1255,Nagramadu,kamo1255-7
 1,hatrope,,FALSE,Lean1986Vol12,p.36,"SIL Word List, Reesink (1974); Reesink (1975, p.33).",kamu1260,Kamula,kamu1260-1
 2,dapiamete,,FALSE,Lean1986Vol12,p.36,"SIL Word List, Reesink (1974); Reesink (1975, p.33).",kamu1260,Kamula,kamu1260-1
 3,doba'trope,2 + 1,FALSE,Lean1986Vol12,p.36,"SIL Word List, Reesink (1974); Reesink (1975, p.33).",kamu1260,Kamula,kamu1260-1
