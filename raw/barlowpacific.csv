@@ -5851,6 +5851,53 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,hatus,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Papar,cent2100-2
 200,duvo nga hatus,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Papar,cent2100-2
 1000,sohibu,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Papar,cent2100-2
+1,isoʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+2,duo,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+3,tolu,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+4,apat,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+5,limo,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+6,onom,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+7,turuʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+8,waluʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+9,siam,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+10,(h)opod,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+11,(h)opod om isoʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+20,duo no (h)opod,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+30,tolu no (h)opod,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+40,apat no (h)opod,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+100,(h)atus,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+200,duo no (h)atus,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+1000,soliong,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
+1,isoʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+2,duvo,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+3,to£u,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+4,apat,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+5,£imo,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+6,onom,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+7,tuuʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+8,va£uʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+9,sijam,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+10,hopod,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+11,hopod om isoʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+20,duvo ngo hopod,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+30,to£u ngo hopod,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+40,apat ngo hopod,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+100,hatus,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+200,duvo na hatus,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+1000,sohibu,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
+1,isa,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
+2,dua,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
+3,tulo,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
+4,ampat,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
+5,lima,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
+6,anam,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
+7,turo,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
+8,walo,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
+9,siam,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
+10,opod,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
+12,opod-og-dua,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
+20,dua-na-hopod,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
+100,sa-ratus,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
 1,tsowòk,,FALSE,Galis1955,p.167,,cent2117,Asmat,cent2117-1
 2,jamduk,,FALSE,Galis1955,p.167,,cent2117,Asmat,cent2117-1
 3,mamintsjop,,FALSE,Galis1955,p.167,,cent2117,Asmat,cent2117-1
@@ -6141,23 +6188,6 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,kowhɑʔɑn,,FALSE,Elkins1973,pp.3-7,,cina1236,Manobo - Cinamiguin (from Camiguin Island),cina1236-1
 100,ɡɑtus,,FALSE,Elkins1973,pp.3-7,,cina1236,Manobo - Cinamiguin (from Camiguin Island),cina1236-1
 1000,libu,,FALSE,Elkins1973,pp.3-7,,cina1236,Manobo - Cinamiguin (from Camiguin Island),cina1236-1
-1,isoʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-2,duvo,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-3,to£u,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-4,apat,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-5,£imo,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-6,onom,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-7,tuuʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-8,va£uʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-9,sijam,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-10,hopod,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-11,hopod om isoʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-20,duvo ngo hopod,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-30,to£u ngo hopod,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-40,apat ngo hopod,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-100,hatus,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-200,duvo na hatus,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
-1000,sohibu,,FALSE,Lobel2016,pp.234-239,,cent2100,Kadazan Kimanis,cent2100-4
 1,sǐ'rǐ,,FALSE,Stokhof1984Vol7.3,p.243,,coas1295,Bonthain (from L. Schotborg and L. Siahaja),coas1295-1
 2,roeā,,FALSE,Stokhof1984Vol7.3,p.243,,coas1295,Bonthain (from L. Schotborg and L. Siahaja),coas1295-1
 3,tàlloe,,FALSE,Stokhof1984Vol7.3,p.243,,coas1295,Bonthain (from L. Schotborg and L. Siahaja),coas1295-1
@@ -26042,23 +26072,6 @@ Lorengau.",penc1239,Penchal,penc1239-1
 1000,tjala sīja,,FALSE,Stokhof1980Vol2,p.13,,tali1262,Taliabu,tali1262-2
 1000,tjolo sīja,,FALSE,Stokhof1980Vol2,p.13,,tali1262,Taliabu,tali1262-2
 10000,tjaloe hoeloe,,FALSE,Stokhof1980Vol2,p.13,,tali1262,Taliabu,tali1262-2
-1,isoʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-2,duo,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-3,tolu,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-4,apat,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-5,limo,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-6,onom,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-7,turuʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-8,waluʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-9,siam,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-10,(h)opod,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-11,(h)opod om isoʔ,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-20,duo no (h)opod,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-30,tolu no (h)opod,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-40,apat no (h)opod,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-100,(h)atus,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-200,duo no (h)atus,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
-1000,soliong,,FALSE,Lobel2016,pp.234-239,,cent2100,Dusun Tambunan,cent2100-3
 1,seena,"Seena is a plausible Austronesian loan, though the provenance of the loan cannot be determined.",TRUE,Donohue2007,p.523,,tamb1257,"Tambora (from Raffles 1817, 1830)",tamb1257-1
 2,kálae,,FALSE,Donohue2007,p.523,,tamb1257,"Tambora (from Raffles 1817, 1830)",tamb1257-1
 3,nih,,FALSE,Donohue2007,p.523,,tamb1257,"Tambora (from Raffles 1817, 1830)",tamb1257-1
@@ -26459,19 +26472,6 @@ Lorengau.",penc1239,Penchal,penc1239-1
 100,oetoen,,FALSE,Stokhof1981Vol3.1,p.142,,telu1263,Laimu (Taluti) Seram,telu1263-1
 1000,lihoen,,FALSE,Stokhof1981Vol3.1,p.142,,telu1263,Laimu (Taluti) Seram,telu1263-1
 10000,lalan,,FALSE,Stokhof1981Vol3.1,p.142,,telu1263,Laimu (Taluti) Seram,telu1263-1
-1,isa,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
-2,dua,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
-3,tulo,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
-4,ampat,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
-5,lima,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
-6,anam,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
-7,turo,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
-8,walo,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
-9,siam,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
-10,opod,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
-12,opod-og-dua,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
-20,dua-na-hopod,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
-100,sa-ratus,,FALSE,Ray1913,pp.61-62,,cent2100,Tampassuk,cent2100-5
 1,se-,prefix,FALSE,Suryadikara1984,passim,,teng1267,Kutai,teng1267-1
 2,dua,,FALSE,Suryadikara1984,passim,,teng1267,Kutai,teng1267-1
 3,tiga,,FALSE,Suryadikara1984,passim,,teng1267,Kutai,teng1267-1
