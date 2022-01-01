@@ -14041,28 +14041,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,r̃ompulo,,FALSE,Grimes1987,pp.129-135,,lemo1243,Lemolang,lemo1243-1
 100,sambuŋo,,FALSE,Grimes1987,pp.129-135,,lemo1243,Lemolang,lemo1243-1
 1000,sansovu,,FALSE,Grimes1987,pp.129-135,,lemo1243,Lemolang,lemo1243-1
-1,sip,,FALSE,LeanManus,p.4,"Lean’s Field Notes (1987) from a Lenkau-speaking informant in 
-Lorengau.",lenk1247,Lenkau,lenk1247-1
-2,huep,,FALSE,LeanManus,p.4,"Lean’s Field Notes (1987) from a Lenkau-speaking informant in 
-Lorengau.",lenk1247,Lenkau,lenk1247-1
-3,tilip,,FALSE,LeanManus,p.4,"Lean’s Field Notes (1987) from a Lenkau-speaking informant in 
-Lorengau.",lenk1247,Lenkau,lenk1247-1
-4,tolot,,FALSE,LeanManus,p.4,"Lean’s Field Notes (1987) from a Lenkau-speaking informant in 
-Lorengau.",lenk1247,Lenkau,lenk1247-1
-4,(tolop),,FALSE,LeanManus,p.4,"Lean’s Field Notes (1987) from a Lenkau-speaking informant in 
-Lorengau.",lenk1247,Lenkau,lenk1247-1
-5,nguran,,FALSE,LeanManus,p.4,"Lean’s Field Notes (1987) from a Lenkau-speaking informant in 
-Lorengau.",lenk1247,Lenkau,lenk1247-1
-6,enep,,FALSE,LeanManus,p.4,"Lean’s Field Notes (1987) from a Lenkau-speaking informant in 
-Lorengau.",lenk1247,Lenkau,lenk1247-1
-7,ngaritilip,10–3,FALSE,LeanManus,p.4,"Lean’s Field Notes (1987) from a Lenkau-speaking informant in 
-Lorengau.",lenk1247,Lenkau,lenk1247-1
-8,ngarihuep,10–2,FALSE,LeanManus,p.4,"Lean’s Field Notes (1987) from a Lenkau-speaking informant in 
-Lorengau.",lenk1247,Lenkau,lenk1247-1
-9,ngarisip,10–1,FALSE,LeanManus,p.4,"Lean’s Field Notes (1987) from a Lenkau-speaking informant in 
-Lorengau.",lenk1247,Lenkau,lenk1247-1
-10,sangahul,,FALSE,LeanManus,p.4,"Lean’s Field Notes (1987) from a Lenkau-speaking informant in 
-Lorengau.",lenk1247,Lenkau,lenk1247-1
+1,sip,,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
+2,huep,,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
+3,tilip,,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
+4,tolot,,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
+4,(tolop),,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
+5,nguran,,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
+6,enep,,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
+7,ngaritilip,10–3,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
+8,ngarihuep,10–2,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
+9,ngarisip,10–1,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
+10,sangahul,,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
 1,sip ,,FALSE,Blust2021,"pp.25, 30, 32, 38",,lenk1247,Lenkau,lenk1247-2
 2,huep ,,FALSE,Blust2021,"pp.25, 30, 32, 38",,lenk1247,Lenkau,lenk1247-2
 3,trilip ,,FALSE,Blust2021,"pp.25, 30, 32, 38",,lenk1247,Lenkau,lenk1247-2
@@ -17659,36 +17648,21 @@ Lorengau.",lenk1247,Lenkau,lenk1247-1
 6,romu-ere,,FALSE,Ray1938EasternPapua,p.183,,moik1239,Moikoidi,moik1239-1
 7,romu-ere,,FALSE,Ray1938EasternPapua,p.183,,moik1239,Moikoidi,moik1239-1
 20,kakurakai,,FALSE,Ray1938EasternPapua,p.183,,moik1239,Moikoidi,moik1239-1
-1,si,,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
-2,ma-uwo,prefix ma-,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
-3,macholoh,,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
-4,mahah,,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
-5,malimeh,not identical to the ‘hand’ morpheme ‘nim-’,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
-6,mawono,,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
-7,maricholoh,10–3,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
-8,maruwo,10–2,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
-9,marusi,10–1,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
-10,masongol,,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
-20,ma-ungol,,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
-30,machu'ongol,,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
-40,mahangol,,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
-50,malimengol,,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
-100,masangat,,FALSE,LeanManus,p.12,"Lean’s Field Notes (1986) from a Mokerang-speaking informant in 
-Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
+1,si,,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
+2,ma-uwo,prefix ma-,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
+3,macholoh,,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
+4,mahah,,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
+5,malimeh,not identical to the ‘hand’ morpheme ‘nim-’,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
+6,mawono,,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
+7,maricholoh,10–3,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
+8,maruwo,10–2,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
+9,marusi,10–1,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
+10,masongol,,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
+20,ma-ungol,,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
+30,machu'ongol,,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
+40,mahangol,,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
+50,malimengol,,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
+100,masangat,,FALSE,LeanManus,p.12,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,moke1240,Mokerang (from Lean's field notes),moke1240-1
 1,si,,FALSE,LeanManus,p.12,1 CSQ. Village: Mokereng (Mokoreng).,moke1240,Mokerang (Mokereng village),moke1240-2
 2,ma-awoh,prefix ma-,FALSE,LeanManus,p.12,1 CSQ. Village: Mokereng (Mokoreng).,moke1240,Mokerang (Mokereng village),moke1240-2
 3,ma'choloh,,FALSE,LeanManus,p.12,1 CSQ. Village: Mokereng (Mokoreng).,moke1240,Mokerang (Mokereng village),moke1240-2
@@ -21522,26 +21496,16 @@ Lorengau.",moke1240,Mokerang (from Lean's field notes),moke1240-1
 4,ta'miʔa,,FALSE,Lean1985Vol04,p.51,"Allen and Hurd, SIL Word List (1962).",pele1245,Wasi (‘Ata’),pele1245-2
 5,ta'ʔuve,,FALSE,Lean1985Vol04,p.51,"Allen and Hurd, SIL Word List (1962).",pele1245,Wasi (‘Ata’),pele1245-2
 10,'mavluo'vexa,,FALSE,Lean1985Vol04,p.51,"Allen and Hurd, SIL Word List (1962).",pele1245,Wasi (‘Ata’),pele1245-2
-1,siw,,FALSE,LeanManus,pp.3-4,"Lean’s Field Notes (1987) from a Penchal-speaking informant in 
-Lorengau.",penc1239,Penchal,penc1239-1
-2,lup,,FALSE,LeanManus,pp.3-4,"Lean’s Field Notes (1987) from a Penchal-speaking informant in 
-Lorengau.",penc1239,Penchal,penc1239-1
-3,tulup,,FALSE,LeanManus,pp.3-4,"Lean’s Field Notes (1987) from a Penchal-speaking informant in 
-Lorengau.",penc1239,Penchal,penc1239-1
-4,talip,,FALSE,LeanManus,pp.3-4,"Lean’s Field Notes (1987) from a Penchal-speaking informant in 
-Lorengau.",penc1239,Penchal,penc1239-1
-5,rurin,,FALSE,LeanManus,pp.3-4,"Lean’s Field Notes (1987) from a Penchal-speaking informant in 
-Lorengau.",penc1239,Penchal,penc1239-1
-6,unup,,FALSE,LeanManus,pp.3-4,"Lean’s Field Notes (1987) from a Penchal-speaking informant in 
-Lorengau.",penc1239,Penchal,penc1239-1
-7,karutulup,10–3,FALSE,LeanManus,pp.3-4,"Lean’s Field Notes (1987) from a Penchal-speaking informant in 
-Lorengau.",penc1239,Penchal,penc1239-1
-8,karulup,10–2,FALSE,LeanManus,pp.3-4,"Lean’s Field Notes (1987) from a Penchal-speaking informant in 
-Lorengau.",penc1239,Penchal,penc1239-1
-9,karusiw,10–1,FALSE,LeanManus,pp.3-4,"Lean’s Field Notes (1987) from a Penchal-speaking informant in 
-Lorengau.",penc1239,Penchal,penc1239-1
-10,sangahul,,FALSE,LeanManus,pp.3-4,"Lean’s Field Notes (1987) from a Penchal-speaking informant in 
-Lorengau.",penc1239,Penchal,penc1239-1
+1,siw,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
+2,lup,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
+3,tulup,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
+4,talip,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
+5,rurin,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
+6,unup,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
+7,karutulup,10–3,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
+8,karulup,10–2,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
+9,karusiw,10–1,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
+10,sangahul,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
 1,sǝw ,,FALSE,Blust2021,"pp.25, 30, 32, 38",,penc1239,Penchal ,penc1239-2
 2,lup ,,FALSE,Blust2021,"pp.25, 30, 32, 38",,penc1239,Penchal ,penc1239-2
 3,tulup ,,FALSE,Blust2021,"pp.25, 30, 32, 38",,penc1239,Penchal ,penc1239-2
