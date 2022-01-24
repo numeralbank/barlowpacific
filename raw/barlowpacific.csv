@@ -31180,3 +31180,93 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
+1,beairek,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Masi village),yabo1240-3
+2,awude,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Masi village),yabo1240-3
+3,apre,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Masi village),yabo1240-3
+4,ba'di,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Masi village),yabo1240-3
+5,ambe,[hand = amo-],FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Masi village),yabo1240-3
+10,am awude,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Masi village),yabo1240-3
+1,berere,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Bidua village),yabo1240-4
+2,abude,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Bidua village),yabo1240-4
+3,able,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Bidua village),yabo1240-4
+4,badi,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Bidua village),yabo1240-4
+5,ambe,[hand = amo-],FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Bidua village),yabo1240-4
+10,neg dagam,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Bidua village),yabo1240-4
+1,beairek,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Basor village),yabo1240-5
+2,awude,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Basor village),yabo1240-5
+3,abre,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Basor village),yabo1240-5
+4,badi,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Basor village),yabo1240-5
+5,ambe,[hand = amo-],FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Basor village),yabo1240-5
+10,ama wudeŋ,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Basor village),yabo1240-5
+1,berere,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Baraking village),yabo1240-6
+2,abude,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Baraking village),yabo1240-6
+3,able,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Baraking village),yabo1240-6
+4,bedi,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Baraking village),yabo1240-6
+5,ambe,[hand = amo-],FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Baraking village),yabo1240-6
+10,am abude,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Baraking village),yabo1240-6
+1,berere,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Samung village),yabo1240-7
+2,abude,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Samung village),yabo1240-7
+3,able,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Samung village),yabo1240-7
+4,badi,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Samung village),yabo1240-7
+5,ambe,[hand = amo-],FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Samung village),yabo1240-7
+10,amabude,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Samung village),yabo1240-7
+1,osab,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Baded village),yabo1240-8
+2,abde,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Baded village),yabo1240-8
+3,abdebe,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Baded village),yabo1240-8
+4,bedi,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Baded village),yabo1240-8
+5,ambe,[hand = amo-],FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Baded village),yabo1240-8
+10,amabde,,FALSE,Gray2015,pp.47-48,,yabo1240,Yabong (Baded village),yabo1240-8
+1,konake,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Sorang village),nekg1240-2
+2,ire,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Sorang village),nekg1240-2
+3,aropo,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Sorang village),nekg1240-2
+4,paware,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Sorang village),nekg1240-2
+5,ati ko,[hand = ata-],FALSE,Gray2015,p.57,,nekg1240,Nekgini (Sorang village),nekg1240-2
+10,ati iri,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Sorang village),nekg1240-2
+1,konake,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Asang village),nekg1240-3
+2,irise,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Asang village),nekg1240-3
+3,aropa,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Asang village),nekg1240-3
+4,paware,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Asang village),nekg1240-3
+5,ati ko,[hand = ate-],FALSE,Gray2015,p.57,,nekg1240,Nekgini (Asang village),nekg1240-3
+10,ati iri,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Asang village),nekg1240-3
+1,ko naki,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Reite village),nekg1240-4
+2,iri,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Reite village),nekg1240-4
+3,arap,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Reite village),nekg1240-4
+4,pawole,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Reite village),nekg1240-4
+5,atiko,[hand = ata-],FALSE,Gray2015,p.57,,nekg1240,Nekgini (Reite village),nekg1240-4
+10,ati iri,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Reite village),nekg1240-4
+1,kwanaki,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Serieng village),nekg1240-5
+2,iri,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Serieng village),nekg1240-5
+3,arapa,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Serieng village),nekg1240-5
+4,pawoli,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Serieng village),nekg1240-5
+5,adiko,[hand = ata-],FALSE,Gray2015,p.57,,nekg1240,Nekgini (Serieng village),nekg1240-5
+10,adi iri,,FALSE,Gray2015,p.57,,nekg1240,Nekgini (Serieng village),nekg1240-5
+1,kwa nik,,FALSE,Gray2015,p.57,,neko1240,Neko (Damoing village),neko1240-2
+2,iri,,FALSE,Gray2015,p.57,,neko1240,Neko (Damoing village),neko1240-2
+3,arap,,FALSE,Gray2015,p.57,,neko1240,Neko (Damoing village),neko1240-2
+4,pawol,,FALSE,Gray2015,p.57,,neko1240,Neko (Damoing village),neko1240-2
+5,atiko,[hand = at-],FALSE,Gray2015,p.57,,neko1240,Neko (Damoing village),neko1240-2
+10,ati iri,,FALSE,Gray2015,p.57,,neko1240,Neko (Damoing village),neko1240-2
+1,kwanik,,FALSE,Gray2015,p.57,,neko1240,Neko (Warai village),neko1240-3
+2,iri,,FALSE,Gray2015,p.57,,neko1240,Neko (Warai village),neko1240-3
+3,arap,,FALSE,Gray2015,p.57,,neko1240,Neko (Warai village),neko1240-3
+4,pawol,,FALSE,Gray2015,p.57,,neko1240,Neko (Warai village),neko1240-3
+5,atiko,[hand = at-],FALSE,Gray2015,p.57,,neko1240,Neko (Warai village),neko1240-3
+10,ati iri,,FALSE,Gray2015,p.57,,neko1240,Neko (Warai village),neko1240-3
+1,ndaⁱma,,FALSE,Gray2015,p.65,,kolo1267,Migum (Lamtub village),kolo1267-4
+2,lalapa,,FALSE,Gray2015,p.65,,kolo1267,Migum (Lamtub village),kolo1267-4
+3,kiepa,,FALSE,Gray2015,p.65,,kolo1267,Migum (Lamtub village),kolo1267-4
+4,baudipa,,FALSE,Gray2015,p.65,,kolo1267,Migum (Lamtub village),kolo1267-4
+5,kulande,[hand = kula-],FALSE,Gray2015,p.65,,kolo1267,Migum (Lamtub village),kolo1267-4
+10,kulalala,,FALSE,Gray2015,p.65,,kolo1267,Migum (Lamtub village),kolo1267-4
+1,ndaⁱma,,FALSE,Gray2015,p.65,,kolo1267,Migum (Singor village),kolo1267-5
+2,lalapa,,FALSE,Gray2015,p.65,,kolo1267,Migum (Singor village),kolo1267-5
+3,kiepa,,FALSE,Gray2015,p.65,,kolo1267,Migum (Singor village),kolo1267-5
+4,baudipa,,FALSE,Gray2015,p.65,,kolo1267,Migum (Singor village),kolo1267-5
+5,kulande,[hand = kula],FALSE,Gray2015,p.65,,kolo1267,Migum (Singor village),kolo1267-5
+10,kulalala,,FALSE,Gray2015,p.65,,kolo1267,Migum (Singor village),kolo1267-5
+1,gula,,FALSE,Gray2015,p.65,,ngai1241,Ngaing (Sibog village),ngai1241-1
+2,irisak,,FALSE,Gray2015,p.65,,ngai1241,Ngaing (Sibog village),ngai1241-1
+3,atbusak,,FALSE,Gray2015,p.65,,ngai1241,Ngaing (Sibog village),ngai1241-1
+4,atbusak abaŋkai,(excluded from the lexicostatistical comparison),FALSE,Gray2015,p.65,,ngai1241,Ngaing (Sibog village),ngai1241-1
+5,ati gula muk,[hand = aːti],FALSE,Gray2015,p.65,,ngai1241,Ngaing (Sibog village),ngai1241-1
+10,ati iri,,FALSE,Gray2015,p.65,,ngai1241,Ngaing (Sibog village),ngai1241-1
