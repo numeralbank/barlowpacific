@@ -8004,98 +8004,98 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1000000,tokón ukan(i),,FALSE,Arnaud1998,pp.863-879 [word list item numbers],,fata1247,Fataluku,fata1247-1
 1,dano,,FALSE,Lean1986Vol12,"pp.29, 95",[unknown],femb1238,Agala,femb1238-1
 2,balo,Number words for 1 and 2 available only.,FALSE,Lean1986Vol12,"pp.29, 95",[unknown],femb1238,Agala,femb1238-1
-1,isa,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-2,dalawa,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-3,tatlo,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-4,apat,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-5,lima,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-6,anim,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-7,pito,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-8,walo,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-9,siyam,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-10,sampu,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-11,labing-isa,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-12,labindalawa,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-13,labintatlo,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-14,labing-apat,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-15,labinlima,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-16,labing-anim,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-17,labimpito,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-18,labingwalo,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-19,labinsiyam,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-20,dalawampu,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-21,dalawampu’t isa,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-22,dalawampu’t dalawa,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-23,dalawampu’t tatlo,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-24,dalawampu’t apat,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-25,dalawampu’t lima,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-26,dalawampu’t anim,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-27,dalawampu’t pito,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-28,dalawampu’t walo,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-29,dalawampu’t siyam,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-30,tatlumpu,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-40,apatnapu,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-50,limampu,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-60,animnapu,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-70,pitumpu,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-80,walumpu,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-90,siyamnapu,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-100,isandaan,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-200,dalawandaan,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-300,tatlongdaan,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-400,apatnaraan,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-500,limandaan,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-600,animnaraan,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-700,pitongdaan,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-800,walongdaan,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-900,siyamnaraan,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-1000,isanlibo,,FALSE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-1,uno,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-2,dos,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-3,tres,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-4,kuwatro,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-5,singko,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-6,sais,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-7,siyete,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-8,otso,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-9,nuwebe,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-10,diyes,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-11,onse,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-12,dose,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-13,trese,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-14,katorse,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-15,kinse,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-16,disisais,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-17,disisiyete,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-18,disiotso,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-19,disinuwebe,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-20,beinte,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-21,beinte uno,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-22,beinte dos,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-23,beinte tres,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-24,beinte kuwatro,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-25,beinte singko,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-26,beinte sais,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-27,beinte siyete,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-28,beinte otso,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-29,beinte nuwebe,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-30,treinta,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-40,kuwarenta,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-50,singkwenta,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-60,sisenta,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-70,sitenta,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-80,otsenta,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-90,nubenta,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-100,siyento,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-200,dos siyentos,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-300,tres siyentos,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-400,kuwatro siyentos,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-500,singko siyentos,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-600,sais siyentos,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-700,siyete siyentos,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-800,otso siyentos,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-900,nuwebe siyentos,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
-1000,mil,from Spanish,TRUE,Castle2010,pp. 58-60,,fili1244,Filipino (Tagalog),fili1244-1
+1,isa,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+2,dalawa,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+3,tatlo,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+4,apat,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+5,lima,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+6,anim,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+7,pito,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+8,walo,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+9,siyam,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+10,sampu,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+11,labing-isa,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+12,labindalawa,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+13,labintatlo,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+14,labing-apat,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+15,labinlima,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+16,labing-anim,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+17,labimpito,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+18,labingwalo,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+19,labinsiyam,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+20,dalawampu,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+21,dalawampu’t isa,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+22,dalawampu’t dalawa,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+23,dalawampu’t tatlo,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+24,dalawampu’t apat,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+25,dalawampu’t lima,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+26,dalawampu’t anim,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+27,dalawampu’t pito,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+28,dalawampu’t walo,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+29,dalawampu’t siyam,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+30,tatlumpu,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+40,apatnapu,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+50,limampu,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+60,animnapu,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+70,pitumpu,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+80,walumpu,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+90,siyamnapu,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+100,isandaan,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+200,dalawandaan,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+300,tatlongdaan,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+400,apatnaraan,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+500,limandaan,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+600,animnaraan,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+700,pitongdaan,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+800,walongdaan,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+900,siyamnaraan,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+1000,isanlibo,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+1,uno,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+2,dos,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+3,tres,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+4,kuwatro,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+5,singko,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+6,sais,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+7,siyete,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+8,otso,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+9,nuwebe,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+10,diyes,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+11,onse,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+12,dose,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+13,trese,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+14,katorse,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+15,kinse,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+16,disisais,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+17,disisiyete,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+18,disiotso,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+19,disinuwebe,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+20,beinte,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+21,beinte uno,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+22,beinte dos,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+23,beinte tres,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+24,beinte kuwatro,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+25,beinte singko,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+26,beinte sais,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+27,beinte siyete,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+28,beinte otso,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+29,beinte nuwebe,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+30,treinta,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+40,kuwarenta,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+50,singkwenta,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+60,sisenta,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+70,sitenta,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+80,otsenta,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+90,nubenta,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+100,siyento,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+200,dos siyentos,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+300,tres siyentos,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+400,kuwatro siyentos,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+500,singko siyentos,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+600,sais siyentos,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+700,siyete siyentos,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+800,otso siyentos,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+900,nuwebe siyentos,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
+1000,mil,from Spanish,TRUE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
 1,osa,,FALSE,Fukuda1981,pp.92-93,,fina1242,Eastern Bontoc,fina1242-1
 2,chowa,,FALSE,Fukuda1981,pp.92-93,,fina1242,Eastern Bontoc,fina1242-1
 3,toro,,FALSE,Fukuda1981,pp.92-93,,fina1242,Eastern Bontoc,fina1242-1
@@ -19224,11 +19224,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nambio,,FALSE,Ray1923,p.343,,namo1246,Potoia,namo1246-1
 4,tuambi-tuambio,,FALSE,Ray1923,p.343,,namo1246,Potoia,namo1246-1
 5,iambia,,FALSE,Ray1923,p.343,,namo1246,Potoia,namo1246-1
-1,sa,,FALSE,Sugono2002,"pp. 140, 142, 172, 190, 203",,namu1249,Ngina Manu,namu1249-1
-2,rua,,FALSE,Sugono2002,"pp. 140, 142, 172, 190, 203",,namu1249,Ngina Manu,namu1249-1
-3,telu,,FALSE,Sugono2002,"pp. 140, 142, 172, 190, 203",,namu1249,Ngina Manu,namu1249-1
-4,sutu,,FALSE,Sugono2002,"pp. 140, 142, 172, 190, 203",,namu1249,Ngina Manu,namu1249-1
-5,lima,,FALSE,Sugono2002,"pp. 140, 142, 172, 190, 203",,namu1249,Ngina Manu,namu1249-1
+1,sa,,FALSE,Sugono2002,"pp.140, 142, 172, 190, 203",,namu1249,Ngina Manu,namu1249-1
+2,rua,,FALSE,Sugono2002,"pp.140, 142, 172, 190, 203",,namu1249,Ngina Manu,namu1249-1
+3,telu,,FALSE,Sugono2002,"pp.140, 142, 172, 190, 203",,namu1249,Ngina Manu,namu1249-1
+4,sutu,,FALSE,Sugono2002,"pp.140, 142, 172, 190, 203",,namu1249,Ngina Manu,namu1249-1
+5,lima,,FALSE,Sugono2002,"pp.140, 142, 172, 190, 203",,namu1249,Ngina Manu,namu1249-1
 1,de,,FALSE,Spaulding1994,p.111,,nank1250,Nankina,nank1250-1
 2,yat,,FALSE,Spaulding1994,p.111,,nank1250,Nankina,nank1250-1
 3,kapbu,,FALSE,Spaulding1994,p.111,,nank1250,Nankina,nank1250-1
@@ -27462,17 +27462,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1,kenano,,FALSE,Galis1960,p.146,,tofa1246,Tofamna,tofa1246-1
 2,neni,,FALSE,Galis1960,p.146,,tofa1246,Tofamna,tofa1246-1
 3,kli,,FALSE,Galis1960,p.146,,tofa1246,Tofamna,tofa1246-1
-1,haʔmoko,,FALSE,Anonymous1975,"pp. 3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
-1,HAMO,,FALSE,Anonymous1975,"pp. 3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
-2,'sitaʔ,,FALSE,Anonymous1975,"pp. 3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
-2,SETA,,FALSE,Anonymous1975,"pp. 3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
-3,si'taʔƀe ma'koʔbe,,FALSE,Anonymous1975,"pp. 3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
-3,SITA HAMO,,FALSE,Anonymous1975,"pp. 3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
-4,si'taʔbe si'taʔbe,,FALSE,Anonymous1975,"pp. 3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
-4,SITAE SITAE,,FALSE,Anonymous1975,"pp. 3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
-5,ante heľaǥaľaka osuʔiƀoko,,FALSE,Anonymous1975,"pp. 3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
-5,ATEHAMO,,FALSE,Anonymous1975,"pp. 3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
-10,ATE HELAGA HELAGA,,FALSE,Anonymous1975,"pp. 3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
+1,haʔmoko,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
+1,HAMO,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
+2,'sitaʔ,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
+2,SETA,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
+3,si'taʔƀe ma'koʔbe,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
+3,SITA HAMO,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
+4,si'taʔbe si'taʔbe,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
+4,SITAE SITAE,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
+5,ante heľaǥaľaka osuʔiƀoko,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
+5,ATEHAMO,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
+10,ATE HELAGA HELAGA,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
 1,o. aso,,FALSE,Stokhof1985Vol7.4,pp.15-16,,tola1247,Kendari,tola1247-1
 2,o. roea,,FALSE,Stokhof1985Vol7.4,pp.15-16,,tola1247,Kendari,tola1247-1
 3,o. toloe,,FALSE,Stokhof1985Vol7.4,pp.15-16,,tola1247,Kendari,tola1247-1
