@@ -4115,6 +4115,40 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 200,rchungek,,FALSE,Lean1985Vol02,p.51,2 CSQs. Bipi Island.,bipi1237,Sisi-Bipi,bipi1237-2
 300,tulungek,,FALSE,Lean1985Vol02,p.51,2 CSQs. Bipi Island.,bipi1237,Sisi-Bipi,bipi1237-2
 1000,sapau,,FALSE,Lean1985Vol02,p.51,2 CSQs. Bipi Island.,bipi1237,Sisi-Bipi,bipi1237-2
+1,wan,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+2,tu,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+3,tri,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+4,fo,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+5,faev,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+6,sikis,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+7,seven,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+8,et,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+9,naen,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+10,ten,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+11,eleven,or: leven,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+12,twelev,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+13,tortin,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+14,fotin,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+15,fiftin,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+16,sikistin,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+17,seventin,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+18,etin,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+19,naentin,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+20,twenti,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+21,twenti wan,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+22,twenti tu,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+30,torti,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+40,foti,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+50,fifti,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+60,sikisti,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+70,seventi,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+80,eti,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+90,naenti,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+99,naenti naen,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+100,wan antret,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+1000,[wan] taosen,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+1972,wan taosen naen antret seventi tu,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+200000,tu antret taosen,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
 1,habila,PE *menda,FALSE,Franklin2012,p.51,,biso1243,Bisorio,biso1243-1
 1,hanana ,PE *menda,FALSE,Franklin2012,p.51,,biso1243,Bisorio,biso1243-1
 2,labo ,PE *lyambo,FALSE,Franklin2012,p.51,,biso1243,Bisorio,biso1243-1
@@ -6102,6 +6136,45 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,kele sisɪ́́ŋɡən,,FALSE,Laycock1971D22,p.3110,,chan1319,Changriwa,chan1319-1
 15,kelikɑk kwʊruŋu kəƀiyɑ kɑyɑƀɑn,,FALSE,Laycock1971D22,p.3110,,chan1319,Changriwa,chan1319-1
 20,kəƀiyɑ kwʊruŋu kəlikɑk kwʊruŋu,,FALSE,Laycock1971D22,p.3110,,chan1319,Changriwa,chan1319-1
+1,uno,/qUnoh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+2,dos,/dOs/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+3,tres,/trEs/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+4,kwatro,/kwAtroh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+5,singko,/sIŋkoh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+6,seys,/sEys/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+7,syete,/syEteh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+8,ocho,/qOčoh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+9,nwebe,/nwEbeh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+10,dyes,/dyEs/ ~ /ǰes/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+11,onse,/qOnseh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+12,dose,/dOseh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+13,trese,/trEseh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+14,katorse,/katOrseh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+15,kinse,/kInseh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+16,dyesiseys,/dyesisEys/ ~ /ǰesisEys/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+17,dyesisyete,/dyesisyEteh/ ~ /ǰesisyEteh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+18,dyesiocho,/dyesiqOčoh/ ~ /ǰesiqOčoh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+19,dyesinwebe,/dyesinwEbeh/ ~ /ǰesinwEbeh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+20,beynte,/bEynteh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+30,treynta,/trEyntah/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+40,kwarenta,/kwarEntah/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+50,singkwenta,/siŋkwEntah/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+60,sesenta,/sesEntah/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+70,setenta,/setEntah/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+80,ochenta,/qočEntah/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+90,nobenta,/nobEntah/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+100,syen,,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+100,syento,/syEntoh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+200,dos syentos,/dosyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+300,tres syentos,/tresyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+400,kwatro syentos,/kwatrosyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+500,kinyentos,/kinyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+600,seysyentos,/seysyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+700,syetesyentos,/syetesyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+800,ochosyentos,/qočosyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+900,nwebesyentos,/nwebesyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+1000,mil,/mIl/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
+1000,un mil,/qunmIl/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
 1,nɑ·rə,,FALSE,Laycock1971D34,p.4950,,chen1259,Chenapian,chen1259-1
 1,sirə,(masc/fem),FALSE,Laycock1971D34,p.4950,,chen1259,Chenapian,chen1259-1
 1,ɡwɑ·rə,(bird/dog),FALSE,Laycock1971D34,p.4950,,chen1259,Chenapian,chen1259-1
@@ -6132,6 +6205,21 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,kwɛndə nә́mu,,FALSE,Laycock1971D34,p.4950,,chen1259,Chenapian,chen1259-1
 9,kwɛndə hɑrɛs,,FALSE,Laycock1971D34,p.4950,,chen1259,Chenapian,chen1259-1
 10,wʊndɔʔ,,FALSE,Laycock1971D34,p.4950,,chen1259,Chenapian,chen1259-1
+1,wә́n,"The numerals and ól [‘all’] may take the numeral suffix pīs(ī), whose addition is facultative and does not change the meaning of the word it is added to",FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
+2,tū́,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
+3,θrī́,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
+4,fṓr,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
+5,fájv,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
+6,síks,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
+7,séven,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
+8,ḗt,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
+9,nájn,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
+10,tén,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
+11,eléven,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
+12,twélv,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
+13,θә́rtīn,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
+14,fṓrtīn,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
+15,fíftīn,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
 1,towane,,FALSE,Lean1986Vol09,p.70,10 CSQs (both dialect regions).,chua1250,Chuave (from CSQs),chua1250-1
 1,toane,,FALSE,Lean1986Vol09,p.70,10 CSQs (both dialect regions).,chua1250,Chuave (from CSQs),chua1250-1
 1,tane,,FALSE,Lean1986Vol09,p.70,10 CSQs (both dialect regions).,chua1250,Chuave (from CSQs),chua1250-1
@@ -7288,6 +7376,45 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 272,mimogo fisi silasi ,16 x 17,FALSE,LeanWestern,pp.14-17,Peter Dwyer (1979-1980).,edol1239,"Etoro (Etolo, Edolo) (from Peter Dwyer)",edol1239-3
 289,mimogo fisi mimogolasi ,17 x 17,FALSE,LeanWestern,pp.14-17,Peter Dwyer (1979-1980).,edol1239,"Etoro (Etolo, Edolo) (from Peter Dwyer)",edol1239-3
 290,mimogo fisi mimogolasi i̱e afate,,FALSE,LeanWestern,pp.14-17,Peter Dwyer (1979-1980).,edol1239,"Etoro (Etolo, Edolo) (from Peter Dwyer)",edol1239-3
+1,sikei,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+1,ite,DIALECTIC FORM,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+1,sikitik,DIALECTIC FORM,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+2,rua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+3,tolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+4,bātĕ,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+5,lima,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+6,latesa,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+6,lateha,DIALECTIC FORM,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+7,larua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+8,latolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+9,lifiti,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+9,lovita,DIALECTIC FORM,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+10,rualima,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+10,ralima,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+10,tualima,DIALECTIC FORM,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+10,rualima sikei temate sikei,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+11,rualima sikei atmate sikei,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+12,rualima sikei temate rua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+13,rualima sikei temate tolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+20,rualima rua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+21,rualima rua temate sikei,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+22,rualima rua temate rua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+23,rualima rua temate tolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+30,rualima tolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+40,rualima bātĕ,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+50,rualima lima,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+60,rualima latesa,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+70,rualima larua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+80,rualima latolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+90,rualima lifiti,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+100,bunti,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+100,tifili,dialect,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+200,bunti rua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+300,bunti tolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+1000,manu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+1000,bon,dialect,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+2000,manu rua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
+3000,manu tolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
 1,ènà,,FALSE,Galis1955,p.165,,ekar1243,Ekari Ekari,ekar1243-1
 2,wija,,FALSE,Galis1955,p.165,,ekar1243,Ekari Ekari,ekar1243-1
 2,wasa,,FALSE,Galis1955,p.165,,ekar1243,Ekari Ekari,ekar1243-1
@@ -8004,6 +8131,31 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1000000,tokón ukan(i),,FALSE,Arnaud1998,pp.863-879 [word list item numbers],,fata1247,Fataluku,fata1247-1
 1,dano,,FALSE,Lean1986Vol12,"pp.29, 95",[unknown],femb1238,Agala,femb1238-1
 2,balo,Number words for 1 and 2 available only.,FALSE,Lean1986Vol12,"pp.29, 95",[unknown],femb1238,Agala,femb1238-1
+1,ek,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+2,dui,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+3,tīn,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+4,cār,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+5,pãc,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+6,che,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+7,sāt,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+8,āt,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+9,nao,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+10,das,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+11,gyāra,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+12,bāra,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+13,tera,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+14,cauda,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+15,pandra,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+16,sora,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+17,satra,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+18,ath’āre,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+19,onais,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+20,bīs,Most speakers would us FH numbers up to twenty and borrow English after that.,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+30,tīs,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+40,calīs,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+50,pacās,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+100,sao,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
+1000,hajār,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
 1,isa,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
 2,dalawa,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
 3,tatlo,,FALSE,Castle2010,pp.58-60,,fili1244,Filipino (Tagalog),fili1244-1
@@ -9408,6 +9560,19 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,ɔlɔ bəlɪɡ,,FALSE,Laycock1967C11,p.56,,heyo1240,Heyo,heyo1240-2
 9,ɔltɔlɔʔw,,FALSE,Laycock1967C11,p.56,,heyo1240,Heyo,heyo1240-2
 10,ɛrɛpnatɛɡ,[natɛɡya = hand],FALSE,Laycock1967C11,p.56,,heyo1240,Heyo,heyo1240-2
+1,ta,"Many speakers use the English names for the numbers, and the Pidgin English ones for first, second, third, etc.",FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
+2,rua,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
+3,toi,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
+4,hani,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
+5,ima,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
+6,tauratori,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
+7,hitu,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
+8,taurahani,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
+9,taurahani-ta,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
+10,gwauta,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
+11,gwauta-ta,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
+12,guata-rua,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
+20,ruahui,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
 1,te,,FALSE,LeanMorobe,p.50,"2 CSQs. Villages: Hote, Yemli.",hote1245,Hote,hote1245-1
 2,yu,,FALSE,LeanMorobe,p.50,"2 CSQs. Villages: Hote, Yemli.",hote1245,Hote,hote1245-1
 3,lu,,FALSE,LeanMorobe,p.50,"2 CSQs. Villages: Hote, Yemli.",hote1245,Hote,hote1245-1
@@ -15974,6 +16139,126 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,ŋiɛr̃,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,mala1494,Pay,mala1494-4
 1,ɡɛmɛm,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,mala1495,Malas,mala1495-1
 2,arɛr,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,mala1495,Malas,mala1495-1
+1,unga,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+2,dos,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+3,tres,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+4,katër,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+5,singku,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+6,ses,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+7,seti,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+8,oyti,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+9,nobi,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+10,des,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+11,ondji,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+12,dodji,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+13,tredji,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+14,katordji,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+15,kindji,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+16,dises,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+17,diseti,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+18,disoyti,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+19,disnobi,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+20,binti,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+20,vinti,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+30,trinta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+40,korenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+50,singkuenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+60,sesenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+70,setenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+80,oytenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+90,nobenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+100,ung senta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+1000,ung mil,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+10000,des mil,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+100000,ung senta mil,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
+1,ung,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+1,unga,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+2,dos,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+3,tres,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+4,katër,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+5,singku,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+6,ses,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+7,seti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+8,oytu,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+9,nobi,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+10,des,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+11,ondji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+12,dodji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+13,tredji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+14,katordji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+15,kendji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+16,dises,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+17,diseti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+18,disoytu,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+19,disnobi,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+20,binti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+21,binti unga,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+22,binti dos,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+23,binti tres,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+24,binti katër,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+25,binti singku,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+25,binsingku,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+26,binti ses,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+27,binti seti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+28,binti oytu,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+29,binti nobi,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+30,trinta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+32,trinta dos,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+40,korend,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+40,korenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+50,singkuenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+60,sesenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+70,setenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+80,oytenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+90,nobenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+100,ung senta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+1000,ung mil,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+10000,des mil,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
+1,unga,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+2,dos,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+3,tres,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+4,katër,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+5,singku,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+6,ses,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+7,seti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+8,oytu,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+9,nabi,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+10,des,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+11,ondji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+12,dodji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+13,tredji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+14,katardji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+15,disngku,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+17,diseti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+18,disoytu,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+19,disnobi,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+20,binti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+21,binti unga,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+22,binti dos,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+30,trinta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+40,korenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+50,singkuenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+60,sesenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+70,setenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+80,oytenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+90,nobenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+100,unga senta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+200,dosentu,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
+1,unga,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
+2,dos,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
+3,tres,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
+4,katër,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
+5,singku,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
+6,ses,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
+7,seti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
+8,oytu,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
+9,nabi,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
+10,des,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
+11,ondji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
+12,dodji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
+13,tredji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
+14,kátërdji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
+15,kindji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
 1,issá,,FALSE,Reid1987,p.6,,mala1534,Malaweg,mala1534-1
 2,duwwá,,FALSE,Reid1987,p.6,,mala1534,Malaweg,mala1534-1
 3,tallú,,FALSE,Reid1987,p.6,,mala1534,Malaweg,mala1534-1
@@ -21925,6 +22210,65 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,ko'lou,(ring finger),FALSE,LeanEastSepik,p.23,SIL Word List (1981). Village: Yonepi.,piam1243,Piame,piam1243-2
 5,'keli,(little finger),FALSE,LeanEastSepik,p.23,SIL Word List (1981). Village: Yonepi.,piam1243,Piame,piam1243-2
 6,'kala,(shoulder),FALSE,LeanEastSepik,p.23,SIL Word List (1981). Village: Yonepi.,piam1243,Piame,piam1243-2
+0,siro,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+1,wan,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+1,wanfala,Cardinal numerals from wan ‘one’ to tuenti ‘twenty’ and other non-composite numerals are usually expressed by fala forms when used in a noun phrase to indicate how many of the head noun there are.,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+2,tu,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+2,tufala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+3,tri,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+3,trifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+4,foa,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+4,fofala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+5,faev,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+5,faefala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+6,siks,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+6,siksfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+7,seven,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+7,sevenfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+8,eit,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+8,eitfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+9,naen,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+9,naenfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+10,ten,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+10,tenfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+11,leven,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+11,levenfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+12,tuel,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+12,tuelfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+13,tetin,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+13,tetinfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+14,fotin,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+14,fotinfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+15,fiftin,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+15,fiftinfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+16,sikstin,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+16,sikstinfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+17,seventin,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+17,seventinfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+18,eitin,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+18,eitinfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+19,naentin,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+19,naentinfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+20,tuenti,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+20,tuentifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+30,teti,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+30,tetifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+40,foti,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+40,fotifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+50,fifti,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+50,fiftifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+60,siksti,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+60,sikstifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+70,seventi,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+70,seventifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+80,eiti,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+80,eitifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+90,naenti,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+90,naentifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+100,handred,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+100,handredfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+1000,taosen,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
+1000000,milion,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
 1,yohta ?,,FALSE,Tonson1976,p.100,,pina1252,Aramo,pina1252-1
 2,yændɛm,,FALSE,Tonson1976,p.100,,pina1252,Aramo,pina1252-1
 1,yoloto,,FALSE,Laycock1971D25,p.3573,,pina1252,Pinai,pina1252-2
@@ -21933,6 +22277,43 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,ɑkinyotɑ,,FALSE,Laycock1971D25,p.3573,,pina1252,Pinai,pina1252-2
 5,mɑpo,,FALSE,Laycock1971D25,p.3573,,pina1252,Pinai,pina1252-2
 6,mətɑmɑpo,"6 through 10 [i.e., ‘many’?]",FALSE,Laycock1971D25,p.3573,,pina1252,Pinai,pina1252-2
+1,wan,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+2,tuu,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+3,thrii,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+4,for,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+5,faiw,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+6,siks,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+7,sew'n,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+7,semn,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+8,iet,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+9,nain,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+10,ten,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+11,lew'n,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+11,lemn,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+12,twelw,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+13,thertiin,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+14,foetiin,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+15,feftiin,(or fiftiin),FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+16,sikstiin,(or sekstiin),FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+17,semntiin,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+18,ietiin,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+19,naintiin,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+20,twenti,(or twente),FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+30,therti,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+40,foeti,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+50,fifti,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+50,fefte,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+60,siksti,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+60,sekste,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+70,semnti,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+80,ieti,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+90,nainti,(or nainte),FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+100,handed,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+100,handred,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+200,tuu handed,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+1000,wan tausen,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+2000,tuu tausen,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
+1000000,wan milyan,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
 1,tika,,FALSE,LeanMorobe,p.33,SIL Word List (1965). Village: Piu.,piuu1237,Piu,piuu1237-1
 2,lu,It is possible that 4 has a ‘2 + 2’ construction,FALSE,LeanMorobe,p.33,SIL Word List (1965). Village: Piu.,piuu1237,Piu,piuu1237-1
 3,yan,,FALSE,LeanMorobe,p.33,SIL Word List (1965). Village: Piu.,piuu1237,Piu,piuu1237-1
@@ -22905,6 +23286,27 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,kwa'imodo,,FALSE,Lean1986Vol12,p.30,SIL Word List (1973). (Samo d.). IMP/SIL Questionnaire,samo1303,Nomad (Samo dialect),samo1303-1
 1,noːtate,,FALSE,Zgraggen1980Mabuso,p.92,,samo1306,Samosa,samo1306-1
 2,ariɡita(tɛ),,FALSE,Zgraggen1980Mabuso,p.92,,samo1306,Samosa,samo1306-1
+1,wan (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+2,tu (fela),"(two, Lentzner, 1891)",FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+3,tri (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+4,fo (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+5,faif (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+6,sikis (fela),"(six, Lentzner, 1891)",FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+7,seven (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+8,et (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+9,nain (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+10,wanfela ten,,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+11,wanfela ten wan (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+12,wanfela ten tu (fela),"(ten fellow one two fellow, Genthe, 1908)",FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+13,wanfela ten tri (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+14,wanfela ten fo (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+15,wanfela ten faif (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+16,wanfela ten sikis (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+17,wanfela ten seven (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+18,wanfela ten et (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+19,wanfela ten nain (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+20,tufela ten,,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
+24,(two ten and four),(Lentzner 1891),FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
 1,sěmbau,(when counting: kẹ̌sạ),FALSE,Stokhof1982Vol4,p.184,,sang1336,Sangir: Beran Manganitu,sang1336-1
 1,sěngkatau,,FALSE,Stokhof1982Vol4,p.184,,sang1336,Sangir: Beran Manganitu,sang1336-1
 2,darua,(when counting: dua),FALSE,Stokhof1982Vol4,p.184,,sang1336,Sangir: Beran Manganitu,sang1336-1
@@ -26768,6 +27170,37 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 6,nimi-tutu po emosi,,FALSE,Lean1986Vol06,p.59,S.I.L word list (1975). Village Rabe.,tawa1275,Kehelala (Rabe village),tawa1275-2
 10,nimi luwaga hi-tutu,,FALSE,Lean1986Vol06,p.59,S.I.L word list (1975). Village Rabe.,tawa1275,Kehelala (Rabe village),tawa1275-2
 20,oloto emosi,,FALSE,Lean1986Vol06,p.59,S.I.L word list (1975). Village Rabe.,tawa1275,Kehelala (Rabe village),tawa1275-2
+1,a,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+2,de,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+3,trwa,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+4,kat,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+5,saːk,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+6,sis,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+7,set,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+8,wit,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+9,nef,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+10,dis,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+11,oːs,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+12,duːs,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+13,treːs,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+14,kators,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+15,kaːs,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+16,seːs,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+17,disset,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+18,diswit,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+19,disnef,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+20,va,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+21,vaːtea,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+22,vaːde,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+30,traːt,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+40,karaːt,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+50,sakaːt,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+60,swasaːt,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+70,swasːat-dis,[typo for swasaːt-dis ?],FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+80,katrvaː,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+90,katrvaːdis,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+100,sa,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
+1000,mil,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
 1,marès,,FALSE,Galis1955,p.136,,tehi1237,Kaibus,tehi1237-1
 2,laük,,FALSE,Galis1955,p.136,,tehi1237,Kaibus,tehi1237-1
 3,tolik,,FALSE,Galis1955,p.136,,tehi1237,Kaibus,tehi1237-1
@@ -26947,6 +27380,20 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,tufkange,,FALSE,Teljeur1982,pp.145-146,,tern1247,Ternate,tern1247-1
 9,sio,,FALSE,Teljeur1982,pp.145-146,,tern1247,Ternate,tern1247-1
 10,nyagimoi,,FALSE,Teljeur1982,pp.145-146,,tern1247,Ternate,tern1247-1
+1,úna,adnominal and pronominal,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
+1,úno,occurs mainly in compound forms expressing ages or years,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
+1,un,has the functions of the indefinite article,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
+2,dos,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
+3,tres,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
+4,kwátru,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
+5,sinku,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
+6,seys,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
+7,syéte,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
+8,ócho,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
+9,nwébe,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
+10,dyés,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
+11,ónse,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
+12,dóse,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
 1,raiki,,FALSE,Deschamps1936,p.106,,tesa1236,Antaisaka,tesa1236-1
 2,roi,,FALSE,Deschamps1936,p.106,,tesa1236,Antaisaka,tesa1236-1
 3,telo,,FALSE,Deschamps1936,p.106,,tesa1236,Antaisaka,tesa1236-1
@@ -27473,6 +27920,44 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,ante heľaǥaľaka osuʔiƀoko,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
 5,ATEHAMO,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
 10,ATE HELAGA HELAGA,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
+0,nating,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+0,not,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+0,siro,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+1,wan,"Those without -pela attached correspond to the names of the numbers in English and are used for mathematical operations like addition, subtraction, multiplication and division, and for counting money and telling the time ...",FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+1,wanpela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+2,tu,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+2,tupela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+3,tri,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+3,tripela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+4,foa,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+4,fopela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+5,faiv,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+5,faipela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+6,sikis,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+6,sikispela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+7,seven,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+7,sevenpela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+8,et,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+8,etpela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+9,nain,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+9,nainpela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+10,ten,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+10,tenpela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+11,wanpela ten wan,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+11,elevenpela,Numbers beyond ten are not constructed as in English although one may occasionally hear the shorter ones with -pela attached to them ...,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+12,wanpela ten tu,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+13,wanpela ten tri,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+18,wanpela ten et,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+18,eitinpela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+20,twentipela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+26,tupela ten sikis,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+28,tupela ten et,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+35,tripela ten faiv,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+50,fifti,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+54,faipela ten foa,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+80,etpela ten,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+90,nainpela ten,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
+100,wan handet,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
 1,o. aso,,FALSE,Stokhof1985Vol7.4,pp.15-16,,tola1247,Kendari,tola1247-1
 2,o. roea,,FALSE,Stokhof1985Vol7.4,pp.15-16,,tola1247,Kendari,tola1247-1
 3,o. toloe,,FALSE,Stokhof1985Vol7.4,pp.15-16,,tola1247,Kendari,tola1247-1
@@ -28191,6 +28676,37 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,ɑwiyɑl,,FALSE,Laycock1967C09,p.44,,torr1259,Lou (Wupar village),torr1259-1
 4,wiyew wiyew,,FALSE,Laycock1967C09,p.44,,torr1259,Lou (Wupar village),torr1259-1
 5,təlwambuk,[ndɑl = hand],FALSE,Laycock1967C09,p.44,,torr1259,Lou (Wupar village),torr1259-1
+0,Ziro,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+1,Wan,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+2,Tū,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+3,Trī,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+4,Fō,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+5,Faib,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+6,siks,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+7,Seben,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+8,Eit,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+9,Nain,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+10,Ten,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+11,Leben,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+12,Twelb,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+13,Tētin,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+14,Fōtin,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+15,Fiftin,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+16,Sikstin,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+17,Sebentin,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+18,Eitin,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+19,Naintin,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+20,Twenti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+30,Tēti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+40,Fōti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+50,Fifti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+60,Siksti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+70,Sebenti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+80,Eiti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+90,Nainti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+100,Andred,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+1000,Tauzen,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
+1000000,Milien,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
 1,sabatoe,,FALSE,Stokhof1983Vol7.1,p.211,,toto1304,Tontoli,toto1304-1
 2,doea,,FALSE,Stokhof1983Vol7.1,p.211,,toto1304,Tontoli,toto1304-1
 3,toloe,,FALSE,Stokhof1983Vol7.1,p.211,,toto1304,Tontoli,toto1304-1
@@ -31292,6 +31808,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,tɑmuŋɡwɔt mɑlʸmɑlʸ,(canoe),FALSE,Laycock1971D21,p.3012,,yima1243,Yimas,yima1243-1
 10,tɑm nuŋɡwɑrɑwilʸ,,FALSE,Laycock1971D21,p.3012,,yima1243,Yimas,yima1243-1
 10,nuŋɡwɔrɔlʸ,(canoe),FALSE,Laycock1971D21,p.3012,,yima1243,Yimas,yima1243-1
+1,mban,"The numeral system in Yimas-Arafundi Pidgin is a mixture of base 2 like Arafundi and base 5 and base 10, as in Yimas:",FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
+2,kundamwin,,FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
+3,kundamwin mban,(i.e. 2+1),FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
+4,man kundamwin,"man (‘other’) (i.e. another 2, 2+2)",FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
+5,tam,,FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
+6,maŋgat mban tam,"maŋgat (‘other side of something’) (i.e. other side 1, and 5)",FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
+7,maŋgat kundamwin tam,"(i.e. other side 2, and 5)",FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
+10,nuŋgarawri,,FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
 1,pəmbwi tɛnɛ,(masc),FALSE,Laycock1967C05,p.13,,yiss1240,Yis,yiss1240-1
 1,pɑmɡɛ teɡɑ,(fem) one only,FALSE,Laycock1967C05,p.13,,yiss1240,Yis,yiss1240-1
 2,wiyum,(masc),FALSE,Laycock1967C05,p.13,,yiss1240,Yis,yiss1240-1
@@ -31392,527 +31916,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,wan,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-2,tu,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-3,tri,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-4,fo,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-5,faev,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-6,sikis,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-7,seven,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-8,et,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-9,naen,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-10,ten,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-11,eleven,or: leven,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-12,twelev,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-13,tortin,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-14,fotin,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-15,fiftin,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-16,sikistin,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-17,seventin,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-18,etin,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-19,naentin,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-20,twenti,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-21,twenti wan,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-22,twenti tu,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-30,torti,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-40,foti,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-50,fifti,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-60,sikisti,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-70,seventi,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-80,eti,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-90,naenti,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-99,naenti naen,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-100,wan antret,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-1000,[wan] taosen,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-1972,wan taosen naen antret seventi tu,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-200000,tu antret taosen,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
-1,uno,/qUnoh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-2,dos,/dOs/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-3,tres,/trEs/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-4,kwatro,/kwAtroh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-5,singko,/sIŋkoh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-6,seys,/sEys/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-7,syete,/syEteh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-8,ocho,/qOčoh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-9,nwebe,/nwEbeh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-10,dyes,/dyEs/ ~ /ǰes/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-11,onse,/qOnseh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-12,dose,/dOseh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-13,trese,/trEseh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-14,katorse,/katOrseh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-15,kinse,/kInseh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-16,dyesiseys,/dyesisEys/ ~ /ǰesisEys/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-17,dyesisyete,/dyesisyEteh/ ~ /ǰesisyEteh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-18,dyesiocho,/dyesiqOčoh/ ~ /ǰesiqOčoh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-19,dyesinwebe,/dyesinwEbeh/ ~ /ǰesinwEbeh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-20,beynte,/bEynteh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-30,treynta,/trEyntah/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-40,kwarenta,/kwarEntah/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-50,singkwenta,/siŋkwEntah/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-60,sesenta,/sesEntah/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-70,setenta,/setEntah/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-80,ochenta,/qočEntah/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-90,nobenta,/nobEntah/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-100,syen,,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-100,syento,/syEntoh/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-200,dos syentos,/dosyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-300,tres syentos,/tresyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-400,kwatro syentos,/kwatrosyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-500,kinyentos,/kinyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-600,seysyentos,/seysyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-700,syetesyentos,/syetesyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-800,ochosyentos,/qočosyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-900,nwebesyentos,/nwebesyEntos/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-1000,mil,/mIl/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-1000,un mil,/qunmIl/,FALSE,RiegodeDios1989,pp.31-32,,chav1241,Philippine Creole Spanish (PCS),chav1241-1
-1,wә́n,"The numerals and ól [‘all’] may take the numeral suffix pīs(ī), whose addition is facultative and does not change the meaning of the word it is added to",FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-2,tū́,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-3,θrī́,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-4,fṓr,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-5,fájv,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-6,síks,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-7,séven,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-8,ḗt,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-9,nájn,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-10,tén,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-11,eléven,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-12,twélv,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-13,θә́rtīn,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-14,fṓrtīn,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-15,fíftīn,,FALSE,Hall1944,p.97,,chin1253,Chinese Pidgin English,chin1253-1
-1,sikei,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-1,ite,DIALECTIC FORM,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-1,sikitik,DIALECTIC FORM,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-2,rua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-3,tolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-4,bātĕ,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-5,lima,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-6,latesa,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-6,lateha,DIALECTIC FORM,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-7,larua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-8,latolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-9,lifiti,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-9,lovita,DIALECTIC FORM,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-10,rualima,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-10,ralima,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-10,tualima,DIALECTIC FORM,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-10,rualima sikei temate sikei,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-11,rualima sikei atmate sikei,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-12,rualima sikei temate rua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-13,rualima sikei temate tolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-20,rualima rua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-21,rualima rua temate sikei,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-22,rualima rua temate rua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-23,rualima rua temate tolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-30,rualima tolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-40,rualima bātĕ,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-50,rualima lima,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-60,rualima latesa,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-70,rualima larua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-80,rualima latolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-90,rualima lifiti,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-100,bunti,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-100,tifili,dialect,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-200,bunti rua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-300,bunti tolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-1000,manu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-1000,bon,dialect,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-2000,manu rua,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-3000,manu tolu,,FALSE,MacDonald1889,pp.36-37,,efat1235,Efatese,efat1235-1
-1,ek,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-2,dui,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-3,tīn,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-4,cār,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-5,pãc,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-6,che,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-7,sāt,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-8,āt,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-9,nao,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-10,das,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-11,gyāra,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-12,bāra,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-13,tera,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-14,cauda,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-15,pandra,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-16,sora,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-17,satra,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-18,ath’āre,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-19,onais,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-20,bīs,Most speakers would us FH numbers up to twenty and borrow English after that.,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-30,tīs,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-40,calīs,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-50,pacās,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-100,sao,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-1000,hajār,,FALSE,Prasad2016,p.22,,fiji1242,Nasinu Fiji Hindi,fiji1242-1
-1,ta,"Many speakers use the English names for the numbers, and the Pidgin English ones for first, second, third, etc.",FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
-2,rua,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
-3,toi,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
-4,hani,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
-5,ima,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
-6,tauratori,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
-7,hitu,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
-8,taurahani,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
-9,taurahani-ta,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
-10,gwauta,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
-11,gwauta-ta,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
-12,guata-rua,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
-20,ruahui,,FALSE,Dutton1975,p.57,,hiri1237,Hiri Motu,hiri1237-1
-1,unga,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-2,dos,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-3,tres,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-4,katër,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-5,singku,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-6,ses,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-7,seti,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-8,oyti,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-9,nobi,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-10,des,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-11,ondji,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-12,dodji,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-13,tredji,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-14,katordji,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-15,kindji,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-16,dises,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-17,diseti,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-18,disoyti,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-19,disnobi,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-20,binti,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-20,vinti,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-30,trinta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-40,korenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-50,singkuenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-60,sesenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-70,setenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-80,oytenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-90,nobenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-100,ung senta,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-1000,ung mil,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-10000,des mil,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-100000,ung senta mil,,FALSE,Maurer2011,pp.34-35,,mala1533,Batavia,mala1533-1
-1,ung,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-1,unga,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-2,dos,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-3,tres,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-4,katër,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-5,singku,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-6,ses,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-7,seti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-8,oytu,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-9,nobi,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-10,des,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-11,ondji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-12,dodji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-13,tredji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-14,katordji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-15,kendji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-16,dises,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-17,diseti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-18,disoytu,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-19,disnobi,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-20,binti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-21,binti unga,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-22,binti dos,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-23,binti tres,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-24,binti katër,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-25,binti singku,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-25,binsingku,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-26,binti ses,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-27,binti seti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-28,binti oytu,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-29,binti nobi,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-30,trinta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-32,trinta dos,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-40,korend,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-40,korenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-50,singkuenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-60,sesenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-70,setenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-80,oytenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-90,nobenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-100,ung senta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-1000,ung mil,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-10000,des mil,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Schuchardt 1891,mala1533-2
-1,unga,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-2,dos,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-3,tres,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-4,katër,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-5,singku,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-6,ses,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-7,seti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-8,oytu,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-9,nabi,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-10,des,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-11,ondji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-12,dodji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-13,tredji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-14,katardji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-15,disngku,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-17,diseti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-18,disoytu,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-19,disnobi,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-20,binti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-21,binti unga,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-22,binti dos,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-30,trinta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-40,korenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-50,singkuenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-60,sesenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-70,setenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-80,oytenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-90,nobenta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-100,unga senta,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-200,dosentu,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu 1937 manuscript,mala1533-3
-1,unga,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-2,dos,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-3,tres,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-4,katër,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-5,singku,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-6,ses,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-7,seti,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-8,oytu,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-9,nabi,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-10,des,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-11,ondji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-12,dodji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-13,tredji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-14,kátërdji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-15,kindji,,FALSE,Maurer2011,pp.34-35,,mala1533,Tugu Wallace 1978,mala1533-4
-0,siro,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-1,wan,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-1,wanfala,Cardinal numerals from wan ‘one’ to tuenti ‘twenty’ and other non-composite numerals are usually expressed by fala forms when used in a noun phrase to indicate how many of the head noun there are.,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-2,tu,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-2,tufala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-3,tri,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-3,trifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-4,foa,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-4,fofala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-5,faev,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-5,faefala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-6,siks,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-6,siksfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-7,seven,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-7,sevenfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-8,eit,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-8,eitfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-9,naen,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-9,naenfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-10,ten,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-10,tenfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-11,leven,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-11,levenfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-12,tuel,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-12,tuelfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-13,tetin,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-13,tetinfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-14,fotin,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-14,fotinfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-15,fiftin,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-15,fiftinfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-16,sikstin,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-16,sikstinfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-17,seventin,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-17,seventinfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-18,eitin,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-18,eitinfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-19,naentin,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-19,naentinfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-20,tuenti,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-20,tuentifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-30,teti,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-30,tetifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-40,foti,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-40,fotifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-50,fifti,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-50,fiftifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-60,siksti,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-60,sikstifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-70,seventi,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-70,seventifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-80,eiti,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-80,eitifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-90,naenti,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-90,naentifala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-100,handred,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-100,handredfala,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-1000,taosen,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-1000000,milion,,FALSE,Beimers2008,pp.72-73,,piji1239,Solomon Islands Pidgin,piji1239-1
-1,wan,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-2,tuu,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-3,thrii,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-4,for,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-5,faiw,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-6,siks,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-7,sew'n,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-7,semn,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-8,iet,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-9,nain,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-10,ten,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-11,lew'n,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-11,lemn,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-12,twelw,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-13,thertiin,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-14,foetiin,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-15,feftiin,(or fiftiin),FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-16,sikstiin,(or sekstiin),FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-17,semntiin,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-18,ietiin,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-19,naintiin,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-20,twenti,(or twente),FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-30,therti,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-40,foeti,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-50,fifti,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-50,fefte,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-60,siksti,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-60,sekste,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-70,semnti,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-80,ieti,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-90,nainti,(or nainte),FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-100,handed,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-100,handred,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-200,tuu handed,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-1000,wan tausen,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-2000,tuu tausen,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-1000000,wan milyan,,FALSE,Buffett1988,pp.2-3,,pitc1234,Norfolk,pitc1234-1
-1,wan (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-2,tu (fela),"(two, Lentzner, 1891)",FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-3,tri (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-4,fo (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-5,faif (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-6,sikis (fela),"(six, Lentzner, 1891)",FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-7,seven (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-8,et (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-9,nain (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-10,wanfela ten,,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-11,wanfela ten wan (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-12,wanfela ten tu (fela),"(ten fellow one two fellow, Genthe, 1908)",FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-13,wanfela ten tri (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-14,wanfela ten fo (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-15,wanfela ten faif (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-16,wanfela ten sikis (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-17,wanfela ten seven (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-18,wanfela ten et (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-19,wanfela ten nain (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-20,tufela ten,,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-24,(two ten and four),(Lentzner 1891),FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
-1,a,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-2,de,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-3,trwa,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-4,kat,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-5,saːk,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-6,sis,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-7,set,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-8,wit,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-9,nef,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-10,dis,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-11,oːs,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-12,duːs,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-13,treːs,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-14,kators,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-15,kaːs,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-16,seːs,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-17,disset,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-18,diswit,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-19,disnef,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-20,va,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-21,vaːtea,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-22,vaːde,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-30,traːt,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-40,karaːt,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-50,sakaːt,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-60,swasaːt,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-70,swasːat-dis,[typo for swasaːt-dis ?],FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-80,katrvaː,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-90,katrvaːdis,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-100,sa,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-1000,mil,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
-1,úna,adnominal and pronominal,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
-1,úno,occurs mainly in compound forms expressing ages or years,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
-1,un,has the functions of the indefinite article,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
-2,dos,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
-3,tres,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
-4,kwátru,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
-5,sinku,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
-6,seys,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
-7,syéte,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
-8,ócho,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
-9,nwébe,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
-10,dyés,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
-11,ónse,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
-12,dóse,,FALSE,Sippola2011,p.120,,tern1248,Chabacano de Ternate,tern1248-1
-0,nating,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-0,not,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-0,siro,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-1,wan,"Those without -pela attached correspond to the names of the numbers in English and are used for mathematical operations like addition, subtraction, multiplication and division, and for counting money and telling the time ...",FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-1,wanpela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-2,tu,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-2,tupela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-3,tri,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-3,tripela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-4,foa,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-4,fopela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-5,faiv,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-5,faipela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-6,sikis,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-6,sikispela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-7,seven,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-7,sevenpela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-8,et,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-8,etpela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-9,nain,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-9,nainpela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-10,ten,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-10,tenpela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-11,wanpela ten wan,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-11,elevenpela,Numbers beyond ten are not constructed as in English although one may occasionally hear the shorter ones with -pela attached to them ...,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-12,wanpela ten tu,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-13,wanpela ten tri,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-18,wanpela ten et,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-18,eitinpela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-20,twentipela,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-26,tupela ten sikis,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-28,tupela ten et,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-35,tripela ten faiv,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-50,fifti,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-54,faipela ten foa,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-80,etpela ten,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-90,nainpela ten,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-100,wan handet,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
-0,Ziro,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-1,Wan,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-2,Tū,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-3,Trī,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-4,Fō,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-5,Faib,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-6,siks,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-7,Seben,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-8,Eit,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-9,Nain,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-10,Ten,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-11,Leben,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-12,Twelb,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-13,Tētin,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-14,Fōtin,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-15,Fiftin,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-16,Sikstin,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-17,Sebentin,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-18,Eitin,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-19,Naintin,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-20,Twenti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-30,Tēti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-40,Fōti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-50,Fifti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-60,Siksti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-70,Sebenti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-80,Eiti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-90,Nainti,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-100,Andred,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-1000,Tauzen,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-1000000,Milien,,FALSE,Mittag2016,p.139,,torr1261,Lockhart River Creole,torr1261-1
-1,mban,"The numeral system in Yimas-Arafundi Pidgin is a mixture of base 2 like Arafundi and base 5 and base 10, as in Yimas:",FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
-2,kundamwin,,FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
-3,kundamwin mban,(i.e. 2+1),FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
-4,man kundamwin,"man (‘other’) (i.e. another 2, 2+2)",FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
-5,tam,,FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
-6,maŋgat mban tam,"maŋgat (‘other side of something’) (i.e. other side 1, and 5)",FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
-7,maŋgat kundamwin tam,"(i.e. other side 2, and 5)",FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
-10,nuŋgarawri,,FALSE,Foley2013,p.107,,yima1244,Yimas-Arafundi Pidgin,yima1244-1
