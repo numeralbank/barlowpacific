@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/barlowpacific",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-37-g401175e",
+            "dc:created": "v1.1-66-gd406129",
             "dc:title": "Repository"
         },
         {
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 30659,
+            "dc:extent": 31910,
             "tableSchema": {
                 "columns": [
                     {
@@ -164,7 +164,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 2229,
+            "dc:extent": 2383,
             "tableSchema": {
                 "columns": [
                     {
@@ -242,7 +242,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 169,
+            "dc:extent": 176,
             "tableSchema": {
                 "columns": [
                     {
