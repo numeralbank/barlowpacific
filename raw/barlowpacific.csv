@@ -9866,6 +9866,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 30,tigapuloh,,FALSE,Urquhart1955,p.195,,iban1264,Iban (Sea-Dayak),iban1264-1
 100,saratus,,FALSE,Urquhart1955,p.195,,iban1264,Iban (Sea-Dayak),iban1264-1
 1000,saribu,,FALSE,Urquhart1955,p.195,,iban1264,Iban (Sea-Dayak),iban1264-1
+1,[sa],,FALSE,Ray1913,p.58,,iban1264,Sibuyau,iban1264-2
+2,[dua],,FALSE,Ray1913,p.58,,iban1264,Sibuyau,iban1264-2
+3,[tiga],,FALSE,Ray1913,p.58,,iban1264,Sibuyau,iban1264-2
+4,[ampat],,FALSE,Ray1913,p.58,,iban1264,Sibuyau,iban1264-2
+5,[lima],,FALSE,Ray1913,p.58,,iban1264,Sibuyau,iban1264-2
+6,[anam],,FALSE,Ray1913,p.58,,iban1264,Sibuyau,iban1264-2
+7,[tujoh],,FALSE,Ray1913,p.58,,iban1264,Sibuyau,iban1264-2
+8,[lapan],,FALSE,Ray1913,p.58,,iban1264,Sibuyau,iban1264-2
+9,[sambilan],,FALSE,Ray1913,p.58,,iban1264,Sibuyau,iban1264-2
+10,[sapuloh],,FALSE,Ray1913,p.58,,iban1264,Sibuyau,iban1264-2
 1,moi,,FALSE,Fortgens1905,p.34,,ibuu1240,Ibu,ibuu1240-1
 2,lomodídi,,FALSE,Fortgens1905,p.34,,ibuu1240,Ibu,ibuu1240-1
 3,lane,,FALSE,Fortgens1905,p.34,,ibuu1240,Ibu,ibuu1240-1
@@ -14287,6 +14297,30 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,mahah,,FALSE,LeanManus,pp.23-24,SIL Word List (1975). Pityilu Island.,leip1237,Leipon (from SIL word list),leip1237-3
 5,malimeh,,FALSE,LeanManus,pp.23-24,SIL Word List (1975). Pityilu Island.,leip1237,Leipon (from SIL word list),leip1237-3
 10,masingol,,FALSE,LeanManus,pp.23-24,SIL Word List (1975). Pityilu Island.,leip1237,Leipon (from SIL word list),leip1237-3
+1,opă,,FALSE,Ray1919,p.330,,leit1234,Leitere,leit1234-1
+2,yĕmonŏ,,FALSE,Ray1919,p.330,,leit1234,Leitere,leit1234-1
+3,enŏ,,FALSE,Ray1919,p.330,,leit1234,Leitere,leit1234-1
+4,nō,,FALSE,Ray1919,p.330,,leit1234,Leitere,leit1234-1
+5,nō-meu,,FALSE,Ray1919,p.330,,leit1234,Leitere,leit1234-1
+6,nō-meyu,,FALSE,Ray1919,p.330,,leit1234,Leitere,leit1234-1
+7,nō-menŏ,,FALSE,Ray1919,p.330,,leit1234,Leitere,leit1234-1
+8,nōyu,,FALSE,Ray1919,p.330,,leit1234,Leitere,leit1234-1
+9,noyu-meu,,FALSE,Ray1919,p.330,,leit1234,Leitere,leit1234-1
+10,nōyu-meyu,,FALSE,Ray1919,p.330,,leit1234,Leitere,leit1234-1
+1,opa,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,leit1234,Rawo (Leitre area),leit1234-2
+2,yumunu,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,leit1234,Rawo (Leitre area),leit1234-2
+3,ino,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,leit1234,Rawo (Leitre area),leit1234-2
+3,inomunu,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,leit1234,Rawo (Leitre area),leit1234-2
+4,nuho,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,leit1234,Rawo (Leitre area),leit1234-2
+4,nu-o,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,leit1234,Rawo (Leitre area),leit1234-2
+5,mihu,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,leit1234,Rawo (Leitre area),leit1234-2
+5,nukambi,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,leit1234,Rawo (Leitre area),leit1234-2
+6,mihu wa opa,5 + 1,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,leit1234,Rawo (Leitre area),leit1234-2
+7,mihu wa yumunu,5 + 2,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,leit1234,Rawo (Leitre area),leit1234-2
+8,mihu wa ino,5 + 3,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,leit1234,Rawo (Leitre area),leit1234-2
+9,mihu wa nuho,5 + 4,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,leit1234,Rawo (Leitre area),leit1234-2
+10,mi-yumunu,5 x 2,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,leit1234,Rawo (Leitre area),leit1234-2
+10,nu-yumunu,5 x 2,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,leit1234,Rawo (Leitre area),leit1234-2
 1,sa,,FALSE,Ray1913,"pp.58, 61",,lela1246,Lelak,lela1246-1
 2,dĕbe,,FALSE,Ray1913,"pp.58, 61",,lela1246,Lelak,lela1246-1
 3,telau,,FALSE,Ray1913,"pp.58, 61",,lela1246,Lelak,lela1246-1
@@ -24219,16 +24253,6 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 12,dijap-dua-sama,,FALSE,Ray1913,"pp.60, 62",,sebo1238,Sibop,sebo1238-5
 20,dua-jap,,FALSE,Ray1913,"pp.60, 62",,sebo1238,Sibop,sebo1238-5
 100,ja-to,,FALSE,Ray1913,"pp.60, 62",,sebo1238,Sibop,sebo1238-5
-1,[sa],,FALSE,Ray1913,p.58,,sebu1243,Sibuyau,sebu1243-1
-2,[dua],,FALSE,Ray1913,p.58,,sebu1243,Sibuyau,sebu1243-1
-3,[tiga],,FALSE,Ray1913,p.58,,sebu1243,Sibuyau,sebu1243-1
-4,[ampat],,FALSE,Ray1913,p.58,,sebu1243,Sibuyau,sebu1243-1
-5,[lima],,FALSE,Ray1913,p.58,,sebu1243,Sibuyau,sebu1243-1
-6,[anam],,FALSE,Ray1913,p.58,,sebu1243,Sibuyau,sebu1243-1
-7,[tujoh],,FALSE,Ray1913,p.58,,sebu1243,Sibuyau,sebu1243-1
-8,[lapan],,FALSE,Ray1913,p.58,,sebu1243,Sibuyau,sebu1243-1
-9,[sambilan],,FALSE,Ray1913,p.58,,sebu1243,Sibuyau,sebu1243-1
-10,[sapuloh],,FALSE,Ray1913,p.58,,sebu1243,Sibuyau,sebu1243-1
 1,ètu,,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
 2,eli,,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
 3,klu,,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
@@ -29470,77 +29494,53 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,kəlɑkoʷlʉn,,FALSE,Laycock1970D02,p.260,,valm1241,Walman,valm1241-5
 6,kəlɑkoʷlʉn ɑlpɑʔ,,FALSE,Laycock1970D02,p.260,,valm1241,Walman,valm1241-5
 10,kəlɑkolʉn kəlɑkolʉn,,FALSE,Laycock1970D02,p.260,,valm1241,Walman,valm1241-5
-1,opă,,FALSE,Ray1919,p.330,,vani1248,Leitere,vani1248-1
-2,yĕmonŏ,,FALSE,Ray1919,p.330,,vani1248,Leitere,vani1248-1
-3,enŏ,,FALSE,Ray1919,p.330,,vani1248,Leitere,vani1248-1
-4,nō,,FALSE,Ray1919,p.330,,vani1248,Leitere,vani1248-1
-5,nō-meu,,FALSE,Ray1919,p.330,,vani1248,Leitere,vani1248-1
-6,nō-meyu,,FALSE,Ray1919,p.330,,vani1248,Leitere,vani1248-1
-7,nō-menŏ,,FALSE,Ray1919,p.330,,vani1248,Leitere,vani1248-1
-8,nōyu,,FALSE,Ray1919,p.330,,vani1248,Leitere,vani1248-1
-9,noyu-meu,,FALSE,Ray1919,p.330,,vani1248,Leitere,vani1248-1
-10,nōyu-meyu,,FALSE,Ray1919,p.330,,vani1248,Leitere,vani1248-1
-1,opa,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,vani1248,Rawo (Leitre area),vani1248-2
-2,yumunu,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,vani1248,Rawo (Leitre area),vani1248-2
-3,ino,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,vani1248,Rawo (Leitre area),vani1248-2
-3,inomunu,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,vani1248,Rawo (Leitre area),vani1248-2
-4,nuho,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,vani1248,Rawo (Leitre area),vani1248-2
-4,nu-o,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,vani1248,Rawo (Leitre area),vani1248-2
-5,mihu,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,vani1248,Rawo (Leitre area),vani1248-2
-5,nukambi,,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,vani1248,Rawo (Leitre area),vani1248-2
-6,mihu wa opa,5 + 1,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,vani1248,Rawo (Leitre area),vani1248-2
-7,mihu wa yumunu,5 + 2,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,vani1248,Rawo (Leitre area),vani1248-2
-8,mihu wa ino,5 + 3,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,vani1248,Rawo (Leitre area),vani1248-2
-9,mihu wa nuho,5 + 4,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,vani1248,Rawo (Leitre area),vani1248-2
-10,mi-yumunu,5 x 2,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,vani1248,Rawo (Leitre area),vani1248-2
-10,nu-yumunu,5 x 2,FALSE,LeanSandaun,p.5,4 CSQs. Leitre area.,vani1248,Rawo (Leitre area),vani1248-2
-1,opa,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-1,o,abbreviated form,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-2,yomonu,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-2,yu,abbreviated form,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-3,enu,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-3,endu,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-4,no-o,‘nu’ = ‘hand’,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-5,no-o mle o,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-6,no-o mle yu,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-7,no-o mle enu,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-8,nu-yu,4 x 2,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-9,nu-yu mle o,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-10,muti,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-11,muti mle o,10 + 1,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-12,muti mle yu,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-13,muti mle enu,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-3
-1,oupɑ,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-4
-2,yimɔ̃́,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-4
-3,ɛ̄ndú,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-4
-4,no,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-4
-5,no mlɔ́,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-4
-6,nɘ mledyu,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-4
-7,nɘ mlḗindu,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-4
-8,no yú,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-4
-9,no yú mléyou,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-4
-10,no yu mlḗindu,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-4
-1,opă,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-5
-2,yŭmōnŏ,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-5
-3,enu,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-5
-4,nō,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-5
-5,no-mĕneau,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-5
-6,nō-meneyu,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-5
-7,nō-menehen-du,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-5
-8,nuyu,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-5
-9,nuyu-mĕneau,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-5
-10,nuyu-meneyu,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-5
-1,opă,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-6
-2,yumōnŏ,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-6
-3,enu,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-6
-4,nō,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-6
-5,no-mĕnau,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-6
-6,nō-meneyu,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-6
-7,no-mene-henu,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-6
-8,nōyu,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-6
-9,noyu-va-mĕneau,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-6
-10,nōyu-va-meneyu,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-6
-10,moti,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-6
+1,opa,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+1,o,abbreviated form,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+2,yomonu,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+2,yu,abbreviated form,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+3,enu,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+3,endu,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+4,no-o,‘nu’ = ‘hand’,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+5,no-o mle o,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+6,no-o mle yu,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+7,no-o mle enu,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+8,nu-yu,4 x 2,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+9,nu-yu mle o,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+10,muti,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+11,muti mle o,10 + 1,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+12,muti mle yu,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+13,muti mle enu,,FALSE,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yako",vani1248,Vanimo,vani1248-1
+1,oupɑ,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-2
+2,yimɔ̃́,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-2
+3,ɛ̄ndú,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-2
+4,no,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-2
+5,no mlɔ́,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-2
+6,nɘ mledyu,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-2
+7,nɘ mlḗindu,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-2
+8,no yú,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-2
+9,no yú mléyou,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-2
+10,no yu mlḗindu,,FALSE,Laycock1970D03,p.322,,vani1248,Vanimo,vani1248-2
+1,opă,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-3
+2,yŭmōnŏ,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-3
+3,enu,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-3
+4,nō,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-3
+5,no-mĕneau,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-3
+6,nō-meneyu,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-3
+7,nō-menehen-du,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-3
+8,nuyu,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-3
+9,nuyu-mĕneau,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-3
+10,nuyu-meneyu,,FALSE,Ray1919,p.330,,vani1248,Wanimo,vani1248-3
+1,opă,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-4
+2,yumōnŏ,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-4
+3,enu,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-4
+4,nō,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-4
+5,no-mĕnau,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-4
+6,nō-meneyu,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-4
+7,no-mene-henu,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-4
+8,nōyu,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-4
+9,noyu-va-mĕneau,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-4
+10,nōyu-va-meneyu,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-4
+10,moti,,FALSE,Ray1919,p.331,,vani1248,Yako,vani1248-4
 1,timu,,FALSE,Smith1988,p.74,,vehe1237,Vehes,vehe1237-1
 2,uy,,FALSE,Smith1988,p.74,,vehe1237,Vehes,vehe1237-1
 3,yar,,FALSE,Smith1988,p.74,,vehe1237,Vehes,vehe1237-1
