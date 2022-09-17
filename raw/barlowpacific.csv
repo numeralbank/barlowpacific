@@ -32161,3 +32161,42 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
+1,mönde̱i,little finger of the right hand,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
+2,rāp,fourth finger of the right hand,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
+3,tö̱p,third finger of the right hand,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
+4,kidumöntö,second finger of the right hand,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
+5,yö̱u,thumb of the right hand tucked into the clenched hand ,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
+6,kunju,forearm,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
+7,māp,crook of the arm,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
+8,pöyup,shoulder,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
+9,kunju (?),collarbone: subsequently menöt given for it.,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
+10,ye̱nap,ear; subsequently koál given for it.,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
+11,tugulap,eye,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
+12,kalap,nose; “From the nose it was then also counted along the other side back down to the left hand.”,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
+1,makop,"From Kienzle and Campbell: “Counting is done using te [sic] right hand as a pointer and starting with the fingers on the left hand, the fingers of which are folded up in turn, commencing with the little finger. They then work up the left arm touching the salient points such as wrist, forearm, elbow, bicep, shoulder, neck, ear, eye and bridge of the nose. The same procedure is then continued in reverse order down the right side using the left hand to touch the parts mentioned.”",FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+2,alop,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+3,asoun,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+4,kal bunim,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+5,oktap,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+6,broup,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+7,bun,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+8,ifan,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+9,tuo,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+10,negal,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+11,kum,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+12,troun,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+13,tin,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+14,mit,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+15,tin murii,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+16,troun murii,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+17,kum murii,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+18,negal murii,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+19,tuo murii,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+20,ifan murii,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+21,bun murii,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+22,broup murii,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+23,oktap murii,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+24,yoltap murii,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+25,ip murii,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+26,dulmak murii,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
+27,kat kat murii,,FALSE,Kirschbaum1938,p.279,,tele1256,Telifomin,tele1256-2
