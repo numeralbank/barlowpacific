@@ -9580,6 +9580,71 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,haŋgauk mʌs,(twice),FALSE,Tonson1976,pp.100-103,,haru1245,Waibuk,haru1245-1
 5,mamənt,,FALSE,Tonson1976,pp.100-103,,haru1245,Waibuk,haru1245-1
 10,ȟakᵊᵽətʰ,,FALSE,Tonson1976,pp.100-103,,haru1245,Waibuk,haru1245-1
+1,paŋ,(indigenous abstract system),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+2,mos,(indigenous abstract system),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+3,mos paŋ,‘two one’ (indigenous abstract system),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+4,mos mos,‘two two’ (indigenous abstract system),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+5,mos mos paŋ,"“although Haruai speakers were prepared to accept that one might express ‘five’ as mos mos paŋ, I never encountered such forms in actual use, and speakers clearly reacted to them as to artificial forms.” (indigenous abstract system)",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+1,aglŋ,little finger,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+1,agñöbö,little finger,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+2,agñöbö rol-yöbö,ring finger (little finger above-ADJ),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+2,agñöbö rbñaŋ-yöbö,ring finger (little finger second-ADJ),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+2,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+3,wölöml,middle finger (perhaps cf. ml ‘long’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+3,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+4,köñö ng-b,forefinger (paint put-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+4,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+5,mömd,thumb (Kobon mamɨd),TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+6,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+6,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+7,mj,inside of forearm (also: egg),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+8,amñab,inside of elbow,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+9,mac,"biceps, biceps bracelet",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+10,möyb,front of shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+10,ragpd,shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+11,gadlöy,collar bone,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+11,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+12,möl,hole (sc. above breastbone),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+12,mgan,Kobon mögan ‘hole’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+13,gadlöy,collar bone,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+13,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+14,möyb,front of shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+14,ragpd,shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+15,mac,"biceps, biceps bracelet",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+16,amñab,inside of elbow,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+17,mj,inside of forearm (also: egg),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+18,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+18,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+19,aglŋ,little finger,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+19,agñöbö,little finger,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+20,agñöbö rol-yöbö,ring finger (little finger above-ADJ),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+20,agñöbö rbñaŋ-yöbö,ring finger (little finger second-ADJ),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+20,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+21,wölöml,middle finger (perhaps cf. ml ‘long’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+21,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+22,köñö ng-b,forefinger (paint put-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+22,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+23,mömd,thumb (Kobon mamɨd),TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+24,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+24,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+25,mj,inside of forearm (also: egg),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+26,amñab,inside of elbow,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+27,mac,"biceps, biceps bracelet",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+28,möyb,front of shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+28,ragpd,shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+29,gadlöy,collar bone,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+29,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+30,möl,hole (sc. above breastbone),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+30,mgan,Kobon mögan ‘hole’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+31,gadlöy,collar bone,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+31,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+32,möyb,front of shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+32,ragpd,shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+33,mac,"biceps, biceps bracelet",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+34,amñab,inside of elbow,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+35,mj,inside of forearm (also: egg),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+36,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+36,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
 1,kóm,,FALSE,Galis1955,p.138,,hata1243,Hattam,hata1243-1
 2,tjai,,FALSE,Galis1955,p.138,,hata1243,Hattam,hata1243-1
 2,tjan,,FALSE,Galis1955,p.138,,hata1243,Hattam,hata1243-1
@@ -32200,68 +32265,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,paŋ,(indigenous abstract system),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-2,mos,(indigenous abstract system),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-3,mos paŋ,‘two one’ (indigenous abstract system),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-4,mos mos,‘two two’ (indigenous abstract system),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-5,mos mos paŋ,"“although Haruai speakers were prepared to accept that one might express ‘five’ as mos mos paŋ, I never encountered such forms in actual use, and speakers clearly reacted to them as to artificial forms.” (indigenous abstract system)",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-1,aglŋ,little finger,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-1,agñöbö,little finger,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-2,agñöbö rol-yöbö,ring finger (little finger above-ADJ),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-2,agñöbö rbñaŋ-yöbö,ring finger (little finger second-ADJ),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-2,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-3,wölöml,middle finger (perhaps cf. ml ‘long’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-3,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-4,köñö ng-b,forefinger (paint put-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-4,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-5,mömd,thumb (Kobon mamɨd),TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-6,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-6,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-7,mj,inside of forearm (also: egg),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-8,amñab,inside of elbow,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-9,mac,"biceps, biceps bracelet",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-10,möyb,front of shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-10,ragpd,shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-11,gadlöy,collar bone,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-11,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-12,möl,hole (sc. above breastbone),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-12,mgan,Kobon mögan ‘hole’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-13,gadlöy,collar bone,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-13,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-14,möyb,front of shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-14,ragpd,shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-15,mac,"biceps, biceps bracelet",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-16,amñab,inside of elbow,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-17,mj,inside of forearm (also: egg),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-18,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-18,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-19,aglŋ,little finger,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-19,agñöbö,little finger,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-20,agñöbö rol-yöbö,ring finger (little finger above-ADJ),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-20,agñöbö rbñaŋ-yöbö,ring finger (little finger second-ADJ),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-20,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-21,wölöml,middle finger (perhaps cf. ml ‘long’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-21,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-22,köñö ng-b,forefinger (paint put-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-22,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-23,mömd,thumb (Kobon mamɨd),TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-24,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-24,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-25,mj,inside of forearm (also: egg),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-26,amñab,inside of elbow,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-27,mac,"biceps, biceps bracelet",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-28,möyb,front of shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-28,ragpd,shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-29,gadlöy,collar bone,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-29,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-30,möl,hole (sc. above breastbone),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-30,mgan,Kobon mögan ‘hole’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-31,gadlöy,collar bone,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-31,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-32,möyb,front of shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-32,ragpd,shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-33,mac,"biceps, biceps bracelet",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-34,amñab,inside of elbow,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-35,mj,inside of forearm (also: egg),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-36,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-36,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
