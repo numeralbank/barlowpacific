@@ -12359,7 +12359,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,maatus,,FALSE,Lobel2016,pp.234-239,,keni1249,Murut Nabaay,keni1249-2
 200,duo nga atus,,FALSE,Lobel2016,pp.234-239,,keni1249,Murut Nabaay,keni1249-2
 1000,saribu,,FALSE,Lobel2016,pp.234-239,,keni1249,Murut Nabaay,keni1249-2
-1,Laria-kore,,FALSE,Baker1915,p.182,,keor1235,Haira,keor1235-1
+1,Laria-kore,"“The numbers are represented by the fingers and toes, the latter on one foot only, and there are no numbers above 15.”",FALSE,Baker1915,p.182,,keor1235,Haira,keor1235-1
 2,Lo-ha-ha,,FALSE,Baker1915,p.182,,keor1235,Haira,keor1235-1
 3,La-hi-ha-ha,,FALSE,Baker1915,p.182,,keor1235,Haira,keor1235-1
 4,Iveri-ha,,FALSE,Baker1915,p.182,,keor1235,Haira,keor1235-1
@@ -12374,7 +12374,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 13,He-he-a,,FALSE,Baker1915,p.182,,keor1235,Haira,keor1235-1
 14,Ma-kuavi,,FALSE,Baker1915,p.182,,keor1235,Haira,keor1235-1
 15,I-oh-hea,(Same as ten),FALSE,Baker1915,p.182,,keor1235,Haira,keor1235-1
-20,Hari-everi-hau,,FALSE,Baker1915,p.182,,keor1235,Haira,keor1235-1
+20,Hari-everi-hau,"“Twenty is the two hands and both feet bunched together, but there are no words for the separate toes of the left foot. There is no notation, the words are simply the names given to the fingers and toes, starting with the little finger of the right hand and ending with the small toes of the right foot. Twenty is properly a lot of things (see the words ‘many,’ [Everi-ha] also ‘we’ [Hari-everi]).”",FALSE,Baker1915,p.182,,keor1235,Haira,keor1235-1
 1,Nohori,,FALSE,Brown1921Kairu,p.125,,keor1235,Kairu-Kaura,keor1235-2
 2,Dohea,,FALSE,Brown1921Kairu,p.125,,keor1235,Kairu-Kaura,keor1235-2
 3,Noa-ha-kura-a-hori,,FALSE,Brown1921Kairu,p.125,,keor1235,Kairu-Kaura,keor1235-2
