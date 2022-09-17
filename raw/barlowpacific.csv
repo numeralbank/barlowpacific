@@ -17939,6 +17939,48 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1000,savulu sobo savulu,,FALSE,Lean1985Vol04,p.46,"6 CSQs. Villages: Ulamona, Ubili.",mera1242,Melamela,mera1242-1
 1000,savulu savulu savulu,,FALSE,Lean1985Vol04,p.46,"6 CSQs. Villages: Ulamona, Ubili.",mera1242,Melamela,mera1242-1
 2000,savulu sobo savulu lua,,FALSE,Lean1985Vol04,p.46,"6 CSQs. Villages: Ulamona, Ubili.",mera1242,Melamela,mera1242-1
+1,kebi ke,"little finger; “Mamus counted as follows, beginning on left hand”",FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+2,kebi ke neis,(little finger two) ring-finger,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+3,eip ke,middle finger,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+4,baur ke,(spear finger) index,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+5,au ke,(big finger) thumb,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+6,kebi kokne,(little bone joint) wrist,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+7,kebi-kokne sor,(little bone joint back) back of wrist),FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+8,au kokne,(big bone joint) inner part of elbow,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+9,au kokne sor,(big bone joint back) elbow,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+10,tuɡar,shoulder,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+11,kenani,armpit,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+12,ɡilid,pit above clavicle,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+13,nano,left nipple,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+14,kopor,navel,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+15,nerkep,top of chest,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+16,op nerkep,front of throat,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+17,nerut nano,other nipple,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+18,nerut ɡilid,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+19,nerut tuɡar,"“In these there are slight variations, in 10 and 11, tugar comes before kenani, and so also in 19 and 20, where we should expect kenani to be counted first.”",FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+20,nerut kenani,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+21,nerut au kokne,"Similarly in 8, au and 6, kebi kokne, these are named before the back, sor, in 9 and 7 and also in 21, 22 and 23, 24.”",FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+22,nerut au kokne sor,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+23,kebi kokne,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+24,kebi kokne sor,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+25,au ke,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+26,baur ke,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+27,eip ke,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+28,kebi ke,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+29,kebi ke nerute,little finger another,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+1,kebi ke,“Jimmy Rice counted differently: ...”,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+2,kebi eipke,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+3,eip ke,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+4,baur ke,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+5,au ke,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+6,kebi kokne,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+7,au kokne,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+8,kenani,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+9,tuɡar,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+10,ɡilid,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+11,nerkep,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+12,nano,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
+13,kopor,"“... then passing to right nipple and so on in reverse order, making a total of twenty-five.” [Jimmy Rice’s counting]. “It appears probable that the method varies with different individuals. Jukes and Rev. S. Macfarlane both refer to a method of counting by means of bundles of sticks, which we have confirmed.”",FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
 1,kweji,,FALSE,Smith1988,p.82,,mese1244,Mesem,mese1244-1
 2,jeba,,FALSE,Smith1988,p.82,,mese1244,Mesem,mese1244-1
 3,tuba,,FALSE,Smith1988,p.82,,mese1244,Mesem,mese1244-1
@@ -22699,6 +22741,23 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,eve mekai mekai ane,‘hand(s) half two’,FALSE,Lean1986Vol11,p.37,"2 CSQs. Villages: Mariki, Urika.",pura1257,Purari (Mariki and Urika villages),pura1257-4
 15,eve mekai mekai ane mo ari mekai monou,,FALSE,Lean1986Vol11,p.37,"2 CSQs. Villages: Mariki, Urika.",pura1257,Purari (Mariki and Urika villages),pura1257-4
 20,eve mekai mekai ane mo ari mekai mekai ane,,FALSE,Lean1986Vol11,p.37,"2 CSQs. Villages: Mariki, Urika.",pura1257,Purari (Mariki and Urika villages),pura1257-4
+1,monou,"“In these mo may be the word mo “only,” and nou and rere the true numerals.”",FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+2,morere,"“Cf. no-rere, both; le’ere, pair, and the dual pronouns enere, norere and orere.”",FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+3,morere-monou,three,FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+1,monou,"(little finger of left hand) “In counting, parts of the body are used as tallies. The sequence is thus given by the late Rev. J. Chalmers.”",FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+2,rēēre,(next finger),FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+3,kaupu,(middle finger),FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+4,morēēre,(forefinger),FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+5,aira,(thumb) [cf. karina ‘thumb’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+6,aukora,(wrist) [cf. eve ke ‘wrist’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+7,mirika mako,(between wrist and elbow),FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+8,uā,(elbow) [cf. eve kau ‘elbow’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+9,ara,(shoulder) [cf. ara ‘shoulder-bland’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+10,ano,(neck) [cf. ano ‘collar-bone’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+11,ume,(left breast) [cf. ame ‘breast’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+12,ūūkari,(chest) [cf. u’ukane ‘chest’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+13,ame-mekai,(right breast) [cf. mekaimekai ‘half’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
+14,ano,(right side of neck),FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
 1,sa,,FALSE,Arnaud1998,pp.863-878 [word list item numbers],,puyu1239,Puyuma,puyu1239-1
 2,ɖua,,FALSE,Arnaud1998,pp.863-878 [word list item numbers],,puyu1239,Puyuma,puyu1239-1
 3,təɭu,,FALSE,Arnaud1998,pp.863-878 [word list item numbers],,puyu1239,Puyuma,puyu1239-1
@@ -32102,62 +32161,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,monou,"“In these mo may be the word mo “only,” and nou and rere the true numerals.”",FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-2,morere,"“Cf. no-rere, both; le’ere, pair, and the dual pronouns enere, norere and orere.”",FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-3,morere-monou,three,FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-1,monou,"(little finger of left hand) “In counting, parts of the body are used as tallies. The sequence is thus given by the late Rev. J. Chalmers.”",FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-2,rēēre,(next finger),FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-3,kaupu,(middle finger),FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-4,morēēre,(forefinger),FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-5,aira,(thumb) [cf. karina ‘thumb’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-6,aukora,(wrist) [cf. eve ke ‘wrist’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-7,mirika mako,(between wrist and elbow),FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-8,uā,(elbow) [cf. eve kau ‘elbow’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-9,ara,(shoulder) [cf. ara ‘shoulder-bland’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-10,ano,(neck) [cf. ano ‘collar-bone’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-11,ume,(left breast) [cf. ame ‘breast’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-12,ūūkari,(chest) [cf. u’ukane ‘chest’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-13,ame-mekai,(right breast) [cf. mekaimekai ‘half’ in Rev. J. H. Holmes’s vocabulary],FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-14,ano,(right side of neck),FALSE,Ray1907,pp.331-332,,pura1257,Namau,pura1257-5
-1,kebi ke,"little finger; “Mamus counted as follows, beginning on left hand”",FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-2,kebi ke neis,(little finger two) ring-finger,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-3,eip ke,middle finger,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-4,baur ke,(spear finger) index,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-5,au ke,(big finger) thumb,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-6,kebi kokne,(little bone joint) wrist,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-7,kebi-kokne sor,(little bone joint back) back of wrist),FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-8,au kokne,(big bone joint) inner part of elbow,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-9,au kokne sor,(big bone joint back) elbow,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-10,tuɡar,shoulder,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-11,kenani,armpit,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-12,ɡilid,pit above clavicle,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-13,nano,left nipple,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-14,kopor,navel,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-15,nerkep,top of chest,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-16,op nerkep,front of throat,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-17,nerut nano,other nipple,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-18,nerut ɡilid,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-19,nerut tuɡar,"“In these there are slight variations, in 10 and 11, tugar comes before kenani, and so also in 19 and 20, where we should expect kenani to be counted first.”",FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-20,nerut kenani,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-21,nerut au kokne,"Similarly in 8, au and 6, kebi kokne, these are named before the back, sor, in 9 and 7 and also in 21, 22 and 23, 24.”",FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-22,nerut au kokne sor,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-23,kebi kokne,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-24,kebi kokne sor,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-25,au ke,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-26,baur ke,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-27,eip ke,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-28,kebi ke,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-29,kebi ke nerute,little finger another,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-1,kebi ke,“Jimmy Rice counted differently: ...”,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-2,kebi eipke,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-3,eip ke,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-4,baur ke,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-5,au ke,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-6,kebi kokne,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-7,au kokne,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-8,kenani,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-9,tuɡar,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-10,ɡilid,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-11,nerkep,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-12,nano,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-13,kopor,"“... then passing to right nipple and so on in reverse order, making a total of twenty-five.” [Jimmy Rice’s counting]. “It appears probable that the method varies with different individuals. Jukes and Rev. S. Macfarlane both refer to a method of counting by means of bundles of sticks, which we have confirmed.”",FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
