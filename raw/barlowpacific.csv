@@ -12626,11 +12626,50 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,puni kekane,2 + 1,FALSE,LeanMadang,p.6,SIL Word List (1975). Village: Tung.,kire1240,Giri (Tung village),kire1240-4
 4,puni puni,2 + 2,FALSE,LeanMadang,p.6,SIL Word List (1975). Village: Tung.,kire1240,Giri (Tung village),kire1240-4
 5,metugi,,FALSE,LeanMadang,p.6,SIL Word List (1975). Village: Tung.,kire1240,Giri (Tung village),kire1240-4
-1,ibabira,,FALSE,Stanhope1972,p.68,,kire1240,Kire,kire1240-5
-2,ppunini,,FALSE,Stanhope1972,p.68,,kire1240,Kire,kire1240-5
-3,ppuni-kagine,,FALSE,Stanhope1972,p.68,,kire1240,Kire,kire1240-5
-4,ppunini-ppuninin,,FALSE,Stanhope1972,p.68,,kire1240,Kire,kire1240-5
-5,ppunini-ppuni-kagine,,FALSE,Stanhope1972,p.68,,kire1240,Kire,kire1240-5
+1,ibabira,,FALSE,Stanhope1972,pp.62-68,,kire1240,Kire,kire1240-5
+2,ppunini,,FALSE,Stanhope1972,pp.62-68,,kire1240,Kire,kire1240-5
+3,ppuni-kagine,,FALSE,Stanhope1972,pp.62-68,,kire1240,Kire,kire1240-5
+4,ppunini-ppuninin,,FALSE,Stanhope1972,pp.62-68,,kire1240,Kire,kire1240-5
+5,ppunini-ppuni-kagine,,FALSE,Stanhope1972,pp.62-68,,kire1240,Kire,kire1240-5
+1,gere,“The fingers and other parts of the body are used for counting -- starting from the left little finger:”,FALSE,Stanhope1972,p.62,,kire1240,Kire,kire1240-5
+2,gere-han,beside gere (ring),FALSE,Stanhope1972,p.62,,kire1240,Kire,kire1240-5
+3,vi’bare,left middle,FALSE,Stanhope1972,p.62,,kire1240,Kire,kire1240-5
+4,fee,left index,FALSE,Stanhope1972,p.62,,kire1240,Kire,kire1240-5
+5,mee,left thumb,FALSE,Stanhope1972,p.62,,kire1240,Kire,kire1240-5
+6,far-mbor,left wrist,FALSE,Stanhope1972,p.62,,kire1240,Kire,kire1240-5
+7,har,left forearm,FALSE,Stanhope1972,p.62,,kire1240,Kire,kire1240-5
+8,səgar,left elbow,FALSE,Stanhope1972,p.62,,kire1240,Kire,kire1240-5
+9,fatutti,left upper arm,FALSE,Stanhope1972,p.62,,kire1240,Kire,kire1240-5
+10,ppək,left shoulder,FALSE,Stanhope1972,p.62,,kire1240,Kire,kire1240-5
+11,bur,left side neck,FALSE,Stanhope1972,p.62,,kire1240,Kire,kire1240-5
+12,kwar,left ear,FALSE,Stanhope1972,p.62,,kire1240,Kire,kire1240-5
+13,pan,"head, left side; “From 14 to 16, one counts backwards from right side of head to right little finger.” [probably typo for: “From 14 to 26 ...”]",FALSE,Stanhope1972,p.62,,kire1240,Kire,kire1240-5
+1,kerke,little finger,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+2,kerke aɡane,“little finger next” = ring finger,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+3,wiɡepöre,middle finger,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+4,ƒƒe,“young man” = pointer finger,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+5,amö,“mother” = thumb,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+6,ƒƒarpor,wrist,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+7,aɡarpöni,forearm,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+8,seɡanko,elbow,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+9,ƒƒatute,upper arm,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+10,pö,armpit,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+11,kua'are,neck (maybe “ear side”?),FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+12,kua,ear,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+13,arema'atu,eye,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+14,kuembo arema'atu,other ear,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+15,kuembo kua,other eye,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+16,kuembo kua'are,other neck,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+17,kuembo pö,other armpit,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+18,kuembo ƒƒatute,other upper arm,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+19,kuembo seɡanko,other elbow,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+20,kuembo aɡarpöni,other forearm,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+21,kuembo ƒƒarpor,other wrist,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+22,kuembo amö,other thumb,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+23,kuembo ƒƒe,other pointer finger,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+24,kuembo wiɡepöre,other middle finger,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+25,kuembo kerke aɡane,other ring finger,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
+26,kuembo kerke,other little finger,FALSE,Hoeltker1961,pp.300-301,,kire1240,Kire-Puir,kire1240-6
 1,ɑɡeiƀ,,FALSE,Laycock1971D25,p.3488,,kiss1246,Kis,kiss1246-1
 2,urɑ́ni,,FALSE,Laycock1971D25,p.3488,,kiss1246,Kis,kiss1246-1
 3,tɔni,,FALSE,Laycock1971D25,p.3488,,kiss1246,Kis,kiss1246-1
