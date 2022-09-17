@@ -9054,6 +9054,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,tokom,[tokom = index finger],FALSE,Lean1986Vol12,p.80,"3 CSQs. Villages: Kupere, Togo (2).",gizr1240,Gizra,gizr1240-1
 5,darpan tang,‘tang’ = ‘hand’,FALSE,Lean1986Vol12,p.80,"3 CSQs. Villages: Kupere, Togo (2).",gizr1240,Gizra,gizr1240-1
 10,nis tang,,FALSE,Lean1986Vol12,p.80,"3 CSQs. Villages: Kupere, Togo (2).",gizr1240,Gizra,gizr1240-1
+1,dirpan,,FALSE,Ray1923,p.344,,gizr1240,Gijara,gizr1240-2
+2,nigir,,FALSE,Ray1923,p.344,,gizr1240,Gijara,gizr1240-2
+3,au-udu,,FALSE,Ray1923,p.344,,gizr1240,Gijara,gizr1240-2
+4,tokom,,FALSE,Ray1923,p.344,,gizr1240,Gijara,gizr1240-2
+5,dirgitong,,FALSE,Ray1923,p.344,,gizr1240,Gijara,gizr1240-2
+6,ubu,,FALSE,Ray1923,p.344,,gizr1240,Gijara,gizr1240-2
+7,kuake,"(kuirka, elbow)",FALSE,Ray1923,p.344,,gizr1240,Gijara,gizr1240-2
+8,tupoijila,"(tupo, shoulder)",FALSE,Ray1923,p.344,,gizr1240,Gijara,gizr1240-2
+9,ngurm,"(gomai, nipple)",FALSE,Ray1923,p.344,,gizr1240,Gijara,gizr1240-2
+10,dalgup,(breast),FALSE,Ray1923,p.344,,gizr1240,Gijara,gizr1240-2
+20,umgu,,FALSE,Ray1923,p.344,,gizr1240,Gijara,gizr1240-2
 1,'helehai ,,FALSE,LeanWestern,pp.11-12,SIL (1971). Village: Udugibi (Honibu d.). ,goba1246,Nomad (Honibu dialect),goba1246-1
 2,be'nabugu,,FALSE,LeanWestern,pp.11-12,SIL (1971). Village: Udugibi (Honibu d.). ,goba1246,Nomad (Honibu dialect),goba1246-1
 3,'behele,possible 2 + 1,FALSE,LeanWestern,pp.11-12,SIL (1971). Village: Udugibi (Honibu d.). ,goba1246,Nomad (Honibu dialect),goba1246-1
