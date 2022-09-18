@@ -20698,14 +20698,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,mbènǐmtǐrǐndi,,FALSE,Stokhof1982Vol5.1,p.170,,nort2916,Muyu,nort2916-2
 10,kondom,,FALSE,Stokhof1982Vol5.1,p.170,,nort2916,Muyu,nort2916-2
 11,mak,,FALSE,Stokhof1982Vol5.1,p.170,,nort2916,Muyu,nort2916-2
-1,atoe,,FALSE,Feuilleteau1913,pp.554-555,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
-2,pijitoe,,FALSE,Feuilleteau1913,pp.554-555,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
-3,foeritoe,,FALSE,Feuilleteau1913,pp.554-555,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
-4,wiritoe,,FALSE,Feuilleteau1913,pp.554-555,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
-5,soeroetoe,,FALSE,Feuilleteau1913,pp.554-555,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
-8,saratoe,,FALSE,Feuilleteau1913,pp.554-555,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
-9,onatoe,,FALSE,Feuilleteau1913,pp.554-555,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
-10,semantoe,,FALSE,Feuilleteau1913,pp.554-555,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
+1,atoe,,FALSE,Feuilleteau1915,pp.91-92,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
+2,pijitoe,,FALSE,Feuilleteau1915,pp.91-92,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
+3,soeritoe,[looks like <foeritoe> in Feuilleteau 1913 version],FALSE,Feuilleteau1915,pp.91-92,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
+4,wiritoe,,FALSE,Feuilleteau1915,pp.91-92,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
+5,soeroetoe,,FALSE,Feuilleteau1915,pp.91-92,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
+6,baretoe,,FALSE,Feuilleteau1915,pp.91-92,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
+7,wametoe,,FALSE,Feuilleteau1915,pp.91-92,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
+8,saratoe,,FALSE,Feuilleteau1915,pp.91-92,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
+9,onatoe,,FALSE,Feuilleteau1915,pp.91-92,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
+10,semantoe,,FALSE,Feuilleteau1915,pp.91-92,,nort2917,Kaja-kaja (downstream of Zwaluw),nort2917-1
 1,bohai'a,,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,nort2920,Tairora,nort2920-1
 2,taara'anta,,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,nort2920,Tairora,nort2920-1
 3,tara'antabohai'a,,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,nort2920,Tairora,nort2920-1
