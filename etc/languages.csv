@@ -207,6 +207,7 @@ bahi1254-1,Bahinemo,LeanEastSepik,p.22,IMP/SIL Questionnaire (1978).,bahi1254,Ba
 bahi1254-2,Bahinemo,Laycock1971D27,p.3844,,bahi1254,Bahinemo,bjh,Papunesia,-4.55527,142.832,Sepik
 baib1251-1,Baibai,LeanSandaun,p.21,SIL Word List (undated). ,baib1251,Baibai,bbf,Papunesia,-3.42672,141.345,Baibai-Fas
 baib1251-2,Baibai,Laycock1970D15,p.2090,,baib1251,Baibai,bbf,Papunesia,-3.42672,141.345,Baibai-Fas
+baib1251-3,Baibai,Baron1983,p.9,,baib1251,Baibai,bbf,Papunesia,-3.42672,141.345,Baibai-Fas
 baim1245-1,Baimak,Zgraggen1980Mabuso,p.92,,baim1245,Baimak,bmx,Papunesia,-5.18943,145.606,Nuclear Trans New Guinea
 bala1314-1,Balaesang,Himmelmann2001,pp.101-104,,bala1314,Balaesang,bls,Papunesia,-0.05644,119.689,Austronesian
 bali1279-1,Melayu Loloan,Sumarsono1990,"pp.373, 380",,bali1279,Balinese Malay,mhp,Papunesia,-8.355884,114.648391,Austronesian
@@ -593,6 +594,7 @@ faiw1243-2,Faiwol (from IMP/SIL),Lean1986Vol12,p.16,IMP/SIL Questionnaire.,faiw1
 fass1245-1,Fas,LeanSandaun,p.20,SIL Word List (undated). ,fass1245,Momu-Fas,fqs,Papunesia,-3.10868,141.64,Baibai-Fas
 fass1245-2,Fas,Laycock1970D02,p.249,,fass1245,Momu-Fas,fqs,Papunesia,-3.10868,141.64,Baibai-Fas
 fass1245-3,Mori (Fas),Laycock1970D02,p.191,,fass1245,Momu-Fas,fqs,Papunesia,-3.10868,141.64,Baibai-Fas
+fass1245-4,Fas,Baron1983,p.9,,fass1245,Momu-Fas,fqs,Papunesia,-3.10868,141.64,Baibai-Fas
 fasu1242-1,Fasu,Lean1986Vol10,"pp.23, 52",[unknown],fasu1242,Fasu,faa,Papunesia,-6.62687,143.284,Fasu
 fasu1242-2,Haiwaro (Fasu),Bullock2015,p.66,,fasu1242,Fasu,faa,Papunesia,-6.62687,143.284,Fasu
 fasu1242-3,Namumi,Lean1986Vol10,"pp.23, 52",[unknown],fasu1242,Fasu,faa,Papunesia,-6.62687,143.284,Fasu
@@ -686,6 +688,7 @@ guhu1244-3,Guhu-Samane (from IMP/SIL),LeanMorobe,p.69,IMP/SIL (1978).,guhu1244,G
 guhu1244-4,Tahari,Chinnery1915,p.163,,guhu1244,Guhu-Samane,ghs,Papunesia,-7.99922,147.228,Nuclear Trans New Guinea
 guma1255-1,Gumalu,Zgraggen1980Mabuso,p.92,,guma1255,Gumalu,gmu,Papunesia,-5.22189,145.618,Nuclear Trans New Guinea
 guri1248-1,Kwomtari (Guriaso Community School),LeanSandaun,p.22,1 CSQ. Guriaso Community School. ,guri1248,Guriaso,grx,Papunesia,-3.5718,141.597,Guriaso
+guri1248-2,Guriaso,Baron1983,p.9,,guri1248,Guriaso,grx,Papunesia,-3.5718,141.597,Guriaso
 gusa1246-1,Gusan,Smith1988,p.87,,gusa1246,Gusan,gsn,Papunesia,-6.28998,146.679,Nuclear Trans New Guinea
 haho1237-1,Hahon,Lean1985Vol03,p.33,"Allen and Hurd, SIL Wordlist (1963), Lalum Village.",haho1237,Hahon,hah,Papunesia,-5.59031,154.801,Austronesian
 haho1237-2,Hahon (from CSQ),LeanBougainville,p.29,1 CSQ. Village: Puto.,haho1237,Hahon,hah,Papunesia,-5.59031,154.801,Austronesian
@@ -1462,6 +1465,7 @@ nafr1241-1,Sentani-groep Nafri,Galis1955,p.163,,nafr1241,Nafri,nxx,Papunesia,-2.
 nage1237-1,Nagekeo,Pita2016,p.132,,nage1237,Nage,nxe,Papunesia,-8.70513,121.31,Austronesian
 naii1241-1,Biaka,LeanSandaun,p.22,SIL Word List (undated). ,naii1241,Nai,bio,Papunesia,-3.73034,141.273,Kwomtari-Nai
 naii1241-2,Biaka,Laycock1970D13,p.1810,,naii1241,Nai,bio,Papunesia,-3.73034,141.273,Kwomtari-Nai
+naii1241-3,Biaka,Baron1983,p.9,,naii1241,Nai,bio,Papunesia,-3.73034,141.273,Kwomtari-Nai
 naka1262-1,West Nakanai (Bileki dialect),Lean1985Vol04,p.49,"11 CSQs, 1 IMP. Villages: Koimumu, Galeoale.",naka1262,Nakanai,nak,Papunesia,-5.59931,150.888,Austronesian
 naka1262-2,West Nakanai (Vele dialect),Lean1985Vol04,p.50,2 CSQs. Vele dialect area.,naka1262,Nakanai,nak,Papunesia,-5.59931,150.888,Austronesian
 naka1264-1,Nakama,LeanMorobe,p.100,1 CSQ. Village: Pupuf (South dialect).,naka1264,Nakama,nib,Papunesia,-6.41424,146.782,Nuclear Trans New Guinea
@@ -1578,6 +1582,7 @@ nucl1458-2,Monumbo,Ray1919,p.330,,nucl1458,Monumbo,mxk,Papunesia,-4.2717,144.95,
 nucl1593-1,Kwomtari,Laycock1970D16,p.2194,,nucl1593,Kwomtari,kwo,Papunesia,-3.50718,141.488,Kwomtari-Nai
 nucl1593-2,Kwomtari (from SIL word list),LeanSandaun,p.21,SIL Word List (undated). Village: Mango? (Wesono?).,nucl1593,Kwomtari,kwo,Papunesia,-3.50718,141.488,Kwomtari-Nai
 nucl1593-3,Kwomtari,Honsberger2008,p.63,,nucl1593,Kwomtari,kwo,Papunesia,-3.50718,141.488,Kwomtari-Nai
+nucl1593-4,Kwomtari,Baron1983,p.9,,nucl1593,Kwomtari,kwo,Papunesia,-3.50718,141.488,Kwomtari-Nai
 nucl1594-1,Kaniran,Galis1955,p.135,,nucl1594,Mairasi,zrs,Papunesia,-3.4511,134.071,Mairasic
 nucl1594-2,Mairassis,Ray1912,pp.340-341,,nucl1594,Mairasi,zrs,Papunesia,-3.4511,134.071,Mairasic
 nucl1595-1,Armatti,Stokhof1983Vol5.2,p.82,,nucl1595,Kwerba,kwe,Papunesia,-2.2137,138.486,Greater Kwerba
