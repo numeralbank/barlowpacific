@@ -2524,6 +2524,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 16,mɑliƀɑ,navel [?],FALSE,Laycock1970D15,p.2090,,baib1251,Baibai,baib1251-2
 17,ɑᵽɑ mɑliƀɑ,,FALSE,Laycock1970D15,p.2090,,baib1251,Baibai,baib1251-2
 18,suɡɑ́ŋkɔmwei,little finger,FALSE,Laycock1970D15,p.2090,,baib1251,Baibai,baib1251-2
+1,satu,“The expression is clearly borrowed from Indonesian : satu. kehsy [kɛsy] may be the original term.”,FALSE,Baron1983,p.9,,baib1251,Baibai,baib1251-3
+2,nəmbɛri,[<nvmbehri>],FALSE,Baron1983,p.9,,baib1251,Baibai,baib1251-3
+3,nəmbɛri kɛsy,[<2 kehsy>],FALSE,Baron1983,p.9,,baib1251,Baibai,baib1251-3
+4,nəmbɛri nəmbɛri,[<2 2>],FALSE,Baron1983,p.9,,baib1251,Baibai,baib1251-3
+5,nəmbɛri nəmbɛri satu,[<2 2 satu>],FALSE,Baron1983,p.9,,baib1251,Baibai,baib1251-3
 1,oiraf,,FALSE,Zgraggen1980Mabuso,p.92,,baim1245,Baimak,baim1245-1
 2,aːrit,,FALSE,Zgraggen1980Mabuso,p.92,,baim1245,Baimak,baim1245-1
 1,in ja hambaang,"Used for counting humans and fish, inter alia.",FALSE,Himmelmann2001,pp.101-104,,bala1314,Balaesang,bala1314-1
@@ -8211,6 +8216,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,tripelɑ,[< Tok Pisin],TRUE,Laycock1970D02,p.191,,fass1245,Mori (Fas),fass1245-3
 4,popelɑ,[< Tok Pisin],TRUE,Laycock1970D02,p.191,,fass1245,Mori (Fas),fass1245-3
 5,pɑip,[< Tok Pisin],TRUE,Laycock1970D02,p.191,,fass1245,Mori (Fas),fass1245-3
+1,fasney,,FALSE,Baron1983,p.9,,fass1245,Fas,fass1245-4
+2,tyɛnəβɛm,[<tyehnvbhehm>],FALSE,Baron1983,p.9,,fass1245,Fas,fass1245-4
+3,tyɛnəβɛm ɛf,[<2 ehf>],FALSE,Baron1983,p.9,,fass1245,Fas,fass1245-4
+4,tyɛnəβɛm tyɛnəβɛm,[<2 2>],FALSE,Baron1983,p.9,,fass1245,Fas,fass1245-4
+5,tyɛnəβɛm tyɛnəβɛm ɛf,[<2 2 ehf>],FALSE,Baron1983,p.9,,fass1245,Fas,fass1245-4
 1,meno,,FALSE,Lean1986Vol10,"pp.23, 52",[unknown],fasu1242,Fasu,fasu1242-1
 2,teta,Numerals 1 and 2 only,FALSE,Lean1986Vol10,"pp.23, 52",[unknown],fasu1242,Fasu,fasu1242-1
 3,isia,[?],FALSE,Lean1986Vol10,"pp.23, 52",[unknown],fasu1242,Fasu,fasu1242-1
@@ -9417,6 +9427,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,amdir,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School. ,guri1248,Kwomtari (Guriaso Community School),guri1248-1
 4,niso,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School. ,guri1248,Kwomtari (Guriaso Community School),guri1248-1
 5,akmo,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School. ,guri1248,Kwomtari (Guriaso Community School),guri1248-1
+1,mətɛnɛ,[<mvtehneh>],FALSE,Baron1983,p.9,,guri1248,Guriaso,guri1248-2
+2,asər,[<asvr>],FALSE,Baron1983,p.9,,guri1248,Guriaso,guri1248-2
+3,amtər,[<amtvr>],FALSE,Baron1983,p.9,,guri1248,Guriaso,guri1248-2
+4,nəsɔere,[<nvsohere>],FALSE,Baron1983,p.9,,guri1248,Guriaso,guri1248-2
+5,akəmɔre,[<akvmohre>],FALSE,Baron1983,p.9,,guri1248,Guriaso,guri1248-2
 1,kobogen,,FALSE,Smith1988,p.87,,gusa1246,Gusan,gusa1246-1
 2,yare,,FALSE,Smith1988,p.87,,gusa1246,Gusan,gusa1246-1
 3,yare kuboc,two one,FALSE,Smith1988,p.87,,gusa1246,Gusan,gusa1246-1
@@ -19856,6 +19871,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 11,netoto,toto = breast,FALSE,Laycock1970D13,p.1810,,naii1241,Biaka,naii1241-2
 12,neyɑmbɛti,,FALSE,Laycock1970D13,p.1810,,naii1241,Biaka,naii1241-2
 20,pɑiumwiro,,FALSE,Laycock1970D13,p.1810,,naii1241,Biaka,naii1241-2
+1,mwaimɛ,[<mwaimeh>],FALSE,Baron1983,p.9,,naii1241,Biaka,naii1241-3
+2,aramə,[<aramv>],FALSE,Baron1983,p.9,,naii1241,Biaka,naii1241-3
+3,mwaɡuβe,[<mwaɡubhe>],FALSE,Baron1983,p.9,,naii1241,Biaka,naii1241-3
+4,amitai,,FALSE,Baron1983,p.9,,naii1241,Biaka,naii1241-3
+5,yaritu,,FALSE,Baron1983,p.9,,naii1241,Biaka,naii1241-3
 1,isasa,numeraliser root ‘i-’,FALSE,Lean1985Vol04,p.49,"11 CSQs, 1 IMP. Villages: Koimumu, Galeoale.",naka1262,West Nakanai (Bileki dialect),naka1262-1
 2,ilua,,FALSE,Lean1985Vol04,p.49,"11 CSQs, 1 IMP. Villages: Koimumu, Galeoale.",naka1262,West Nakanai (Bileki dialect),naka1262-1
 3,itolu,,FALSE,Lean1985Vol04,p.49,"11 CSQs, 1 IMP. Villages: Koimumu, Galeoale.",naka1262,West Nakanai (Bileki dialect),naka1262-1
@@ -21175,6 +21195,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,tialumwagive,?,FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
 10,yarituyaritu,?,FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
 20,kuliami,foot-hand (toes and fingers),FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
+1,mamɔle,[<mamohle>],FALSE,Baron1983,p.9,,nucl1593,Kwomtari,nucl1593-4
+2,arɛ,[<areh>],FALSE,Baron1983,p.9,,nucl1593,Kwomtari,nucl1593-4
+3,manɡifɛ,[<manɡifeh>],FALSE,Baron1983,p.9,,nucl1593,Kwomtari,nucl1593-4
+4,yɛrifridu,[<yehrifridu>],FALSE,Baron1983,p.9,,nucl1593,Kwomtari,nucl1593-4
+5,yareru,,FALSE,Baron1983,p.9,,nucl1593,Kwomtari,nucl1593-4
 1,anau,,FALSE,Galis1955,p.135,,nucl1594,Kaniran,nucl1594-1
 1,tanggau,,FALSE,Galis1955,p.135,,nucl1594,Kaniran,nucl1594-1
 2,amoi,,FALSE,Galis1955,p.135,,nucl1594,Kaniran,nucl1594-1
@@ -32576,28 +32601,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,fasney,,FALSE,Baron1983,p.9,,fass1245,Fas,fass1245-4
-2,tyɛnəβɛm,[<tyehnvbhehm>],FALSE,Baron1983,p.9,,fass1245,Fas,fass1245-4
-3,tyɛnəβɛm ɛf,[<2 ehf>],FALSE,Baron1983,p.9,,fass1245,Fas,fass1245-4
-4,tyɛnəβɛm tyɛnəβɛm,[<2 2>],FALSE,Baron1983,p.9,,fass1245,Fas,fass1245-4
-5,tyɛnəβɛm tyɛnəβɛm ɛf,[<2 2 ehf>],FALSE,Baron1983,p.9,,fass1245,Fas,fass1245-4
-1,satu,“The expression is clearly borrowed from Indonesian : satu. kehsy [kɛsy] may be the original term.”,FALSE,Baron1983,p.9,,baib1251,Baibai,baib1251-3
-2,nəmbɛri,[<nvmbehri>],FALSE,Baron1983,p.9,,baib1251,Baibai,baib1251-3
-3,nəmbɛri kɛsy,[<2 kehsy>],FALSE,Baron1983,p.9,,baib1251,Baibai,baib1251-3
-4,nəmbɛri nəmbɛri,[<2 2>],FALSE,Baron1983,p.9,,baib1251,Baibai,baib1251-3
-5,nəmbɛri nəmbɛri satu,[<2 2 satu>],FALSE,Baron1983,p.9,,baib1251,Baibai,baib1251-3
-1,mamɔle,[<mamohle>],FALSE,Baron1983,p.9,,nucl1593,Kwomtari,nucl1593-4
-2,arɛ,[<areh>],FALSE,Baron1983,p.9,,nucl1593,Kwomtari,nucl1593-4
-3,manɡifɛ,[<manɡifeh>],FALSE,Baron1983,p.9,,nucl1593,Kwomtari,nucl1593-4
-4,yɛrifridu,[<yehrifridu>],FALSE,Baron1983,p.9,,nucl1593,Kwomtari,nucl1593-4
-5,yareru,,FALSE,Baron1983,p.9,,nucl1593,Kwomtari,nucl1593-4
-1,mwaimɛ,[<mwaimeh>],FALSE,Baron1983,p.9,,naii1241,Biaka,naii1241-3
-2,aramə,[<aramv>],FALSE,Baron1983,p.9,,naii1241,Biaka,naii1241-3
-3,mwaɡuβe,[<mwaɡubhe>],FALSE,Baron1983,p.9,,naii1241,Biaka,naii1241-3
-4,amitai,,FALSE,Baron1983,p.9,,naii1241,Biaka,naii1241-3
-5,yaritu,,FALSE,Baron1983,p.9,,naii1241,Biaka,naii1241-3
-1,mətɛnɛ,[<mvtehneh>],FALSE,Baron1983,p.9,,guri1248,Guriaso,guri1248-2
-2,asər,[<asvr>],FALSE,Baron1983,p.9,,guri1248,Guriaso,guri1248-2
-3,amtər,[<amtvr>],FALSE,Baron1983,p.9,,guri1248,Guriaso,guri1248-2
-4,nəsɔere,[<nvsohere>],FALSE,Baron1983,p.9,,guri1248,Guriaso,guri1248-2
-5,akəmɔre,[<akvmohre>],FALSE,Baron1983,p.9,,guri1248,Guriaso,guri1248-2
