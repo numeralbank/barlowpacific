@@ -32562,3 +32562,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
+1,mwamole,"little finger (pinky); “Cardinal numbers a r e   r e l a t e d   t o   b o d y   p a r t s .   T h e   f o l l o w i n g   l i s t i n g   w a s   g i v e n   b y   o n e   s p e a k e r ,   b u t   s p e a k e r s   d i f f e r ,   e s p e c i a l l y   w i t h   t h e   n u m b e r s   s i x   t o   n i n e .   N o t e   t h a t   n u m b e r s   4   t o   6   a l l   e n d   i n   -lu-tu ‘-NN-COM ’,   a n d   t h e   n u m b e r s   7 ,   8   a n d   9   a r e   f o r m e d   f r o m   6 + 1 ,   6 + 2   a n d   6 + 3 .  ”",FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
+2,are,fourth (ring) finger,FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
+3,mwagife,middle finger,FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
+4,yerifurutu,second (index) finger,FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
+4,yerifrilutu,second (index) finger,FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
+4,yerifiritu,second (index) finger,FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
+5,yarilutu,thumb,FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
+5,yaritu,thumb,FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
+6,tialutu,thumb joint,FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
+7,tialumwamole,wrist joint,FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
+8,tialuare,?,FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
+9,tialumwagive,?,FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
+10,yarituyaritu,?,FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
+20,kuliami,foot-hand (toes and fingers),FALSE,Honsberger2008,p.63,,nucl1593,Kwomtari,nucl1593-3
