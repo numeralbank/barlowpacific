@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Barlow's \"Numerals of the Pacific\" from 2021",
+    "title": "CLDF dataset derived from Barlow's \"Numerals of the Pacific\" from 2022",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -22,7 +22,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Barlow, Russell (ed.). 2021. Numerals of the Pacific: A collection of numeral terms in Austronesian and Papuan languages.</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Barlow, Russell (ed.). 2022. Numerals of the Pacific: A collection of numeral terms in Austronesian and Papuan languages.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

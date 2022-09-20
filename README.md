@@ -1,4 +1,4 @@
-# CLDF dataset derived from Barlow's "Numerals of the Pacific" from 2021
+# CLDF dataset derived from Barlow's "Numerals of the Pacific" from 2022
 
 [![CLDF validation](https://github.com/numeralbank/barlowpacific/workflows/CLDF-validation/badge.svg)](https://github.com/numeralbank/barlowpacific/actions?query=workflow%3ACLDF-validation)
 
@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Barlow, Russell (ed.). 2021. Numerals of the Pacific: A collection of numeral terms in Austronesian and Papuan languages.
+  > Barlow, Russell (ed.). 2022. Numerals of the Pacific: A collection of numeral terms in Austronesian and Papuan languages.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
