@@ -22,10 +22,10 @@ This dataset is licensed under a CC-BY-4.0 license
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 2,430
+- **Varieties:** 2,511
 - **Concepts:** 180
-- **Lexemes:** 32,595
-- **Sources:** 373
+- **Lexemes:** 33,507
+- **Sources:** 408
 - **Synonymy:** 1.09
 
 ## Possible Improvements:
