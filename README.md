@@ -24,7 +24,7 @@ This dataset is licensed under a CC-BY-4.0 license
 
 - **Varieties:** 2,511
 - **Concepts:** 180
-- **Lexemes:** 33,507
+- **Lexemes:** 33,517
 - **Sources:** 408
 - **Synonymy:** 1.09
 

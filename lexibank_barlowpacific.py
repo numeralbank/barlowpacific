@@ -17,6 +17,10 @@ class CustomLanguage(pylexibank.Language):
 
 
 class Dataset(pylexibank.Dataset):
+    form_spec = pylexibank.FormSpec(
+        missing_data=()
+    )
+
     dir = Path(__file__).parent
     id = "barlowpacific"
     lexeme_class = CustomLexeme
