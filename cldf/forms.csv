@@ -356,6 +356,12 @@ adze1240-3-4-1,,adze1240-3,4,iru da iru,iru da iru,,2 + 2,Smith1988,,false,,,p.6
 adze1240-3-5-1,,adze1240-3,5,iru da bits da iru,iru da bits da iru,,2 + 1 + 2,Smith1988,,false,,,p.67
 adze1240-3-6-1,,adze1240-3,6,iru da bits da iru da bits,iru da bits da iru da bits,,2 + 1 + 2 + 1,Smith1988,,false,,,p.67
 adze1240-3-7-1,,adze1240-3,7,iru da iru da iru da bits,iru da iru da iru da bits,,2 + 2 + 2 + 1,Smith1988,,false,,,p.67
+adze1240-4-1-1,,adze1240-4,1,bisinta,bisinta,,,Grace1955pdf51,,false,,,p.31
+adze1240-4-2-1,,adze1240-4,2,eru,eru,,,Grace1955pdf51,,false,,,p.31
+adze1240-4-2-2,,adze1240-4,2,bits,bits,,,Grace1955pdf51,,false,,,p.31
+adze1240-4-3-1,,adze1240-4,3,eruʔdabits,eruʔdabits,,,Grace1955pdf51,,false,,,p.31
+adze1240-4-4-1,,adze1240-4,4,eruʔdaeru,eruʔdaeru,,,Grace1955pdf51,,false,,,p.31
+adze1240-4-5-1,,adze1240-4,5,eruʔdaerudabits,eruʔdaerudabits,,,Grace1955pdf51,,false,,,p.31
 aeka1244-1-1-1,,aeka1244-1,1,tawo,tawo,,,Lean1985Vol05,,false,,,p.24
 aeka1244-1-2-1,,aeka1244-1,2,eoto,eoto,,,Lean1985Vol05,,false,,,p.24
 aeka1244-1-3-1,,aeka1244-1,3,eoto nei tawo,eoto nei tawo,,2 + 1,Lean1985Vol05,,false,,,p.24
@@ -570,6 +576,12 @@ airo1242-1-6-1,,airo1242-1,6,abat,abat,,,Stokhof1983Vol5.2,,false,,,p.50
 airo1242-1-7-1,,airo1242-1,7,ineen,ineen,,<inan ?>,Stokhof1983Vol5.2,,false,,,p.50
 aisi1234-1-1-1,,aisi1234-1,1,pabra,pabra,,,Daniels2015,,false,,,p.790
 aisi1234-1-2-1,,aisi1234-1,2,agrenda,agrenda,,,Daniels2015,,false,,,p.790
+ajie1238-1-1-1,,ajie1238-1,1,rha,rha,,,Grace1955pdfNotes,,false,,,p.9 [of pdf]
+ajie1238-1-2-1,,ajie1238-1,2,ka/ru,ka/ru,,,Grace1955pdfNotes,,false,,,p.9 [of pdf]
+ajie1238-1-3-1,,ajie1238-1,3,ka/riri,ka/riri,,,Grace1955pdfNotes,,false,,,p.9 [of pdf]
+ajie1238-1-4-1,,ajie1238-1,4,ka/vue,ka/vue,,,Grace1955pdfNotes,,false,,,p.9 [of pdf]
+ajie1238-1-5-1,,ajie1238-1,5,kani,kani,,,Grace1955pdfNotes,,false,,,p.9 [of pdf]
+ajie1238-1-10-1,,ajie1238-1,10,paroro,paroro,,,Grace1955pdfNotes,,false,,,p.9 [of pdf]
 akkk1240-1-1-1,,akkk1240-1,1,tuwɑw,tuwɑw,,,Laycock1970D09,,false,,,p.1232
 akkk1240-1-2-1,,akkk1240-1,2,pis,pis,,,Laycock1970D09,,false,,,p.1232
 akkk1240-1-3-1,,akkk1240-1,3,mə̀nɑ́,mə̀nɑ́,,,Laycock1970D09,,false,,,p.1232
@@ -904,7 +916,7 @@ amap1240-2-9-1,,amap1240-2,9,noimi siya(-woi),noimi siya(-woi),,collar bone one(
 amap1240-2-10-1,,amap1240-2,10,noimi ti(-woi),noimi ti(-woi),,collar bone two(-WITH),Arsjo1999,,false,,,p.79
 amap1240-2-10-2,,amap1240-2,10,naino ti(-woi) uwai,naino ti(-woi) uwai,,hand two(-WITH) finish,Arsjo1999,,false,,,p.79
 amap1240-2-11-1,,amap1240-2,11,molo siya(-woi),molo siya(-woi),,eye one(-WITH),Arsjo1999,,false,,,p.79
-amap1240-2-12-1,,amap1240-2,12,molo ti(-woi),molo ti(-woi),,"eye one(-WITH) [probably error for ""eye two(-WITH)]",Arsjo1999,,false,,,p.79
+amap1240-2-12-1,,amap1240-2,12,molo ti(-woi),molo ti(-woi),,eye one(-WITH) [probably error for “ eye two(-WITH)”],Arsjo1999,,false,,,p.79
 amap1240-3-1-1,,amap1240-3,1,siasʌ,siasʌ,,,Conrad1975,,false,,,pp.21-24
 amap1240-3-2-1,,amap1240-3,2,tiwe,tiwe,,,Conrad1975,,false,,,pp.21-24
 amap1240-3-3-1,,amap1240-3,3,taʋwe,taʋwe,,,Conrad1975,,false,,,pp.21-24
@@ -927,6 +939,25 @@ amba1265-1-11-1,,amba1265-1,11,sura-boïri,sura-boïri,,,Galis1955,,false,,,p.14
 amba1265-1-20-1,,amba1265-1,20,piárai,piárai,,,Galis1955,,false,,,p.141
 amba1265-1-30-1,,amba1265-1,30,piárai-a-sura,piárai-a-sura,,,Galis1955,,false,,,p.141
 amba1265-1-40-1,,amba1265-1,40,piáru,piáru,,,Galis1955,,false,,,p.141
+amba1265-2-1-1,,amba1265-2,1,ˈboyari,ˈboyari,,satu,Grace1955pdf49,,false,,,p.77
+amba1265-2-2-1,,amba1265-2,2,ˈbo·ru,ˈbo·ru,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-3-1,,amba1265-2,3,ˈboˈto·ru,ˈboˈto·ru,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-4-1,,amba1265-2,4,ˈbo·a,ˈbo·a,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-5-1,,amba1265-2,5,ri·ŋ,ri·ŋ,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-6-1,,amba1265-2,6,wo·na,wo·na,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-7-1,,amba1265-2,7,i·tu,i·tu,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-8-1,,amba1265-2,8,injato·ru wana,injato·ru wana,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-9-1,,amba1265-2,9,inja·tana,inja·tana,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-10-1,,amba1265-2,10,su·ra,su·ra,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-11-1,,amba1265-2,11,sura i̯a bo·yari,sura i̯a bo·yari,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-12-1,,amba1265-2,12,sura i̯a bo·ru,sura i̯a bo·ru,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-20-1,,amba1265-2,20,piaˈre·i,piaˈre·i,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-30-1,,amba1265-2,30,piaˈre·i asu·ra,piaˈre·i asu·ra,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-40-1,,amba1265-2,40,piaˈru,piaˈru,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-50-1,,amba1265-2,50,piaˈru asu·ra,piaˈru asu·ra,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-60-1,,amba1265-2,60,piato·ru,piato·ru,,(70 & 90 regular),Grace1955pdf49,,false,,,p.77
+amba1265-2-80-1,,amba1265-2,80,pia·ra,pia·ra,,,Grace1955pdf49,,false,,,p.77
+amba1265-2-100-1,,amba1265-2,100,pia·ri,pia·ri,,,Grace1955pdf49,,false,,,p.77
 amba1269-1-1-1,,amba1269-1,1,kong,kong,,,LeanEastSepik,,false,,,pp.60-61
 amba1269-1-2-1,,amba1269-1,2,nungun,nungun,,,LeanEastSepik,,false,,,pp.60-61
 amba1269-1-3-1,,amba1269-1,3,sok,sok,,,LeanEastSepik,,false,,,pp.60-61
@@ -952,15 +983,15 @@ amba1269-5-1-1,,amba1269-5,1,koŋ,koŋ,,,Barlow2018Ambakich,,false,,,
 amba1269-5-2-1,,amba1269-5,2,nuᵑɡun,nuᵑɡun,,,Barlow2018Ambakich,,false,,,
 amba1269-5-3-1,,amba1269-5,3,sok,sok,,,Barlow2018Ambakich,,false,,,
 amba1269-5-4-1,,amba1269-5,4,drikok,drikok,,,Barlow2018Ambakich,,false,,,
-amba1269-5-5-1,,amba1269-5,5,dop koŋ,dop koŋ,,"[dop] = /ndop/ = 'hand, arm'",Barlow2018Ambakich,,false,,,
-amba1269-5-6-1,,amba1269-5,6,dopkoŋ dop ombɨr koŋ mɑrosɑp,dopkoŋ dop ombɨr koŋ mɑrosɑp,,"/ndop ombɨr/ = 'finger' (literally 'hand digit'); may mean something like 'one hand, one finger put atop it'",Barlow2018Ambakich,,false,,,
+amba1269-5-5-1,,amba1269-5,5,dop koŋ,dop koŋ,,"[dop] = /ndop/ = ‘hand, arm’",Barlow2018Ambakich,,false,,,
+amba1269-5-6-1,,amba1269-5,6,dopkoŋ dop ombɨr koŋ mɑrosɑp,dopkoŋ dop ombɨr koŋ mɑrosɑp,,"/ndop ombɨr/ = ‘finger’ (literally ‘hand digit’); may mean something like ‘one hand, one finger put atop it’",Barlow2018Ambakich,,false,,,
 amba1269-5-7-1,,amba1269-5,7,dopkoŋ dop ombɨr nuᵑɡun mɑrosɑp,dopkoŋ dop ombɨr nuᵑɡun mɑrosɑp,,,Barlow2018Ambakich,,false,,,
 amba1269-5-8-1,,amba1269-5,8,dopkoŋ dop ombɨr sok mɑrosɑp,dopkoŋ dop ombɨr sok mɑrosɑp,,,Barlow2018Ambakich,,false,,,
 amba1269-5-9-1,,amba1269-5,9,dopkoŋ dop ombɨr drikok mɑrosɑp,dopkoŋ dop ombɨr drikok mɑrosɑp,,,Barlow2018Ambakich,,false,,,
-amba1269-5-10-1,,amba1269-5,10,dop nuᵑɡun ɲɑ ɛnɨpɑp,dop nuᵑɡun ɲɑ ɛnɨpɑp,,[ɲɑ] = /ja/ = reflexive marker; may mean something like 'two hands have finished themselves',Barlow2018Ambakich,,false,,,
-amba1269-5-15-1,,amba1269-5,15,dop nuᵑɡun ɲɑ ɛnɨpɑp brɨp koŋ mɑrosɑp,dop nuᵑɡun ɲɑ ɛnɨpɑp brɨp koŋ mɑrosɑp,,"[brɨp] = [mbrɨp] = 'foot, leg'; may mean something like 'two hands have finished themselves, put atop one foot'",Barlow2018Ambakich,,false,,,
+amba1269-5-10-1,,amba1269-5,10,dop nuᵑɡun ɲɑ ɛnɨpɑp,dop nuᵑɡun ɲɑ ɛnɨpɑp,,[ɲɑ] = /ja/ = reflexive marker; may mean something like ‘two hands have finished themselves’,Barlow2018Ambakich,,false,,,
+amba1269-5-15-1,,amba1269-5,15,dop nuᵑɡun ɲɑ ɛnɨpɑp brɨp koŋ mɑrosɑp,dop nuᵑɡun ɲɑ ɛnɨpɑp brɨp koŋ mɑrosɑp,,"[brɨp] = [mbrɨp] = 'foot, leg'; may mean something like ‘two hands have finished themselves, put atop one foot’",Barlow2018Ambakich,,false,,,
 amba1269-5-15-2,,amba1269-5,15,dop nuᵑɡun ɲɑ ɛnɨpɑp brɨp koŋ ɲɑ mɑrosɑp,dop nuᵑɡun ɲɑ ɛnɨpɑp brɨp koŋ ɲɑ mɑrosɑp,,,Barlow2018Ambakich,,false,,,
-amba1269-5-20-1,,amba1269-5,20,dop nuᵑɡun brɨp nuᵑɡun ɲɑ ɑrosɑp,dop nuᵑɡun brɨp nuᵑɡun ɲɑ ɑrosɑp,,"may mean something like 'two hands, two feet put atop themselves'",Barlow2018Ambakich,,false,,,
+amba1269-5-20-1,,amba1269-5,20,dop nuᵑɡun brɨp nuᵑɡun ɲɑ ɑrosɑp,dop nuᵑɡun brɨp nuᵑɡun ɲɑ ɑrosɑp,,"may mean something like 'two hands, two feet put atop themselves’",Barlow2018Ambakich,,false,,,
 ambe1248-1-1-1,,ambe1248-1,1,Ěsbī,Ěsbī,,,Stokhof1982Vol3.4,,false,,,p.59
 ambe1248-1-2-1,,ambe1248-1,2,Loeà,Loeà,,,Stokhof1982Vol3.4,,false,,,p.59
 ambe1248-1-3-1,,ambe1248-1,3,Relō,Relō,,,Stokhof1982Vol3.4,,false,,,p.59
@@ -1563,6 +1594,17 @@ ansu1237-1-20-1,,ansu1237-1,20,piari,piari,,,Galis1955,,false,,,p.140
 ansu1237-1-20-2,,ansu1237-1,20,piarai,piarai,,,Galis1955,,false,,,p.140
 ansu1237-1-30-1,,ansu1237-1,30,piareiawurà,piareiawurà,,,Galis1955,,false,,,p.140
 ansu1237-1-40-1,,ansu1237-1,40,piakodu,piakodu,,,Galis1955,,false,,,p.140
+ansu1237-2-1-1,,ansu1237-2,1,koˈiri,koˈiri,,,Grace1955pdf49,,false,,,p.85
+ansu1237-2-2-1,,ansu1237-2,2,ˈkodu,ˈkodu,,,Grace1955pdf49,,false,,,p.85
+ansu1237-2-3-1,,ansu1237-2,3,ˈtoru,ˈtoru,,,Grace1955pdf49,,false,,,p.85
+ansu1237-2-4-1,,ansu1237-2,4,ˈmanu̯a,ˈmanu̯a,,,Grace1955pdf49,,false,,,p.85
+ansu1237-2-5-1,,ansu1237-2,5,riŋ,riŋ,,,Grace1955pdf49,,false,,,p.85
+ansu1237-2-6-1,,ansu1237-2,6,wo·naŋ,wo·naŋ,,,Grace1955pdf49,,false,,,p.85
+ansu1237-2-7-1,,ansu1237-2,7,ˈitu,ˈitu,,,Grace1955pdf49,,false,,,p.85
+ansu1237-2-8-1,,ansu1237-2,8,injato·ru,injato·ru,,,Grace1955pdf49,,false,,,p.85
+ansu1237-2-9-1,,ansu1237-2,9,inja·taŋ,inja·taŋ,,,Grace1955pdf49,,false,,,p.85
+ansu1237-2-10-1,,ansu1237-2,10,ˈura,ˈura,,,Grace1955pdf49,,false,,,p.85
+ansu1237-2-11-1,,ansu1237-2,11,uˈrai̯a koˈiri,uˈrai̯a koˈiri,,,Grace1955pdf49,,false,,,p.85
 anta1255-1-1-1,,anta1255-1,1,are̍iki,are̍iki,,,ThomasFattier1982,,false,,,p.120
 anta1255-1-2-1,,anta1255-1,2,arue̍,arue̍,,,ThomasFattier1982,,false,,,p.120
 anta1255-1-2-2,,anta1255-1,2,rue̍,rue̍,,,ThomasFattier1982,,false,,,p.120
@@ -1617,6 +1659,16 @@ anus1237-1-9-1,,anus1237-1,9,erim-farowar-fau,erim-farowar-fau,,,Galis1955,,fals
 anus1237-1-10-1,,anus1237-1,10,kauk-farowar²,kauk-farowar²,,,Galis1955,,false,,,p.143
 anus1237-1-10-2,,anus1237-1,10,farowar-erim,farowar-erim,,,Galis1955,,false,,,p.143
 anus1237-1-20-1,,anus1237-1,20,timot-tès,timot-tès,,,Galis1955,,false,,,p.143
+anus1237-2-1-1,,anus1237-2,1,tes,tes,,,Grace1955pdf25,,false,,,p.2 [of pdf]
+anus1237-2-2-1,,anus1237-2,2,oˈru,oˈru,,,Grace1955pdf25,,false,,,p.2 [of pdf]
+anus1237-2-3-1,,anus1237-2,3,tou̯,tou̯,,,Grace1955pdf25,,false,,,p.2 [of pdf]
+anus1237-2-4-1,,anus1237-2,4,fau̯,fau̯,,,Grace1955pdf25,,false,,,p.2 [of pdf]
+anus1237-2-5-1,,anus1237-2,5,arim,arim,,,Grace1955pdf25,,false,,,p.2 [of pdf]
+anus1237-2-6-1,,anus1237-2,6,farwertes,farwertes,,,Grace1955pdf25,,false,,,p.2 [of pdf]
+anus1237-2-7-1,,anus1237-2,7,farˈweroru,farˈweroru,,,Grace1955pdf25,,false,,,p.2 [of pdf]
+anus1237-2-8-1,,anus1237-2,8,farˈwertou̯,farˈwertou̯,,,Grace1955pdf25,,false,,,p.2 [of pdf]
+anus1237-2-9-1,,anus1237-2,9,farˈwerfau̯,farˈwerfau̯,,,Grace1955pdf25,,false,,,p.2 [of pdf]
+anus1237-2-10-1,,anus1237-2,10,sənafu,sənafu,,,Grace1955pdf25,,false,,,p.2 [of pdf]
 aohe1237-1-1-1,,aohe1237-1,1,tjī',tjī',,,Stokhof1986Vol8,,false,,,p.155
 aohe1237-1-2-1,,aohe1237-1,2,doeo,doeo,,,Stokhof1986Vol8,,false,,,p.155
 aohe1237-1-3-1,,aohe1237-1,3,tou,tou,,,Stokhof1986Vol8,,false,,,p.155
@@ -1686,7 +1738,7 @@ apal1255-1-9-1,,apal1255-1,9,elmo peng,elmo peng,,elmo + 4,LeanWestNewBritain,,f
 apal1255-1-10-1,,apal1255-1,10,sungul,sungul,,,LeanWestNewBritain,,false,,,p.24
 apal1256-1-1-1,,apal1256-1,1,pʌːmbi,pʌːmbi,,,Zgraggen1980SouthernAdelbert,,false,,,p.46
 apal1256-1-2-1,,apal1256-1,2,akitʌ,akitʌ,,,Zgraggen1980SouthernAdelbert,,false,,,p.46
-apma1240-1-1-1,,apma1240-1,1,ɡonaleha,ɡonaleha,,Gray (2013:92) refers to a set of ‘devils' numbers’ in Apma which appear to be a decimal system with reflexes of PNCV numerasl 2-5 whilst numbers 6-10 appear to be innovative,Garde2015,,false,,,p.129
+apma1240-1-1-1,,apma1240-1,1,ɡonaleha,ɡonaleha,,Gray (2013:92) refers to a set of ‘devils’ numbers’ in Apma which appear to be a decimal system with reflexes of PNCV numerals 2-5 whilst numbers 6-10 appear to be innovative,Garde2015,,false,,,p.129
 apma1240-1-2-1,,apma1240-1,2,ɡonarua,ɡonarua,,,Garde2015,,false,,,p.129
 apma1240-1-3-1,,apma1240-1,3,ɡonatsila,ɡonatsila,,,Garde2015,,false,,,p.129
 apma1240-1-4-1,,apma1240-1,4,ɡonaveta,ɡonaveta,,,Garde2015,,false,,,p.129
@@ -1840,6 +1892,21 @@ argu1237-1-11-1,,argu1237-1,11,[illegible],[illegible],,,Galis1955,,false,,,p.13
 argu1237-1-20-1,,argu1237-1,20,[?],[?],,,Galis1955,,false,,,p.134
 argu1237-1-30-1,,argu1237-1,30,[?],[?],,,Galis1955,,false,,,p.134
 argu1237-1-40-1,,argu1237-1,40,[?],[?],,,Galis1955,,false,,,p.134
+argu1237-2-1-1,,argu1237-2,1,siˈa,siˈa,,,Grace1955pdf50,,false,,,p.111
+argu1237-2-2-1,,argu1237-2,2,ru,ru,,,Grace1955pdf50,,false,,,p.111
+argu1237-2-3-1,,argu1237-2,3,taor,taor,,,Grace1955pdf50,,false,,,p.111
+argu1237-2-4-1,,argu1237-2,4,fa·t,fa·t,,,Grace1955pdf50,,false,,,p.111
+argu1237-2-5-1,,argu1237-2,5,rim,rim,,,Grace1955pdf50,,false,,,p.111
+argu1237-2-6-1,,argu1237-2,6,a·nem,a·nem,,,Grace1955pdf50,,false,,,p.111
+argu1237-2-7-1,,argu1237-2,7,namˈbatu,namˈbatu,,,Grace1955pdf50,,false,,,p.111
+argu1237-2-8-1,,argu1237-2,8,ˈnafu,ˈnafu,,,Grace1955pdf50,,false,,,p.111
+argu1237-2-9-1,,argu1237-2,9,ˈnasu̯a,ˈnasu̯a,,,Grace1955pdf50,,false,,,p.111
+argu1237-2-10-1,,argu1237-2,10,samˈbure,samˈbure,,,Grace1955pdf50,,false,,,p.111
+argu1237-2-11-1,,argu1237-2,11,samˈbure resisi̯a,samˈbure resisi̯a,,,Grace1955pdf50,,false,,,p.111
+argu1237-2-20-1,,argu1237-2,20,sinonsia,sinonsia,,,Grace1955pdf50,,false,,,p.111
+argu1237-2-30-1,,argu1237-2,30,sinonsia samˈbure,sinonsia samˈbure,,,Grace1955pdf50,,false,,,p.111
+argu1237-2-40-1,,argu1237-2,40,sinonru,sinonru,,etc.,Grace1955pdf50,,false,,,p.111
+argu1237-2-100-1,,argu1237-2,100,ratisi̯a,ratisi̯a,,,Grace1955pdf50,,false,,,p.111
 arib1240-1-1-1,,arib1240-1,1,uruts,uruts,,,Smith1988,,false,,,p.70
 arib1240-1-2-1,,arib1240-1,2,siruc,siruc,,,Smith1988,,false,,,p.70
 arib1240-1-3-1,,arib1240-1,3,siruc aruts,siruc aruts,,,Smith1988,,false,,,p.70
@@ -2027,6 +2094,22 @@ asko1238-2-10-1,,asko1238-2,10,makotat,makotat,,,LeanBougainville,,false,,,p.36
 asko1238-2-15-1,,asko1238-2,15,makotatuano akamoko,makotatuano akamoko,,,LeanBougainville,,false,,,p.36
 asko1238-2-20-1,,asko1238-2,20,makotatuare besatuare,makotatuare besatuare,,,LeanBougainville,,false,,,p.36
 asko1238-2-30-1,,asko1238-2,30,penuma makotan,penuma makotan,,,LeanBougainville,,false,,,p.36
+asss1237-1-1-1,,asss1237-1,1,sa,sa,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-1-2,,asss1237-1,1,tɛm,tɛm,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-2-1,,asss1237-1,2,lu,lu,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-3-1,,asss1237-1,3,tu,tu,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-4-1,,asss1237-1,4,fat,fat,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-5-1,,asss1237-1,5,lim,lim,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-6-1,,asss1237-1,6,waˈnɔm,waˈnɔm,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-7-1,,asss1237-1,7,fit,fit,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-8-1,,asss1237-1,8,wal,wal,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-9-1,,asss1237-1,9,ˈsiu,ˈsiu,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-10-1,,asss1237-1,10,ɛˈfɛ,ɛˈfɛ,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-11-1,,asss1237-1,11,ɛfɛ nɛˈmatɛn,ɛfɛ nɛˈmatɛn,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-12-1,,asss1237-1,12,ɛfɛ nɛˈmalu,ɛfɛ nɛˈmalu,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-20-1,,asss1237-1,20,ɛˈfɛ lu,ɛˈfɛ lu,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-100-1,,asss1237-1,100,waˈtuntɛm,waˈtuntɛm,,,Grace1955pdf50,,false,,,p.156
+asss1237-1-100-2,,asss1237-1,100,waˈtunsa,waˈtunsa,,,Grace1955pdf50,,false,,,p.156
 asue1235-1-1-1,,asue1235-1,1,sikirè,sikirè,,,Galis1955,,false,,,p.167
 asue1235-1-2-1,,asue1235-1,2,kuruma,kuruma,,,Galis1955,,false,,,p.167
 asue1235-1-3-1,,asue1235-1,3,kumandima,kumandima,,,Galis1955,,false,,,p.167
@@ -2052,9 +2135,9 @@ asue1235-2-10-1,,asue1235-2,10,bibimɑ,bibimɑ,,,Kriens2010,,false,,,pp.48-49
 asue1235-2-20-1,,asue1235-2,20,xobigi ˈkuruˌmɑ,xobigi ˈkuruˌmɑ,,,Kriens2010,,false,,,pp.48-49
 atem1241-1-1-1,,atem1241-1,1,vam,vam,,There are only two [numerals],Daniels2015,,false,,,p.455
 atem1241-1-2-1,,atem1241-1,2,utɨmar,utɨmar,,There are only two [numerals],Daniels2015,,false,,,p.455
-atem1241-2-1-1,,atem1241-2,1,βɑm,βɑm,,(waman [in Z'graggen 1980:46]),Daniels2014Item335,,false,,,p.33
+atem1241-2-1-1,,atem1241-2,1,βɑm,βɑm,,(waman [in Z’graggen 1980:46]),Daniels2014Item335,,false,,,p.33
 atem1241-2-1-2,,atem1241-2,1,βɑmɑn,βɑmɑn,,wanpela tasol [= just one],Daniels2014Item335,,false,,,p.33
-atem1241-2-2-1,,atem1241-2,2,utɨmɑr,utɨmɑr,,(otumʌr [in Z'graggen 1980:46]),Daniels2014Item335,,false,,,p.33
+atem1241-2-2-1,,atem1241-2,2,utɨmɑr,utɨmɑr,,(otumʌr [in Z’graggen 1980:46]),Daniels2014Item335,,false,,,p.33
 atem1241-2-3-1,,atem1241-2,3,utɨmɑr βɑm,utɨmɑr βɑm,,,Daniels2014Item335,,false,,,p.33
 atem1241-2-4-1,,atem1241-2,4,utɨmɑr utɨmɑr,utɨmɑr utɨmɑr,,,Daniels2014Item335,,false,,,p.33
 atem1241-2-5-1,,atem1241-2,5,utɨmɑr βɑm utɨmɑr,utɨmɑr βɑm utɨmɑr,,,Daniels2014Item335,,false,,,p.33
@@ -2831,6 +2914,18 @@ bann1247-2-20-1,,bann1247-2,20,manogha to-om,manogha to-om,,,LeanBougainville,,f
 bann1247-2-30-1,,bann1247-2,30,manogha dapisa,manogha dapisa,,,LeanBougainville,,false,,,p.41
 bann1247-2-100-1,,bann1247-2,100,rawus kadaken,rawus kadaken,,,LeanBougainville,,false,,,p.41
 bann1247-2-1000-1,,bann1247-2,1000,kokorau kadaken,kokorau kadaken,,,LeanBougainville,,false,,,p.41
+bann1247-3-1-1,,bann1247-3,1,kadakem,kadakem,,,Grace1955pdf47,,false,,,p.103
+bann1247-3-2-1,,bann1247-3,2,to·m,to·m,,,Grace1955pdf47,,false,,,p.103
+bann1247-3-3-1,,bann1247-3,3,dapi̥sa,dapi̥sa,,,Grace1955pdf47,,false,,,p.103
+bann1247-3-4-1,,bann1247-3,4,toaci̥,toaci̥,,,Grace1955pdf47,,false,,,p.103
+bann1247-3-5-1,,bann1247-3,5,ɣinima,ɣinima,,,Grace1955pdf47,,false,,,p.103
+bann1247-3-6-1,,bann1247-3,6,bena,bena,,,Grace1955pdf47,,false,,,p.103
+bann1247-3-7-1,,bann1247-3,7,bena to·m,bena to·m,,,Grace1955pdf47,,false,,,p.103
+bann1247-3-8-1,,bann1247-3,8,bena kapi̥sa,bena kapi̥sa,,,Grace1955pdf47,,false,,,p.103
+bann1247-3-9-1,,bann1247-3,9,visa,visa,,,Grace1955pdf47,,false,,,p.103
+bann1247-3-10-1,,bann1247-3,10,ma·noɣa,ma·noɣa,,,Grace1955pdf47,,false,,,p.103
+bann1247-3-20-1,,bann1247-3,20,ma·noɣa to·m,ma·noɣa to·m,,etc.,Grace1955pdf47,,false,,,p.103
+bann1247-3-100-1,,bann1247-3,100,raus kadakem,raus kadakem,,,Grace1955pdf47,,false,,,p.103
 bant1286-1-1-1,,bant1286-1,1,Ísà,Ísà,,,Stokhof1983Vol7.2,,false,,,pp.300-301
 bant1286-1-2-1,,bant1286-1,2,Doewa,Doewa,,,Stokhof1983Vol7.2,,false,,,pp.300-301
 bant1286-1-3-1,,bant1286-1,3,Toeroe,Toeroe,,,Stokhof1983Vol7.2,,false,,,pp.300-301
@@ -3613,6 +3708,16 @@ bedo1237-1-11-1,,bedo1237-1,11,sumbuva-rèsè-sa,sumbuva-rèsè-sa,,,Galis1960,,
 bedo1237-1-20-1,,bedo1237-1,20,sinjousa,sinjousa,,,Galis1960,,false,,,p.138
 bedo1237-1-30-1,,bedo1237-1,30,sinjousa-sumbuva,sinjousa-sumbuva,,,Galis1960,,false,,,p.138
 bedo1237-1-40-1,,bedo1237-1,40,sinjouru,sinjouru,,,Galis1960,,false,,,p.138
+bedo1237-2-1-1,,bedo1237-2,1,sia,sia,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+bedo1237-2-2-1,,bedo1237-2,2,ru,ru,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+bedo1237-2-3-1,,bedo1237-2,3,tao,tao,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+bedo1237-2-4-1,,bedo1237-2,4,fat,fat,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+bedo1237-2-5-1,,bedo1237-2,5,rim,rim,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+bedo1237-2-6-1,,bedo1237-2,6,ˈunam,ˈunam,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+bedo1237-2-7-1,,bedo1237-2,7,namˈbatu,namˈbatu,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+bedo1237-2-8-1,,bedo1237-2,8,na·fu,na·fu,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+bedo1237-2-9-1,,bedo1237-2,9,ˈnaso̯a,ˈnaso̯a,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+bedo1237-2-10-1,,bedo1237-2,10,səbura,səbura,,,Grace1956pdf31,,false,,,p.2 [of pdf]
 beli1258-1-1-1,,beli1258-1,1,dionung,dionung,,,LeanSandaun,,false,,,p.35
 beli1258-1-2-1,,beli1258-1,2,wosong,wosong,,,LeanSandaun,,false,,,p.35
 beli1258-1-3-1,,beli1258-1,3,wosong olo dionung,wosong olo dionung,,,LeanSandaun,,false,,,p.35
@@ -3683,7 +3788,7 @@ beri1254-1-6-1,,beri1254-1,6,Affertefåwr,Affertefåwr,,,Stokhof1983Vol5.2,,fals
 beri1254-1-7-1,,beri1254-1,7,kamdjun,kamdjun,,,Stokhof1983Vol5.2,,false,,,p.92
 beri1254-1-8-1,,beri1254-1,8,Ningina,Ningina,,,Stokhof1983Vol5.2,,false,,,p.92
 beri1254-1-9-1,,beri1254-1,9,afferna,afferna,,,Stokhof1983Vol5.2,,false,,,p.92
-beri1254-1-10-1,,beri1254-1,10,Goeri,Goeri,,"after 'ten' one told me: ""soedah habis"" <""there is no more"">",Stokhof1983Vol5.2,,false,,,p.92
+beri1254-1-10-1,,beri1254-1,10,Goeri,Goeri,,after ‘ten’ one told me: “soedah habis” <“there is no more”>,Stokhof1983Vol5.2,,false,,,p.92
 beri1254-2-1-1,,beri1254-2,1,aaf'ten'gi'ri,aaf'ten'gi'ri,,,Stokhof1983Vol5.2,,false,,,p.101
 beri1254-2-2-1,,beri1254-2,2,nou'ra,nou'ra,,,Stokhof1983Vol5.2,,false,,,p.101
 beri1254-2-3-1,,beri1254-2,3,nou'ning'gi,nou'ning'gi,,,Stokhof1983Vol5.2,,false,,,p.101
@@ -3832,8 +3937,8 @@ bian1252-1-10-1,,bian1252-1,10,mere yau,mere yau,,hands two,Smith1988,,false,,,p
 bian1252-1-11-1,,bian1252-1,11,mere yau keya ingi nasika nak,mere yau keya ingi nasika nak,,"hands two, foot one",Smith1988,,false,,,pp.102-103
 bian1252-1-15-1,,bian1252-1,15,mere yau ingi nasik,mere yau ingi nasik,,hands two leg one,Smith1988,,false,,,pp.102-103
 bian1252-1-20-1,,bian1252-1,20,yombu nak,yombu nak,,,Smith1988,,false,,,pp.102-103
-bian1252-2-1-1,,bian1252-2,1,wamenak,wamenak,,‘only-one,LeanMorobe,,false,,,p.66
-bian1252-2-1-2,,bian1252-2,1,nak,nak,,‘only-one,LeanMorobe,,false,,,p.66
+bian1252-2-1-1,,bian1252-2,1,wamenak,wamenak,,‘only-one’,LeanMorobe,,false,,,p.66
+bian1252-2-1-2,,bian1252-2,1,nak,nak,,‘only-one’,LeanMorobe,,false,,,p.66
 bian1252-2-2-1,,bian1252-2,2,neyao,neyao,,‘one-two’,LeanMorobe,,false,,,p.66
 bian1252-2-3-1,,bian1252-2,3,neyao keya nak,neyao keya nak,,2 + 1,LeanMorobe,,false,,,p.66
 bian1252-2-4-1,,bian1252-2,4,mangavetaono,mangavetaono,,,LeanMorobe,,false,,,p.66
@@ -3876,12 +3981,37 @@ biem1237-2-2-1,,biem1237-2,2,aru,aru,,,Laycock1976,,false,,,p.416
 biem1237-2-3-1,,biem1237-2,3,tuəl,tuəl,,,Laycock1976,,false,,,p.416
 biem1237-2-4-1,,biem1237-2,4,kiki,kiki,,,Laycock1976,,false,,,p.416
 biem1237-2-5-1,,biem1237-2,5,kiki be kuboa,kiki be kuboa,,,Laycock1976,,false,,,p.416
+biem1237-3-1-1,,biem1237-3,1,tini,tini,,,Grace1955pdf43,,false,,,p.47
+biem1237-3-2-1,,biem1237-3,2,ru,ru,,,Grace1955pdf43,,false,,,p.47
+biem1237-3-3-1,,biem1237-3,3,tol,tol,,,Grace1955pdf43,,false,,,p.47
+biem1237-3-4-1,,biem1237-3,4,kiki,kiki,,,Grace1955pdf43,,false,,,p.47
+biem1237-3-5-1,,biem1237-3,5,kikibokubʷa,kikibokubʷa,,,Grace1955pdf43,,false,,,p.47
+biem1237-3-6-1,,biem1237-3,6,kikiboreduru,kikiboreduru,,,Grace1955pdf43,,false,,,p.47
+biem1237-3-7-1,,biem1237-3,7,kikiru,kikiru,,,Grace1955pdf43,,false,,,p.47
+biem1237-3-8-1,,biem1237-3,8,kikitol,kikitol,,,Grace1955pdf43,,false,,,p.47
+biem1237-3-9-1,,biem1237-3,9,kikiat,kikiat,,,Grace1955pdf43,,false,,,p.47
+biem1237-3-10-1,,biem1237-3,10,kolentani,kolentani,,,Grace1955pdf43,,false,,,p.47
+biem1237-3-11-1,,biem1237-3,11,kikitolkubʷa,kikitolkubʷa,,,Grace1955pdf43,,false,,,p.47
+biem1237-3-12-1,,biem1237-3,12,kikiat woreduru,kikiat woreduru,,,Grace1955pdf43,,false,,,p.47
+biem1237-3-20-1,,biem1237-3,20,kolemaru,kolemaru,,,Grace1955pdf43,,false,,,p.47
+biem1237-3-30-1,,biem1237-3,30,kolemʷat koregditol,kolemʷat koregditol,,,Grace1955pdf43,,false,,,p.47
+biem1237-3-40-1,,biem1237-3,40,kolemʷat,kolemʷat,,(he can’t [illegible] further numerals),Grace1955pdf43,,false,,,p.47
 biga1238-1-1-1,,biga1238-1,1,kaˈtem,kaˈtem,,,Remijsen2001,,false,,,"pp.140, 145"
 biga1238-1-2-1,,biga1238-1,2,lu,lu,,,Remijsen2001,,false,,,"pp.140, 145"
 biga1238-1-3-1,,biga1238-1,3,tol,tol,,,Remijsen2001,,false,,,"pp.140, 145"
 biga1238-1-4-1,,biga1238-1,4,fat,fat,,,Remijsen2001,,false,,,"pp.140, 145"
 biga1238-1-5-1,,biga1238-1,5,lim,lim,,,Remijsen2001,,false,,,"pp.140, 145"
 biga1238-1-6-1,,biga1238-1,6,woˈnom,woˈnom,,,Remijsen2001,,false,,,"pp.140, 145"
+biga1238-2-1-1,,biga1238-2,1,kaˈtem,kaˈtem,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+biga1238-2-2-1,,biga1238-2,2,lo,lo,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+biga1238-2-3-1,,biga1238-2,3,tol,tol,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+biga1238-2-4-1,,biga1238-2,4,fat,fat,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+biga1238-2-5-1,,biga1238-2,5,lim,lim,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+biga1238-2-6-1,,biga1238-2,6,ˈwonom,ˈwonom,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+biga1238-2-7-1,,biga1238-2,7,fit,fit,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+biga1238-2-8-1,,biga1238-2,8,wal,wal,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+biga1238-2-9-1,,biga1238-2,9,si,si,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+biga1238-2-10-1,,biga1238-2,10,lafa,lafa,,,Grace1956pdf32,,false,,,p.3 [of pdf]
 biha1246-1-1-1,,biha1246-1,1,sa,sa,,,Nguyen2013,,false,,,p.31
 biha1246-1-2-1,,biha1246-1,2,dua,dua,,,Nguyen2013,,false,,,p.31
 biha1246-1-3-1,,biha1246-1,3,tlâo,tlâo,,,Nguyen2013,,false,,,p.31
@@ -4330,6 +4460,16 @@ boik1241-1-8-1,,boik1241-1,8,sɑɡwʊ mbɑɣə,sɑɡwʊ mbɑɣə,,,Laycock1971D3
 boik1241-1-9-1,,boik1241-1,9,sɑɡwʊ ndyɑkəlitfyɑk,sɑɡwʊ ndyɑkəlitfyɑk,,,Laycock1971D35,,false,,,p.5248
 boik1241-1-10-1,,boik1241-1,10,rɑmbʌ ƀəli,rɑmbʌ ƀəli,,,Laycock1971D35,,false,,,p.5248
 boik1241-1-20-1,,boik1241-1,20,tʊɔ minɑƀɑ,tʊɔ minɑƀɑ,,[tuwɔ = man],Laycock1971D35,,false,,,p.5248
+boik1241-10-1-1,,boik1241-10,1,nasə,nasə,,,Grace1955pdf42,,false,,,p.3
+boik1241-10-2-1,,boik1241-10,2,səti·,səti·,,,Grace1955pdf42,,false,,,p.3
+boik1241-10-3-1,,boik1241-10,3,sumuguluŋ,sumuguluŋ,,,Grace1955pdf42,,false,,,p.3
+boik1241-10-4-1,,boik1241-10,4,nawata,nawata,,,Grace1955pdf42,,false,,,p.3
+boik1241-10-5-1,,boik1241-10,5,hi fas,hi fas,,,Grace1955pdf42,,false,,,p.3
+boik1241-10-6-1,,boik1241-10,6,hi fʷaeti,hi fʷaeti,,,Grace1955pdf42,,false,,,p.3
+boik1241-10-7-1,,boik1241-10,7,hi fʷa· muguluŋ,hi fʷa· muguluŋ,,,Grace1955pdf42,,false,,,p.3
+boik1241-10-8-1,,boik1241-10,8,wataiti,wataiti,,,Grace1955pdf42,,false,,,p.3
+boik1241-10-9-1,,boik1241-10,9,hi fa·s wataiti hi fas,hi fa·s wataiti hi fas,,,Grace1955pdf42,,false,,,p.3
+boik1241-10-10-1,,boik1241-10,10,hi fʷaeti,hi fʷaeti,,"(= six, sic!!)",Grace1955pdf42,,false,,,p.3
 boik1241-2-1-1,,boik1241-2,1,nava,nava,,,LeanEastSepik,,false,,,p.31
 boik1241-2-2-1,,boik1241-2,2,kirik,kirik,,,LeanEastSepik,,false,,,p.31
 boik1241-2-3-1,,boik1241-2,3,mungluk,mungluk,,,LeanEastSepik,,false,,,p.31
@@ -4527,6 +4667,16 @@ bong1287-1-20-1,,bong1287-1,20,temot tekuasè,temot tekuasè,,,Galis1955,,false,
 bong1287-1-20-2,,bong1287-1,20,mejak-farufaruma-dakfarufaruma,mejak-farufaruma-dakfarufaruma,,,Galis1955,,false,,,p.143
 bong1287-1-30-1,,bong1287-1,30,mejak-farufaruma-dakfarufaruma-mejak farufaruma,mejak-farufaruma-dakfarufaruma-mejak farufaruma,,,Galis1955,,false,,,p.143
 bong1287-1-40-1,,bong1287-1,40,temot arkwat,temot arkwat,,,Galis1955,,false,,,p.143
+bong1287-2-1-1,,bong1287-2,1,itkwose,itkwose,,satu,Grace1955pdf22,,false,,,p.11 [of pdf]
+bong1287-2-2-1,,bong1287-2,2,erkuat,erkuat,,,Grace1955pdf22,,false,,,p.11 [of pdf]
+bong1287-2-3-1,,bong1287-2,3,tor,tor,,,Grace1955pdf22,,false,,,p.11 [of pdf]
+bong1287-2-4-1,,bong1287-2,4,fau,fau,,,Grace1955pdf22,,false,,,p.11 [of pdf]
+bong1287-2-5-1,,bong1287-2,5,miekfirpose,miekfirpose,,,Grace1955pdf22,,false,,,p.11 [of pdf]
+bong1287-2-6-1,,bong1287-2,6,miek fari itkwose,miek fari itkwose,,,Grace1955pdf22,,false,,,p.11 [of pdf]
+bong1287-2-7-1,,bong1287-2,7,miek fari erkuat,miek fari erkuat,,,Grace1955pdf22,,false,,,p.11 [of pdf]
+bong1287-2-8-1,,bong1287-2,8,miek fari tor,miek fari tor,,,Grace1955pdf22,,false,,,p.11 [of pdf]
+bong1287-2-9-1,,bong1287-2,9,miek fari fau,miek fari fau,,,Grace1955pdf22,,false,,,p.11 [of pdf]
+bong1287-2-10-1,,bong1287-2,10,miek fari foroma,miek fari foroma,,,Grace1955pdf22,,false,,,p.11 [of pdf]
 bong1289-1-1-1,,bong1289-1,1,isaʔ,isaʔ,,,Lobel2016,,false,,,pp.234-239
 bong1289-1-1-2,,bong1289-1,1,simbatu,simbatu,,,Lobel2016,,false,,,pp.234-239
 bong1289-1-2-1,,bong1289-1,2,dua,dua,,,Lobel2016,,false,,,pp.234-239
@@ -5511,6 +5661,13 @@ buru1307-1-7-1,,buru1307-1,7,duŋi,duŋi,,,Wilbrink2004,,false,,,pp.109ff
 buru1307-1-8-1,,buru1307-1,8,buŋuɸwɛ,buŋuɸwɛ,,[elbow = buŋupˈtɔŋ],Wilbrink2004,,false,,,pp.109ff
 buru1307-1-9-1,,buru1307-1,9,tabikɛ,tabikɛ,,,Wilbrink2004,,false,,,pp.109ff
 buru1307-1-10-1,,buru1307-1,10,mariŋɛ,mariŋɛ,,,Wilbrink2004,,false,,,pp.109ff
+buru1308-1-1-1,,buru1308-1,1,sesiav,sesiav,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+buru1308-1-2-1,,buru1308-1,2,aˈbo·ma,aˈbo·ma,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+buru1308-1-3-1,,buru1308-1,3,aˈbomia·va,aˈbomia·va,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+buru1308-1-4-1,,buru1308-1,4,ˈbenmesidav,ˈbenmesidav,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+buru1308-1-5-1,,buru1308-1,5,manobav,manobav,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+buru1308-1-6-1,,buru1308-1,6,manobav sesiav,manobav sesiav,,etc.,Grace1955pdf50,,false,,,p.55 [of pdf]
+buru1308-1-10-1,,buru1308-1,10,manəbom,manəbom,,,Grace1955pdf50,,false,,,p.55 [of pdf]
 buru1309-1-1-1,,buru1309-1,1,nete,nete,,,LeanEastSepik,,false,,,p.42
 buru1309-1-2-1,,buru1309-1,2,vitik,vitik,,,LeanEastSepik,,false,,,p.42
 buru1309-1-2-2,,buru1309-1,2,viti,viti,,,LeanEastSepik,,false,,,p.42
@@ -7252,6 +7409,11 @@ duwe1237-1-11-1,,duwe1237-1,11,limang seik anau na ta,limang seik anau na ta,,"h
 duwe1237-1-15-1,,duwe1237-1,15,limang seik ambengga arinang,limang seik ambengga arinang,,"hands two, leg half",Smith1988,,false,,,p.69
 duwe1237-1-16-1,,duwe1237-1,16,limang seik ambengga arinang ta,limang seik ambengga arinang ta,,,Smith1988,,false,,,p.69
 duwe1237-1-20-1,,duwe1237-1,20,ambeng seik jimang seik,ambeng seik jimang seik,,hands two legs two,Smith1988,,false,,,p.69
+duwe1237-2-1-1,,duwe1237-2,1,taginɛi,taginɛi,,,Grace1955pdf51,,false,,,p.31
+duwe1237-2-2-1,,duwe1237-2,2,sɛik,sɛik,,,Grace1955pdf51,,false,,,p.31
+duwe1237-2-3-1,,duwe1237-2,3,sɛikbata,sɛikbata,,,Grace1955pdf51,,false,,,p.31
+duwe1237-2-4-1,,duwe1237-2,4,limaʔasɛik basɛik,limaʔasɛik basɛik,,,Grace1955pdf51,,false,,,p.31
+duwe1237-2-5-1,,duwe1237-2,5,limaʔta·ʔ,limaʔta·ʔ,,,Grace1955pdf51,,false,,,p.31
 east2440-1-1-1,,east2440-1,1,pso,pso,,,Teljeur1982,,false,,,pp.145-146
 east2440-1-2-1,,east2440-1,2,plu,plu,,,Teljeur1982,,false,,,pp.145-146
 east2440-1-3-1,,east2440-1,3,ptol,ptol,,,Teljeur1982,,false,,,pp.145-146
@@ -8093,6 +8255,16 @@ eree1241-2-100-1,,eree1241-2,100,sangat,sangat,,,Lean1985Vol02,,false,,,p.35
 erok1237-1-1-1,,erok1237-1,1,sa,sa,,,Galis1960,,false,,,p.138
 erok1237-1-2-1,,erok1237-1,2,ru,ru,,,Galis1960,,false,,,p.138
 erok1237-1-3-1,,erok1237-1,3,taur,taur,,,Galis1960,,false,,,p.138
+erok1237-2-1-1,,erok1237-2,1,sia,sia,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+erok1237-2-2-1,,erok1237-2,2,ru,ru,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+erok1237-2-3-1,,erok1237-2,3,tao,tao,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+erok1237-2-4-1,,erok1237-2,4,fat,fat,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+erok1237-2-5-1,,erok1237-2,5,rim,rim,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+erok1237-2-6-1,,erok1237-2,6,añem,añem,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+erok1237-2-7-1,,erok1237-2,7,namˈbatu,namˈbatu,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+erok1237-2-8-1,,erok1237-2,8,ˈnafu,ˈnafu,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+erok1237-2-9-1,,erok1237-2,9,ˈnaso̯a,ˈnaso̯a,,,Grace1956pdf31,,false,,,p.2 [of pdf]
+erok1237-2-10-1,,erok1237-2,10,sambura,sambura,,,Grace1956pdf31,,false,,,p.2 [of pdf]
 ewag1241-1-1-1,,ewag1241-1,1,da,da,,,Lean1985Vol05,,false,,,p.32
 ewag1241-1-2-1,,ewag1241-1,2,etoto,etoto,,,Lean1985Vol05,,false,,,p.32
 ewag1241-1-3-1,,ewag1241-1,3,tamonde,tamonde,,,Lean1985Vol05,,false,,,p.32
@@ -8136,7 +8308,7 @@ fait1240-2-2-1,,fait1240-2,2,ɑliɡɑ,ɑliɡɑ,,,Daniels2014Item328,,false,,,p.4
 fait1240-2-2-2,,fait1240-2,2,ɑˈriŋɡɑ,ɑˈriŋɡɑ,,,Daniels2014Item328,,false,,,p.45
 fait1240-2-3-1,,fait1240-2,3,ˈsɑke,ˈsɑke,,(S sɑke sɑkerʌ),Daniels2014Item328,,false,,,p.45
 fait1240-2-4-1,,fait1240-2,4,ɑpɑ mɑniŋɡɑ,ɑpɑ mɑniŋɡɑ,,"[<ɑpɑmɑ niŋɡɑ> = ‘fourth finger’, p.21]",Daniels2014Item328,,false,,,p.45
-fait1240-2-5-1,,fait1240-2,5,kɑtɑ,kɑtɑ,,"(S ˈkʌtʌ) [<ɑpɑmɑ kɑtɑ> = ‘thumb’, p.21; cf. Z'graggen 1980:13); from ‘head finger’?]",Daniels2014Item328,,false,,,p.45
+fait1240-2-5-1,,fait1240-2,5,kɑtɑ,kɑtɑ,,"(S ˈkʌtʌ) [<ɑpɑmɑ kɑtɑ> = ‘thumb’, p.21; cf. Z’graggen 1980:13); from ‘head finger’?]",Daniels2014Item328,,false,,,p.45
 fait1240-2-6-1,,fait1240-2,6,umbuˈɣur,umbuˈɣur,,,Daniels2014Item328,,false,,,p.45
 fait1240-2-7-1,,fait1240-2,7,kenɑ,kenɑ,,,Daniels2014Item328,,false,,,p.45
 fait1240-2-8-1,,fait1240-2,8,sows,sows,,,Daniels2014Item328,,false,,,p.45
@@ -8857,6 +9029,21 @@ gebe1237-1-100-1,,gebe1237-1,100,oetinsa,oetinsa,,,Stokhof1987Vol11,,false,,,pp.
 gebe1237-1-200-1,,gebe1237-1,200,oetinloe,oetinloe,,,Stokhof1987Vol11,,false,,,pp.161-162
 gebe1237-1-1000-1,,gebe1237-1,1000,tjalansa,tjalansa,,,Stokhof1987Vol11,,false,,,pp.161-162
 gebe1237-1-10000-1,,gebe1237-1,10000,tjalane wotsa,tjalane wotsa,,,Stokhof1987Vol11,,false,,,pp.161-162
+gebe1237-2-1-1,,gebe1237-2,1,pisa,pisa,,,Grace1955pdf50,,false,,,p.143
+gebe1237-2-2-1,,gebe1237-2,2,piˈlu·,piˈlu·,,,Grace1955pdf50,,false,,,p.143
+gebe1237-2-3-1,,gebe1237-2,3,piˈtol,piˈtol,,,Grace1955pdf50,,false,,,p.143
+gebe1237-2-4-1,,gebe1237-2,4,piˈfat,piˈfat,,,Grace1955pdf50,,false,,,p.143
+gebe1237-2-5-1,,gebe1237-2,5,piˈlim,piˈlim,,,Grace1955pdf50,,false,,,p.143
+gebe1237-2-6-1,,gebe1237-2,6,piwɔˈnɔm,piwɔˈnɔm,,,Grace1955pdf50,,false,,,p.143
+gebe1237-2-7-1,,gebe1237-2,7,piˈfit,piˈfit,,,Grace1955pdf50,,false,,,p.143
+gebe1237-2-8-1,,gebe1237-2,8,piˈwal,piˈwal,,,Grace1955pdf50,,false,,,p.143
+gebe1237-2-9-1,,gebe1237-2,9,piˈsiˈu,piˈsiˈu,,,Grace1955pdf50,,false,,,p.143
+gebe1237-2-10-1,,gebe1237-2,10,ˈwɔca,ˈwɔca,,,Grace1955pdf50,,false,,,p.143
+gebe1237-2-11-1,,gebe1237-2,11,ˈwɔca ri pisa,ˈwɔca ri pisa,,,Grace1955pdf50,,false,,,p.143
+gebe1237-2-20-1,,gebe1237-2,20,afalu·,afalu·,,,Grace1955pdf50,,false,,,p.143
+gebe1237-2-30-1,,gebe1237-2,30,afatol,afatol,,etc.,Grace1955pdf50,,false,,,p.143
+gebe1237-2-70-1,,gebe1237-2,70,affit,affit,,etc.,Grace1955pdf50,,false,,,p.143
+gebe1237-2-100-1,,gebe1237-2,100,uˈtinsa,uˈtinsa,,,Grace1955pdf50,,false,,,p.143
 geda1237-1-1-1,,geda1237-1,1,dāĭmŏn,dāĭmŏn,,,Ray1919,,false,,,p.328
 geda1237-1-2-1,,geda1237-1,2,ăsu,ăsu,,,Ray1919,,false,,,p.328
 geda1237-1-3-1,,geda1237-1,3,tŏl,tŏl,,,Ray1919,,false,,,p.328
@@ -8990,6 +9177,16 @@ gese1240-2-100-1,,gese1240-2,100,ràtjà,ràtjà,,,Stokhof1982Vol3.3,,false,,,pp
 gese1240-2-1000-1,,gese1240-2,1000,rīoemsa,rīoemsa,,,Stokhof1982Vol3.3,,false,,,pp.68-69
 gese1240-2-10000-1,,gese1240-2,10000,rīoem-oetjà,rīoem-oetjà,,,Stokhof1982Vol3.3,,false,,,pp.68-69
 gese1240-2-10000-2,,gese1240-2,10000,sàlàk-sa,sàlàk-sa,,,Stokhof1982Vol3.3,,false,,,pp.68-69
+gese1240-3-1-1,,gese1240-3,1,sa,sa,,,Grace1956pdf39,,false,,,p.5 [of pdf]
+gese1240-3-2-1,,gese1240-3,2,roti,roti,,,Grace1956pdf39,,false,,,p.5 [of pdf]
+gese1240-3-3-1,,gese1240-3,3,toloe,toloe,,,Grace1956pdf39,,false,,,p.5 [of pdf]
+gese1240-3-4-1,,gese1240-3,4,fat,fat,,,Grace1956pdf39,,false,,,p.5 [of pdf]
+gese1240-3-5-1,,gese1240-3,5,lim,lim,,,Grace1956pdf39,,false,,,p.5 [of pdf]
+gese1240-3-6-1,,gese1240-3,6,onan,onan,,,Grace1956pdf39,,false,,,p.5 [of pdf]
+gese1240-3-7-1,,gese1240-3,7,fitoe,fitoe,,,Grace1956pdf39,,false,,,p.5 [of pdf]
+gese1240-3-8-1,,gese1240-3,8,aloe,aloe,,,Grace1956pdf39,,false,,,p.5 [of pdf]
+gese1240-3-9-1,,gese1240-3,9,sia,sia,,,Grace1956pdf39,,false,,,p.5 [of pdf]
+gese1240-3-10-1,,gese1240-3,10,oetja,oetja,,,Grace1956pdf39,,false,,,p.5 [of pdf]
 ghay1237-1-1-1,,ghay1237-1,1,sago,sago,,,Lean1986Vol06,,false,,,p.37
 ghay1237-1-1-2,,ghay1237-1,1,(saukava),(saukava),,,Lean1986Vol06,,false,,,p.37
 ghay1237-1-2-1,,ghay1237-1,2,rua,rua,,,Lean1986Vol06,,false,,,p.37
@@ -9983,6 +10180,19 @@ hunj1241-3-5-1,,hunj1241-3,5,ikere ufo tapa,ikere ufo tapa,,,Lean1985Vol05,,fals
 hunj1241-3-10-1,,hunj1241-3,10,ikere esoso,ikere esoso,,‘hands two’,Lean1985Vol05,,false,,,p.28
 hunj1241-3-15-1,,hunj1241-3,15,ikere esoso uto ufo,ikere esoso uto ufo,,‘hands two feet half (way?)’,Lean1985Vol05,,false,,,p.28
 hunj1241-3-20-1,,hunj1241-3,20,ikere esoso uto esoso,ikere esoso uto esoso,,‘hands two feet two’,Lean1985Vol05,,false,,,p.28
+iaai1238-1-1-1,,iaai1238-1,1,xača,xača,,,Grace1955pdfMisc,,false,,,p.17 [of pdf]
+iaai1238-1-2-1,,iaai1238-1,2,lo,lo,,,Grace1955pdfMisc,,false,,,p.17 [of pdf]
+iaai1238-1-3-1,,iaai1238-1,3,kun,kun,,,Grace1955pdfMisc,,false,,,p.17 [of pdf]
+iaai1238-1-4-1,,iaai1238-1,4,üˈak,üˈak,,,Grace1955pdfMisc,,false,,,p.17 [of pdf]
+iaai1238-1-5-1,,iaai1238-1,5,θa büŋ,θa büŋ,,,Grace1955pdfMisc,,false,,,p.17 [of pdf]
+iaai1238-1-6-1,,iaai1238-1,6,nua xača,nua xača,,,Grace1955pdfMisc,,false,,,p.17 [of pdf]
+iaai1238-1-7-1,,iaai1238-1,7,nua la,nua la,,,Grace1955pdfMisc,,false,,,p.17 [of pdf]
+iaai1238-1-10-1,,iaai1238-1,10,ba lo,ba lo,,,Grace1955pdfMisc,,false,,,p.17 [of pdf]
+iaai1238-1-15-1,,iaai1238-1,15,ba kun,ba kun,,?,Grace1955pdfMisc,,false,,,p.17 [of pdf]
+iaai1238-1-20-1,,iaai1238-1,20,ba üak,ba üak,,?,Grace1955pdfMisc,,false,,,p.17 [of pdf]
+iaai1238-1-25-1,,iaai1238-1,25,ba θa büŋ,ba θa büŋ,,?,Grace1955pdfMisc,,false,,,p.17 [of pdf]
+iaai1238-1-25-2,,iaai1238-1,25,ba ñim,ba ñim,,?,Grace1955pdfMisc,,false,,,p.17 [of pdf]
+iaai1238-1-20-2,,iaai1238-1,20,xača at,xača at,,,Grace1955pdfMisc,,false,,,p.17 [of pdf]
 iama1237-1-1-1,,iama1237-1,1,tamogana,tamogana,,,Lean1986Vol06,,false,,,p.74
 iama1237-1-2-1,,iama1237-1,2,ailuga,ailuga,,,Lean1986Vol06,,false,,,p.74
 iama1237-1-3-1,,iama1237-1,3,aiton,aiton,,,Lean1986Vol06,,false,,,p.74
@@ -10212,6 +10422,13 @@ ihaa1241-2-11-1,,ihaa1241-2,11,hĕrekpárá-hĕrewó,hĕrekpárá-hĕrewó,,,Gal
 ihaa1241-2-20-1,,ihaa1241-2,20,tundi-djowó,tundi-djowó,,,Galis1955,,false,,,p.134
 ihaa1241-2-30-1,,ihaa1241-2,30,tundi-djowó párá,tundi-djowó párá,,,Galis1955,,false,,,p.134
 ihaa1241-2-40-1,,ihaa1241-2,40,tundi-djari(k),tundi-djari(k),,,Galis1955,,false,,,p.134
+ihaa1241-3-1-1,,ihaa1241-3,1,həˈrewo,həˈrewo,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+ihaa1241-3-2-1,,ihaa1241-3,2,həˈreˈrik,həˈreˈrik,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+ihaa1241-3-3-1,,ihaa1241-3,3,həˈreˈteri,həˈreˈteri,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+ihaa1241-3-4-1,,ihaa1241-3,4,heriŋˈgara,heriŋˈgara,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+ihaa1241-3-5-1,,ihaa1241-3,5,(heˈre) təmˈbu,(heˈre) təmˈbu,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+ihaa1241-3-6-1,,ihaa1241-3,6,tumbu heˈrewo,tumbu heˈrewo,,etc.,Grace1955pdf50,,false,,,p.55 [of pdf]
+ihaa1241-3-10-1,,ihaa1241-3,10,pəˈra,pəˈra,,,Grace1955pdf50,,false,,,p.55 [of pdf]
 ikob1240-1-1-1,,ikob1240-1,1,sán,sán,,,Bullock2015,,false,,,p.47
 ikob1240-1-2-1,,ikob1240-1,2,hã̂ẽ,hã̂ẽ,,,Bullock2015,,false,,,p.47
 ikob1240-1-3-1,,ikob1240-1,3,sîr,sîr,,,Bullock2015,,false,,,p.47
@@ -10508,6 +10725,33 @@ irar1238-1-20-1,,irar1238-1,20,matutĕni,matutĕni,,,Galis1955,,false,,,p.135
 irar1238-1-30-1,,irar1238-1,30,matutĕni-resi-frádĕru,matutĕni-resi-frádĕru,,,Galis1955,,false,,,p.135
 irar1238-1-40-1,,irar1238-1,40,matutĕni-ru,matutĕni-ru,,,Galis1955,,false,,,p.135
 irar1238-1-40-2,,irar1238-1,40,matutĕni-rifò,matutĕni-rifò,,,Galis1955,,false,,,p.135
+irar1238-2-1-1,,irar1238-2,1,ˈeso,ˈeso,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-2-1,,irar1238-2,2,riˈfo,riˈfo,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-3-1,,irar1238-2,3,torə,torə,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-4-1,,irar1238-2,4,ˈgegiˈte,ˈgegiˈte,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-5-1,,irar1238-2,5,refide,refide,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-5-2,,irar1238-2,5,fradfide,fradfide,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-6-1,,irar1238-2,6,təˈreso,təˈreso,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-7-1,,irar1238-2,7,təˈreru,təˈreru,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-8-1,,irar1238-2,8,təˈretorə,təˈretorə,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-9-1,,irar1238-2,9,təˈregite,təˈregite,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-10-1,,irar1238-2,10,fradru,fradru,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-11-1,,irar1238-2,11,fradru risieso,fradru risieso,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-20-1,,irar1238-2,20,matutəni,matutəni,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-30-1,,irar1238-2,30,matutəni risifradru,matutəni risifradru,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-40-1,,irar1238-2,40,matutəni rifo,matutəni rifo,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-50-1,,irar1238-2,50,matutəni rifo risifradru,matutəni rifo risifradru,,etc.,Grace1955pdf50,,false,,,pp.97-98
+irar1238-2-100-1,,irar1238-2,100,matutəni fradəfide,matutəni fradəfide,,,Grace1955pdf50,,false,,,pp.97-98
+irar1238-3-1-1,,irar1238-3,1,ˈeso,ˈeso,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+irar1238-3-2-1,,irar1238-3,2,riˈɸo,riˈɸo,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+irar1238-3-3-1,,irar1238-3,3,torə,torə,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+irar1238-3-4-1,,irar1238-3,4,gegiˈte,gegiˈte,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+irar1238-3-5-1,,irar1238-3,5,fradfide,fradfide,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+irar1238-3-6-1,,irar1238-3,6,tre·so,tre·so,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+irar1238-3-7-1,,irar1238-3,7,tre·ru,tre·ru,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+irar1238-3-8-1,,irar1238-3,8,treˈtorɔ,treˈtorɔ,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+irar1238-3-9-1,,irar1238-3,9,tre·gite,tre·gite,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+irar1238-3-10-1,,irar1238-3,10,fradru,fradru,,,Grace1955pdf50,,false,,,p.55 [of pdf]
 ires1239-1-1-1,,ires1239-1,1,keta,keta,,,Stokhof1987Vol11,,false,,,p.250
 ires1239-1-2-1,,ires1239-1,2,roehi,roehi,,,Stokhof1987Vol11,,false,,,p.250
 ires1239-1-3-1,,ires1239-1,3,korihe,korihe,,,Stokhof1987Vol11,,false,,,p.250
@@ -10774,8 +11018,8 @@ jair1235-1-10-1,,jair1235-1,10,ˈbrakumu brakum,ˈbrakumu brakum,,,Lebold2013,,f
 jaku1244-1-1-1,,jaku1244-1,1,satu,satu,,,Noone1939,,false,,,pp.147-149
 jaku1244-1-2-1,,jaku1244-1,2,dua,dua,,,Noone1939,,false,,,pp.147-149
 jaku1244-1-3-1,,jaku1244-1,3,tiga,tiga,,,Noone1939,,false,,,pp.147-149
-jili1241-1-1-1,,jili1241-1,1,ɡɪˈdɑi,ɡɪˈdɑi,,(ɡid [in Z'graggen 1980:92]),Daniels2014Item584,,false,,,p.48
-jili1241-1-2-1,,jili1241-1,2,lil,lil,,(lil [in Z'graggen 1980:92]),Daniels2014Item584,,false,,,p.48
+jili1241-1-1-1,,jili1241-1,1,ɡɪˈdɑi,ɡɪˈdɑi,,(ɡid [in Z’graggen 1980:92]),Daniels2014Item584,,false,,,p.48
+jili1241-1-2-1,,jili1241-1,2,lil,lil,,(lil [in Z’graggen 1980:92]),Daniels2014Item584,,false,,,p.48
 jili1241-1-3-1,,jili1241-1,3,qɑˈlub,qɑˈlub,,[first vowel is marked as “longish”],Daniels2014Item584,,false,,,p.48
 jili1241-1-4-1,,jili1241-1,4,lil lil ,lil lil ,,,Daniels2014Item584,,false,,,p.48
 jili1241-1-5-1,,jili1241-1,5,lil lil ɡɪdɑi,lil lil ɡɪdɑi,,,Daniels2014Item584,,false,,,p.48
@@ -10957,6 +11201,20 @@ kair1263-4-3-1,,kair1263-4,3,tul,tul,,,LeanEastSepik,,false,,,p.34
 kair1263-4-4-1,,kair1263-4,4,viat,viat,,,LeanEastSepik,,false,,,p.34
 kair1263-4-5-1,,kair1263-4,5,vulari,vulari,,The Kairiru word for ‘hand-his’ is ‘koweng’ (‘hand-my’ is ‘kowiek’) and this does not appear in the numerals 1 to 10.,LeanEastSepik,,false,,,p.34
 kair1263-4-10-1,,kair1263-4,10,kolem,kolem,,The numeral 10 ... is a distinct word and does not have a ‘5 + 5’ construction,LeanEastSepik,,false,,,p.34
+kair1263-5-1-1,,kair1263-5,1,tae̯,tae̯,,,Grace1955pdf42,,false,,,p.37
+kair1263-5-2-1,,kair1263-5,2,ru,ru,,,Grace1955pdf42,,false,,,p.37
+kair1263-5-3-1,,kair1263-5,3,to·l,to·l,,,Grace1955pdf42,,false,,,p.37
+kair1263-5-4-1,,kair1263-5,4,veat,veat,,,Grace1955pdf42,,false,,,p.37
+kair1263-5-5-1,,kair1263-5,5,lim,lim,,,Grace1955pdf42,,false,,,p.37
+kair1263-5-5-2,,kair1263-5,5,vulɛri·,vulɛri·,,,Grace1955pdf42,,false,,,p.37
+kair1263-5-6-1,,kair1263-5,6,limaŋeŋ,limaŋeŋ,,,Grace1955pdf42,,false,,,p.37
+kair1263-5-7-1,,kair1263-5,7,maŋaru,maŋaru,,,Grace1955pdf42,,false,,,p.37
+kair1263-5-8-1,,kair1263-5,8,maŋarito·l,maŋarito·l,,,Grace1955pdf42,,false,,,p.37
+kair1263-5-9-1,,kair1263-5,9,maŋariveat,maŋariveat,,,Grace1955pdf42,,false,,,p.37
+kair1263-5-10-1,,kair1263-5,10,koleam,koleam,,,Grace1955pdf42,,false,,,p.37
+kair1263-5-11-1,,kair1263-5,11,koleam tae̯,koleam tae̯,,,Grace1955pdf42,,false,,,p.37
+kair1263-5-20-1,,kair1263-5,20,kolemuru,kolemuru,, ,Grace1955pdf42,,false,,,p.37
+kair1263-5-30-1,,kair1263-5,30,kolemuto·l,kolemuto·l,,etc.,Grace1955pdf42,,false,,,p.37
 kais1235-1-1-1,,kais1235-1,1,ónátè,ónátè,,,Galis1955,,false,,,p.137
 kais1235-1-2-1,,kais1235-1,2,ugè,ugè,,,Galis1955,,false,,,p.137
 kais1235-1-3-1,,kais1235-1,3,ugèsóná,ugèsóná,,,Galis1955,,false,,,p.137
@@ -11315,6 +11573,24 @@ kamb1299-1-60-1,,kamb1299-1,60,Nōmoe kěmboeloe,Nōmoe kěmboeloe,,,Stokhof1983
 kamb1299-1-100-1,,kamb1299-1,100,Hèngasoe,Hèngasoe,,,Stokhof1983Vol6,,false,,,pp.152-153
 kamb1299-1-1000-1,,kamb1299-1,1000,Sěrīwoe,Sěrīwoe,,,Stokhof1983Vol6,,false,,,pp.152-153
 kamb1299-1-10000-1,,kamb1299-1,10000,Hārātā,Hārātā,,,Stokhof1983Vol6,,false,,,pp.152-153
+kamb1302-1-1-1,,kamb1302-1,1,a·sidava,a·sidava,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-1-2-1,,kamb1302-1,2,aboma,aboma,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-1-3-1,,kamb1302-1,3,abomdava,abomdava,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-1-4-1,,kamb1302-1,4,benemesidava,benemesidava,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-1-5-1,,kamb1302-1,5,maiba,maiba,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-1-6-1,,kamb1302-1,6,mai kekera asidava,mai kekera asidava,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-1-7-1,,kamb1302-1,7,mai kekera aboma,mai kekera aboma,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-1-8-1,,kamb1302-1,8,kai kekera abomdava,kai kekera abomdava,,etc.,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-1-10-1,,kamb1302-1,10,manaboma,manaboma,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-2-1-1,,kamb1302-2,1,a·bana,a·bana,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-2-2-1,,kamb1302-2,2,a·boma,a·boma,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-2-3-1,,kamb1302-2,3,a·bomdava,a·bomdava,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-2-4-1,,kamb1302-2,4,bemenˈsidava,bemenˈsidava,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-2-5-1,,kamb1302-2,5,mai ba,mai ba,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-2-6-1,,kamb1302-2,6,mai berabana,mai berabana,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-2-7-1,,kamb1302-2,7,mai beraboma,mai beraboma,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-2-8-1,,kamb1302-2,8,mai berabomdava,mai berabomdava,,etc.,Grace1955pdf50,,false,,,p.55 [of pdf]
+kamb1302-2-10-1,,kamb1302-2,10,manaboma,manaboma,,,Grace1955pdf50,,false,,,p.55 [of pdf]
 kamo1255-1-1-1,,kamo1255-1,1,janăūwă,janăūwă,,,Ray1912,,false,,,pp.340-341
 kamo1255-1-2-1,,kamo1255-1,2,jăminatia,jăminatia,,,Ray1912,,false,,,pp.340-341
 kamo1255-1-3-1,,kamo1255-1,3,jaminati-janăūwă,jaminati-janăūwă,,,Ray1912,,false,,,pp.340-341
@@ -12040,6 +12316,24 @@ kawe1240-2-9-1,,kawe1240-2,9,si,si,,,Smits1992,,false,,,pp.146-166
 kawe1240-2-10-1,,kawe1240-2,10,lafa,lafa,,,Smits1992,,false,,,pp.146-166
 kawe1240-2-20-1,,kawe1240-2,20,lafa-lu,lafa-lu,,,Smits1992,,false,,,pp.146-166
 kawe1240-2-100-1,,kawe1240-2,100,utunaga,utunaga,,,Smits1992,,false,,,pp.146-166
+kawe1240-3-1-1,,kawe1240-3,1,sa,sa,,for counting,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-1-2,,kawe1240-3,1,aˈtɛm,aˈtɛm,,in answer to question “how many?”,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-2-1,,kawe1240-3,2,lu,lu,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-3-1,,kawe1240-3,3,tol,tol,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-4-1,,kawe1240-3,4,fat,fat,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-5-1,,kawe1240-3,5,lim,lim,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-6-1,,kawe1240-3,6,wɔˈnɔm,wɔˈnɔm,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-7-1,,kawe1240-3,7,fit,fit,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-8-1,,kawe1240-3,8,wal,wal,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-9-1,,kawe1240-3,9,si,si,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-10-1,,kawe1240-3,10,ˈlafa,ˈlafa,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-11-1,,kawe1240-3,11,lafme ˈatɛm,lafme ˈatɛm,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-11-2,,kawe1240-3,11,lafmɛ ˈsa,lafmɛ ˈsa,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-20-1,,kawe1240-3,20,lafaˈlu,lafaˈlu,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-30-1,,kawe1240-3,30,lafˈtol,lafˈtol,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-100-1,,kawe1240-3,100,wuˈtun,wuˈtun,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-100-2,,kawe1240-3,100,utunaˈga,utunaˈga,,,Grace1956pdf33,,false,,,p.2 [of pdf]
+kawe1240-3-100-3,,kawe1240-3,100,utunakˈtɛm,utunakˈtɛm,,,Grace1956pdf33,,false,,,p.2 [of pdf]
 kawi1241-1-1-1,,kawi1241-1,1,tunggal,tunggal,,,Teselkin1972,,false,,,pp.40-41
 kawi1241-1-2-1,,kawi1241-1,2,rwa,rwa,,,Teselkin1972,,false,,,pp.40-41
 kawi1241-1-3-1,,kawi1241-1,3,tĕlu,tĕlu,,,Teselkin1972,,false,,,pp.40-41
@@ -12154,6 +12448,16 @@ kaye1241-2-60-1,,kaye1241-2,60,Bot-nē,Bot-nē,,,Stokhof1982Vol3.4,,false,,,p.87
 kaye1241-2-100-1,,kaye1241-2,100,Oetoen'ī,Oetoen'ī,,,Stokhof1982Vol3.4,,false,,,p.87
 kaye1241-2-1000-1,,kaye1241-2,1000,Làlàn'ī,Làlàn'ī,,,Stokhof1982Vol3.4,,false,,,p.87
 kaye1241-2-10000-1,,kaye1241-2,10000,Làlàn boto,Làlàn boto,,,Stokhof1982Vol3.4,,false,,,p.87
+kayu1243-1-1-1,,kayu1243-1,1,tai,tai,,,Grace1955pdf48,,false,,,p.19
+kayu1243-1-2-1,,kayu1243-1,2,roti,roti,,,Grace1955pdf48,,false,,,p.19
+kayu1243-1-3-1,,kayu1243-1,3,toru,toru,,,Grace1955pdf48,,false,,,p.19
+kayu1243-1-4-1,,kayu1243-1,4,au̯a,au̯a,,,Grace1955pdf48,,false,,,p.19
+kayu1243-1-5-1,,kayu1243-1,5,mənema,mənema,,,Grace1955pdf48,,false,,,p.19
+kayu1243-1-6-1,,kayu1243-1,6,marotima,marotima,,,Grace1955pdf48,,false,,,p.19
+kayu1243-1-7-1,,kayu1243-1,7,tamoɣoronerotima,tamoɣoronerotima,,,Grace1955pdf48,,false,,,p.19
+kayu1243-1-8-1,,kayu1243-1,8,ronerotesivi,ronerotesivi,,,Grace1955pdf48,,false,,,p.19
+kayu1243-1-9-1,,kayu1243-1,9,ronerotipərai̯a tai,ronerotipərai̯a tai,,,Grace1955pdf48,,false,,,p.19
+kayu1243-1-10-1,,kayu1243-1,10,ronerotipərai̯a rotima,ronerotipərai̯a rotima,,,Grace1955pdf48,,false,,,p.19
 keap1239-1-1-1,,keap1239-1,1,kwauna,kwauna,,,Lean1986Vol07,,false,,,p.74
 keap1239-1-2-1,,keap1239-1,2,roula,roula,,,Lean1986Vol07,,false,,,p.74
 keap1239-1-3-1,,keap1239-1,3,toitoi,toitoi,,,Lean1986Vol07,,false,,,p.74
@@ -12377,6 +12681,17 @@ kemb1235-2-7-1,,kemb1235-2,7,aro-tate,aro-tate,,,Galis1955,,false,,,p.135
 kemb1235-2-8-1,,kemb1235-2,8,wétate,wétate,,,Galis1955,,false,,,p.135
 kemb1235-2-9-1,,kemb1235-2,9,tabuti,tabuti,,,Galis1955,,false,,,p.135
 kemb1235-2-10-1,,kemb1235-2,10,towuti,towuti,,,Galis1955,,false,,,p.135
+kemb1235-3-1-1,,kemb1235-3,1,ˈnati,ˈnati,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kemb1235-3-2-1,,kemb1235-3,2,oxoˈjo,oxoˈjo,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kemb1235-3-3-1,,kemb1235-3,3,a·roe,a·roe,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kemb1235-3-4-1,,kemb1235-3,4,edɛte,edɛte,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kemb1235-3-5-1,,kemb1235-3,5,rare,rare,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kemb1235-3-6-1,,kemb1235-3,6,ˈgentiu,ˈgentiu,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kemb1235-3-7-1,,kemb1235-3,7,arotate,arotate,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kemb1235-3-7-2,,kemb1235-3,7,aroˈrare,aroˈrare,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kemb1235-3-8-1,,kemb1235-3,8,ouˈtate,ouˈtate,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kemb1235-3-9-1,,kemb1235-3,9,tapuˈti,tapuˈti,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kemb1235-3-10-1,,kemb1235-3,10,ˈtovuti,ˈtovuti,,,Grace1955pdf50,,false,,,p.55 [of pdf]
 kemb1249-1-1-1,,kemb1249-1,1,soeh,soeh,,,Stokhof1986Vol8,,false,,,p.138
 kemb1249-1-1-2,,kemb1249-1,1,(seuh),(seuh),,,Stokhof1986Vol8,,false,,,p.138
 kemb1249-1-2-1,,kemb1249-1,2,doeöh,doeöh,,,Stokhof1986Vol8,,false,,,p.138
@@ -12661,6 +12976,21 @@ kili1267-1-50-1,,kili1267-1,50,kweluwalima,kweluwalima,,"(Counting round objects
 kili1267-1-50-2,,kili1267-1,50,-luwalima,-luwalima,,(Numeral Roots),Lean1986Vol06,,false,,,p.89
 kili1267-1-100-1,,kili1267-1,100,lakatutala,lakatutala,,"(Counting round objects, e.g stones)",Lean1986Vol06,,false,,,p.89
 kili1267-1-100-2,,kili1267-1,100,lakatutala,lakatutala,,(Numeral Roots),Lean1986Vol06,,false,,,p.89
+kili1267-2-1-1,,kili1267-2,1,qaitala,qaitala,,(counting long objects),Grace1955pdf47,,false,,,p.128
+kili1267-2-2-1,,kili1267-2,2,qai̯u,qai̯u,,(counting long objects),Grace1955pdf47,,false,,,p.128
+kili1267-2-3-1,,kili1267-2,3,qaitolu,qaitolu,,(counting long objects),Grace1955pdf47,,false,,,p.128
+kili1267-2-4-1,,kili1267-2,4,qaivasi,qaivasi,,(counting long objects),Grace1955pdf47,,false,,,p.128
+kili1267-2-5-1,,kili1267-2,5,qailima,qailima,,(counting long objects),Grace1955pdf47,,false,,,p.128
+kili1267-2-6-1,,kili1267-2,6,qailimaqaitala,qailimaqaitala,,(counting long objects); etc.,Grace1955pdf47,,false,,,p.128
+kili1267-2-10-1,,kili1267-2,10,qailuwatala,qailuwatala,,(counting long objects),Grace1955pdf47,,false,,,p.128
+kili1267-2-1-2,,kili1267-2,1,kʷaitala,kʷaitala,,"(round objects, incl. money)",Grace1955pdf47,,false,,,p.128
+kili1267-2-2-2,,kili1267-2,2,kʷai̯u,kʷai̯u,,"(round objects, incl. money); etc.",Grace1955pdf47,,false,,,p.128
+kili1267-2-1-3,,kili1267-2,1,taitala,taitala,,(men); etc.,Grace1955pdf47,,false,,,p.128
+kili1267-2-1-4,,kili1267-2,1,natana,natana,,(women),Grace1955pdf47,,false,,,p.128
+kili1267-2-1-5,,kili1267-2,1,natala,natala,,(women),Grace1955pdf47,,false,,,p.128
+kili1267-2-2-3,,kili1267-2,2,nai̯u,nai̯u,,(women),Grace1955pdf47,,false,,,p.128
+kili1267-2-3-2,,kili1267-2,3,natolu,natolu,,(women),Grace1955pdf47,,false,,,p.128
+kili1267-2-3-3,,kili1267-2,3,natonu,natonu,,(women); etc.,Grace1955pdf47,,false,,,p.128
 kilm1241-1-1-1,,kilm1241-1,1,kəlɑkini,kəlɑkini,,,Laycock1970D03,,false,,,p.414
 kilm1241-1-2-1,,kilm1241-1,2,nəpwɑ,nəpwɑ,,,Laycock1970D03,,false,,,p.414
 kilm1241-1-3-1,,kilm1241-1,3,nəpwɑ ƀini,nəpwɑ ƀini,,,Laycock1970D03,,false,,,p.414
@@ -12928,6 +13258,11 @@ kolp1236-1-3-1,,kolp1236-1,3,tetepe 'kosup,tetepe 'kosup,,,Lean1985Vol04,,false,
 kolp1236-1-4-1,,kolp1236-1,4,ke'a so,ke'a so,,,Lean1985Vol04,,false,,,p.34
 kolp1236-1-5-1,,kolp1236-1,5,'a:meleng,'a:meleng,,,Lean1985Vol04,,false,,,p.34
 kolp1236-1-10-1,,kolp1236-1,10,melem'be:ga,melem'be:ga,,,Lean1985Vol04,,false,,,p.34
+kolp1236-2-1-1,,kolp1236-2,1,pusua,pusua,,,Grace1955pdf47,,false,,,p.119
+kolp1236-2-2-1,,kolp1236-2,2,tetepe,tetepe,,,Grace1955pdf47,,false,,,p.119
+kolp1236-2-3-1,,kolp1236-2,3,tetepe kusua,tetepe kusua,,,Grace1955pdf47,,false,,,p.119
+kolp1236-2-4-1,,kolp1236-2,4,keɔsoɛ,keɔsoɛ,,,Grace1955pdf47,,false,,,p.119
+kolp1236-2-5-1,,kolp1236-2,5,pimeleŋ,pimeleŋ,,,Grace1955pdf47,,false,,,p.119
 komb1272-1-1-1,,komb1272-1,1,lekek,lekek,,,LeanEastSepik,,false,,,p.1
 komb1272-1-2-1,,komb1272-1,2,wiye,wiye,,,LeanEastSepik,,false,,,p.1
 komb1272-1-3-1,,komb1272-1,3,wiya lekek,wiya lekek,,2 + 1,LeanEastSepik,,false,,,p.1
@@ -13430,6 +13765,26 @@ kowi1239-6-5-1,,kowi1239-6,5,rimi,rimi,,,Ray1912,,false,,,pp.340-341
 kowi1239-6-6-1,,kowi1239-6,6,rom-simoksi,rom-simoksi,,,Ray1912,,false,,,pp.340-341
 kowi1239-6-10-1,,kowi1239-6,10,putja,putja,,,Ray1912,,false,,,pp.340-341
 kowi1239-6-20-1,,kowi1239-6,20,sìúmput-rueiti,sìúmput-rueiti,,,Ray1912,,false,,,pp.340-341
+kowi1239-7-1-1,,kowi1239-7,1,səˈmos,səˈmos,,,Grace1956pdf26,,false,,,p.8 [of pdf]
+kowi1239-7-2-1,,kowi1239-7,2,ruˈet,ruˈet,,,Grace1956pdf26,,false,,,p.8 [of pdf]
+kowi1239-7-3-1,,kowi1239-7,3,tor,tor,,,Grace1956pdf26,,false,,,p.8 [of pdf]
+kowi1239-7-4-1,,kowi1239-7,4,fa·t,fa·t,,,Grace1956pdf26,,false,,,p.8 [of pdf]
+kowi1239-7-5-1,,kowi1239-7,5,rim,rim,,,Grace1956pdf26,,false,,,p.8 [of pdf]
+kowi1239-7-6-1,,kowi1239-7,6,rim səˈmos,rim səˈmos,,,Grace1956pdf26,,false,,,p.8 [of pdf]
+kowi1239-7-7-1,,kowi1239-7,7,rim ruˈet,rim ruˈet,,,Grace1956pdf26,,false,,,p.8 [of pdf]
+kowi1239-7-8-1,,kowi1239-7,8,rim tor,rim tor,,,Grace1956pdf26,,false,,,p.8 [of pdf]
+kowi1239-7-9-1,,kowi1239-7,9,rim fat,rim fat,,,Grace1956pdf26,,false,,,p.8 [of pdf]
+kowi1239-7-10-1,,kowi1239-7,10,ˈfuce,ˈfuce,,,Grace1956pdf26,,false,,,p.8 [of pdf]
+kowi1239-7-11-1,,kowi1239-7,11,ˈfuce ˈrisi səˈmos,ˈfuce ˈrisi səˈmos,,,Grace1956pdf26,,false,,,p.8 [of pdf]
+kowi1239-7-20-1,,kowi1239-7,20,temarimuˈet,temarimuˈet,,,Grace1956pdf26,,false,,,p.8 [of pdf]
+kowi1239-7-30-1,,kowi1239-7,30,temarimtor,temarimtor,,,Grace1956pdf26,,false,,,p.8 [of pdf]
+kowi1239-8-1-1,,kowi1239-8,1,isimu·s,isimu·s,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kowi1239-8-2-1,,kowi1239-8,2,ruwe·t,ruwe·t,,[<w> written above caret],Grace1955pdf50,,false,,,p.55 [of pdf]
+kowi1239-8-3-1,,kowi1239-8,3,to·r,to·r,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kowi1239-8-4-1,,kowi1239-8,4,fa·t,fa·t,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kowi1239-8-5-1,,kowi1239-8,5,rim,rim,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kowi1239-8-6-1,,kowi1239-8,6,rim simu·s,rim simu·s,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+kowi1239-8-10-1,,kowi1239-8,10,seˈʔumbusa,seˈʔumbusa,,,Grace1955pdf50,,false,,,p.55 [of pdf]
 kris1246-1-1-1,,kris1246-1,1,kaipa,kaipa,,,Donohue2004Isaka,,false,,,p.113
 kris1246-1-2-1,,kris1246-1,2,sie,sie,,,Donohue2004Isaka,,false,,,p.113
 kris1246-1-3-1,,kris1246-1,3,sie kaipa,sie kaipa,,,Donohue2004Isaka,,false,,,p.113
@@ -13831,6 +14186,11 @@ kuri1260-1-10-1,,kuri1260-1,10,bráderu,bráderu,,,Galis1955,,false,,,p.135
 kuri1260-1-11-1,,kuri1260-1,11,bráderu-n-eso,bráderu-n-eso,,,Galis1955,,false,,,p.135
 kuri1260-1-30-1,,kuri1260-1,30,matut-bráderu,matut-bráderu,,,Galis1955,,false,,,p.135
 kuri1260-1-40-1,,kuri1260-1,40,matutĕni-ru,matutĕni-ru,,,Galis1955,,false,,,p.135
+kuri1260-2-1-1,,kuri1260-2,1,ˈeso,ˈeso,,,Grace1956pdf29,,false,,,p.2 [of pdf]
+kuri1260-2-2-1,,kuri1260-2,2,ru,ru,,,Grace1956pdf29,,false,,,p.2 [of pdf]
+kuri1260-2-3-1,,kuri1260-2,3,tor,tor,,,Grace1956pdf29,,false,,,p.2 [of pdf]
+kuri1260-2-4-1,,kuri1260-2,4,ˈgegiˈte,ˈgegiˈte,,,Grace1956pdf29,,false,,,p.2 [of pdf]
+kuri1260-2-5-1,,kuri1260-2,5,fradəvid,fradəvid,,,Grace1956pdf29,,false,,,p.2 [of pdf]
 kurr1245-1-1-1,,kurr1245-1,1,kele,kele,,,Ribbe1903,,false,,,pp.209-212
 kurr1245-1-2-1,,kurr1245-1,2,rua,rua,,,Ribbe1903,,false,,,pp.209-212
 kurr1245-1-3-1,,kurr1245-1,3,täl,täl,,,Ribbe1903,,false,,,pp.209-212
@@ -13900,6 +14260,12 @@ kurt1250-2-700-1,,kurt1250-2,700,drotulŋet ,drotulŋet ,,,Blust2021,,false,,,
 kurt1250-2-800-1,,kurt1250-2,800,droruŋet ,droruŋet ,,,Blust2021,,false,,,"pp.25, 30, 31, 32, 37"
 kurt1250-2-900-1,,kurt1250-2,900,ansaŋat ,ansaŋat ,,,Blust2021,,false,,,"pp.25, 30, 31, 32, 37"
 kurt1250-2-1000-1,,kurt1250-2,1000,sede ,sede ,,,Blust2021,,false,,,"pp.25, 30, 31, 32, 37"
+kuru1305-1-1-1,,kuru1305-1,1,boˈsandi,boˈsandi,,From Anceaux [written at the top of the page],Grace1956pdf38,,false,,,p.6 [of pdf]
+kuru1305-1-2-1,,kuru1305-1,2,boru,boru,,,Grace1956pdf38,,false,,,p.6 [of pdf]
+kuru1305-1-3-1,,kuru1305-1,3,boˈtoru,boˈtoru,,,Grace1956pdf38,,false,,,p.6 [of pdf]
+kuru1305-1-4-1,,kuru1305-1,4,boˈat,boˈat,,,Grace1956pdf38,,false,,,p.6 [of pdf]
+kuru1305-1-5-1,,kuru1305-1,5,bowɛrim,bowɛrim,,,Grace1956pdf38,,false,,,p.6 [of pdf]
+kuru1305-1-6-1,,kuru1305-1,6,bowɛrim rɛboˈsandi,bowɛrim rɛboˈsandi,,,Grace1956pdf38,,false,,,p.6 [of pdf]
 kwan1278-1-1-1,,kwan1278-1,1,nɑmdɑ,nɑmdɑ,,,Laycock1970D06,,false,,,p.744
 kwan1278-1-2-1,,kwan1278-1,2,friš,friš,,,Laycock1970D06,,false,,,p.744
 kwan1278-1-3-1,,kwan1278-1,3,nɑmul,nɑmul,,,Laycock1970D06,,false,,,p.744
@@ -15388,6 +15754,18 @@ lote1237-1-15-1,,lote1237-1,15,soke lime,soke lime,,,LeanEastNewBritain,,false,,
 lote1237-1-16-1,,lote1237-1,16,lotele ke ele,lotele ke ele,,,LeanEastNewBritain,,false,,,p.31
 lote1237-1-19-1,,lote1237-1,19,lotele ke henel,lotele ke henel,,,LeanEastNewBritain,,false,,,p.31
 lote1237-1-20-1,,lote1237-1,20,ana non kina (ele),ana non kina (ele),,,LeanEastNewBritain,,false,,,p.31
+lote1237-2-1-1,,lote1237-2,1,ɛl·ɛ,ɛl·ɛ,,,Grace1955pdf44,,false,,,p.96
+lote1237-2-2-1,,lote1237-2,2,nae̯,nae̯,,,Grace1955pdf44,,false,,,p.96
+lote1237-2-3-1,,lote1237-2,3,mol,mol,,,Grace1955pdf44,,false,,,p.96
+lote1237-2-4-1,,lote1237-2,4,hɛnɛl,hɛnɛl,,,Grace1955pdf44,,false,,,p.96
+lote1237-2-5-1,,lote1237-2,5,limɛ,limɛ,,,Grace1955pdf44,,false,,,p.96
+lote1237-2-6-1,,lote1237-2,6,ratɛle,ratɛle,,,Grace1955pdf44,,false,,,p.96
+lote1237-2-7-1,,lote1237-2,7,tɛlenae̯,tɛlenae̯,,,Grace1955pdf44,,false,,,p.96
+lote1237-2-8-1,,lote1237-2,8,tɛlemol,tɛlemol,,,Grace1955pdf44,,false,,,p.96
+lote1237-2-9-1,,lote1237-2,9,tɛlehɛnɛl,tɛlehɛnɛl,,,Grace1955pdf44,,false,,,p.96
+lote1237-2-10-1,,lote1237-2,10,analɔx,analɔx,,,Grace1955pdf44,,false,,,p.96
+lote1237-2-11-1,,lote1237-2,11,sioŋapɛ,sioŋapɛ,,,Grace1955pdf44,,false,,,p.96
+lote1237-2-20-1,,lote1237-2,20,ananɔn kina ɛl·ɛ,ananɔn kina ɛl·ɛ,,,Grace1955pdf44,,false,,,p.96
 lotu1250-1-1-1,,lotu1250-1,1,isoʔ,isoʔ,,,Lobel2016,,false,,,pp.234-239
 lotu1250-1-2-1,,lotu1250-1,2,duo,duo,,,Lobel2016,,false,,,pp.234-239
 lotu1250-1-3-1,,lotu1250-1,3,tolu,tolu,,,Lobel2016,,false,,,pp.234-239
@@ -16165,6 +16543,12 @@ makl1246-3-3-1,,makl1246-3,3,mʉɟem,mʉɟem,,clearly underived,Gregor2021,,fals
 makl1246-3-4-1,,makl1246-3,4,inage inage,inage inage,,reduplicates the numeral 2,Gregor2021,,false,,,p.27
 makl1246-3-5-1,,makl1246-3,5,bəlmepola,bəlmepola,,bəl ‘hand’ and mepola ‘one’,Gregor2021,,false,,,p.27
 makl1246-3-10-1,,makl1246-3,10,bəlŋuka bəlŋuka,bəlŋuka bəlŋuka,,a reduplicated form of a combination including the word for ‘hand’,Gregor2021,,false,,,p.27
+mako1250-1-1-1,,mako1250-1,1,ɑŋɡək,ɑŋɡək,,,Rosensteel1987,,false,,,"pp. 3, 8"
+mako1250-1-2-1,,mako1250-1,2,ɑundium,ɑundium,,,Rosensteel1987,,false,,,"pp. 3, 8"
+mako1250-1-3-1,,mako1250-1,3,biəmdəƀɑk,biəmdəƀɑk,,[cf. <iɑƀɑk> ‘that’],Rosensteel1987,,false,,,"pp. 3, 8"
+mako1250-1-4-1,,mako1250-1,4,ƀium dɑvium,ƀium dɑvium,,,Rosensteel1987,,false,,,"pp. 3, 8"
+mako1250-1-5-1,,mako1250-1,5,ƀɪm dɑ ƀɪm də ƀɑk,ƀɪm dɑ ƀɪm də ƀɑk,,[cf. <iɑƀɑk> ‘that’],Rosensteel1987,,false,,,"pp. 3, 8"
+mako1250-1-10-1,,mako1250-1,10,ɑᵘdəsiəm,ɑᵘdəsiəm,,,Rosensteel1987,,false,,,"pp. 3, 8"
 mala1479-1-1-1,,mala1479-1,1,aso,aso,,,Stokhof1987Vol10.1,,false,,,pp.98-99
 mala1479-1-1-2,,mala1479-1,1,satoe,satoe,,,Stokhof1987Vol10.1,,false,,,pp.98-99
 mala1479-1-1-3,,mala1479-1,1,tjiĕ',tjiĕ',,,Stokhof1987Vol10.1,,false,,,pp.98-99
@@ -16837,6 +17221,17 @@ male1289-2-200-1,,male1289-2,200,vuno lua,vuno lua,,,Lean1985Vol04,,false,,,p.97
 male1289-2-300-1,,male1289-2,300,vuno tol,vuno tol,,,Lean1985Vol04,,false,,,p.97
 male1289-2-1000-1,,male1289-2,1000,ringring,ringring,,,Lean1985Vol04,,false,,,p.97
 male1289-2-2000-1,,male1289-2,2000,ringring lua,ringring lua,,,Lean1985Vol04,,false,,,p.97
+male1289-3-1-1,,male1289-3,1,tea,tea,,,Grace1955pdf45,,false,,,p.5
+male1289-3-2-1,,male1289-3,2,lua,lua,,,Grace1955pdf45,,false,,,p.5
+male1289-3-3-1,,male1289-3,3,tol,tol,,,Grace1955pdf45,,false,,,p.5
+male1289-3-4-1,,male1289-3,4,paŋe,paŋe,,,Grace1955pdf45,,false,,,p.5
+male1289-3-5-1,,male1289-3,5,masa,masa,,,Grace1955pdf45,,false,,,p.5
+male1289-3-6-1,,male1289-3,6,masa metea,masa metea,,,Grace1955pdf45,,false,,,p.5
+male1289-3-7-1,,male1289-3,7,masa melua,masa melua,,(etc.),Grace1955pdf45,,false,,,p.5
+male1289-3-10-1,,male1289-3,10,saŋau̯l,saŋau̯l,,,Grace1955pdf45,,false,,,p.5
+male1289-3-11-1,,male1289-3,11,saŋau̯l metea,saŋau̯l metea,,,Grace1955pdf45,,false,,,p.5
+male1289-3-20-1,,male1289-3,20,saŋau̯l lua,saŋau̯l lua,,(etc.),Grace1955pdf45,,false,,,p.5
+male1289-3-100-1,,male1289-3,100,vuno,vuno,,,Grace1955pdf45,,false,,,p.5
 male1291-1-1-1,,male1291-1,1,gud’i,gud’i,,,Ray1919,,false,,,p.329
 male1291-1-3-1,,male1291-1,3,ġalub,ġalub,,,Ray1919,,false,,,p.329
 male1291-1-4-1,,male1291-1,4,ġoġole,ġoġole,,,Ray1919,,false,,,p.329
@@ -16976,6 +17371,22 @@ mamu1254-2-19-1,,mamu1254-2,19,tuing kelokae,tuing kelokae,,,LeanEastNewBritain,
 mamu1254-2-20-1,,mamu1254-2,20,kana kina,kana kina,,‘legs (feet) completed’,LeanEastNewBritain,,false,,,pp.29-30
 mamu1254-2-40-1,,mamu1254-2,40,kana kina lua,kana kina lua,,20 x 2,LeanEastNewBritain,,false,,,pp.29-30
 mamu1254-2-100-1,,mamu1254-2,100,kana ku,kana ku,,,LeanEastNewBritain,,false,,,pp.29-30
+mamu1254-3-1-1,,mamu1254-3,1,ke·na,ke·na,,,Grace1955pdf47,,false,,,p.115
+mamu1254-3-2-1,,mamu1254-3,2,lua,lua,,,Grace1955pdf47,,false,,,p.115
+mamu1254-3-3-1,,mamu1254-3,3,moloi,moloi,,,Grace1955pdf47,,false,,,p.115
+mamu1254-3-4-1,,mamu1254-3,4,tuŋ,tuŋ,,,Grace1955pdf47,,false,,,p.115
+mamu1254-3-5-1,,mamu1254-3,5,limanate·,limanate·,,,Grace1955pdf47,,false,,,p.115
+mamu1254-3-6-1,,mamu1254-3,6,ke·nakapala,ke·nakapala,,,Grace1955pdf47,,false,,,p.115
+mamu1254-3-7-1,,mamu1254-3,7,luakapala,luakapala,,,Grace1955pdf47,,false,,,p.115
+mamu1254-3-8-1,,mamu1254-3,8,molikapala,molikapala,,,Grace1955pdf47,,false,,,p.115
+mamu1254-3-9-1,,mamu1254-3,9,tuŋkapala,tuŋkapala,,,Grace1955pdf47,,false,,,p.115
+mamu1254-3-10-1,,mamu1254-3,10,taneŋelu,taneŋelu,,,Grace1955pdf47,,false,,,p.115
+mamu1254-3-11-1,,mamu1254-3,11,ke·na sioŋaepe·,ke·na sioŋaepe·,,,Grace1955pdf47,,false,,,p.115
+mamu1254-3-20-1,,mamu1254-3,20,kanakinalua,kanakinalua,,,Grace1955pdf47,,false,,,p.115
+mamu1254-3-30-1,,mamu1254-3,30,kanakinamoloi,kanakinamoloi,,,Grace1955pdf47,,false,,,p.115
+mamu1254-3-40-1,,mamu1254-3,40,kanakinatuŋ,kanakinatuŋ,,,Grace1955pdf47,,false,,,p.115
+mamu1254-3-50-1,,mamu1254-3,50,kanakinalimanate·,kanakinalimanate·,,(along here inft. gets doubtful),Grace1955pdf47,,false,,,p.115
+mamu1254-3-100-1,,mamu1254-3,100,kanakina taneŋelu,kanakina taneŋelu,,,Grace1955pdf47,,false,,,p.115
 mamu1255-1-1-1,,mamu1255-1,1,setto,setto,,,Stokhof1987Vol11,,false,,,pp.76-77
 mamu1255-1-2-1,,mamu1255-1,2,dedoea,dedoea,,,Stokhof1987Vol11,,false,,,pp.76-77
 mamu1255-1-3-1,,mamu1255-1,3,tetalloe,tetalloe,,,Stokhof1987Vol11,,false,,,pp.76-77
@@ -17332,6 +17743,16 @@ mane1266-3-3-1,,mane1266-3,3,samberbra,samberbra,,,Galis1955,,false,,,p.163
 mane1266-3-4-1,,mane1266-3,4,sam-sambra,sam-sambra,,,Galis1955,,false,,,p.163
 mane1266-3-5-1,,mane1266-3,5,awa,awa,,,Galis1955,,false,,,p.163
 mane1266-3-6-1,,mane1266-3,6,kanggra-manggena,kanggra-manggena,,,Galis1955,,false,,,p.163
+mang1403-1-1-1,,mang1403-1,1,omʷale,omʷale,,all front & back vowels quite high [written at the top of the page],Grace1955pdfSpirax,,false,,,p.10 [of pdf]
+mang1403-1-2-1,,mang1403-1,2,aini,aini,,,Grace1955pdfSpirax,,false,,,p.10 [of pdf]
+mang1403-1-3-1,,mang1403-1,3,me·,me·,,,Grace1955pdfSpirax,,false,,,p.10 [of pdf]
+mang1403-1-4-1,,mang1403-1,4,penɛl,penɛl,,,Grace1955pdfSpirax,,false,,,p.10 [of pdf]
+mang1403-1-5-1,,mang1403-1,5,lim,lim,,,Grace1955pdfSpirax,,false,,,p.10 [of pdf]
+mang1403-1-6-1,,mang1403-1,6,limae,limae,,,Grace1955pdfSpirax,,false,,,p.10 [of pdf]
+mang1403-1-7-1,,mang1403-1,7,limai,limai,,,Grace1955pdfSpirax,,false,,,p.10 [of pdf]
+mang1403-1-8-1,,mang1403-1,8,lime·,lime·,,,Grace1955pdfSpirax,,false,,,p.10 [of pdf]
+mang1403-1-9-1,,mang1403-1,9,limpenɛl,limpenɛl,,,Grace1955pdfSpirax,,false,,,p.10 [of pdf]
+mang1403-1-10-1,,mang1403-1,10,mu·le,mu·le,,,Grace1955pdfSpirax,,false,,,p.10 [of pdf]
 mang1404-1-1-1,,mang1404-1,1,ti,ti,,,Smith1988,,false,,,p.72
 mang1404-1-2-1,,mang1404-1,2,yuuh,yuuh,,,Smith1988,,false,,,p.72
 mang1404-1-3-1,,mang1404-1,3,yaar,yaar,,,Smith1988,,false,,,p.72
@@ -17730,6 +18151,16 @@ masi1265-1-3-1,,masi1265-1,3,tou,tou,,,Ray1912,,false,,,pp.340-341
 masi1265-1-4-1,,masi1265-1,4,fo,fo,,,Ray1912,,false,,,pp.340-341
 masi1265-1-5-1,,masi1265-1,5,rim,rim,,,Ray1912,,false,,,pp.340-341
 masi1265-1-10-1,,masi1265-1,10,sanafu,sanafu,,,Ray1912,,false,,,pp.340-341
+masi1265-2-1-1,,masi1265-2,1,ces,ces,,,Grace1955pdf49,,false,,,p.89
+masi1265-2-2-1,,masi1265-2,2,ru,ru,,,Grace1955pdf49,,false,,,p.89
+masi1265-2-3-1,,masi1265-2,3,tou̯r,tou̯r,,,Grace1955pdf49,,false,,,p.89
+masi1265-2-4-1,,masi1265-2,4,ruru,ruru,,,Grace1955pdf49,,false,,,p.89
+masi1265-2-5-1,,masi1265-2,5,rimak farfar run se,rimak farfar run se,,,Grace1955pdf49,,false,,,p.89
+masi1265-2-6-1,,masi1265-2,6,rimak farfar run se fareti ces,rimak farfar run se fareti ces,,,Grace1955pdf49,,false,,,p.89
+masi1265-2-7-1,,masi1265-2,7,rimak farfar run se fareti ru,rimak farfar run se fareti ru,,,Grace1955pdf49,,false,,,p.89
+masi1265-2-8-1,,masi1265-2,8,rimak farfar run se fareti tour,rimak farfar run se fareti tour,,,Grace1955pdf49,,false,,,p.89
+masi1265-2-9-1,,masi1265-2,9,rimak farfar run se fareti ruru,rimak farfar run se fareti ruru,,,Grace1955pdf49,,false,,,p.89
+masi1265-2-10-1,,masi1265-2,10,saˈnafur,saˈnafur,,,Grace1955pdf49,,false,,,p.89
 masi1266-1-1-1,,masi1266-1,1,sa,sa,,,Stokhof1982Vol3.3,,false,,,pp.26-27
 masi1266-1-1-2,,masi1266-1,1,ja,ja,,,Stokhof1982Vol3.3,,false,,,pp.26-27
 masi1266-1-1-3,,masi1266-1,1,a ain a,a ain a,,,Stokhof1982Vol3.3,,false,,,pp.26-27
@@ -17798,6 +18229,30 @@ matb1237-1-3-1,,matb1237-1,3,to³l,to³l,,,Remijsen2001,,false,,,"pp.140, 145"
 matb1237-1-4-1,,matb1237-1,4,fa³t,fa³t,,,Remijsen2001,,false,,,"pp.140, 145"
 matb1237-1-5-1,,matb1237-1,5,li³m,li³m,,,Remijsen2001,,false,,,"pp.140, 145"
 matb1237-1-6-1,,matb1237-1,6,no¹²m,no¹²m,,,Remijsen2001,,false,,,"pp.140, 145"
+matb1237-2-1-1,,matb1237-2,1,kte·m,kte·m,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+matb1237-2-2-1,,matb1237-2,2,lu,lu,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+matb1237-2-3-1,,matb1237-2,3,tol,tol,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+matb1237-2-4-1,,matb1237-2,4,pat,pat,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+matb1237-2-5-1,,matb1237-2,5,lim,lim,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+matb1237-2-6-1,,matb1237-2,6,nom,nom,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+matb1237-2-7-1,,matb1237-2,7,fit,fit,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+matb1237-2-8-1,,matb1237-2,8,wal,wal,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+matb1237-2-9-1,,matb1237-2,9,iˈsʷiu,iˈsʷiu,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+matb1237-2-10-1,,matb1237-2,10,iˈa·,iˈa·,,,Grace1956pdf32,,false,,,p.3 [of pdf]
+matb1237-3-1-1,,matb1237-3,1,aiˈtɛm,aiˈtɛm,,,Grace1956pdf36,,false,,,p.5 [of pdf]
+matb1237-3-2-1,,matb1237-3,2,aiˈlu,aiˈlu,,,Grace1956pdf36,,false,,,p.5 [of pdf]
+matb1237-3-3-1,,matb1237-3,3,aitɔl,aitɔl,,,Grace1956pdf36,,false,,,p.5 [of pdf]
+matb1237-3-4-1,,matb1237-3,4,aiˈfat,aiˈfat,,,Grace1956pdf36,,false,,,p.5 [of pdf]
+matb1237-3-5-1,,matb1237-3,5,aiˈlim,aiˈlim,,,Grace1956pdf36,,false,,,p.5 [of pdf]
+matb1237-3-6-1,,matb1237-3,6,aiˈnɔm,aiˈnɔm,,,Grace1956pdf36,,false,,,p.5 [of pdf]
+matb1237-3-7-1,,matb1237-3,7,aiˈfit,aiˈfit,,,Grace1956pdf36,,false,,,p.5 [of pdf]
+matb1237-3-8-1,,matb1237-3,8,aiˈwal,aiˈwal,,,Grace1956pdf36,,false,,,p.5 [of pdf]
+matb1237-3-9-1,,matb1237-3,9,aiˈsiu,aiˈsiu,,,Grace1956pdf36,,false,,,p.5 [of pdf]
+matb1237-3-10-1,,matb1237-3,10,aija,aija,,,Grace1956pdf36,,false,,,p.5 [of pdf]
+matb1237-3-11-1,,matb1237-3,11,ˈja matɛm,ˈja matɛm,,,Grace1956pdf36,,false,,,p.5 [of pdf]
+matb1237-3-12-1,,matb1237-3,12,ˈja malu,ˈja malu,,,Grace1956pdf36,,false,,,p.5 [of pdf]
+matb1237-3-20-1,,matb1237-3,20,jalu,jalu,,,Grace1956pdf36,,false,,,p.5 [of pdf]
+matb1237-3-100-1,,matb1237-3,100,auˈcin,auˈcin,,,Grace1956pdf36,,false,,,p.5 [of pdf]
 mate1260-1-1-1,,mate1260-1,1,olag,olag,,,LeanMadang,,false,,,p.40
 mate1260-1-2-1,,mate1260-1,2,berar,berar,,,LeanMadang,,false,,,p.40
 mate1260-1-3-1,,mate1260-1,3,yam,yam,,,LeanMadang,,false,,,p.40
@@ -17936,6 +18391,17 @@ maya1282-4-20-2,,maya1282-4,20,lafu-lu,lafu-lu,,,Galis1955,,false,,,p.137
 maya1282-4-30-1,,maya1282-4,30,lafa-tól,lafa-tól,,,Galis1955,,false,,,p.137
 maya1282-4-30-2,,maya1282-4,30,lafu-tól,lafu-tól,,,Galis1955,,false,,,p.137
 maya1282-4-40-1,,maya1282-4,40,lafa-fát,lafa-fát,,,Galis1955,,false,,,p.137
+maya1282-5-1-1,,maya1282-5,1,sa,sa,,,Grace1956pdf35,,false,,,p.2 [of pdf]
+maya1282-5-1-2,,maya1282-5,1,katɛm,katɛm,,,Grace1956pdf35,,false,,,p.2 [of pdf]
+maya1282-5-2-1,,maya1282-5,2,lu,lu,,,Grace1956pdf35,,false,,,p.2 [of pdf]
+maya1282-5-3-1,,maya1282-5,3,tol,tol,,,Grace1956pdf35,,false,,,p.2 [of pdf]
+maya1282-5-4-1,,maya1282-5,4,fat,fat,,,Grace1956pdf35,,false,,,p.2 [of pdf]
+maya1282-5-5-1,,maya1282-5,5,lim,lim,,,Grace1956pdf35,,false,,,p.2 [of pdf]
+maya1282-5-6-1,,maya1282-5,6,wɔˈnɛm,wɔˈnɛm,,Radja Ampat: {wɔˈnɔm},Grace1956pdf35,,false,,,p.2 [of pdf]
+maya1282-5-7-1,,maya1282-5,7,fit,fit,,,Grace1956pdf35,,false,,,p.2 [of pdf]
+maya1282-5-8-1,,maya1282-5,8,wal,wal,,,Grace1956pdf35,,false,,,p.2 [of pdf]
+maya1282-5-9-1,,maya1282-5,9,ši,ši,,,Grace1956pdf35,,false,,,p.2 [of pdf]
+maya1282-5-10-1,,maya1282-5,10,laˈfɛ,laˈfɛ,,Radja Ampat: {laˈfa},Grace1956pdf35,,false,,,p.2 [of pdf]
 mbul1263-1-1-1,,mbul1263-1,1,ta,ta,,,Chinnery1928,,false,,,pp.99-100
 mbul1263-1-2-1,,mbul1263-1,2,ru,ru,,,Chinnery1928,,false,,,pp.99-100
 mbul1263-1-3-1,,mbul1263-1,3,tel,tel,,,Chinnery1928,,false,,,pp.99-100
@@ -18221,6 +18687,17 @@ meng1267-3-10-1,,meng1267-3,10,tagunailu,tagunailu,,,LeanEastNewBritain,,false,,
 meng1267-3-11-1,,meng1267-3,11,tagunailu ba kena,tagunailu ba kena,,,LeanEastNewBritain,,false,,,pp.28-29
 meng1267-3-15-1,,meng1267-3,15,tagunailu ba lua,tagunailu ba lua,,,LeanEastNewBritain,,false,,,pp.28-29
 meng1267-3-20-1,,meng1267-3,20,giukainte,giukainte,,,LeanEastNewBritain,,false,,,pp.28-29
+meng1267-4-1-1,,meng1267-4,1,ke·na,ke·na,,,Grace1955pdf42,,false,,,p.8
+meng1267-4-2-1,,meng1267-4,2,lu·a,lu·a,,,Grace1955pdf42,,false,,,p.8
+meng1267-4-3-1,,meng1267-4,3,molo·gi,molo·gi,,,Grace1955pdf42,,false,,,p.8
+meng1267-4-4-1,,meng1267-4,4,tugu·lu,tugu·lu,,,Grace1955pdf42,,false,,,p.8
+meng1267-4-5-1,,meng1267-4,5,lim,lim,,,Grace1955pdf42,,false,,,p.8
+meng1267-4-6-1,,meng1267-4,6,lima va ke·na,lima va ke·na,,etc.,Grace1955pdf42,,false,,,p.8
+meng1267-4-10-1,,meng1267-4,10,ta·ŋule·lu,ta·ŋule·lu,,,Grace1955pdf42,,false,,,p.8
+meng1267-4-11-1,,meng1267-4,11,ta·ŋule·lu va ke·na,ta·ŋule·lu va ke·na,,,Grace1955pdf42,,false,,,p.8
+meng1267-4-20-1,,meng1267-4,20,gi̯au̯kai̯na,gi̯au̯kai̯na,,,Grace1955pdf42,,false,,,p.8
+meng1267-4-30-1,,meng1267-4,30,gi̯au̯kai̯na molo·gi,gi̯au̯kai̯na molo·gi,,,Grace1955pdf42,,false,,,p.8
+meng1267-4-40-1,,meng1267-4,40,gi̯au̯kai̯na tugu·lu,gi̯au̯kai̯na tugu·lu,,etc. through 90 - don’t know 100,Grace1955pdf42,,false,,,p.8
 ment1249-1-1-1,,ment1249-1,1,sara,sara,,,Stokhof1987Vol10.3,,false,,,p.184
 ment1249-1-2-1,,ment1249-1,2,doea,doea,,,Stokhof1987Vol10.3,,false,,,p.184
 ment1249-1-3-1,,ment1249-1,3,teloe,teloe,,,Stokhof1987Vol10.3,,false,,,p.184
@@ -18987,7 +19464,7 @@ moni1261-1-9-1,,moni1261-1,9,amane wié,amane wié,,,Stokhof1983Vol5.2,,false,,,
 moni1261-1-10-1,,moni1261-1,10,amane idi,amane idi,,,Stokhof1983Vol5.2,,false,,,p.216
 moni1261-1-10-2,,moni1261-1,10,hanagi,hanagi,,ten (unit of ten),Stokhof1983Vol5.2,,false,,,p.216
 moni1261-1-20-1,,moni1261-1,20,ranagi isa,ranagi isa,,2 x 10,Stokhof1983Vol5.2,,false,,,p.216
-moni1261-1-50-1,,moni1261-1,50,_,_,,So the Manukus probably can count up to fifty maximally; we have been unable to ascertain whether they have a separate expression meaning '50'.,Stokhof1983Vol5.2,,false,,,p.216
+moni1261-1-50-1,,moni1261-1,50,_,_,,So the Manukus probably can count up to fifty maximally; we have been unable to ascertain whether they have a separate expression meaning ‘50’.,Stokhof1983Vol5.2,,false,,,p.216
 moni1261-2-1-1,,moni1261-2,1,hago,hago,,,Stokhof1983Vol5.2,,false,,,p.216
 moni1261-2-2-1,,moni1261-2,2,isa,isa,,,Stokhof1983Vol5.2,,false,,,p.216
 moni1261-2-3-1,,moni1261-2,3,kelo,kelo,,,Stokhof1983Vol5.2,,false,,,p.216
@@ -19058,6 +19535,15 @@ morb1239-2-1-1,,morb1239-2,1,nadu,nadu,,,Smits1998,,false,,,pp.183-184
 morb1239-2-3-1,,morb1239-2,3,tò,tò,,,Smits1998,,false,,,pp.183-184
 morb1239-3-1-1,,morb1239-3,1,kona,kona,,,Smits1998,,false,,,pp.183-184
 morb1239-3-3-1,,morb1239-3,3,towa,towa,,,Smits1998,,false,,,pp.183-184
+morb1239-4-1-1,,morb1239-4,1,ˈnadu,ˈnadu,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+morb1239-4-2-1,,morb1239-4,2,tina,tina,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+morb1239-4-3-1,,morb1239-4,3,ˈto·a,ˈto·a,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+morb1239-4-4-1,,morb1239-4,4,ˈtisena,ˈtisena,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+morb1239-4-5-1,,morb1239-4,5,ˈtobena,ˈtobena,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+morb1239-4-6-1,,morb1239-4,6,toˈbnadua,toˈbnadua,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+morb1239-4-7-1,,morb1239-4,7,ˈtidagena,ˈtidagena,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+morb1239-4-8-1,,morb1239-4,8,naudagena,naudagena,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+morb1239-4-10-1,,morb1239-4,10,dˈnea,dˈnea,,,Grace1955pdf50,,false,,,p.55 [of pdf]
 more1258-1-1-1,,more1258-1,1,mindjak,mindjak,,,Capell1951,,false,,,p.144
 more1258-1-2-1,,more1258-1,2,airai,airai,,,Capell1951,,false,,,p.144
 more1258-1-3-1,,more1258-1,3,kaːrɔp,kaːrɔp,,,Capell1951,,false,,,p.144
@@ -19122,6 +19608,18 @@ morm1235-2-11-1,,morm1235-2,11,táüra-maä-tata,táüra-maä-tata,,,Galis1955,,
 morm1235-2-20-1,,morm1235-2,20,naü-tata,naü-tata,,,Galis1955,,false,,,p.140
 morm1235-2-30-1,,morm1235-2,30,naü-tata-mataürò,naü-tata-mataürò,,,Galis1955,,false,,,p.140
 morm1235-2-40-1,,morm1235-2,40,naü-rurò,naü-rurò,,,Galis1955,,false,,,p.140
+morm1235-3-1-1,,morm1235-3,1,taˈta,taˈta,,Copied from Anceaux [written at the top of the page],Grace1956pdf30,,false,,,p.6 [of pdf]
+morm1235-3-2-1,,morm1235-3,2,ˈruro,ˈruro,,,Grace1956pdf30,,false,,,p.6 [of pdf]
+morm1235-3-3-1,,morm1235-3,3,ˈɔrɔ,ˈɔrɔ,,,Grace1956pdf30,,false,,,p.6 [of pdf]
+morm1235-3-4-1,,morm1235-3,4,ˈʔaʔo,ˈʔaʔo,,,Grace1956pdf30,,false,,,p.6 [of pdf]
+morm1235-3-5-1,,morm1235-3,5,ˈrimo,ˈrimo,,,Grace1956pdf30,,false,,,p.6 [of pdf]
+morm1235-3-6-1,,morm1235-3,6,ˈrimo maʔataˈta,ˈrimo maʔataˈta,,,Grace1956pdf30,,false,,,p.6 [of pdf]
+morm1235-3-7-1,,morm1235-3,7,ˈrimo maʔaˈruro,ˈrimo maʔaˈruro,,etc.,Grace1956pdf30,,false,,,p.6 [of pdf]
+morm1235-3-10-1,,morm1235-3,10,taˈura,taˈura,,,Grace1956pdf30,,false,,,p.6 [of pdf]
+morm1235-3-11-1,,morm1235-3,11,taˈura maʔa taˈta,taˈura maʔa taˈta,,,Grace1956pdf30,,false,,,p.6 [of pdf]
+morm1235-3-20-1,,morm1235-3,20,ˈnaʔu taˈta,ˈnaʔu taˈta,,,Grace1956pdf30,,false,,,p.6 [of pdf]
+morm1235-3-30-1,,morm1235-3,30,ˈnaʔu taˈta maʔa taˈta,ˈnaʔu taˈta maʔa taˈta,,,Grace1956pdf30,,false,,,p.6 [of pdf]
+morm1235-3-40-1,,morm1235-3,40,ˈnaʔu ˈruro,ˈnaʔu ˈruro,,etc.,Grace1956pdf30,,false,,,p.6 [of pdf]
 moro1289-1-1-1,,moro1289-1,1,jènadu,jènadu,,,Galis1955,,false,,,p.168
 moro1289-1-2-1,,moro1289-1,2,pènèr,pènèr,,,Galis1955,,false,,,p.168
 moro1289-1-3-1,,moro1289-1,3,ndènadu,ndènadu,,,Galis1955,,false,,,p.168
@@ -19552,6 +20050,11 @@ muso1238-1-10-1,,muso1238-1,10,baing siluk,baing siluk,,two hands,Smith1988,,fal
 muso1238-1-11-1,,muso1238-1,11,baing siluk da munuts,baing siluk da munuts,,,Smith1988,,false,,,pp.69-70
 muso1238-1-15-1,,muso1238-1,15,baing siluk da hong lehem,baing siluk da hong lehem,,hands two and legs half,Smith1988,,false,,,pp.69-70
 muso1238-1-20-1,,muso1238-1,20,baing siluk da hong siluk,baing siluk da hong siluk,,hands two legs two,Smith1988,,false,,,pp.69-70
+muso1238-2-1-1,,muso1238-2,1,monots,monots,,,Grace1955pdf51,,false,,,p.31
+muso1238-2-2-1,,muso1238-2,2,sɛrok,sɛrok,,,Grace1955pdf51,,false,,,p.31
+muso1238-2-3-1,,muso1238-2,3,sɛrokdawen,sɛrokdawen,,,Grace1955pdf51,,false,,,p.31
+muso1238-2-4-1,,muso1238-2,4,sɛrokdasɛrok,sɛrokdasɛrok,,,Grace1955pdf51,,false,,,p.31
+muso1238-2-5-1,,muso1238-2,5,bɛiŋdɛhɛn,bɛiŋdɛhɛn,,,Grace1955pdf51,,false,,,p.31
 muss1246-1-1-1,,muss1246-1,1,sesa,sesa,,,Lean1985Vol01,,false,,,p.20
 muss1246-1-2-1,,muss1246-1,2,galua,galua,,‘ga-’ = article,Lean1985Vol01,,false,,,p.20
 muss1246-1-3-1,,muss1246-1,3,gatolu,gatolu,,,Lean1985Vol01,,false,,,p.20
@@ -19573,6 +20076,20 @@ muss1246-2-20-1,,muss1246-2,20,ga lungaulu,ga lungaulu,,,Lean1985Vol01,,false,,,
 muss1246-2-50-1,,muss1246-2,50,ga limangaulu,ga limangaulu,,,Lean1985Vol01,,false,,,p.20
 muss1246-2-100-1,,muss1246-2,100,ka teva airari,ka teva airari,,,Lean1985Vol01,,false,,,p.20
 muss1246-2-1000-1,,muss1246-2,1000,ka sangaulu-airari,ka sangaulu-airari,,,Lean1985Vol01,,false,,,p.20
+muss1246-3-1-1,,muss1246-3,1,kateva,kateva,,,Grace1955pdf43,,false,,,p.75
+muss1246-3-2-1,,muss1246-3,2,galua,galua,,,Grace1955pdf43,,false,,,p.75
+muss1246-3-3-1,,muss1246-3,3,kotolu̥,kotolu̥,,,Grace1955pdf43,,false,,,p.75
+muss1246-3-4-1,,muss1246-3,4,ga·t,ga·t,,,Grace1955pdf43,,false,,,p.75
+muss1246-3-5-1,,muss1246-3,5,ˈgalim,ˈgalim,,,Grace1955pdf43,,false,,,p.75
+muss1246-3-6-1,,muss1246-3,6,gao̯nomo̥,gao̯nomo̥,,,Grace1955pdf43,,false,,,p.75
+muss1246-3-7-1,,muss1246-3,7,gai̯tu,gai̯tu,,,Grace1955pdf43,,false,,,p.75
+muss1246-3-8-1,,muss1246-3,8,gao̥alu,gao̥alu,,,Grace1955pdf43,,false,,,p.75
+muss1246-3-9-1,,muss1246-3,9,gasio,gasio,,,Grace1955pdf43,,false,,,p.75
+muss1246-3-10-1,,muss1246-3,10,kasaŋaulu,kasaŋaulu,,,Grace1955pdf43,,false,,,p.75
+muss1246-3-11-1,,muss1246-3,11,kasaŋaulu kateva,kasaŋaulu kateva,,,Grace1955pdf43,,false,,,p.75
+muss1246-3-20-1,,muss1246-3,20,galu ŋau̯lu,galu ŋau̯lu,,,Grace1955pdf43,,false,,,p.75
+muss1246-3-30-1,,muss1246-3,30,kotolu ŋau̯lu,kotolu ŋau̯lu,,etc.,Grace1955pdf43,,false,,,p.75
+muss1246-3-100-1,,muss1246-3,100,ai̯rari̥,ai̯rari̥,,,Grace1955pdf43,,false,,,p.75
 mutu1242-1-1-1,,mutu1242-1,1,ez ,ez ,,,LeanMorobe,,false,,,p.6
 mutu1242-1-1-2,,mutu1242-1,1,es,es,,,LeanMorobe,,false,,,p.6
 mutu1242-1-2-1,,mutu1242-1,2,ru,ru,,,LeanMorobe,,false,,,p.6
@@ -19804,6 +20321,11 @@ naba1256-4-2-1,,naba1256-4,2,dzut,dzut,,,LeanMorobe,,false,,,p.96
 naba1256-4-3-1,,naba1256-4,3,tuk,tuk,,,LeanMorobe,,false,,,p.96
 naba1256-4-4-1,,naba1256-4,4,dzulak dzulak,dzulak dzulak,,2 + 2,LeanMorobe,,false,,,p.96
 naba1256-4-10-1,,naba1256-4,10,bet delang,bet delang,,,LeanMorobe,,false,,,p.96
+naba1256-5-1-1,,naba1256-5,1,kwep,kwep,,,Grace1955pdf51,,false,,,p.31
+naba1256-5-2-1,,naba1256-5,2,jut,jut,,,Grace1955pdf51,,false,,,p.31
+naba1256-5-3-1,,naba1256-5,3,tuk,tuk,,,Grace1955pdf51,,false,,,p.31
+naba1256-5-4-1,,naba1256-5,4,jugenjugen,jugenjugen,,,Grace1955pdf51,,false,,,p.31
+naba1256-5-5-1,,naba1256-5,5,bednabedaraŋ,bednabedaraŋ,,,Grace1955pdf51,,false,,,p.31
 nabi1239-1-1-1,,nabi1239-1,1,noupɛb,noupɛb,,,Laycock1967C10,,false,,,p.59
 nabi1239-1-2-1,,nabi1239-1,2,mɑndio,mɑndio,,,Laycock1967C10,,false,,,p.59
 nabi1239-1-3-1,,nabi1239-1,3,yunɑw,yunɑw,,,Laycock1967C10,,false,,,p.59
@@ -19902,6 +20424,12 @@ naka1262-2-6-1,,naka1262-2,6,kena kavala,kena kavala,,,Lean1985Vol04,,false,,,p.
 naka1262-2-7-1,,naka1262-2,7,lua kavala,lua kavala,,,Lean1985Vol04,,false,,,p.50
 naka1262-2-8-1,,naka1262-2,8,moloi kavala,moloi kavala,,,Lean1985Vol04,,false,,,p.50
 naka1262-2-9-1,,naka1262-2,9,tung kavala,tung kavala,,,Lean1985Vol04,,false,,,p.50
+naka1262-3-1-1,,naka1262-3,1,sasa,sasa,,,Grace1955pdf47,,false,,,p.97
+naka1262-3-2-1,,naka1262-3,2,ilua,ilua,,,Grace1955pdf47,,false,,,p.97
+naka1262-3-3-1,,naka1262-3,3,to·lu,to·lu,,,Grace1955pdf47,,false,,,p.97
+naka1262-3-4-1,,naka1262-3,4,iva·,iva·,,,Grace1955pdf47,,false,,,p.97
+naka1262-3-5-1,,naka1262-3,5,lima,lima,,,Grace1955pdf47,,false,,,p.97
+naka1262-3-10-1,,naka1262-3,10,savulu,savulu,,,Grace1955pdf47,,false,,,p.97
 naka1264-1-1-1,,naka1264-1,1,kubugeng,kubugeng,,,LeanMorobe,,false,,,p.100
 naka1264-1-2-1,,naka1264-1,2,lifet,lifet,,,LeanMorobe,,false,,,p.100
 naka1264-1-3-1,,naka1264-1,3,lifetening,lifetening,,"appears to derive from, or contain, the numeral 2 and it may have an implied ‘2 + 1’ construction",LeanMorobe,,false,,,p.100
@@ -19992,6 +20520,26 @@ nali1244-2-8-1,,nali1244-2,8,avizigtul,avizigtul,,,Lean1985Vol01,,false,,,p.30
 nali1244-2-9-1,,nali1244-2,9,avizigfat,avizigfat,,,Lean1985Vol01,,false,,,p.30
 nali1244-2-10-1,,nali1244-2,10,azangaflu,azangaflu,,,Lean1985Vol01,,false,,,p.30
 nali1244-2-11-1,,nali1244-2,11,azangaflu-na sahai,azangaflu-na sahai,,,Lean1985Vol01,,false,,,p.30
+nali1244-3-1-1,,nali1244-3,1,ˈsakay,ˈsakay,,one,Grace1955pdf42,,false,,,p.17
+nali1244-3-2-1,,nali1244-3,2,mərua,mərua,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-3-1,,nali1244-3,3,ˈməŋˈtul,ˈməŋˈtul,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-4-1,,nali1244-3,4,ˈməŋfat,ˈməŋfat,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-5-1,,nali1244-3,5,malima,malima,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-6-1,,nali1244-3,6,sigsaɣa,sigsaɣa,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-7-1,,nali1244-3,7,siggurua,siggurua,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-8-1,,nali1244-3,8,sigtul,sigtul,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-9-1,,nali1244-3,9,siŋfat,siŋfat,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-10-1,,nali1244-3,10,saˈŋaflu,saˈŋaflu,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-11-1,,nali1244-3,11,saŋafluməsaɣay,saŋafluməsaɣay,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-20-1,,nali1244-3,20,saŋaˈfluvaru,saŋaˈfluvaru,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-30-1,,nali1244-3,30,saŋafluvaˈrul,saŋafluvaˈrul,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-40-1,,nali1244-3,40,saŋaflufurulavat,saŋaflufurulavat,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-50-1,,nali1244-3,50,saŋaflufaβitmit,saŋaflufaβitmit,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-60-1,,nali1244-3,60,saŋaflufaβiˈziksaɣa,saŋaflufaβiˈziksaɣa,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-70-1,,nali1244-3,70,saŋaflufaβiˈzikguru,saŋaflufaβiˈzikguru,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-80-1,,nali1244-3,80,saŋaflufaβiˈziktul,saŋaflufaβiˈziktul,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-90-1,,nali1244-3,90,saŋaflufaβiˈzikfat,saŋaflufaβiˈzikfat,,,Grace1955pdf42,,false,,,p.17
+nali1244-3-100-1,,nali1244-3,100,saŋaflufarazuay,saŋaflufarazuay,,,Grace1955pdf42,,false,,,p.17
 nali1245-1-1-1,,nali1245-1,1,si,si,,,Lean1985Vol02,,false,,,p.33
 nali1245-1-2-1,,nali1245-1,2,(ma)luwoh,(ma)luwoh,,prefix ‘ma-’,Lean1985Vol02,,false,,,p.33
 nali1245-1-2-2,,nali1245-1,2,(luo),(luo),,,Lean1985Vol02,,false,,,p.33
@@ -21222,11 +21770,19 @@ nucl1594-2-5-1,,nucl1594-2,5,iworo,iworo,,,Ray1912,,false,,,pp.340-341
 nucl1594-2-6-1,,nucl1594-2,6,iworo-mōi,iworo-mōi,,(? 7),Ray1912,,false,,,pp.340-341
 nucl1594-2-10-1,,nucl1594-2,10,werowa-moi,werowa-moi,,,Ray1912,,false,,,pp.340-341
 nucl1594-2-20-1,,nucl1594-2,20,yauw-nat-makia,yauw-nat-makia,,,Ray1912,,false,,,pp.340-341
+nucl1594-3-1-1,,nucl1594-3,1,taŋgau,taŋgau,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+nucl1594-3-2-1,,nucl1594-3,2,amoi,amoi,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+nucl1594-3-3-1,,nucl1594-3,3,ari·a,ari·a,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+nucl1594-3-4-1,,nucl1594-3,4,ai,ai,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+nucl1594-3-5-1,,nucl1594-3,5,iˈvor,iˈvor,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+nucl1594-3-6-1,,nucl1594-3,6,ˈiptan,ˈiptan,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+nucl1594-3-7-1,,nucl1594-3,7,ivoro amoi,ivoro amoi,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+nucl1594-3-10-1,,nucl1594-3,10,or pamo·i,or pamo·i,,,Grace1955pdf50,,false,,,p.55 [of pdf]
 nucl1595-1-1-1,,nucl1595-1,1,[ou'ri'as],[ou'ri'as],,the same as the names of the fingers,Stokhof1983Vol5.2,,false,,,p.82
 nucl1595-1-2-1,,nucl1595-1,2,[nen'no'manna],[nen'no'manna],,the same as the names of the fingers,Stokhof1983Vol5.2,,false,,,p.82
 nucl1595-1-3-1,,nucl1595-1,3,[ě'si'ni],[ě'si'ni],,the same as the names of the fingers,Stokhof1983Vol5.2,,false,,,p.82
 nucl1595-1-4-1,,nucl1595-1,4,[ě'si'ni],[ě'si'ni],,the same as the names of the fingers,Stokhof1983Vol5.2,,false,,,p.82
-nucl1595-1-5-1,,nucl1595-1,5,[mě'má tan taadzj],[mě'má tan taadzj],,"the closed hand, with the word 'taadzj' following the name of the little finger = five",Stokhof1983Vol5.2,,false,,,p.82
+nucl1595-1-5-1,,nucl1595-1,5,[mě'má tan taadzj],[mě'má tan taadzj],,"the closed hand, with the word ‘taadzj’ following the name of the little finger = five",Stokhof1983Vol5.2,,false,,,p.82
 nucl1620-1-1-1,,nucl1620-1,1,endi,endi,,,Lean1986Vol09,,false,,,p.54
 nucl1620-1-2-1,,nucl1620-1,2,tak,tak,,,Lean1986Vol09,,false,,,p.54
 nucl1620-1-3-1,,nucl1620-1,3,takendeka,takendeka,,2 + 1,Lean1986Vol09,,false,,,p.54
@@ -21407,6 +21963,11 @@ nukk1240-1-5-1,,nukk1240-1,5,tupet tupetni,tupet tupetni,,two and three,Smith198
 nukk1240-1-6-1,,nukk1240-1,6,tupet tupet tupet,tupet tupet tupet,,,Smith1988,,false,,,p.90
 nukk1240-1-10-1,,nukk1240-1,10,singen,singen,,The expression for ten appeared to refer to the fingers of the hands and meant something like ‘all’.,Smith1988,,false,,,p.90
 nukk1240-1-20-1,,nukk1240-1,20,kikeset,kikeset,,kikeset referred to the ‘toes being finished’.,Smith1988,,false,,,p.90
+nukk1240-2-1-1,,nukk1240-2,1,niŋgani·,niŋgani·,,,Grace1955pdf51,,false,,,p.31
+nukk1240-2-2-1,,nukk1240-2,2,tu̥pwɛt,tu̥pwɛt,,,Grace1955pdf51,,false,,,p.31
+nukk1240-2-3-1,,nukk1240-2,3,təpʷɛtni·,təpʷɛtni·,,,Grace1955pdf51,,false,,,p.31
+nukk1240-2-4-1,,nukk1240-2,4,təpʷɛtni· təpʷɛtni·,təpʷɛtni· təpʷɛtni·,,,Grace1955pdf51,,false,,,p.31
+nukk1240-2-5-1,,nukk1240-2,5,kɛtdeven,kɛtdeven,,,Grace1955pdf51,,false,,,p.31
 nukn1238-1-1-1,,nukn1238-1,1,kamantewe,kamantewe,,,Smith1988,,false,,,p.96
 nukn1238-1-2-1,,nukn1238-1,2,yarə,yarə,,,Smith1988,,false,,,p.96
 nukn1238-1-3-1,,nukn1238-1,3,kaləhu,kaləhu,,,Smith1988,,false,,,p.96
@@ -21432,6 +21993,18 @@ nuku1258-1-9-1,,nuku1258-1,9,sivo,sivo,,,Lean1985Vol03,,false,,,p.25
 nuku1258-1-10-1,,nuku1258-1,10,sanahuru,sanahuru,,,Lean1985Vol03,,false,,,p.25
 nuku1258-1-11-1,,nuku1258-1,11,sanahuru ma tahi,sanahuru ma tahi,,,Lean1985Vol03,,false,,,p.25
 nuku1258-1-15-1,,nuku1258-1,15,sanahuru ma lima,sanahuru ma lima,,,Lean1985Vol03,,false,,,p.25
+nuku1258-2-1-1,,nuku1258-2,1,kotahi,kotahi,,,Grace1955pdfPN,,false,,,p.2 [of pdf]
+nuku1258-2-2-1,,nuku1258-2,2,elua,elua,,,Grace1955pdfPN,,false,,,p.2 [of pdf]
+nuku1258-2-3-1,,nuku1258-2,3,etolu,etolu,,,Grace1955pdfPN,,false,,,p.2 [of pdf]
+nuku1258-2-4-1,,nuku1258-2,4,eha·,eha·,,,Grace1955pdfPN,,false,,,p.2 [of pdf]
+nuku1258-2-5-1,,nuku1258-2,5,elima,elima,,,Grace1955pdfPN,,false,,,p.2 [of pdf]
+nuku1258-2-6-1,,nuku1258-2,6,eono,eono,,,Grace1955pdfPN,,false,,,p.2 [of pdf]
+nuku1258-2-7-1,,nuku1258-2,7,ehitu,ehitu,,,Grace1955pdfPN,,false,,,p.2 [of pdf]
+nuku1258-2-8-1,,nuku1258-2,8,evalu,evalu,,,Grace1955pdfPN,,false,,,p.2 [of pdf]
+nuku1258-2-9-1,,nuku1258-2,9,esivo,esivo,,,Grace1955pdfPN,,false,,,p.2 [of pdf]
+nuku1258-2-10-1,,nuku1258-2,10,sanahulu,sanahulu,,,Grace1955pdfPN,,false,,,p.2 [of pdf]
+nuku1258-2-20-1,,nuku1258-2,20,tipulua,tipulua,,,Grace1955pdfPN,,false,,,p.2 [of pdf]
+nuku1258-2-100-1,,nuku1258-2,100,hutalau,hutalau,,,Grace1955pdfPN,,false,,,p.2 [of pdf]
 nuku1259-1-1-1,,nuku1259-1,1,tahi,tahi,,,Lean1985Vol03,,false,,,p.16
 nuku1259-1-2-1,,nuku1259-1,2,lua,lua,,,Lean1985Vol03,,false,,,p.16
 nuku1259-1-3-1,,nuku1259-1,3,toru,toru,,,Lean1985Vol03,,false,,,p.16
@@ -21890,6 +22463,15 @@ ormu1248-1-11-1,,ormu1248-1,11,nen-rohi-fraja-toruma,nen-rohi-fraja-toruma,,,Gal
 ormu1248-1-20-1,,ormu1248-1,20,depari,depari,,,Galis1955,,false,,,p.163
 ormu1248-1-30-1,,ormu1248-1,30,nari-nitjema-manrohima,nari-nitjema-manrohima,,,Galis1955,,false,,,p.163
 ormu1248-1-40-1,,ormu1248-1,40,nari-nitja-donrohima,nari-nitja-donrohima,,,Galis1955,,false,,,p.163
+ormu1248-2-1-1,,ormu1248-2,1,njeŋ,njeŋ,,satu,Grace1955pdf21,,false,,,p.7
+ormu1248-2-2-1,,ormu1248-2,2,rohi,rohi,,dua,Grace1955pdf21,,false,,,p.7
+ormu1248-2-3-1,,ormu1248-2,3,ˈtoˈru,ˈtoˈru,,tiga,Grace1955pdf21,,false,,,p.7
+ormu1248-2-4-1,,ormu1248-2,4,aˈwaʔ,aˈwaʔ,,ampat,Grace1955pdf21,,false,,,p.7
+ormu1248-2-5-1,,ormu1248-2,5,aruratima,aruratima,,lima,Grace1955pdf21,,false,,,p.7
+ormu1248-2-6-1,,ormu1248-2,6,mandohima,mandohima,,anam,Grace1955pdf21,,false,,,p.7
+ormu1248-2-7-1,,ormu1248-2,7,nsaxo rondohima,nsaxo rondohima,,tudjuh,Grace1955pdf21,,false,,,p.7
+ormu1248-2-8-1,,ormu1248-2,8,rondohima,rondohima,,delapan (inft. doesn’t know any more),Grace1955pdf21,,false,,,p.7
+ormu1248-2-9-1,,ormu1248-2,9,rondohi paraya njema,rondohi paraya njema,,sembilan,Grace1955pdf21,,false,,,p.7
 orok1267-1-1-1,,orok1267-1,1,haroapu,haroapu,,,Ray1907,,false,,,p.323
 orok1267-1-1-2,,orok1267-1,1,haruapu,haruapu,,,Ray1907,,false,,,p.323
 orok1267-1-1-3,,orok1267-1,1,harohapo,harohapo,,small finger of left hand,Ray1907,,false,,,p.323
@@ -22110,6 +22692,16 @@ pakt1239-2-15-1,,pakt1239-2,15,(ma)songo a nuron,(ma)songo a nuron,,,Lean1985Vol
 pakt1239-2-17-1,,pakt1239-2,17,(ma)songo a darloh,(ma)songo a darloh,,,Lean1985Vol02,,false,,,p.18
 pakt1239-2-19-1,,pakt1239-2,19,(ma)songo a dardih,(ma)songo a dardih,,,Lean1985Vol02,,false,,,p.18
 pakt1239-2-20-1,,pakt1239-2,20,kotohandih,kotohandih,,,Lean1985Vol02,,false,,,p.18
+pala1344-1-1-1,,pala1344-1,1,taŋ,taŋ,,,Grace1955pdf42,,false,,,p.31
+pala1344-1-2-1,,pala1344-1,2,oruŋ,oruŋ,,,Grace1955pdf42,,false,,,p.31
+pala1344-1-3-1,,pala1344-1,3,oðei,oðei,,,Grace1955pdf42,,false,,,p.31
+pala1344-1-4-1,,pala1344-1,4,ˈoaŋ,ˈoaŋ,,,Grace1955pdf42,,false,,,p.31
+pala1344-1-5-1,,pala1344-1,5,oˈim,oˈim,,,Grace1955pdf42,,false,,,p.31
+pala1344-1-6-1,,pala1344-1,6,maloŋ,maloŋ,,,Grace1955pdf42,,false,,,p.31
+pala1344-1-7-1,,pala1344-1,7,uið,uið,,,Grace1955pdf42,,false,,,p.31
+pala1344-1-8-1,,pala1344-1,8,iay,iay,,,Grace1955pdf42,,false,,,p.31
+pala1344-1-9-1,,pala1344-1,9,itiu,itiu,,,Grace1955pdf42,,false,,,p.31
+pala1344-1-10-1,,pala1344-1,10,maʔoð,maʔoð,,,Grace1955pdf42,,false,,,p.31
 pall1244-1-1-1,,pall1244-1,1,utʌmʌt,utʌmʌt,,,Zgraggen1980NorthernAdelbert,,false,,,p.92
 pall1244-1-2-1,,pall1244-1,2,arasa,arasa,,,Zgraggen1980NorthernAdelbert,,false,,,p.92
 palu1253-1-1-1,,palu1253-1,1,saaʔ,saaʔ,,,Lobel2016,,false,,,pp.234-239
@@ -22685,6 +23277,16 @@ pele1245-2-3-1,,pele1245-2,3,ta'talu,ta'talu,,,Lean1985Vol04,,false,,,p.51
 pele1245-2-4-1,,pele1245-2,4,ta'miʔa,ta'miʔa,,,Lean1985Vol04,,false,,,p.51
 pele1245-2-5-1,,pele1245-2,5,ta'ʔuve,ta'ʔuve,,,Lean1985Vol04,,false,,,p.51
 pele1245-2-10-1,,pele1245-2,10,'mavluo'vexa,'mavluo'vexa,,,Lean1985Vol04,,false,,,p.51
+pele1245-3-1-1,,pele1245-3,1,vile,vile,,,Grace1955pdf47,,false,,,p.93
+pele1245-3-2-1,,pele1245-3,2,ta·mei,ta·mei,,,Grace1955pdf47,,false,,,p.93
+pele1245-3-3-1,,pele1245-3,3,tatalu,tatalu,,,Grace1955pdf47,,false,,,p.93
+pele1245-3-4-1,,pele1245-3,4,tamia,tamia,,,Grace1955pdf47,,false,,,p.93
+pele1245-3-5-1,,pele1245-3,5,tauve,tauve,,,Grace1955pdf47,,false,,,p.93
+pele1245-3-6-1,,pele1245-3,6,muɣatelevile,muɣatelevile,,,Grace1955pdf47,,false,,,p.93
+pele1245-3-7-1,,pele1245-3,7,muɣateleta·mei,muɣateleta·mei,,,Grace1955pdf47,,false,,,p.93
+pele1245-3-8-1,,pele1245-3,8,muɣateletatɛlu,muɣateletatɛlu,,,Grace1955pdf47,,false,,,p.93
+pele1245-3-9-1,,pele1245-3,9,muɣateletamia,muɣateletamia,,,Grace1955pdf47,,false,,,p.93
+pele1245-3-10-1,,pele1245-3,10,mavulovega,mavulovega,,,Grace1955pdf47,,false,,,p.93
 penc1239-1-1-1,,penc1239-1,1,siw,siw,,,LeanManus,,false,,,pp.3-4
 penc1239-1-2-1,,penc1239-1,2,lup,lup,,,LeanManus,,false,,,pp.3-4
 penc1239-1-3-1,,penc1239-1,3,tulup,tulup,,,LeanManus,,false,,,pp.3-4
@@ -23456,6 +24058,18 @@ remp1241-3-5-1,,remp1241-3,5,heta,heta,,,Ray1919,,false,,,p.330
 remp1241-3-10-1,,remp1241-3,10,hibeka tabel,hibeka tabel,,,Ray1919,,false,,,p.330
 remp1241-4-1-1,,remp1241-4,1,atʌl,atʌl,,,Zgraggen1980Mabuso,,false,,,p.92
 remp1241-4-2-1,,remp1241-4,2,air,air,,,Zgraggen1980Mabuso,,false,,,p.92
+renn1242-1-1-1,,renn1242-1,1,tasi,tasi,,,Grace1955pdfPN,,false,,,p.5 [of pdf]
+renn1242-1-2-1,,renn1242-1,2,ŋgua,ŋgua,,,Grace1955pdfPN,,false,,,p.5 [of pdf]
+renn1242-1-3-1,,renn1242-1,3,toŋgu,toŋgu,,,Grace1955pdfPN,,false,,,p.5 [of pdf]
+renn1242-1-4-1,,renn1242-1,4,ha,ha,,,Grace1955pdfPN,,false,,,p.5 [of pdf]
+renn1242-1-5-1,,renn1242-1,5,ŋgima,ŋgima,,,Grace1955pdfPN,,false,,,p.5 [of pdf]
+renn1242-1-6-1,,renn1242-1,6,ono,ono,,,Grace1955pdfPN,,false,,,p.5 [of pdf]
+renn1242-1-7-1,,renn1242-1,7,fitu,fitu,,,Grace1955pdfPN,,false,,,p.5 [of pdf]
+renn1242-1-8-1,,renn1242-1,8,vaŋgu,vaŋgu,,,Grace1955pdfPN,,false,,,p.5 [of pdf]
+renn1242-1-9-1,,renn1242-1,9,iva,iva,,,Grace1955pdfPN,,false,,,p.5 [of pdf]
+renn1242-1-10-1,,renn1242-1,10,katoa,katoa,,,Grace1955pdfPN,,false,,,p.5 [of pdf]
+renn1242-1-20-1,,renn1242-1,20,ŋgua katoa,ŋgua katoa,,,Grace1955pdfPN,,false,,,p.5 [of pdf]
+renn1242-1-100-1,,renn1242-1,100,ŋgau,ŋgau,,,Grace1955pdfPN,,false,,,p.5 [of pdf]
 rera1240-1-1-1,,rera1240-1,1,ɡidei,ɡidei,,,Zgraggen1980RaiCoast,,false,,,p.92
 rera1240-1-2-1,,rera1240-1,2,ʌwil,ʌwil,,,Zgraggen1980RaiCoast,,false,,,p.92
 rian1263-1-1-1,,rian1263-1,1,mebö,mebö,,,Galis1955,,false,,,p.169
@@ -24647,6 +25261,17 @@ saus1246-1-10-1,,saus1246-1,10,hatailtowabunum,hatailtowabunum,,,AnonymousRamuB,
 saus1246-1-10-2,,saus1246-1,10,hatail,hatail,,,AnonymousRamuB,,false,,,"pp.2, 6"
 saus1246-2-1-1,,saus1246-2,1,ʌdrai,ʌdrai,,,Zgraggen1980RaiCoast,,false,,,p.92
 saus1246-2-2-1,,saus1246-2,2,aere,aere,,,Zgraggen1980RaiCoast,,false,,,p.92
+savo1255-1-1-1,,savo1255-1,1,e·la,e·la,,,Grace1955pdf46,,false,,,p.55
+savo1255-1-2-1,,savo1255-1,2,e·ndo,e·ndo,,,Grace1955pdf46,,false,,,p.55
+savo1255-1-3-1,,savo1255-1,3,iɣiva,iɣiva,,,Grace1955pdf46,,false,,,p.55
+savo1255-1-4-1,,savo1255-1,4,aɣava,aɣava,,,Grace1955pdf46,,false,,,p.55
+savo1255-1-5-1,,savo1255-1,5,a·ra,a·ra,,,Grace1955pdf46,,false,,,p.55
+savo1255-1-6-1,,savo1255-1,6,poɣoa,poɣoa,,,Grace1955pdf46,,false,,,p.55
+savo1255-1-7-1,,savo1255-1,7,poɣoro,poɣoro,,,Grace1955pdf46,,false,,,p.55
+savo1255-1-8-1,,savo1255-1,8,kui,kui,,,Grace1955pdf46,,false,,,p.55
+savo1255-1-9-1,,savo1255-1,9,kuava,kuava,,,Grace1955pdf46,,false,,,p.55
+savo1255-1-10-1,,savo1255-1,10,a·tale,a·tale,,,Grace1955pdf46,,false,,,p.55
+savo1255-1-100-1,,savo1255-1,100,ke·la,ke·la,,,Grace1955pdf46,,false,,,p.55
 sawa1247-1-1-1,,sawa1247-1,1,puso,puso,,,Teljeur1982,,false,,,pp.145-146
 sawa1247-1-2-1,,sawa1247-1,2,pelú,pelú,,,Teljeur1982,,false,,,pp.145-146
 sawa1247-1-3-1,,sawa1247-1,3,petēl,petēl,,,Teljeur1982,,false,,,pp.145-146
@@ -24859,6 +25484,26 @@ sege1235-1-11-1,,sege1235-1,11,[illegible],[illegible],,,Galis1955,,false,,,p.13
 sege1235-1-20-1,,sege1235-1,20,[?],[?],,,Galis1955,,false,,,p.137
 sege1235-1-30-1,,sege1235-1,30,[?],[?],,,Galis1955,,false,,,p.137
 sege1235-1-40-1,,sege1235-1,40,[?],[?],,,Galis1955,,false,,,p.137
+sege1235-2-1-1,,sege1235-2,1,yeto,yeto,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-2-1,,sege1235-2,2,ili,ili,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-3-1,,sege1235-2,3,klo,klo,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-4-1,,sege1235-2,4,fat,fat,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-5-1,,sege1235-2,5,mɔˈfɔt,mɔˈfɔt,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-6-1,,sege1235-2,6,nim,nim,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-7-1,,sege1235-2,7,uˈcu,uˈcu,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-8-1,,sege1235-2,8,wolo,wolo,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-9-1,,sege1235-2,9,si,si,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-10-1,,sege1235-2,10,puˈdɛ,puˈdɛ,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-11-1,,sege1235-2,11,puˈdɛ nɛŋglɛ yeto,puˈdɛ nɛŋglɛ yeto,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-20-1,,sege1235-2,20,putili,putili,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-30-1,,sege1235-2,30,putoˈklo,putoˈklo,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-40-1,,sege1235-2,40,puˈfat,puˈfat,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-50-1,,sege1235-2,50,pum̥ɔˈfɔt,pum̥ɔˈfɔt,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-60-1,,sege1235-2,60,putiˈnim,putiˈnim,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-70-1,,sege1235-2,70,putuˈcu,putuˈcu,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-80-1,,sege1235-2,80,putˈwal,putˈwal,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-90-1,,sege1235-2,90,putiˈsi,putiˈsi,,,Grace1956pdf37,,false,,,p.2 [of pdf]
+sege1235-2-100-1,,sege1235-2,100,cun,cun,,,Grace1956pdf37,,false,,,p.2 [of pdf]
 seim1238-1-1-1,,seim1238-1,1,tel,tel,,,LeanManus,,false,,,p.46
 seim1238-1-1-2,,seim1238-1,1,tehu,tehu,,,LeanManus,,false,,,p.46
 seim1238-1-2-1,,seim1238-1,2,huhua,huhua,,,LeanManus,,false,,,p.46
@@ -24914,6 +25559,23 @@ seit1239-1-200-1,,seit1239-1,200,œ́tœna lœwa,œ́tœna lœwa,,,vanHoevell187
 seit1239-1-1000-1,,seit1239-1,1000,œ́sate,œ́sate,,,vanHoevell1877,,false,,,pp.26-27
 seit1239-1-10000-1,,seit1239-1,10000,œ́sate-hœsa,œ́sate-hœsa,,,vanHoevell1877,,false,,,pp.26-27
 seit1239-1-100000-1,,seit1239-1,100000,œ́sate œ́tœne,œ́sate œ́tœne,,,vanHoevell1877,,false,,,pp.26-27
+seka1247-1-1-1,,seka1247-1,1,iˈsa,iˈsa,,,Grace1955pdf50,,false,,,p.126
+seka1247-1-2-1,,seka1247-1,2,ˈnua,ˈnua,,,Grace1955pdf50,,false,,,p.126
+seka1247-1-3-1,,seka1247-1,3,te·ni,te·ni,,,Grace1955pdf50,,false,,,p.126
+seka1247-1-4-1,,seka1247-1,4,fat,fat,,,Grace1955pdf50,,false,,,p.126
+seka1247-1-5-1,,seka1247-1,5,nima,nima,,,Grace1955pdf50,,false,,,p.126
+seka1247-1-6-1,,seka1247-1,6,nem,nem,,,Grace1955pdf50,,false,,,p.126
+seka1247-1-7-1,,seka1247-1,7,buˈteras,buˈteras,,,Grace1955pdf50,,false,,,p.126
+seka1247-1-8-1,,seka1247-1,8,beteˈrua,beteˈrua,,,Grace1955pdf50,,false,,,p.126
+seka1247-1-9-1,,seka1247-1,9,masˈbuti,masˈbuti,,,Grace1955pdf50,,false,,,p.126
+seka1247-1-10-1,,seka1247-1,10,busuˈa,busuˈa,,,Grace1955pdf50,,false,,,p.126
+seka1247-1-11-1,,seka1247-1,11,buˈsu̯a resirisa,buˈsu̯a resirisa,,,Grace1955pdf50,,false,,,p.126
+seka1247-1-20-1,,seka1247-1,20,tumataisa,tumataisa,,,Grace1955pdf50,,false,,,p.126
+seka1247-1-30-1,,seka1247-1,30,tumataisa buˈsu̯a,tumataisa buˈsu̯a,,,Grace1955pdf50,,false,,,p.126
+seka1247-1-40-1,,seka1247-1,40,tumataˈnua,tumataˈnua,,etc.,Grace1955pdf50,,false,,,p.126
+seka1247-1-100-1,,seka1247-1,100,ˈratisa,ˈratisa,,,Grace1955pdf50,,false,,,p.126
+seka1247-1-1000-1,,seka1247-1,1000,ˈripisa,ˈripisa,,seribu,Grace1955pdf50,,false,,,p.126
+seka1247-1-10000-1,,seka1247-1,10000,ˈsalakisa,ˈsalakisa,,sepuluh ribu,Grace1955pdf50,,false,,,p.126
 seka1248-1-1-1,,seka1248-1,1,ja,ja,,,Urquhart1955,,false,,,p.195
 seka1248-1-2-1,,seka1248-1,2,degua,degua,,,Urquhart1955,,false,,,p.195
 seka1248-1-3-1,,seka1248-1,3,tilau,tilau,,,Urquhart1955,,false,,,p.195
@@ -26087,6 +26749,21 @@ sobe1238-2-11-1,,sobe1238-2,11,sanafu(t)-tès,sanafu(t)-tès,,,Galis1955,,false,
 sobe1238-2-20-1,,sobe1238-2,20,daidu-sanafu(t),daidu-sanafu(t),,,Galis1955,,false,,,p.142
 sobe1238-2-30-1,,sobe1238-2,30,tou-sanafu(t),tou-sanafu(t),,,Galis1955,,false,,,p.142
 sobe1238-2-40-1,,sobe1238-2,40,fau-sanafu(t),fau-sanafu(t),,,Galis1955,,false,,,p.142
+sobe1238-3-1-1,,sobe1238-3,1,tes,tes,,satu,Grace1955pdf48,,false,,,p.32
+sobe1238-3-2-1,,sobe1238-3,2,daidu,daidu,,,Grace1955pdf48,,false,,,p.32
+sobe1238-3-3-1,,sobe1238-3,3,tou,tou,,,Grace1955pdf48,,false,,,p.32
+sobe1238-3-4-1,,sobe1238-3,4,fau,fau,,,Grace1955pdf48,,false,,,p.32
+sobe1238-3-5-1,,sobe1238-3,5,dim,dim,,,Grace1955pdf48,,false,,,p.32
+sobe1238-3-6-1,,sobe1238-3,6,dimtes,dimtes,,,Grace1955pdf48,,false,,,p.32
+sobe1238-3-7-1,,sobe1238-3,7,dimdaidu,dimdaidu,,,Grace1955pdf48,,false,,,p.32
+sobe1238-3-8-1,,sobe1238-3,8,dimtou,dimtou,,,Grace1955pdf48,,false,,,p.32
+sobe1238-3-9-1,,sobe1238-3,9,dimfau,dimfau,,,Grace1955pdf48,,false,,,p.32
+sobe1238-3-10-1,,sobe1238-3,10,snafut,snafut,,,Grace1955pdf48,,false,,,p.32
+sobe1238-3-11-1,,sobe1238-3,11,snafut tes,snafut tes,,sebelas,Grace1955pdf48,,false,,,p.32
+sobe1238-3-20-1,,sobe1238-3,20,snafut tara daidu,snafut tara daidu,,(tien mal twee),Grace1955pdf48,,false,,,p.32
+sobe1238-3-30-1,,sobe1238-3,30,snafut tara tou,snafut tara tou,,etc.,Grace1955pdf48,,false,,,p.32
+sobe1238-3-100-1,,sobe1238-3,100,snafut tara snafut,snafut tara snafut,,,Grace1955pdf48,,false,,,p.32
+sobe1238-3-21-1,,sobe1238-3,21,snafut tara daidu tes,snafut tara daidu tes,,,Grace1955pdf48,,false,,,p.32
 solo1257-1-1-1,,solo1257-1,1,mes,mes,,,Lean1985Vol03,,false,,,p.29
 solo1257-1-2-1,,solo1257-1,2,huenu,huenu,,,Lean1985Vol03,,false,,,p.29
 solo1257-1-3-1,,solo1257-1,3,huepis,huepis,,,Lean1985Vol03,,false,,,p.29
@@ -26156,6 +26833,20 @@ solo1258-3-17-1,,solo1258-3,17,sungul elmokip,sungul elmokip,,,Lean1985Vol04,,fa
 solo1258-3-20-1,,solo1258-3,20,sungul kip,sungul kip,,,Lean1985Vol04,,false,,,p.88
 solo1258-3-30-1,,solo1258-3,30,sungul moiok,sungul moiok,,,Lean1985Vol04,,false,,,p.88
 solo1258-3-100-1,,solo1258-3,100,wuno,wuno,,,Lean1985Vol04,,false,,,p.88
+solo1258-4-1-1,,solo1258-4,1,nɛkɛŋɛn,nɛkɛŋɛn,,,Grace1955pdf45,,false,,,p.11
+solo1258-4-2-1,,solo1258-4,2,kip,kip,,,Grace1955pdf45,,false,,,p.11
+solo1258-4-3-1,,solo1258-4,3,mɔi̯ɔk,mɔi̯ɔk,,,Grace1955pdf45,,false,,,p.11
+solo1258-4-4-1,,solo1258-4,4,pɛŋ,pɛŋ,,,Grace1955pdf45,,false,,,p.11
+solo1258-4-5-1,,solo1258-4,5,lu̯im,lu̯im,,,Grace1955pdf45,,false,,,p.11
+solo1258-4-6-1,,solo1258-4,6,ɛlmɔkɛ,ɛlmɔkɛ,,,Grace1955pdf45,,false,,,p.11
+solo1258-4-7-1,,solo1258-4,7,ɛlmɔkip,ɛlmɔkip,,,Grace1955pdf45,,false,,,p.11
+solo1258-4-8-1,,solo1258-4,8,ɛlmɔi̯ɔk,ɛlmɔi̯ɔk,,,Grace1955pdf45,,false,,,p.11
+solo1258-4-9-1,,solo1258-4,9,ɛlmɔpɛŋ,ɛlmɔpɛŋ,,,Grace1955pdf45,,false,,,p.11
+solo1258-4-10-1,,solo1258-4,10,suŋul,suŋul,,,Grace1955pdf45,,false,,,p.11
+solo1258-4-11-1,,solo1258-4,11,suŋul nɔnɛkɛ,suŋul nɔnɛkɛ,,,Grace1955pdf45,,false,,,p.11
+solo1258-4-20-1,,solo1258-4,20,suŋul kip,suŋul kip,,,Grace1955pdf45,,false,,,p.11
+solo1258-4-30-1,,solo1258-4,30,suŋul mɔi̯ɔk,suŋul mɔi̯ɔk,,,Grace1955pdf45,,false,,,p.11
+solo1258-4-100-1,,solo1258-4,100,u̯ɔnɔ,u̯ɔnɔ,,,Grace1955pdf45,,false,,,p.11
 somm1240-1-1-1,,somm1240-1,1,koweran,koweran,,,Smith1988,,false,,,p.97
 somm1240-1-2-1,,somm1240-1,2,yarə,yarə,,,Smith1988,,false,,,p.97
 somm1240-1-3-1,,somm1240-1,3,kabmə,kabmə,,,Smith1988,,false,,,p.97
@@ -26837,6 +27528,14 @@ sulk1246-2-6-1,,sulk1246-2,6,a-ktiek hori orom a-t-ɡi-anɡ,a-ktiek hori orom a-
 sulk1246-2-11-1,,sulk1246-2,11,lo-ktiek hori orom a-t-ɡi-anɡ,lo-ktiek hori orom a-t-ɡi-anɡ,,dl.PNI-hand plus PR.with sg.NNI-one-just-one,Tharp1996,,false,,,"pp.110, 122"
 sulk1246-2-20-1,,sulk1246-2,20,mhel-om,mhel-om,,man-NI,Tharp1996,,false,,,"pp.110, 122"
 sulk1246-2-21-1,,sulk1246-2,21,mhel-om hori orom a-t-ɡi-anɡ,mhel-om hori orom a-t-ɡi-anɡ,,man-NI plus PR.with sg.NNI-one-just-one,Tharp1996,,false,,,"pp.110, 122"
+sulk1246-3-1-1,,sulk1246-3,1,tkiaŋ,tkiaŋ,,,Grace1955pdf47,,false,,,p.121
+sulk1246-3-2-1,,sulk1246-3,2,alomin,alomin,,,Grace1955pdf47,,false,,,p.121
+sulk1246-3-3-1,,sulk1246-3,3,kurlotge,kurlotge,,,Grace1955pdf47,,false,,,p.121
+sulk1246-3-4-1,,sulk1246-3,4,korlolo,korlolo,,,Grace1955pdf47,,false,,,p.121
+sulk1246-3-5-1,,sulk1246-3,5,aktiek,aktiek,,,Grace1955pdf47,,false,,,p.121
+sulk1246-3-6-1,,sulk1246-3,6,aktiek hɔri ɔrɔm atkiaŋ,aktiek hɔri ɔrɔm atkiaŋ,,,Grace1955pdf47,,false,,,p.121
+sulk1246-3-7-1,,sulk1246-3,7,aktiek hɔri ɔrɔm alomin,aktiek hɔri ɔrɔm alomin,,(etc.),Grace1955pdf47,,false,,,p.121
+sulk1246-3-10-1,,sulk1246-3,10,loktiek,loktiek,,,Grace1955pdf47,,false,,,p.121
 sulo1237-1-1-1,,sulo1237-1,1,tɑʔɑsɑ,tɑʔɑsɑ,,,Anonymous1961,,false,,,pp.3-7
 sulo1237-1-2-1,,sulo1237-1,2,dɛrɑwɛi,dɛrɑwɛi,,,Anonymous1961,,false,,,pp.3-7
 sulo1237-1-3-1,,sulo1237-1,3,titlo,titlo,,,Anonymous1961,,false,,,pp.3-7
@@ -27101,6 +27800,16 @@ tagb1258-1-8-1,,tagb1258-1,8,walu,walu,,,Thiessen1980,,false,,,pp.72-78
 tagb1258-1-9-1,,tagb1258-1,9,siam,siam,,,Thiessen1980,,false,,,pp.72-78
 tagb1258-1-10-1,,tagb1258-1,10,pulu,pulu,,,Thiessen1980,,false,,,pp.72-78
 tagb1258-1-100-1,,tagb1258-1,100,ɡatus,ɡatus,,,Thiessen1980,,false,,,pp.72-78
+tahi1242-1-1-1,,tahi1242-1,1,ˈhoʔe,ˈhoʔe,,,Grace1955pdfRenown,,false,,,p.9 [of pdf]
+tahi1242-1-2-1,,tahi1242-1,2,ˈpiti,ˈpiti,,,Grace1955pdfRenown,,false,,,p.9 [of pdf]
+tahi1242-1-3-1,,tahi1242-1,3,ˈtoru,ˈtoru,,,Grace1955pdfRenown,,false,,,p.9 [of pdf]
+tahi1242-1-4-1,,tahi1242-1,4,maha,maha,,,Grace1955pdfRenown,,false,,,p.9 [of pdf]
+tahi1242-1-5-1,,tahi1242-1,5,ˈpae,ˈpae,,,Grace1955pdfRenown,,false,,,p.9 [of pdf]
+tahi1242-1-6-1,,tahi1242-1,6,ˈono,ˈono,,,Grace1955pdfRenown,,false,,,p.9 [of pdf]
+tahi1242-1-7-1,,tahi1242-1,7,ˈhitu,ˈhitu,,,Grace1955pdfRenown,,false,,,p.9 [of pdf]
+tahi1242-1-8-1,,tahi1242-1,8,ˈvaʔu,ˈvaʔu,,,Grace1955pdfRenown,,false,,,p.9 [of pdf]
+tahi1242-1-9-1,,tahi1242-1,9,ˈiva,ˈiva,,,Grace1955pdfRenown,,false,,,p.9 [of pdf]
+tahi1242-1-10-1,,tahi1242-1,10,aˈhuru,aˈhuru,,,Grace1955pdfRenown,,false,,,p.9 [of pdf]
 taia1239-1-1-1,,taia1239-1,1,nɑmbɑr,nɑmbɑr,,,Zgraggen1972,,false,,,pp.215-219
 taia1239-1-2-1,,taia1239-1,2,senɑ,senɑ,,,Zgraggen1972,,false,,,pp.215-219
 taia1239-1-3-1,,taia1239-1,3,mɑnɑ́u̯,mɑnɑ́u̯,,,Zgraggen1972,,false,,,pp.215-219
@@ -27321,6 +28030,16 @@ taku1257-1-200-2,,taku1257-1,200,sehua e lua,sehua e lua,,,Lean1985Vol03,,false,
 taku1257-1-300-1,,taku1257-1,300,toru na rau,toru na rau,,,Lean1985Vol03,,false,,,p.23
 taku1257-1-300-2,,taku1257-1,300,sehua e toru,sehua e toru,,,Lean1985Vol03,,false,,,p.23
 taku1257-1-1000-1,,taku1257-1,1000,simata,simata,,,Lean1985Vol03,,false,,,p.23
+taku1258-1-1-1,,taku1258-1,1,etasi,etasi,,,Grace1955pdfRenown,,false,,,p.16 [of pdf]
+taku1258-1-2-1,,taku1258-1,2,erua,erua,,,Grace1955pdfRenown,,false,,,p.16 [of pdf]
+taku1258-1-3-1,,taku1258-1,3,etolu,etolu,,,Grace1955pdfRenown,,false,,,p.16 [of pdf]
+taku1258-1-4-1,,taku1258-1,4,eha·,eha·,,,Grace1955pdfRenown,,false,,,p.16 [of pdf]
+taku1258-1-5-1,,taku1258-1,5,erima,erima,,,Grace1955pdfRenown,,false,,,p.16 [of pdf]
+taku1258-1-6-1,,taku1258-1,6,eono,eono,,,Grace1955pdfRenown,,false,,,p.16 [of pdf]
+taku1258-1-7-1,,taku1258-1,7,ehitu,ehitu,,,Grace1955pdfRenown,,false,,,p.16 [of pdf]
+taku1258-1-8-1,,taku1258-1,8,evaru,evaru,,,Grace1955pdfRenown,,false,,,p.16 [of pdf]
+taku1258-1-9-1,,taku1258-1,9,esiva,esiva,,,Grace1955pdfRenown,,false,,,p.16 [of pdf]
+taku1258-1-10-1,,taku1258-1,10,hanahuru,hanahuru,,,Grace1955pdfRenown,,false,,,p.16 [of pdf]
 tala1285-1-1-1,,tala1285-1,1,eṣ'a,eṣ'a,,,Stokhof1982Vol4,,false,,,pp.57-58
 tala1285-1-2-1,,tala1285-1,2,doea,doea,,,Stokhof1982Vol4,,false,,,pp.57-58
 tala1285-1-3-1,,tala1285-1,3,tēḷ'oe,tēḷ'oe,,,Stokhof1982Vol4,,false,,,pp.57-58
@@ -27543,6 +28262,12 @@ tana1288-1-9-1,,tana1288-1,9,ketasenivanitabo,ketasenivanitabo,,,Galis1960,,fals
 tana1288-1-10-1,,tana1288-1,10,ketasvani,ketasvani,,,Galis1960,,false,,,p.139
 tana1288-1-11-1,,tana1288-1,11,kereunasunadu,kereunasunadu,,,Galis1960,,false,,,p.139
 tana1288-1-11-2,,tana1288-1,11,kivisinadu,kivisinadu,,,Galis1960,,false,,,p.139
+tana1288-2-1-1,,tana1288-2,1,na·duma,na·duma,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+tana1288-2-2-1,,tana1288-2,2,woni·ˈtəbo,woni·ˈtəbo,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+tana1288-2-3-1,,tana1288-2,3,tife·ni,tife·ni,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+tana1288-2-4-1,,tana1288-2,4,woni·tuinˈtəbo,woni·tuinˈtəbo,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+tana1288-2-5-1,,tana1288-2,5,keˈtasˈnadu,keˈtasˈnadu,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+tana1288-2-10-1,,tana1288-2,10,keˈtawani,keˈtawani,,,Grace1955pdf50,,false,,,p.55 [of pdf]
 tand1253-1-1-1,,tand1253-1,1,nei,nei,,,Ray1912,,false,,,pp.340-341
 tand1253-1-2-1,,tand1253-1,2,rusi,rusi,,,Ray1912,,false,,,pp.340-341
 tand1253-1-3-1,,tand1253-1,3,turusi,turusi,,,Ray1912,,false,,,pp.340-341
@@ -28603,6 +29328,17 @@ toba1266-4-8-1,,toba1266-4,8,rondisnika,rondisnika,,,Ray1919,,false,,,p.328
 toba1266-4-9-1,,toba1266-4,9,rondumi-nase,rondumi-nase,,,Ray1919,,false,,,p.328
 toba1266-4-10-1,,toba1266-4,10,rondu-minarōs,rondu-minarōs,,,Ray1919,,false,,,p.328
 toba1266-4-20-1,,toba1266-4,20,manisa-yām,manisa-yām,,,Ray1919,,false,,,p.328
+toba1266-5-1-1,,toba1266-5,1,tei,tei,,satu,Grace1955pdf24,,false,,,p.2 [of pdf]
+toba1266-5-2-1,,toba1266-5,2,ros,ros,,,Grace1955pdf24,,false,,,p.2 [of pdf]
+toba1266-5-3-1,,toba1266-5,3,tor,tor,,,Grace1955pdf24,,false,,,p.2 [of pdf]
+toba1266-5-4-1,,toba1266-5,4,au̯,au̯,,,Grace1955pdf24,,false,,,p.2 [of pdf]
+toba1266-5-5-1,,toba1266-5,5,m(i)niam,m(i)niam,,,Grace1955pdf24,,false,,,p.2 [of pdf]
+toba1266-5-6-1,,toba1266-5,6,mandosim,mandosim,,,Grace1955pdf24,,false,,,p.2 [of pdf]
+toba1266-5-7-1,,toba1266-5,7,ti̯amaka rondu,ti̯amaka rondu,,,Grace1955pdf24,,false,,,p.2 [of pdf]
+toba1266-5-8-1,,toba1266-5,8,rondu,rondu,,,Grace1955pdf24,,false,,,p.2 [of pdf]
+toba1266-5-9-1,,toba1266-5,9,ronduk manitei,ronduk manitei,,,Grace1955pdf24,,false,,,p.2 [of pdf]
+toba1266-5-10-1,,toba1266-5,10,ronduk maniros,ronduk maniros,,,Grace1955pdf24,,false,,,p.2 [of pdf]
+toba1266-5-11-1,,toba1266-5,11,ti̯ama(ka) vator,ti̯ama(ka) vator,,,Grace1955pdf24,,false,,,p.2 [of pdf]
 tobi1239-1-1-1,,tobi1239-1,1,isoʔ,isoʔ,,,Lobel2016,,false,,,pp.234-239
 tobi1239-1-2-1,,tobi1239-1,2,duo,duo,,,Lobel2016,,false,,,pp.234-239
 tobi1239-1-3-1,,tobi1239-1,3,tolu,tolu,,,Lobel2016,,false,,,pp.234-239
@@ -28950,6 +29686,27 @@ tomi1243-1-300-1,,tomi1243-1,300,tolugatusE,tolugatusE,,,Himmelmann2001,,false,,
 tomi1243-1-1000-1,,tomi1243-1,1000,selibu,selibu,,,Himmelmann2001,,false,,,pp.101-104
 tomi1243-1-1220-1,,tomi1243-1,1220,selibu ma doogatus ma doopulu,selibu ma doogatus ma doopulu,,,Himmelmann2001,,false,,,pp.101-104
 tomi1243-1-2000-1,,tomi1243-1,2000,dooribu,dooribu,,,Himmelmann2001,,false,,,pp.101-104
+tomo1244-1-1-1,,tomo1244-1,1,denan,denan,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-2-1,,tomo1244-1,2,(h)ɔru,(h)ɔru,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-3-1,,tomo1244-1,3,(h)ɔrumdetu,(h)ɔrumdetu,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-4-1,,tomo1244-1,4,(h)ɔrumohɔru,(h)ɔrumohɔru,,[cf. p.85: <hɔromohɔro> ‘four legged animals (?)’],Grace1955pdf44,,false,,,p.87
+tomo1244-1-5-1,,tomo1244-1,5,ko lie̯m,ko lie̯m,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-5-2,,tomo1244-1,5,kolie̯m,kolie̯m,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-6-1,,tomo1244-1,6,denankɛ·n,denankɛ·n,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-7-1,,tomo1244-1,7,hɔrukɛn,hɔrukɛn,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-8-1,,tomo1244-1,8,hɔrumdetukɛn,hɔrumdetukɛn,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-9-1,,tomo1244-1,9,hɔruhɔrukɛ·n,hɔruhɔrukɛ·n,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-10-1,,tomo1244-1,10,timdel,timdel,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-11-1,,tomo1244-1,11,timdel denan,timdel denan,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-20-1,,tomo1244-1,20,r·omr·o tamdel,r·omr·o tamdel,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-30-1,,tomo1244-1,30,r·omr·om detu,r·omr·om detu,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-40-1,,tomo1244-1,40,r·omr·o r·omr·o,r·omr·o r·omr·o,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-50-1,,tomo1244-1,50,lie̯m,lie̯m,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-60-1,,tomo1244-1,60,lie̯m asi,lie̯m asi,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-70-1,,tomo1244-1,70,r·oliem kɛre,r·oliem kɛre,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-80-1,,tomo1244-1,80,r·oliem kɛre moden·an,r·oliem kɛre moden·an,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-90-1,,tomo1244-1,90,r·oliem kɛre mɔhɔro,r·oliem kɛre mɔhɔro,,,Grace1955pdf44,,false,,,p.87
+tomo1244-1-100-1,,tomo1244-1,100,r·omr·o tamdel,r·omr·o tamdel,,,Grace1955pdf44,,false,,,p.87
 tond1251-1-1-1,,tond1251-1,1,Ěsa,Ěsa,,,Stokhof1983Vol7.2,,false,,,pp.131-132
 tond1251-1-2-1,,tond1251-1,2,Roea,Roea,,,Stokhof1983Vol7.2,,false,,,pp.131-132
 tond1251-1-3-1,,tond1251-1,3,Těloe,Těloe,,,Stokhof1983Vol7.2,,false,,,pp.131-132
@@ -29044,6 +29801,18 @@ tond1251-3-90-1,,tond1251-3,90,mapulu' wo siuw,mapulu' wo siuw,,,Stokhof1983Vol7
 tond1251-3-100-1,,tond1251-3,100,maatus,maatus,,,Stokhof1983Vol7.2,,false,,,pp.166-167
 tond1251-3-1000-1,,tond1251-3,1000,mariuw,mariuw,,,Stokhof1983Vol7.2,,false,,,pp.166-167
 tond1251-3-10000-1,,tond1251-3,10000,mapulu' nga riuw,mapulu' nga riuw,,,Stokhof1983Vol7.2,,false,,,pp.166-167
+tong1325-1-1-1,,tong1325-1,1,taha,taha,,,Grace1955pdfRenown,,false,,,p.8 [of pdf]
+tong1325-1-2-1,,tong1325-1,2,ua,ua,,,Grace1955pdfRenown,,false,,,p.8 [of pdf]
+tong1325-1-3-1,,tong1325-1,3,ˈtolu,ˈtolu,,,Grace1955pdfRenown,,false,,,p.8 [of pdf]
+tong1325-1-4-1,,tong1325-1,4,fa,fa,,,Grace1955pdfRenown,,false,,,p.8 [of pdf]
+tong1325-1-5-1,,tong1325-1,5,ˈnima,ˈnima,,,Grace1955pdfRenown,,false,,,p.8 [of pdf]
+tong1325-1-6-1,,tong1325-1,6,ˈono,ˈono,,,Grace1955pdfRenown,,false,,,p.8 [of pdf]
+tong1325-1-7-1,,tong1325-1,7,ˈfitu,ˈfitu,,,Grace1955pdfRenown,,false,,,p.8 [of pdf]
+tong1325-1-8-1,,tong1325-1,8,ˈvalu,ˈvalu,,,Grace1955pdfRenown,,false,,,p.8 [of pdf]
+tong1325-1-9-1,,tong1325-1,9,ˈhiva,ˈhiva,,,Grace1955pdfRenown,,false,,,p.8 [of pdf]
+tong1325-1-10-1,,tong1325-1,10,hoŋofulu,hoŋofulu,,,Grace1955pdfRenown,,false,,,p.8 [of pdf]
+tong1325-1-20-1,,tong1325-1,20,uafulu,uafulu,,,Grace1955pdfRenown,,false,,,p.8 [of pdf]
+tong1325-1-100-1,,tong1325-1,100,teˈau,teˈau,,,Grace1955pdfRenown,,false,,,p.8 [of pdf]
 tons1239-1-1-1,,tons1239-1,1,ěsa,ěsa,,,Stokhof1983Vol7.2,,false,,,p.265
 tons1239-1-2-1,,tons1239-1,2,doea,doea,,,Stokhof1983Vol7.2,,false,,,p.265
 tons1239-1-3-1,,tons1239-1,3,těḷoe,těḷoe,,,Stokhof1983Vol7.2,,false,,,p.265
@@ -29648,6 +30417,25 @@ tung1290-2-7-1,,tung1290-2,7,lengó,lengó,,,Schnee1901,,false,,,p.268
 tung1290-2-8-1,,tung1290-2,8,letul,letul,,,Schnee1901,,false,,,p.268
 tung1290-2-9-1,,tung1290-2,9,leat,leat,,,Schnee1901,,false,,,p.268
 tung1290-2-10-1,,tung1290-2,10,sangahuli,sangahuli,,,Schnee1901,,false,,,p.268
+tung1290-3-1-1,,tung1290-3,1,sigeik,sigeik,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-2-1,,tung1290-3,2,aŋu̯a,aŋu̯a,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-3-1,,tung1290-3,3,atɔl,atɔl,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-4-1,,tung1290-3,4,apu̯at,apu̯at,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-5-1,,tung1290-3,5,alima,alima,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-6-1,,tung1290-3,6,lɛsigɛi,lɛsigɛi,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-7-1,,tung1290-3,7,lɛŋu̯a,lɛŋu̯a,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-8-1,,tung1290-3,8,lɛtɔl,lɛtɔl,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-9-1,,tung1290-3,9,lɛat,lɛat,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-10-1,,tung1290-3,10,saŋauli,saŋauli,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-11-1,,tung1290-3,11,poŋu̯a,poŋu̯a,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-20-1,,tung1290-3,20,poŋu̯anasaŋau̯li,poŋu̯anasaŋau̯li,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-30-1,,tung1290-3,30,potolasaŋau̯li,potolasaŋau̯li,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-50-1,,tung1290-3,50,palpalimanasaŋau̯li,palpalimanasaŋau̯li,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-60-1,,tung1290-3,60,limalɛsigɛisaŋau̯li,limalɛsigɛisaŋau̯li,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-70-1,,tung1290-3,70,limalɛŋu̯anasaŋau̯li,limalɛŋu̯anasaŋau̯li,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-80-1,,tung1290-3,80,limalɛtolnasaŋau̯li,limalɛtolnasaŋau̯li,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-90-1,,tung1290-3,90,limaleatasaŋau̯li,limaleatasaŋau̯li,,,Grace1955pdf43,,false,,,p.63
+tung1290-3-100-1,,tung1290-3,100,lɛlɛmsaŋau̯li,lɛlɛmsaŋau̯li,,,Grace1955pdf43,,false,,,p.63
 tung1293-1-1-1,,tung1293-1,1,duá,duá,,,Galis1955,,false,,,p.141
 tung1293-1-2-1,,tung1293-1,2,amaitè,amaitè,,,Galis1955,,false,,,p.141
 tung1293-1-3-1,,tung1293-1,3,duátè,duátè,,,Galis1955,,false,,,p.141
@@ -30109,6 +30897,28 @@ urua1244-1-9-1,,urua1244-1,9,seputi,seputi,,,Galis1960,,false,,,p.139
 urua1244-1-10-1,,urua1244-1,10,putisá,putisá,,,Galis1960,,false,,,p.139
 urua1244-1-11-1,,urua1244-1,11,putisa-resin-sá,putisa-resin-sá,,,Galis1960,,false,,,p.139
 urua1244-1-20-1,,urua1244-1,20,putinua,putinua,,,Galis1960,,false,,,p.139
+urua1244-2-1-1,,urua1244-2,1,sa,sa,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-2-1,,urua1244-2,2,ˈnua,ˈnua,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-3-1,,urua1244-2,3,ˈteˈni,ˈteˈni,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-4-1,,urua1244-2,4,fa·t,fa·t,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-5-1,,urua1244-2,5,ˈnima,ˈnima,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-6-1,,urua1244-2,6,nem,nem,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-7-1,,urua1244-2,7,taraŋˈsa,taraŋˈsa,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-8-1,,urua1244-2,8,teriˈnua,teriˈnua,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-8-2,,urua1244-2,8,teraˈnua,teraˈnua,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-9-1,,urua1244-2,9,saˈputi,saˈputi,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-10-1,,urua1244-2,10,ˈpuˈca,ˈpuˈca,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-10-2,,urua1244-2,10,pusˈwa,pusˈwa,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-11-1,,urua1244-2,11,ˈpuˈca resinˈsa,ˈpuˈca resinˈsa,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-20-1,,urua1244-2,20,putiˈnua,putiˈnua,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-30-1,,urua1244-2,30,puˈte·ni,puˈte·ni,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-40-1,,urua1244-2,40,putiˈfat,putiˈfat,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-50-1,,urua1244-2,50,putiˈnima,putiˈnima,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-60-1,,urua1244-2,60,putinem,putinem,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-70-1,,urua1244-2,70,putaraŋˈsa,putaraŋˈsa,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-80-1,,urua1244-2,80,puteriˈnua,puteriˈnua,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-90-1,,urua1244-2,90,ˈpuˈcaˈputi,ˈpuˈcaˈputi,,,Grace1955pdf50,,false,,,p.135
+urua1244-2-100-1,,urua1244-2,100,raˈca,raˈca,,,Grace1955pdf50,,false,,,p.135
 usan1239-1-1-1,,usan1239-1,1,ɡʌri,ɡʌri,,,Zgraggen1980NorthernAdelbert,,false,,,p.92
 usan1239-1-2-1,,usan1239-1,2,ʌmbur,ʌmbur,,,Zgraggen1980NorthernAdelbert,,false,,,p.92
 usar1243-1-1-1,,usar1243-1,1,morama,morama,,nominal suffix ‘-ma’,Lean1986Vol08,,false,,,p.44
@@ -30373,6 +31183,19 @@ waig1244-2-11-1,,waig1244-2,11,lahè-mae-kitem,lahè-mae-kitem,,,Galis1955,,fals
 waig1244-2-20-1,,waig1244-2,20,lahè-loü,lahè-loü,,,Galis1955,,false,,,p.138
 waig1244-2-30-1,,waig1244-2,30,lahè-tul,lahè-tul,,,Galis1955,,false,,,p.138
 waig1244-2-40-1,,waig1244-2,40,lahè-fat,lahè-fat,,,Galis1955,,false,,,p.138
+waig1244-3-1-1,,waig1244-3,1,ketim,ketim,,,Grace1956pdf34,,false,,,p.8 [of pdf]
+waig1244-3-2-1,,waig1244-3,2,lou,lou,,,Grace1956pdf34,,false,,,p.8 [of pdf]
+waig1244-3-3-1,,waig1244-3,3,tul,tul,,,Grace1956pdf34,,false,,,p.8 [of pdf]
+waig1244-3-4-1,,waig1244-3,4,fat,fat,,,Grace1956pdf34,,false,,,p.8 [of pdf]
+waig1244-3-5-1,,waig1244-3,5,lim,lim,,,Grace1956pdf34,,false,,,p.8 [of pdf]
+waig1244-3-6-1,,waig1244-3,6,wanum,wanum,,,Grace1956pdf34,,false,,,p.8 [of pdf]
+waig1244-3-7-1,,waig1244-3,7,fit,fit,,,Grace1956pdf34,,false,,,p.8 [of pdf]
+waig1244-3-8-1,,waig1244-3,8,wal,wal,,,Grace1956pdf34,,false,,,p.8 [of pdf]
+waig1244-3-9-1,,waig1244-3,9,siˈu,siˈu,,,Grace1956pdf34,,false,,,p.8 [of pdf]
+waig1244-3-10-1,,waig1244-3,10,lafɛ,lafɛ,,,Grace1956pdf34,,false,,,p.8 [of pdf]
+waig1244-3-11-1,,waig1244-3,11,lafɛ maikitim,lafɛ maikitim,,,Grace1956pdf34,,false,,,p.8 [of pdf]
+waig1244-3-20-1,,waig1244-3,20,lafɛ lou,lafɛ lou,,,Grace1956pdf34,,false,,,p.8 [of pdf]
+waig1244-3-100-1,,waig1244-3,100,wuˈtun,wuˈtun,,,Grace1956pdf34,,false,,,p.8 [of pdf]
 waim1251-1-1-1,,waim1251-1,1,hamomo,hamomo,,,Lean1986Vol07,,false,,,p.22
 waim1251-1-2-1,,waim1251-1,2,rua,rua,,,Lean1986Vol07,,false,,,p.22
 waim1251-1-3-1,,waim1251-1,3,aihau,aihau,,,Lean1986Vol07,,false,,,p.22
@@ -30435,6 +31258,16 @@ wakd1237-2-3-1,,wakd1237-2,3,tou,tou,,,Galis1955,,false,,,p.142
 wakd1237-2-4-1,,wakd1237-2,4,fau,fau,,,Galis1955,,false,,,p.142
 wakd1237-2-5-1,,wakd1237-2,5,rim,rim,,,Galis1955,,false,,,p.142
 wakd1237-2-5-2,,wakd1237-2,5,lim,lim,,,Galis1955,,false,,,p.142
+wakd1237-3-1-1,,wakd1237-3,1,hibeti,hibeti,,satu,Grace1955pdf23,,false,,,p.13 [of pdf]
+wakd1237-3-2-1,,wakd1237-3,2,ru,ru,,,Grace1955pdf23,,false,,,p.13 [of pdf]
+wakd1237-3-3-1,,wakd1237-3,3,tou̯,tou̯,,,Grace1955pdf23,,false,,,p.13 [of pdf]
+wakd1237-3-4-1,,wakd1237-3,4,fau̯,fau̯,,,Grace1955pdf23,,false,,,p.13 [of pdf]
+wakd1237-3-5-1,,wakd1237-3,5,mimfarfaru,mimfarfaru,,,Grace1955pdf23,,false,,,p.13 [of pdf]
+wakd1237-3-6-1,,wakd1237-3,6,mimfaruar hibeti,mimfaruar hibeti,,,Grace1955pdf23,,false,,,p.13 [of pdf]
+wakd1237-3-7-1,,wakd1237-3,7,mimfaruar ru,mimfaruar ru,,,Grace1955pdf23,,false,,,p.13 [of pdf]
+wakd1237-3-8-1,,wakd1237-3,8,mimfaruar tou̯,mimfaruar tou̯,,,Grace1955pdf23,,false,,,p.13 [of pdf]
+wakd1237-3-9-1,,wakd1237-3,9,mimfaruar fau,mimfaruar fau,,,Grace1955pdf23,,false,,,p.13 [of pdf]
+wakd1237-3-10-1,,wakd1237-3,10,mimfarumfarum,mimfarumfarum,,[second and third <m> written above carets],Grace1955pdf23,,false,,,p.13 [of pdf]
 wama1247-1-1-1,,wama1247-1,1,nonogɔta,nonogɔta,,,Zgraggen1980Mabuso,,false,,,p.92
 wama1247-1-2-1,,wama1247-1,2,ʌritʌ,ʌritʌ,,,Zgraggen1980Mabuso,,false,,,p.92
 wamb1259-1-1-1,,wamb1259-1,1,sanoop,sanoop,,,Stokhof1982Vol5.1,,false,,,p.120
@@ -30473,6 +31306,11 @@ wamp1247-3-3-1,,wamp1247-3,3,serok oroch,serok oroch,,2 + 1,LeanMorobe,,false,,,
 wamp1247-3-4-1,,wamp1247-3,4,serok a serok,serok a serok,,2 + 2,LeanMorobe,,false,,,pp.38-39
 wamp1247-3-5-1,,wamp1247-3,5,bangid ongan,bangid ongan,,‘a hand-my’,LeanMorobe,,false,,,pp.38-39
 wamp1247-3-10-1,,wamp1247-3,10,bangid serok,bangid serok,,‘hand(s)-my two’,LeanMorobe,,false,,,pp.38-39
+wamp1247-4-1-1,,wamp1247-4,1,ɔrɔts,ɔrɔts,,,Grace1955pdf51,,false,,,p.31
+wamp1247-4-2-1,,wamp1247-4,2,sɛrɔk,sɛrɔk,,,Grace1955pdf51,,false,,,p.31
+wamp1247-4-3-1,,wamp1247-4,3,sɛrɔk ɔrɔts,sɛrɔk ɔrɔts,,,Grace1955pdf51,,false,,,p.31
+wamp1247-4-4-1,,wamp1247-4,4,sɛrɔk asɛrɔk,sɛrɔk asɛrɔk,,,Grace1955pdf51,,false,,,p.31
+wamp1247-4-5-1,,wamp1247-4,5,sɛrɔk asɛrɔk ɔrɔts,sɛrɔk asɛrɔk ɔrɔts,,,Grace1955pdf51,,false,,,p.31
 wamp1248-1-1-1,,wamp1248-1,1,bisangcwa,bisangcwa,,,Smith1988,,false,,,pp.68-69
 wamp1248-1-2-1,,wamp1248-1,2,iriciru,iriciru,,,Smith1988,,false,,,pp.68-69
 wamp1248-1-3-1,,wamp1248-1,3,iruc a bits,iruc a bits,,,Smith1988,,false,,,pp.68-69
@@ -30638,6 +31476,29 @@ wand1267-5-60-1,,wand1267-5,60,sura di rimsiri,sura di rimsiri,,,Stokhof1982Vol5
 wand1267-5-100-1,,wand1267-5,100,utin,utin,,,Stokhof1982Vol5.1,,false,,,pp.74-75
 wand1267-5-1000-1,,wand1267-5,1000,sjaran,sjaran,,,Stokhof1982Vol5.1,,false,,,pp.74-75
 wand1267-5-10000-1,,wand1267-5,10000,sjaran di sura,sjaran di sura,,,Stokhof1982Vol5.1,,false,,,pp.74-75
+wand1267-6-1-1,,wand1267-6,1,si·ri,si·ri,,,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-6-2-1,,wand1267-6,2,mo·ndu,mo·ndu,,,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-6-3-1,,wand1267-6,3,to·ru,to·ru,,,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-6-4-1,,wand1267-6,4,at(e),at(e),,,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-6-5-1,,wand1267-6,5,rim,rim,,,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-6-6-1,,wand1267-6,6,rime si·ri,rime si·ri,,,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-6-7-1,,wand1267-6,7,rime mo·ndu,rime mo·ndu,,,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-6-8-1,,wand1267-6,8,rime to·ru,rime to·ru,,,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-6-9-1,,wand1267-6,9,rimat,rimat,,,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-6-10-1,,wand1267-6,10,su·ra,su·ra,,,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-6-11-1,,wand1267-6,11,sura si·ri,sura si·ri,,,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-6-20-1,,wand1267-6,20,siñoto si·ri,siñoto si·ri,,,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-6-30-1,,wand1267-6,30,si·noto si·ri vemandu su·ra,si·noto si·ri vemandu su·ra,,etc.,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-6-100-1,,wand1267-6,100,ratu si·ri,ratu si·ri,,,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-6-100-2,,wand1267-6,100,siñotu rim,siñotu rim,,,Grace1956pdf27,,false,,,p.9 [of pdf]
+wand1267-7-1-1,,wand1267-7,1,siri,siri,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+wand1267-7-2-1,,wand1267-7,2,ma·ndu,ma·ndu,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+wand1267-7-3-1,,wand1267-7,3,to·ru,to·ru,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+wand1267-7-4-1,,wand1267-7,4,a·te,a·te,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+wand1267-7-5-1,,wand1267-7,5,rim,rim,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+wand1267-7-6-1,,wand1267-7,6,rimesiri,rimesiri,,,Grace1955pdf50,,false,,,p.55 [of pdf]
+wand1267-7-7-1,,wand1267-7,7,rimemo·ndu,rimemo·ndu,,etc.,Grace1955pdf50,,false,,,p.55 [of pdf]
+wand1267-7-10-1,,wand1267-7,10,sura,sura,,,Grace1955pdf50,,false,,,p.55 [of pdf]
 want1252-1-1-1,,want1252-1,1,bat,bat,,,Smith1988,,false,,,p.93
 want1252-1-2-1,,want1252-1,2,yara,yara,,,Smith1988,,false,,,p.93
 want1252-1-3-1,,want1252-1,3,yara bat,yara bat,,2 + 1,Smith1988,,false,,,p.93
@@ -30856,6 +31717,23 @@ waro1242-4-2-1,,waro1242-4,2,wo-ruo,wo-ruo,,,Ray1912,,false,,,pp.340-341
 waro1242-4-3-1,,waro1242-4,3,wo-ro,wo-ro,,,Ray1912,,false,,,pp.340-341
 waro1242-4-4-1,,waro1242-4,4,wo-ako,wo-ako,,,Ray1912,,false,,,pp.340-341
 waro1242-4-5-1,,waro1242-4,5,rimo,rimo,,,Ray1912,,false,,,pp.340-341
+waro1242-5-1-1,,waro1242-5,1,voˈsi,voˈsi,,satu,Grace1955pdf20,,false,,,p.9
+waro1242-5-2-1,,waro1242-5,2,voˈru,voˈru,,dua,Grace1955pdf20,,false,,,p.9
+waro1242-5-3-1,,waro1242-5,3,oro,oro,,tiga,Grace1955pdf20,,false,,,p.9
+waro1242-5-4-1,,waro1242-5,4,ˈako,ˈako,,,Grace1955pdf20,,false,,,p.9
+waro1242-5-5-1,,waro1242-5,5,rimo,rimo,,,Grace1955pdf20,,false,,,p.9
+waro1242-5-6-1,,waro1242-5,6,oɣono,oɣono,,,Grace1955pdf20,,false,,,p.9
+waro1242-5-7-1,,waro1242-5,7,ɣiko,ɣiko,,,Grace1955pdf20,,false,,,p.9
+waro1242-5-8-1,,waro1242-5,8,ɣaro,ɣaro,,,Grace1955pdf20,,false,,,p.9
+waro1242-5-9-1,,waro1242-5,9,siɣiri,siɣiri,,,Grace1955pdf20,,false,,,p.9
+waro1242-5-10-1,,waro1242-5,10,sauro,sauro,,,Grace1955pdf20,,false,,,p.9
+waro1242-5-11-1,,waro1242-5,11,saurokvoˈsi,saurokvoˈsi,,,Grace1955pdf20,,false,,,p.9
+waro1242-5-20-1,,waro1242-5,20,asati,asati,,,Grace1955pdf20,,false,,,p.9
+waro1242-5-30-1,,waro1242-5,30,asatioka sauro,asatioka sauro,,,Grace1955pdf20,,false,,,p.9
+waro1242-5-40-1,,waro1242-5,40,asandu,asandu,,,Grace1955pdf20,,false,,,p.9
+waro1242-5-60-1,,waro1242-5,60,asaŋgoro,asaŋgoro,,anampuluh,Grace1955pdf20,,false,,,p.9
+waro1242-5-80-1,,waro1242-5,80,asaŋgako,asaŋgako,,delapan[puluh],Grace1955pdf20,,false,,,p.9
+waro1242-5-100-1,,waro1242-5,100,asandimo,asandimo,,,Grace1955pdf20,,false,,,p.9
 waru1267-1-1-1,,waru1267-1,1,kiriwo,kiriwo,,,Ray1923,,false,,,p.345
 waru1267-1-2-1,,waru1267-1,2,saki,saki,,,Ray1923,,false,,,p.345
 waru1267-1-3-1,,waru1267-1,3,sari kiriwo,sari kiriwo,,,Ray1923,,false,,,p.345
@@ -31206,7 +32084,7 @@ west2563-3-21-1,,west2563-3,21,duopulohjap,duopulohjap,,,Urquhart1955,,false,,,p
 west2563-3-30-1,,west2563-3,30,telujap,telujap,,,Urquhart1955,,false,,,p.195
 west2563-3-100-1,,west2563-3,100,jahatu,jahatu,,,Urquhart1955,,false,,,p.195
 west2563-3-1000-1,,west2563-3,1000,jaribu,jaribu,,,Urquhart1955,,false,,,p.195
-west2594-1-1-1,,west2594-1,1,ambo̱e̱ïlit,ambo̱e̱ïlit,,"The Ndani only count in pairs and when counting a certain number of things, he says after each pair: 'bi̱lè té' = one pair. The sum of two pairs is 'apiet'.",Stokhof1983Vol5.2,,false,,,p.232
+west2594-1-1-1,,west2594-1,1,ambo̱e̱ïlit,ambo̱e̱ïlit,,"The Ndani only count in pairs and when counting a certain number of things, he says after each pair: ‘bi̱lè té’ = one pair. The sum of two pairs is ‘apiet’.",Stokhof1983Vol5.2,,false,,,p.232
 west2594-1-2-1,,west2594-1,2,bilè̱,bilè̱,,,Stokhof1983Vol5.2,,false,,,p.232
 west2594-1-3-1,,west2594-1,3,kè̱nara̱n,kè̱nara̱n,,,Stokhof1983Vol5.2,,false,,,p.232
 west2594-1-4-1,,west2594-1,4,ké̱nara̱ndi ??,ké̱nara̱ndi ??,,,Stokhof1983Vol5.2,,false,,,p.232
@@ -31509,6 +32387,26 @@ woge1237-5-5-1,,woge1237-5,5,(kwik)bokoba,(kwik)bokoba,,,LeanEastSepik,,false,,,
 woge1237-5-6-1,,woge1237-5,6,barago,barago,,,LeanEastSepik,,false,,,p.54
 woge1237-5-7-1,,woge1237-5,7,betol,betol,,,LeanEastSepik,,false,,,p.54
 woge1237-5-8-1,,woge1237-5,8,kiki rua,kiki rua,,4 x 2,LeanEastSepik,,false,,,p.54
+woge1237-6-1-1,,woge1237-6,1,ta,ta,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-2-1,,woge1237-6,2,ru·a,ru·a,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-3-1,,woge1237-6,3,tol,tol,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-4-1,,woge1237-6,4,kʷik,kʷik,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-5-1,,woge1237-6,5,bokoba,bokoba,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-6-1,,woge1237-6,6,bʷarago,bʷarago,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-7-1,,woge1237-6,7,bʷetol,bʷetol,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-8-1,,woge1237-6,8,kikiru·a,kikiru·a,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-9-1,,woge1237-6,9,kikirua bokoba,kikirua bokoba,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-10-1,,woge1237-6,10,kikirua bʷarago,kikirua bʷarago,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-11-1,,woge1237-6,11,kikirua bʷwetol,kikirua bʷwetol,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-20-1,,woge1237-6,20,usu,usu,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-30-1,,woge1237-6,30,usu· kikirua bʷarago,usu· kikirua bʷarago,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-40-1,,woge1237-6,40,kule·mʷa,kule·mʷa,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-50-1,,woge1237-6,50,kulembʷeusa,kulembʷeusa,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-60-1,,woge1237-6,60,kulemʷaru·a,kulemʷaru·a,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-70-1,,woge1237-6,70,kulemʷatol,kulemʷatol,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-80-1,,woge1237-6,80,kulemʷakwik,kulemʷakwik,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-90-1,,woge1237-6,90,kulemʷavat,kulemʷavat,,,Grace1955pdf43,,false,,,p.56
+woge1237-6-100-1,,woge1237-6,100,velu,velu,,,Grace1955pdf43,,false,,,p.56
 wola1243-1-1-1,,wola1243-1,1,nando,nando,,,Galis1955,,false,,,p.165
 wola1243-1-2-1,,wola1243-1,2,wija,wija,,,Galis1955,,false,,,p.165
 wola1243-1-3-1,,wola1243-1,3,widò,widò,,,Galis1955,,false,,,p.165
@@ -32549,6 +33447,20 @@ yopn1238-3-10-1,,yopn1238-3,10,korun kumjat,korun kumjat,,,Smith1988,,false,,,p.
 yopn1238-3-11-1,,yopn1238-3,11,kai kutet duwit,kai kutet duwit,,leg half one,Smith1988,,false,,,p.96
 yopn1238-3-15-1,,yopn1238-3,15,kai kutet du,kai kutet du,,leg half finished,Smith1988,,false,,,p.96
 yopn1238-3-20-1,,yopn1238-3,20,kai orun kumgum,kai orun kumgum,,hands legs together,Smith1988,,false,,,p.96
+yuag1237-1-1-1,,yuag1237-1,1,ɣɛ,ɣɛ,,,Grace1955pdfNotes,,false,,,p.12 [of pdf]
+yuag1237-1-3-1,,yuag1237-1,3,kɔ,kɔ,,,Grace1955pdfNotes,,false,,,p.12 [of pdf]
+yuag1237-1-5-1,,yuag1237-1,5,ni,ni,,,Grace1955pdfNotes,,false,,,p.12 [of pdf]
+zaba1237-1-1-1,,zaba1237-1,1,kai̯keɣu,kai̯keɣu,,one,Grace1955pdf42,,false,,,p.26
+zaba1237-1-1-2,,zaba1237-1,1,ˈtaho,ˈtaho,,one (in counting),Grace1955pdf42,,false,,,p.26
+zaba1237-1-2-1,,zaba1237-1,2,ˈpalu,ˈpalu,,,Grace1955pdf42,,false,,,p.26
+zaba1237-1-3-1,,zaba1237-1,3,ˈlito,ˈlito,,,Grace1955pdf42,,false,,,p.26
+zaba1237-1-4-1,,zaba1237-1,4,roˈdana,roˈdana,,,Grace1955pdf42,,false,,,p.26
+zaba1237-1-5-1,,zaba1237-1,5,ˈgaha,ˈgaha,,,Grace1955pdf42,,false,,,p.26
+zaba1237-1-6-1,,zaba1237-1,6,ˈonomo,ˈonomo,,,Grace1955pdf42,,false,,,p.26
+zaba1237-1-7-1,,zaba1237-1,7,ˈvitu,ˈvitu,,,Grace1955pdf42,,false,,,p.26
+zaba1237-1-8-1,,zaba1237-1,8,ˈhana,ˈhana,,,Grace1955pdf42,,false,,,p.26
+zaba1237-1-9-1,,zaba1237-1,9,ˈleɣaha,ˈleɣaha,,,Grace1955pdf42,,false,,,p.26
+zaba1237-1-10-1,,zaba1237-1,10,ˈtazo,ˈtazo,,,Grace1955pdf42,,false,,,p.26
 ziaa1250-1-1-1,,ziaa1250-1,1,dekako,dekako,,,Smith1988,,false,,,p.105
 ziaa1250-1-2-1,,ziaa1250-1,2,eto,eto,,,Smith1988,,false,,,p.105
 ziaa1250-1-3-1,,ziaa1250-1,3,etama,etama,,,Smith1988,,false,,,p.105
