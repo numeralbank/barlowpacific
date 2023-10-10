@@ -61,3 +61,5 @@ coverage.xml
 venv/
 ENV/
 
+.DS_Store
+
