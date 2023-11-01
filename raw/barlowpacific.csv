@@ -24247,6 +24247,48 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 90,hiva ngahuru,,FALSE,Olesen2020,pp.154-155,,raka1237,Manihiki,raka1237-1
 100,hānere ,English loanword,TRUE,Olesen2020,pp.154-155,,raka1237,Manihiki,raka1237-1
 1000,tauatini,English loanword,TRUE,Olesen2020,pp.154-155,,raka1237,Manihiki,raka1237-1
+1,tahi mea,<mea> ‘thing’,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+2,tahi fakahani,<fakahani> ‘a pair’,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+3,teru mea,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+4,rua fakahani,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+5,rima mea,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+5,tāpahi,the words for ‘five’ and ‘ten’ have special names,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+6,teru fakahani,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+7,hitu mea,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+8,fa fakahani,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+9,hiva mea,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+10,purupuru,the words for ‘five’ and ‘ten’ have special names,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+11,purupuru ma tahi mea,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+12,purupuru ma tahi fakahani,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+13,purupuru ma teru mea,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+20,tahi takau,multiples of 20 are formed using <takau> (‘twenty’),FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+30,takau ma purupuru,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+40,rua takau,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+50,rua takau ma purupuru,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+60,teru takau,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+70,teru takau ma purupuru,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+80,fa takau,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+90,fa takau ma purupuru,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+100,rima takau or tahi rima,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+200,tahi rau,multiples of 200 [are formed] using <rau> (‘two hundred’),FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+300,tahi rau ma rima te takau or rau mata kōkō,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+400,rua rau,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+500,rua ta rau ma rima te takau or rua ta rau mata kōkō,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+600,teru rau,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+700,teru ta rau ma rima te takau or teru ta rau mata kōkō,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+800,fa rau,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+900,fa ta rau ma rima te takau or fa ta rau mata kōkō,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+1000,rima ta rau,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+1100,rima ta rau ma rima te takau or rima ta rau mata kōkō,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+1200,ono ta rau,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+1300,ono ta rau ma rima te takau or ono ta rau mata kōkō,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+1400,hitu ta rau,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+1500,hitu ta rau ma rima te takau or hitu ta rau mata kōkō,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+1600,varu ta rau,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+1700,varu ta rau ma rima te takau or varu ta rau mata kōkō,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+1800,hiva ta rau,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+1900,hiva ta rau ma rima te takau or hiva ta rau mata kōkō,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
+2000,tahi mano,,FALSE,Olesen2020,pp.160-162,,raka1237,Manihiki - older system used for counting coconuts and birds,raka1237-2
 1,ra,,FALSE,LeanEastNewBritain,p.15,Author’s Field Notes (1986). Village: Mioko-Palpal.,ramo1244,Duke of York (Mioko-Palpal village),ramo1244-1
 2,rua,,FALSE,LeanEastNewBritain,p.15,Author’s Field Notes (1986). Village: Mioko-Palpal.,ramo1244,Duke of York (Mioko-Palpal village),ramo1244-1
 3,tul,,FALSE,LeanEastNewBritain,p.15,Author’s Field Notes (1986). Village: Mioko-Palpal.,ramo1244,Duke of York (Mioko-Palpal village),ramo1244-1
