@@ -2236,6 +2236,43 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,jɐβm̩pɛndɛrtʃɔpm̩pʲɛr,,FALSE,Sawi2002,p.5,,atoh1238,Taminid / Atohwaim (Yahui village),atoh1238-3
 10,orjɐpm̩ɐtɛrjɐpm̩,,FALSE,Sawi2002,p.5,,atoh1238,Taminid / Atohwaim (Yahui village),atoh1238-3
 20,ɐpirjɐpm̩tirtʃɛp,[ɐpːir = foot/leg],FALSE,Sawi2002,p.5,,atoh1238,Taminid / Atohwaim (Yahui village),atoh1238-3
+0,’aore,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+1,’ota’i,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+2,piti,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+3,toru,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+4,ma’a,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+5,pae,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+6,ono,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+7,’itu,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+8,va’u,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+9,iva,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+10,a’uru,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+11,a’uru mata’i,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+12,a’uru mapiti,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+20,piti a’uru,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+23,piti a’uru ma toru,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+35,toru a’uru ma pae,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+46,ma’a a’uru ma ono,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+100,’anere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+1000,tauatini,< English thousand,TRUE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
+0,’aoge,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+1,ho’ē,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+2,piti,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+3,togu,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+4,maha,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+5,pae,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+6,ono,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+7,hitu,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+8,va’u,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+9,iva,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+10,’ahugu,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+11,’ahugu mā hō’ē,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+12,’ahugu mā piti,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+20,piti ahugu,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+23,piti ’ahugu mā togu,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+35,toru ’ahugu mā pae,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+46,maha ’ahugu mā ono,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
+100,hanege,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
 1,kiwtip,(masc),FALSE,Laycock1967C01,p.60,,auuu1241,Au,auuu1241-1
 1,piwtip,(fem),FALSE,Laycock1967C01,p.60,,auuu1241,Au,auuu1241-1
 1,miwtip,(neut),FALSE,Laycock1967C01,p.60,,auuu1241,Au,auuu1241-1
@@ -5927,6 +5964,90 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 50,dimiampolo,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
 100,zato,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
 1000,arivo,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
+1,ise,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+2,jua,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+3,tolu,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+4,paa,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+4,apa,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+5,lima,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+6,noo,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+6,ana,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+7,pitu,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+8,walu,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+9,sio,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+9,siua,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+10,ompulu,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+10,sapulu,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+1,se-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+2,ghua-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+3,tolu-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+4,fato-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+5,lima-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+6,nomo-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+7,fitu-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+8,walu-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+9,sio-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+3,to-tolu,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+4,fo-paa,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+5,li-lima,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+6,no-noo,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+7,fo-pitu,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+8,o-alu,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+9,sio,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+9,siua,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+11,ompulu se-mii,Counting (of people) … with <mii> as classifier,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+12,ompulu ghua-mii,Counting (of people) … with <mii> as classifier,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+13,ompulu to-tolu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+14,ompulu fo-paa,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+15,ompulu li-lima,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+16,ompulu no-noo,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+17,ompulu fo-pitu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+18,ompulu oalu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+19,ompulu siua,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+20,ghua-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+21,ghua-fulu se-mii,Counting (of people) … with <mii> as classifier,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+22,ghua-fulu ghua-mii,Counting (of people) … with <mii> as classifier,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+30,tolu-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+40,fato-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+50,lima-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+60,nomo-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+70,fitu-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+80,alu-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+90,sio-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+100,mohono,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+200,ghua-mohono,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+1000,se-ghewu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+2000,ghua-ghewu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
+1,ka'iseno,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
+2,kajuano,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
+3,katoluno,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
+4,tolu neke,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
+5,neke punda,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
+6,punda tie,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
+7,nawa doe,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
+8,ta'u muntu,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
+9,mbani aga,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
+10,kanampulu,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
+1,sengge,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
+2,ruangge,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
+3,tolungge,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
+4,popaa,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
+5,melayu,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
+6,ado,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
+7,taana,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
+8,loli,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
+9,jawa,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
+10,karipo,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
+1,se'ene,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
+2,luua,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
+3,lua mpaato,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
+4,mpato laae,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
+5,lae mbuunga,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
+6,mbunga aawa,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
+7,awa laando,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
+8,lando diia,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
+9,dia ngkooke,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
+10,kambolodhe,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
 1,tagata,,FALSE,Laufer1959,p.209,,buta1242,Butam,buta1242-1
 1,tanqata,,FALSE,Laufer1959,p.209,,buta1242,Butam,buta1242-1
 2,mukumip,,FALSE,Laufer1959,p.209,,buta1242,Butam,buta1242-1
@@ -14070,6 +14191,43 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 400,a ivat a mar,,FALSE,Lean1985Vol04,p.17,"115 CSQs, Field Notes: all dialect areas.",kuan1248,Tolai,kuan1248-2
 1000,arip,,FALSE,Lean1985Vol04,p.17,"115 CSQs, Field Notes: all dialect areas.",kuan1248,Tolai,kuan1248-2
 2000,a ura arip,,FALSE,Lean1985Vol04,p.17,"115 CSQs, Field Notes: all dialect areas.",kuan1248,Tolai,kuan1248-2
+1,tikai,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+2,a urua,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+2,evut,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+3,a utul,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+4,a ivat,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+5,a ilima,"comes from lima, the hand",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+6,a laptikai,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+7,a lavurua,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+8,a lavutul,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+9,a lavuvat,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+10,a vinun,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+10,arip,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+11,a vinun ma tikai,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+12,a vinun ma evut,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+13,a vinun ma utul,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+14,a vinun ma ivat,etc.,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+20,a ura vinun,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+21,a ura vinun ma tikai,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+22,a ura vinun ma urua,etc.,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+30,a utul a vinun,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+40,a ivat na vinvinun,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+50,a ilima na vinvinun,etc.,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+100,a mar,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+200,a ura mar,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+300,a utul a mar,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+400,a ivat na marmar,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+948,a lavuvat na marmar ma ra ivat na vinvinun ma ra lavutul,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+1000,a mar na limana,"i.e., hundred times the hands",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+1000,a vinun na marmar,"i.e., ten times hundred",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+2000,a tutan ot,"i.e., a whole man, or so many times 100 as there are fingers and toes on the whole man (assuming that this one still has all his limbs, which is very often not the case)",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+4,a keva,"for eggs, a brood of young birds, pigs, or dogs",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+5,a vinar,"for eggs, a brood of young birds, pigs, or dogs",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+8,a ura keva,"for eggs, a brood of young birds, pigs, or dogs",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+10,a ura vinar,"for eggs, a brood of young birds, pigs, or dogs",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+12,a utul a keva,"for eggs, a brood of young birds, pigs, or dogs",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+15,a utul a vinar,"for eggs, a brood of young birds, pigs, or dogs",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
+20,a ivat na vinavinar,"for eggs, a brood of young birds, pigs, or dogs",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
 1,mocmagu,,FALSE,Smith1988,pp.78-79,,kube1244,Kube,kube1244-1
 2,erehec,Kurungtufu dialect: uluhu,FALSE,Smith1988,pp.78-79,,kube1244,Kube,kube1244-1
 3,harewec,,FALSE,Smith1988,pp.78-79,,kube1244,Kube,kube1244-1
@@ -15499,6 +15657,40 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,r̃ompulo,,FALSE,Grimes1987,pp.129-135,,lemo1243,Lemolang,lemo1243-1
 100,sambuŋo,,FALSE,Grimes1987,pp.129-135,,lemo1243,Lemolang,lemo1243-1
 1000,sansovu,,FALSE,Grimes1987,pp.129-135,,lemo1243,Lemolang,lemo1243-1
+1,sakai,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+2,ruka,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+3,tolu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+4,vati,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+5,lima,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+6,ono,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+7,vitu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+8,alu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+9,thiua,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+10,thangavulu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+100,thangetu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+1000,togha,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+11,thangavulu sakai,ten one,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+12,thangavulu ruka,ten two,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+20,ruka thangavulu,two ten,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+21,ruka thangavulu sakai,two ten one,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+122,sakai thangetu ruka thangavulu ruka,one hundred two ten two,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+222,ruka thangetu ruka thangavulu ruka,two hundred two ten two,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
+1,kea,a special set of numerals that are used in the telling of custom stories,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+2,ura,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+3,lotu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+4,tave,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+5,mila,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+6,no,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+7,tivu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+8,rau,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+9,beta,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+10,taleru,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+100,thangetu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+1000,togha,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+1000000,mola,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+1000000000,maua,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+1000000000000,vuthia,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+1000000000000000,uki,[also <lega>  ‘countless’],FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
 1,sip,,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
 2,huep,,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
 3,tilip,,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
@@ -18055,6 +18247,33 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,sam-sambra,,FALSE,Galis1955,p.163,,mane1266,Tami-groep Skofro,mane1266-3
 5,awa,,FALSE,Galis1955,p.163,,mane1266,Tami-groep Skofro,mane1266-3
 6,kanggra-manggena,,FALSE,Galis1955,p.163,,mane1266,Tami-groep Skofro,mane1266-3
+0,kore,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+1,e ta’i,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+2,e rua,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+3,e toru,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+4,e ’ā,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+5,e rima,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+6,e ono,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+7,e ’itu,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+8,e varu,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+9,e iva,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+10,roŋo’uru,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+10,roŋouru,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+11,roŋo’uru e ta’i,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+11,ta’i roŋo,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+11,uru e ta’i touara,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+12,roŋo’uru e rua tou’ara,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+12,e ta’i roŋo’uru e rua tou’ara,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+20,e rua roŋo’uru,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+23,e rua roŋo’uru e toru tou’ara,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+35,e toru roŋo’uru rima tou’ara,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+46,tataua,(Rensch),FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+46,e ’ā roŋo’uru ono tou’ara,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+46,e ’ā roŋouru ono touara,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+100,rau,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+100,e ta’i rau,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+1000,mano,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+1000,e ta’i mano,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
 1,omʷale,all front & back vowels quite high [written at the top of the page],FALSE,Grace1955pdfSpirax,p.10 [of pdf],,mang1403,Lumurioŋ (aenbul [Kembul on map]),mang1403-1
 2,aini,,FALSE,Grace1955pdfSpirax,p.10 [of pdf],,mang1403,Lumurioŋ (aenbul [Kembul on map]),mang1403-1
 3,me·,,FALSE,Grace1955pdfSpirax,p.10 [of pdf],,mang1403,Lumurioŋ (aenbul [Kembul on map]),mang1403-1
@@ -19036,6 +19255,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,lima ba mologi,,FALSE,Rath1980,p.206,,meng1267,Mengen No. 1,meng1267-5
 9,lima ba tugulu,,FALSE,Rath1980,p.206,,meng1267,Mengen No. 1,meng1267-5
 10,taŋulelu,,FALSE,Rath1980,p.206,,meng1267,Mengen No. 1,meng1267-5
+1,(tia) kēn,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
+2,(tia) lūo,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
+3,(tia) molēg,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
+4,(tia) togūl,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
+5,ta ne lim,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
+6,kana kēn,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
+7,kana lūo,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
+8,kana molēg,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
+9,kana togūl,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
+10,kana lim ~ tángau na ta,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
+20,a gigi tia ken,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
 1,sara,,FALSE,Stokhof1987Vol10.3,p.184,,ment1249,"Mentawai, Pagai and Sipora",ment1249-1
 2,doea,,FALSE,Stokhof1987Vol10.3,p.184,,ment1249,"Mentawai, Pagai and Sipora",ment1249-1
 3,teloe,,FALSE,Stokhof1987Vol10.3,p.184,,ment1249,"Mentawai, Pagai and Sipora",ment1249-1
@@ -20801,6 +21031,23 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,ivaa,,FALSE,Spencer2013,pp.80-81,,naka1262,Nakanai - Karapi village,naka1262-5
 5,ilima,,FALSE,Spencer2013,pp.80-81,,naka1262,Nakanai - Karapi village,naka1262-5
 10,savulu,,FALSE,Spencer2013,pp.80-81,,naka1262,Nakanai - Karapi village,naka1262-5
+1,tassa,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+2,lua,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+3,tolu,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+4,iva,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+5,lima,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+6,pantassa,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+7,badilua,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+8,baditolu,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+9,alasue,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+10,savulu,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+11,savulu timana tassa,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+12,savulu timana lua,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+13,savulu timana tolu,etc.,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+20,savulu lua,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+21,savulu lua timana tassa,etc.,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+30,savulu tolu,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
+100,savulu savulu,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
 1,kubugeng,,FALSE,LeanMorobe,p.100,1 CSQ. Village: Pupuf (South dialect).,naka1264,Nakama,naka1264-1
 2,lifet,,FALSE,LeanMorobe,p.100,1 CSQ. Village: Pupuf (South dialect).,naka1264,Nakama,naka1264-1
 3,lifetening,"appears to derive from, or contain, the numeral 2 and it may have an implied ‘2 + 1’ construction",FALSE,LeanMorobe,p.100,1 CSQ. Village: Pupuf (South dialect).,naka1264,Nakama,naka1264-1
@@ -21823,6 +22070,72 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,laferr,,FALSE,Garde2015,p.129,,nort2839,North Ambrym (imperfect decimal),nort2839-1
 10,sanɡul,,FALSE,Garde2015,p.129,,nort2839,North Ambrym (imperfect decimal),nort2839-1
 10,sanɡil,,FALSE,Garde2015,p.129,,nort2839,North Ambrym (imperfect decimal),nort2839-1
+0,a’ehe mea,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+2,e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+3,e to’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+4,e ha,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+5,e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+6,e ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+7,e hitu,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+8,e va’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+9,e iva,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+10,onohu’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+11,onohu’u e tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+12,onohu’u e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+20,tekau,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+23,tekau ma to’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+35,to’u onohu’u ma ’ima,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+46,e ha onohu’u e ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+46,e ha onohu’u ma ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+100,hanere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+1000,e ’ima tou ha,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+1000,mira,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+1000,e ’ua au me ’ima touha,"archaic or obsolete, (Mgr Le Cléac’h)",FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
+0,a’ehe mea,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+2,e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+3,e to’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+4,e ha,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+5,e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+6,e ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+7,e hitu,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+8,e va’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+9,e iva,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+10,onohu’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+11,onohu’u e tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+12,onohu’u e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+20,tekau,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+23,tekau e to’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+35,to’u onohu’u e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+46,e ha onohu’u e ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+100,hanere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+1000,e ’ima tou ha,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+1000,mira,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
+0,a’ehe mea,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+2,e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+3,e to’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+4,e ha,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+5,e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+6,e ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+7,e hitu,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+8,e va’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+9,e iva,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+10,onohu’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+11,onohu’u e tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+11,onohu’u ma tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+12,onohu’u e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+20,tekau,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+23,tekau e to’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+23,tekau ma to’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+35,to’u onohu’u e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+46,e ha onohu’u e ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+46,e ha onohu’u ma ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+100,hanere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+1000,tautini,< English thousand,TRUE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+1000,e ’ima tou ha,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+1000,mira,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
 1,bicits,,FALSE,Smith1988,p.68,,nort2857,Unank,nort2857-1
 2,siruc,,FALSE,Smith1988,p.68,,nort2857,Unank,nort2857-1
 3,siruabits,,FALSE,Smith1988,p.68,,nort2857,Unank,nort2857-1
@@ -24202,6 +24515,23 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,ŋəriyət,[ařit̯ ‘(his) hand’],FALSE,Lindrud1980,"pp.164, 178, 181",,qaqe1238,Baining Language (Central Baining),qaqe1238-2
 10,mʌŋʌřiyiɔɛm,,FALSE,Lindrud1980,"pp.164, 178, 181",,qaqe1238,Baining Language (Central Baining),qaqe1238-2
 10,mʌnʌřiyiɔɛm,,FALSE,Lindrud1980,"pp.164, 178, 181",,qaqe1238,Baining Language (Central Baining),qaqe1238-2
+1,a choanáska,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+1,a choanaski,etc.,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+1,a gig̃sacha,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+1,a gigsichi,etc.,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+2,a rekmeneiem,(1st group),FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+2,a rekmeneiem,(2nd group),FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+2,a odochim,(2nd group),FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+2,a onpim,(2nd group),FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+3,a dopgues,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+4,a ratpes,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+4,a bag̃eigi,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+5,a g̃arichit,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+6,a g̃arichit a demka,etc.,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+7,a g̃arichit dat demiem,etc.,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+8,a g̃arichit dat demg̃er ama dopgues,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+9,a g̃irichit dat demg̃er ama ratpes,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
+10,a garichigrim,Numbers above 10 are not customary.,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
 1,sə buù,,FALSE,Anonymous1984Manobo,pp.3-7,,raja1254,Rajah/Kabungsoan (Lingig Surigoo del Sur),raja1254-1
 2,dɑrúɑ,,FALSE,Anonymous1984Manobo,pp.3-7,,raja1254,Rajah/Kabungsoan (Lingig Surigoo del Sur),raja1254-1
 3,tɑtɑ-u,,FALSE,Anonymous1984Manobo,pp.3-7,,raja1254,Rajah/Kabungsoan (Lingig Surigoo del Sur),raja1254-1
@@ -24353,6 +24683,45 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1000,nomar,,FALSE,Schnee1901,p.254,,ramo1244,Utam,ramo1244-4
 2000,runomar,,FALSE,Schnee1901,p.254,,ramo1244,Utam,ramo1244-4
 10000,noine nomar,,FALSE,Schnee1901,p.254,,ramo1244,Utam,ramo1244-4
+1,ra,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+2,ruadi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+3,tuldi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+4,vatdi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+5,limadi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+6,nomdi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+6,limadi ma ra,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+7,limadi ma ruadi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+8,limadi ma tuldi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+9,limadi ma vatdi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+10,noina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+20,ru noina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+50,a lima na noina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+60,a nom na noina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+100,a mar,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
+1,ra,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
+2,ruo,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
+3,tul,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
+4,vat,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
+5,lim,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
+6,nom,"Six on Buka is monom; on northern Bougainville tunom, in the Shortland Islands onomo.",FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
+7,talaqarua,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
+8,lakatul,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
+9,latakai,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
+10,noina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
+20,rua roina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
+50,a lima na noina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
+60,a nom na noina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
+100,a mar,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
+1,kai,1 pair,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
+2,urua,2 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
+3,utul,3 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
+4,luvat,4 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
+5,tilim,5 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
+6,ma nom,6 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
+7,ma vit,7 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
+8,tival,8 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
+9,tiva,9 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
+10,tikina,10 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
 1,lo'vovesi,,FALSE,Lean1985Vol03,p.39,"Allen and Hurd, SIL Wordlist, (1963); Metaraio village.",ramo1245,Keriaka,ramo1245-1
 2,pe'numa,,FALSE,Lean1985Vol03,p.39,"Allen and Hurd, SIL Wordlist, (1963); Metaraio village.",ramo1245,Keriaka,ramo1245-1
 3,bu'binika,,FALSE,Lean1985Vol03,p.39,"Allen and Hurd, SIL Wordlist, (1963); Metaraio village.",ramo1245,Keriaka,ramo1245-1
@@ -24382,6 +24751,10 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,kawuku,,FALSE,Stanhope1980,p.16,,raoo1244,Rao,raoo1244-4
 3,karuku,,FALSE,Stanhope1980,p.16,,raoo1244,Rao,raoo1244-4
 4,srakru,,FALSE,Stanhope1980,p.16,,raoo1244,Rao,raoo1244-4
+0,kare,,FALSE,Charpentier2015,pp.1825-1843,,rapa1245,Rapa - Rapa (Oparo),rapa1245-1
+1,kota’i,,FALSE,Charpentier2015,pp.1825-1843,,rapa1245,Rapa - Rapa (Oparo),rapa1245-1
+2,e rua,,FALSE,Charpentier2015,pp.1825-1843,,rapa1245,Rapa - Rapa (Oparo),rapa1245-1
+3,toru,,FALSE,Charpentier2015,pp.1825-1843,,rapa1245,Rapa - Rapa (Oparo),rapa1245-1
 1,ta'reʔa,,FALSE,Lean1985Vol03,p.39,"Allen and Hurd, SIL Wordlist, (1963); Koatoroi village.",rapo1238,Konua,rapo1238-1
 2,su'kuʔu,,FALSE,Lean1985Vol03,p.39,"Allen and Hurd, SIL Wordlist, (1963); Koatoroi village.",rapo1238,Konua,rapo1238-1
 3,he'riba,,FALSE,Lean1985Vol03,p.39,"Allen and Hurd, SIL Wordlist, (1963); Koatoroi village.",rapo1238,Konua,rapo1238-1
@@ -27401,6 +27774,46 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,sɪrɑ ɑinɑk,,FALSE,Laycock1971D27,p.3804,,sosk1235,Kwongai (Sawos),sosk1235-1
 10,tɑmbɑ vətɪk,,FALSE,Laycock1971D27,p.3804,,sosk1235,Kwongai (Sawos),sosk1235-1
 20,nɑkwʊrɑk ndu mi,[ndu = man],FALSE,Laycock1971D27,p.3804,,sosk1235,Kwongai (Sawos),sosk1235-1
+0,’ao’e,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+2,e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+3,e to’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+4,e fa,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+5,e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+6,e ono,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+7,e fitu,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+8,e va’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+9,e iva,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+10,onohu’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+11,onohu’u e tahi,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+12,onohu’u e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+20,tekau,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+23,tekau e to’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+35,to’u onohu’u e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+46,e fa onohu’u e ono,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+100,hanere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+1000,tautini,< English thousand,TRUE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+1000,e ’ima au,archaic or obsolete,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
+0,’ao’e,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+2,e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+3,e to’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+4,e fa,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+5,e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+6,e ono,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+7,e fitu,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+8,e va’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+9,e iva,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+10,onohu’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+11,onohu’u e tahi,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+12,onohu’u e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+20,tekau,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+23,tekau e to’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+35,to’u onohu’u e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+46,fa onohu’u e ono,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+100,hanere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+1000,tautini,< English thousand,TRUE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
+1000,mira,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
 1,takanan,,FALSE,Smith1988,p.65,,sout2877,Dangal,sout2877-1
 2,suruk,,FALSE,Smith1988,p.65,,sout2877,Dangal,sout2877-1
 3,suruk aru wangin,,FALSE,Smith1988,p.65,,sout2877,Dangal,sout2877-1
@@ -27998,6 +28411,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,kor̃lɔlo,,FALSE,Lindrud1980,"pp.164, 178, 181",,sulk1246,Sulka Language - Guma village,sulk1246-4
 5,atiʌk,[ḳatiᵋk ‘(his) hand’],FALSE,Lindrud1980,"pp.164, 178, 181",,sulk1246,Sulka Language - Guma village,sulk1246-4
 10,lɔktiʌk,[ḳatiᵋk ‘(his) hand’],FALSE,Lindrud1980,"pp.164, 178, 181",,sulk1246,Sulka Language - Guma village,sulk1246-4
+1,a tiang,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
+2,a lo,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
+3,korloti̥ge,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
+4,korlolo,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
+5,a gi̥tiek,‘the hand’,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
+6,a gi̥tiek he hori orom a tiang,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
+7,a gi̥tiek he hori orom a lo min,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
+8,a gi̥tiek he hori orom korloti̥ge,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
+9,a gi̥tiek he hori orom korlolo,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
+10,a lo gi̥tiek,‘the two hands’,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
+20,a mhelum,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
 1,tɑʔɑsɑ,,FALSE,Anonymous1961,pp.3-7,,sulo1237,"Sugudnon (collected in Villafont, Sibalom, Antique, Panay)",sulo1237-1
 2,dɛrɑwɛi,,FALSE,Anonymous1961,pp.3-7,,sulo1237,"Sugudnon (collected in Villafont, Sibalom, Antique, Panay)",sulo1237-1
 3,titlo,,FALSE,Anonymous1961,pp.3-7,,sulo1237,"Sugudnon (collected in Villafont, Sibalom, Antique, Panay)",sulo1237-1
@@ -28272,6 +28696,27 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,ˈvaʔu,,FALSE,Grace1955pdfRenown,p.9 [of pdf],,tahi1242,Tahitian,tahi1242-1
 9,ˈiva,,FALSE,Grace1955pdfRenown,p.9 [of pdf],,tahi1242,Tahitian,tahi1242-1
 10,aˈhuru,,FALSE,Grace1955pdfRenown,p.9 [of pdf],,tahi1242,Tahitian,tahi1242-1
+0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Maupiti,tahi1242-2
+0,’aore,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+1,ho’ē,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+2,piti,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+4,maha,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+5,pae,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+6,ono,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+7,hitu,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+8,va’u,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+9,iva,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+10,hō’ē ’ahuru,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+11,(hō’ē) ’ahuru mā hō’ē,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+12,(hō’ē) ’ahuru mā piti,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+20,(e) piti ’ahuru,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+23,(e) piti ’ahuru mā toru,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+35,(e) toru ’ahuru mā pae,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+46,(e) maha ’ahuru mā ono,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+100,(hō’ē) hānere,hānere < English hundred,TRUE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+1000,(hō’ē) tauatini,tauatini < English thousand,TRUE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
 1,nɑmbɑr,,FALSE,Zgraggen1972,pp.215-219,,taia1239,Gapun,taia1239-1
 2,senɑ,,FALSE,Zgraggen1972,pp.215-219,,taia1239,Gapun,taia1239-1
 3,mɑnɑ́u̯,,FALSE,Zgraggen1972,pp.215-219,,taia1239,Gapun,taia1239-1
@@ -29507,6 +29952,53 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,pauak sangaulung,,FALSE,Lean1985Vol01,p.24,"9 CSQs, 2 IMP, Beaumont (1979, p.105). Villages: Omo, Mongol, Sumuna, Kulangit, Upuas, Enuk, Salapiu, Nonovaul Island.",tiga1245,Tigak (Central dialect),tiga1245-1
 50,palmit sangaulung,,FALSE,Lean1985Vol01,p.24,"9 CSQs, 2 IMP, Beaumont (1979, p.105). Villages: Omo, Mongol, Sumuna, Kulangit, Upuas, Enuk, Salapiu, Nonovaul Island.",tiga1245,Tigak (Central dialect),tiga1245-1
 100,(sakai) mar,,FALSE,Lean1985Vol01,p.24,"9 CSQs, 2 IMP, Beaumont (1979, p.105). Villages: Omo, Mongol, Sumuna, Kulangit, Upuas, Enuk, Salapiu, Nonovaul Island.",tiga1245,Tigak (Central dialect),tiga1245-1
+1,sakai,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+1,arin,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+2,pauak,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+2,va,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+2,ave,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+3,potul,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+4,poiat,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+5,palmit,[cf. p.88 <mit-> ‘hand’],FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+6,palmit sakai,five one,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+7,palmit pauak,five two,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+8,palmit potul,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+9,palmit poiat,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+10,sangaulung,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+10,saŋauluŋ,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+11,saŋauluŋ βe sakai,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+12,saŋauluŋ βe pauak,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+13,sangaulung ve potul,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+16,saŋauluŋ βe palmit sakai,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+18,saŋauluŋ βe palmit potul,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+20,pauak sangaulung,two tens,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+49,poiat sanguaulung ve palmit,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+100,mar,The Tolai word for hundred <mar> has been borrowed,TRUE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
+1,kai,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+2,kuak,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+3,tul,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+4,iat,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+5,lima,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+6,pisaka,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+7,pisikuak,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+8,pisiktul,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+9,pisikpat,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+10,saŋauluŋ,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+11,saŋauluŋ βe sakai,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+12,saŋauluŋ βe pauak,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+16,saŋauluŋ βe pisaka,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+18,saŋauluŋ βe pisiktul,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+20,pauak sangaulung,two tens,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
+1,kase,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
+2,luaman,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
+3,taramun,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
+4,bata,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
+5,titi,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
+6,βarakuman,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
+7,na mamon,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
+8,na bakot,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
+9,na kaika,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
+10,na kaik bes,The form <bes> is still used for ‘ten’ in counting coconut leaves.,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
 1,esa,,FALSE,Jonker1908,passim,,tiii1241,Ti,tiii1241-1
 2,dua,,FALSE,Jonker1908,passim,,tiii1241,Ti,tiii1241-1
 3,telu,,FALSE,Jonker1908,passim,,tiii1241,Ti,tiii1241-1
@@ -30171,6 +30663,26 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,r·omr·o tamdel,,FALSE,Grace1955pdf44,p.87,,tomo1244,tomo̯ip,tomo1244-1
 1,deˈmuř,,FALSE,Lindrud1980,p.179,,tomo1244,Tomoip Language - Kavale Village,tomo1244-2
 2,řɔmřɔ,,FALSE,Lindrud1980,p.179,,tomo1244,Tomoip Language - Kavale Village,tomo1244-2
+1,de-,"found in /denan/, /demuor/, debuŋ/, /depuk/; cf. /detu/ 'another'",FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
+1,debuŋ,for counting fruits; literally 'one-fruit',FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
+1,demuor,for counting people; literally 'one-person'?,FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
+1,denan,often [dennan]; generic word for counting anything; literally 'one-that'?,FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
+1,depuk,found in the distributive expression /depuk depuk/; literally 'one-piece',FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
+2,horo,cf. /ro=/ 'du'; is /ho-/ a nonsingular marker?,FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
+3,horomdetu,literally 'two and another' (/m/ < /mo/ 'and'),FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
+4,horo mo horo,literally 'two and two',FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
+5,liem,cf. Parkinson (1907: 780): <līem> 'zehn' ['ten (10)'],FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
+1,dēnan,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
+2,ro huru,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
+3,horum detu,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
+4,horumo horum,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
+5,ko līem,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
+6,—,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
+7,—,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
+8,—,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
+9,—,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
+10,līem,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
+20,tamdil,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
 1,Ěsa,,FALSE,Stokhof1983Vol7.2,pp.131-132,,tond1251,Tolour (Ka'kas dialect),tond1251-1
 2,Roea,,FALSE,Stokhof1983Vol7.2,pp.131-132,,tond1251,Tolour (Ka'kas dialect),tond1251-1
 3,Těloe,,FALSE,Stokhof1983Vol7.2,pp.131-132,,tond1251,Tolour (Ka'kas dialect),tond1251-1
@@ -30744,6 +31256,223 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 12,pulo-duwa,,FALSE,Ray1913,"pp.60, 62",,trin1273,Balait,trin1273-1
 20,duong-pulo,,FALSE,Ray1913,"pp.60, 62",,trin1273,Balait,trin1273-1
 100,che-rato,,FALSE,Ray1913,"pp.60, 62",,trin1273,Balait,trin1273-1
+1,ho’ē,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+2,rua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+4,maha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+5,pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+6,ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+6,hene,“six” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+7,hitu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+8,va’u,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+9,iva,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+9,nīpa,“nine” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+10,’ahuru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+11,’ahuru ma ho’ē,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+12,’ahuru māpiti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+20,piti ’ahuru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+23,piti ’ahuru mā toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+35,toru ’ahuru mā pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+46,maha ’ahuru mā ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+100,haŋere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+1000,tauatini,< English thousand,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+0,aore,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+1,ka rari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+2,ka ite,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+3,ka ŋeti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+4,ka ope,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+5,ka mihe,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+6,ka hene,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+7,ka tika,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+8,ka hava,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+8,varu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+9,ŋohuru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+10,tapahi reka,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+11,tapahi ma rari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+12,tapahi ma kite,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+20,e rari takau,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+23,e rari takau ma ŋeti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+35,e rari takau tapahi ma mihe,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+46,e ite takau ma hene,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+100,e mie takua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+1000,e mie kiu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
+0,kore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+1,e rari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+2,e rua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+3,eŋeti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+4,e kere,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+4,fā,(Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+5,e fā,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+5,rima,(Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+6,e nohu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+7,ka tika,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+7,e motu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+7,hitu,(Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+8,e firi,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+8,varu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+9,e maŋa,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+9,iva,(Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+10,e rari rua,[?] [homophony between 2 and 10?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+11,e rua rari,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+12,e ruaŋeti,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+20,eŋeti rua,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+23,eŋeti rua e rua,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+35,e rua rua fā,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+46,e kere rua nohu,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+100,e tini,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
+0,aore,(Makemo) < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+0,kaore,(Raroia) seldom used,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+1,hōē,(Makemo),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+1,tahi,(Raroia) < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+2,rua,(Raroia),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+2,piti,(Makemo) < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+4,maha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+5,pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+5,mihe,(Raroia),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+6,ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+6,hene,“six” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+7,hitu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+8,va’u,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+8,varu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+9,iva,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+9,nīpa,“nine” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+10,hōē ahuru,(Makemo) ahuru < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+10,tahi ahuru,(Raroia) ahuru < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+11,ahuru ma hōē,(Makemo) ahuru < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+11,ahuru ma ho’e,(Raroia) ahuru < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+12,āhuru mā piti,(Makemo),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+12,ahuru ma piti,(Raroia),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+20,piti ahuru,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+23,piti ahuru ma toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+35,toru ahuru ma pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+46,toru ahuru ma pae,[typographical error (duplication of 35)],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+100,hānere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+1000,tauatini,< English thousand,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
+0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+1,ko rari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+2,e ŋeti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+2,e rua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+4,maha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+4,ope,"“four” (“General Tuamotuan”, Stimson)",FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+5,pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+5,rima,(Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+6,ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+6,hene,“six” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+7,hitu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+8,va’u,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+9,iva,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+10,hō’ē ahuru,ahuru < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+11,(hō’ē) ’ahuru mā hō’ē,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+12,(hō’ē) ’ahuru mā piti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+20,(e) piti ahuru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+23,(e) piti ’ahuru mā toru,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+35,(e) toru ’ahuru mā pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+46,(e) maha ’ahuru mā ono,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+100,(hō’ē) hānere,hānere < English hundred,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+1000,(hō’ē) tauatini,tauatini < English thousand,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
+0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+1,ko rari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+2,e ite,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+2,ko ite,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+3,ke ŋeti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+4,e hope,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+4,ke haka,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+5,kā miha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+5,ke miha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+6,kā hene,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+6,ke hene,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+7,kā ito,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+7,ke hito,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+7,ke ito,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+8,kā hava,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+8,ke hava,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+9,kā nipa,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+9,ke nipa,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+10,tua kara ŋauru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+10,parau ŋauru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+11,tua kara kātahi,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+11,korari parau ŋahuru korari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+12,tua kara kā ite,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+12,korari parau ŋauru e ite,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+20,kā ite ŋauru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+20,kā ite parau ŋauru ŋauru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+23,kā ite ŋauru e rari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+35,kā rari ŋauru ka miha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+46,kāhope ŋauru kā hene,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+100,ke rari mano,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+1000,ke rari tini mano,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
+0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+1,kotahi,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+2,rua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+4,ha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+5,rima,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+6,ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+6,hene,“six” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+7,hitu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+7,fitu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+8,varu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+8,ka hava,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+9,iva,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+9,nīpa,“nine” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+10,ono hua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+11,o nohua ma tahi,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+12,o nohua ma rua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+20,takau,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+23,takau ma toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+35,takau ono hua ma rima,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+46,e rua takau ma ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+100,e rima takau,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+1000,tini,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
+0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+1,hōē,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+2,piti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+2,rua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+4,maha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+4,rima,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+5,pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+6,ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+7,hitu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+8,vaū,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+9,iva,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+10,ŋahuru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+11,ŋahuru mā hōē,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+12,ŋahuru mā piti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+20,pitiŋahuru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+20,takau,"“twenty” (“General Tuamotuan”, Stimson)",FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+23,piti ŋahuru mā toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+35,piti ŋahuru mā pae,[error for 25?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+46,mahu ŋahuru mā ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+100,hōē hānere,hānere < English hundred,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+100,rima takau,(Shibata),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+1000,hō’ē tauatini,tauatini < English thousand,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
+0,kore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+1,hō’ē,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+2,piti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+4,maha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+4,ope,"“four” (“General Tuamotuan”, Stimson)",FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+5,pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+6,ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+8,va’u,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+9,iva,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+9,nīpa,“nine” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+10,ahuru,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+11,ahuru mā hō’ē,ahuru < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+12,ahuru mā piti,ahuru < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+20,piti ahuru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+23,piti ahuru ma toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+35,toru ahuru mā pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+46,mā ahuru mā ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+100,hō’e hānere,hānere < English hundred,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
+1000,hō’e tauatini,tauatini < English thousand,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
 1,ri,,FALSE,LeanManus,p.44,"4 CSQs. Villages: Pelipowai (3), Bohuai (1).",tulu1259,Bohuai (from CSQs),tulu1259-1
 2,luwiah,,FALSE,LeanManus,p.44,"4 CSQs. Villages: Pelipowai (3), Bohuai (1).",tulu1259,Bohuai (from CSQs),tulu1259-1
 3,toloh,,FALSE,LeanManus,p.44,"4 CSQs. Villages: Pelipowai (3), Bohuai (1).",tulu1259,Bohuai (from CSQs),tulu1259-1
@@ -31785,6 +32514,15 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,sɛrɔk ɔrɔts,,FALSE,Grace1955pdf51,p.31,,wamp1247,laewɔmba,wamp1247-4
 4,sɛrɔk asɛrɔk,,FALSE,Grace1955pdf51,p.31,,wamp1247,laewɔmba,wamp1247-4
 5,sɛrɔk asɛrɔk ɔrɔts,,FALSE,Grace1955pdf51,p.31,,wamp1247,laewɔmba,wamp1247-4
+1,orots,,FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
+2,serok,,FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
+3,serok orots,(two one),FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
+4,serok a serok,(two two) [cf. p.27 <a> ‘vowel inserted between words ending and words beginning with consonant’],FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
+5,bangid ongan,"(my one hand) [cf. p.38 <bangi-n> ‘finger, hand, arm, front leg’; p.193 <ongan> ‘a, an, one, anyone, another’]",FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
+6,bangid ongan da orots,(one of my hands and one) [cf. p.54: <da> ‘and’],FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
+10,bangid serok,(my two hands),FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
+15,bangid serok faud ongan,"(my two hands, my one foot) [cf. p.78 <fâ-n> ‘foot, leg; step, stride; track, trace, trail (faud, faum, fân; fâ)’]",FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
+20,bangid serok faud serok,"(my two hands, my two feet)",FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
 1,bisangcwa,,FALSE,Smith1988,pp.68-69,,wamp1248,Wampur,wamp1248-1
 2,iriciru,,FALSE,Smith1988,pp.68-69,,wamp1248,Wampur,wamp1248-1
 3,iruc a bits,,FALSE,Smith1988,pp.68-69,,wamp1248,Wampur,wamp1248-1
@@ -33998,741 +34736,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,de-,"found in /denan/, /demuor/, debuŋ/, /depuk/; cf. /detu/ 'another'",FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
-1,debuŋ,for counting fruits; literally 'one-fruit',FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
-1,demuor,for counting people; literally 'one-person'?,FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
-1,denan,often [dennan]; generic word for counting anything; literally 'one-that'?,FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
-1,depuk,found in the distributive expression /depuk depuk/; literally 'one-piece',FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
-2,horo,cf. /ro=/ 'du'; is /ho-/ a nonsingular marker?,FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
-3,horomdetu,literally 'two and another' (/m/ < /mo/ 'and'),FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
-4,horo mo horo,literally 'two and two',FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
-5,liem,cf. Parkinson (1907: 780): <līem> 'zehn' ['ten (10)'],FALSE,Barlow2023,passim,,tomo1244,Tomoip - Milim village,tomo1244-3
-1,tikai,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-2,a urua,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-2,evut,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-3,a utul,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-4,a ivat,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-5,a ilima,"comes from lima, the hand",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-6,a laptikai,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-7,a lavurua,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-8,a lavutul,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-9,a lavuvat,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-10,a vinun,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-10,arip,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-11,a vinun ma tikai,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-12,a vinun ma evut,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-13,a vinun ma utul,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-14,a vinun ma ivat,etc.,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-20,a ura vinun,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-21,a ura vinun ma tikai,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-22,a ura vinun ma urua,etc.,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-30,a utul a vinun,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-40,a ivat na vinvinun,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-50,a ilima na vinvinun,etc.,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-100,a mar,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-200,a ura mar,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-300,a utul a mar,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-400,a ivat na marmar,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-948,a lavuvat na marmar ma ra ivat na vinvinun ma ra lavutul,,FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-1000,a mar na limana,"i.e., hundred times the hands",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-1000,a vinun na marmar,"i.e., ten times hundred",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-2000,a tutan ot,"i.e., a whole man, or so many times 100 as there are fingers and toes on the whole man (assuming that this one still has all his limbs, which is very often not the case)",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-4,a keva,"for eggs, a brood of young birds, pigs, or dogs",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-5,a vinar,"for eggs, a brood of young birds, pigs, or dogs",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-8,a ura keva,"for eggs, a brood of young birds, pigs, or dogs",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-10,a ura vinar,"for eggs, a brood of young birds, pigs, or dogs",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-12,a utul a keva,"for eggs, a brood of young birds, pigs, or dogs",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-15,a utul a vinar,"for eggs, a brood of young birds, pigs, or dogs",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-20,a ivat na vinavinar,"for eggs, a brood of young birds, pigs, or dogs",FALSE,Parkinson1907,pp.731-732,,kuan1248,nördliche Gazellehalbinsel,kuan1248-3
-1,ra,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-2,ruadi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-3,tuldi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-4,vatdi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-5,limadi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-6,nomdi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-6,limadi ma ra,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-7,limadi ma ruadi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-8,limadi ma tuldi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-9,limadi ma vatdi,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-10,noina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-20,ru noina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-50,a lima na noina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-60,a nom na noina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-100,a mar,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Nakukur,ramo1244-5
-1,ra,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
-2,ruo,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
-3,tul,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
-4,vat,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
-5,lim,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
-6,nom,"Six on Buka is monom; on northern Bougainville tunom, in the Shortland Islands onomo.",FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
-7,talaqarua,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
-8,lakatul,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
-9,latakai,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
-10,noina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
-20,rua roina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
-50,a lima na noina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
-60,a nom na noina,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
-100,a mar,,FALSE,Parkinson1907,p.745,,ramo1244,Neulauenburgsprache - Mioko,ramo1244-6
-1,kai,1 pair,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
-2,urua,2 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
-3,utul,3 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
-4,luvat,4 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
-5,tilim,5 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
-6,ma nom,6 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
-7,ma vit,7 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
-8,tival,8 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
-9,tiva,9 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
-10,tikina,10 pairs,FALSE,Parkinson1907,p.746,,ramo1244,Neulauenburgsprache - counting in pairs,ramo1244-7
-1,a choanáska,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-1,a choanaski,etc.,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-1,a gig̃sacha,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-1,a gigsichi,etc.,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-2,a rekmeneiem,(1st group),FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-2,a rekmeneiem,(2nd group),FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-2,a odochim,(2nd group),FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-2,a onpim,(2nd group),FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-3,a dopgues,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-4,a ratpes,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-4,a bag̃eigi,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-5,a g̃arichit,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-6,a g̃arichit a demka,etc.,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-7,a g̃arichit dat demiem,etc.,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-8,a g̃arichit dat demg̃er ama dopgues,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-9,a g̃irichit dat demg̃er ama ratpes,,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-10,a garichigrim,Numbers above 10 are not customary.,FALSE,Parkinson1907,pp.755-756,,qaqe1238,Baining,qaqe1238-3
-1,a tiang,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
-2,a lo,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
-3,korloti̥ge,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
-4,korlolo,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
-5,a gi̥tiek,‘the hand’,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
-6,a gi̥tiek he hori orom a tiang,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
-7,a gi̥tiek he hori orom a lo min,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
-8,a gi̥tiek he hori orom korloti̥ge,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
-9,a gi̥tiek he hori orom korlolo,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
-10,a lo gi̥tiek,‘the two hands’,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
-20,a mhelum,,FALSE,Parkinson1907,"pp.772-773, 780",,sulk1246,Sulka,sulk1246-5
-1,(tia) kēn,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
-2,(tia) lūo,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
-3,(tia) molēg,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
-4,(tia) togūl,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
-5,ta ne lim,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
-6,kana kēn,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
-7,kana lūo,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
-8,kana molēg,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
-9,kana togūl,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
-10,kana lim ~ tángau na ta,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
-20,a gigi tia ken,,FALSE,Parkinson1907,p.780,,meng1267,O Mengen,meng1267-6
-1,dēnan,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
-2,ro huru,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
-3,horum detu,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
-4,horumo horum,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
-5,ko līem,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
-6,—,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
-7,—,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
-8,—,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
-9,—,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
-10,līem,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
-20,tamdil,,FALSE,Parkinson1907,p.780,,tomo1244,Tu̥muip,tomo1244-4
-1,tassa,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-2,lua,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-3,tolu,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-4,iva,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-5,lima,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-6,pantassa,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-7,badilua,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-8,baditolu,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-9,alasue,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-10,savulu,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-11,savulu timana tassa,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-12,savulu timana lua,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-13,savulu timana tolu,etc.,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-20,savulu lua,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-21,savulu lua timana tassa,etc.,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-30,savulu tolu,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-100,savulu savulu,,FALSE,Parkinson1907,p.784,,naka1262,Nakanai,naka1262-6
-1,orots,,FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
-2,serok,,FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
-3,serok orots,(two one),FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
-4,serok a serok,(two two) [cf. p.27 <a> ‘vowel inserted between words ending and words beginning with consonant’],FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
-5,bangid ongan,"(my one hand) [cf. p.38 <bangi-n> ‘finger, hand, arm, front leg’; p.193 <ongan> ‘a, an, one, anyone, another’]",FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
-6,bangid ongan da orots,(one of my hands and one) [cf. p.54: <da> ‘and’],FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
-10,bangid serok,(my two hands),FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
-15,bangid serok faud ongan,"(my two hands, my one foot) [cf. p.78 <fâ-n> ‘foot, leg; step, stride; track, trace, trail (faud, faum, fân; fâ)’]",FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
-20,bangid serok faud serok,"(my two hands, my two feet)",FALSE,Fischer2021,pp.20-21,,wamp1247,Wampar,wamp1247-5
-1,sakai,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-2,ruka,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-3,tolu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-4,vati,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-5,lima,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-6,ono,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-7,vitu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-8,alu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-9,thiua,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-10,thangavulu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-100,thangetu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-1000,togha,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-11,thangavulu sakai,ten one,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-12,thangavulu ruka,ten two,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-20,ruka thangavulu,two ten,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-21,ruka thangavulu sakai,two ten one,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-122,sakai thangetu ruka thangavulu ruka,one hundred two ten two,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-222,ruka thangetu ruka thangavulu ruka,two hundred two ten two,FALSE,Unger2008,pp.56-57,,leng1259,Lengo,leng1259-1
-1,kea,a special set of numerals that are used in the telling of custom stories,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-2,ura,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-3,lotu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-4,tave,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-5,mila,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-6,no,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-7,tivu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-8,rau,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-9,beta,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-10,taleru,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-100,thangetu,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-1000,togha,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-1000000,mola,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-1000000000,maua,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-1000000000000,vuthia,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-1000000000000000,uki,[also <lega>  ‘countless’],FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-1,ise,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-2,jua,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-3,tolu,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-4,paa,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-4,apa,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-5,lima,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-6,noo,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-6,ana,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-7,pitu,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-8,walu,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-9,sio,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-9,siua,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-10,ompulu,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-10,sapulu,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-1,se-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-2,ghua-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-3,tolu-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-4,fato-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-5,lima-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-6,nomo-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-7,fitu-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-8,walu-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-9,sio-,prefixed,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-3,to-tolu,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-4,fo-paa,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-5,li-lima,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-6,no-noo,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-7,fo-pitu,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-8,o-alu,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-9,sio,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-9,siua,reduplicated,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-11,ompulu se-mii,Counting (of people) … with <mii> as classifier,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-12,ompulu ghua-mii,Counting (of people) … with <mii> as classifier,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-13,ompulu to-tolu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-14,ompulu fo-paa,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-15,ompulu li-lima,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-16,ompulu no-noo,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-17,ompulu fo-pitu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-18,ompulu oalu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-19,ompulu siua,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-20,ghua-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-21,ghua-fulu se-mii,Counting (of people) … with <mii> as classifier,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-22,ghua-fulu ghua-mii,Counting (of people) … with <mii> as classifier,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-30,tolu-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-40,fato-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-50,lima-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-60,nomo-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-70,fitu-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-80,alu-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-90,sio-fulu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-100,mohono,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-200,ghua-mohono,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-1000,se-ghewu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-2000,ghua-ghewu,,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
-1,ka'iseno,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
-2,kajuano,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
-3,katoluno,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
-4,tolu neke,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
-5,neke punda,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
-6,punda tie,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
-7,nawa doe,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
-8,ta'u muntu,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
-9,mbani aga,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
-10,kanampulu,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system a,buso1238-2
-1,sengge,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
-2,ruangge,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
-3,tolungge,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
-4,popaa,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
-5,melayu,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
-6,ado,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
-7,taana,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
-8,loli,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
-9,jawa,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
-10,karipo,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system b,buso1238-3
-1,se'ene,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
-2,luua,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
-3,lua mpaato,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
-4,mpato laae,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
-5,lae mbuunga,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
-6,mbunga aawa,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
-7,awa laando,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
-8,lando diia,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
-9,dia ngkooke,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
-10,kambolodhe,,FALSE,vandenBerg2020,p.97,,buso1238,Busoa - old counting system c,buso1238-4
-1,sakai,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-1,arin,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-2,pauak,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-2,va,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-2,ave,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-3,potul,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-4,poiat,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-5,palmit,[cf. p.88 <mit-> ‘hand’],FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-6,palmit sakai,five one,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-7,palmit pauak,five two,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-8,palmit potul,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-9,palmit poiat,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-10,sangaulung,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-10,saŋauluŋ,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-11,saŋauluŋ βe sakai,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-12,saŋauluŋ βe pauak,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-13,sangaulung ve potul,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-16,saŋauluŋ βe palmit sakai,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-18,saŋauluŋ βe palmit potul,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-20,pauak sangaulung,two tens,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-49,poiat sanguaulung ve palmit,,FALSE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-100,mar,The Tolai word for hundred <mar> has been borrowed,TRUE,Beaumont1979,"pp.105, 118",,tiga1245,Tigak - Central dialect,tiga1245-2
-1,kase,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
-2,luaman,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
-3,taramun,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
-4,bata,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
-5,titi,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
-6,βarakuman,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
-7,na mamon,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
-8,na bakot,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
-9,na kaika,,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
-10,na kaik bes,The form <bes> is still used for ‘ten’ in counting coconut leaves.,FALSE,Beaumont1979,pp.114-115,,tiga1245,"Tigak - Island dialect, old counting system",tiga1245-4
-1,kai,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-2,kuak,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-3,tul,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-4,iat,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-5,lima,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-6,pisaka,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-7,pisikuak,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-8,pisiktul,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-9,pisikpat,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-10,saŋauluŋ,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-11,saŋauluŋ βe sakai,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-12,saŋauluŋ βe pauak,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-16,saŋauluŋ βe pisaka,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-18,saŋauluŋ βe pisiktul,,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-20,pauak sangaulung,two tens,FALSE,Beaumont1979,p.118,,tiga1245,Tigak - Southern dialect,tiga1245-3
-0,a’ehe mea,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-2,e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-3,e to’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-4,e ha,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-5,e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-6,e ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-7,e hitu,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-8,e va’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-9,e iva,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-10,onohu’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-11,onohu’u e tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-12,onohu’u e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-20,tekau,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-23,tekau ma to’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-35,to’u onohu’u ma ’ima,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-46,e ha onohu’u e ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-46,e ha onohu’u ma ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-100,hanere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-1000,e ’ima tou ha,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-1000,mira,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-1000,e ’ua au me ’ima touha,"archaic or obsolete, (Mgr Le Cléac’h)",FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
-0,a’ehe mea,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-2,e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-3,e to’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-4,e ha,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-5,e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-6,e ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-7,e hitu,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-8,e va’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-9,e iva,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-10,onohu’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-11,onohu’u e tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-12,onohu’u e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-20,tekau,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-23,tekau e to’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-35,to’u onohu’u e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-46,e ha onohu’u e ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-100,hanere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-1000,e ’ima tou ha,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-1000,mira,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Huna,nort2845-2
-0,a’ehe mea,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-2,e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-3,e to’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-4,e ha,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-5,e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-6,e ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-7,e hitu,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-8,e va’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-9,e iva,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-10,onohu’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-11,onohu’u e tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-11,onohu’u ma tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-12,onohu’u e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-20,tekau,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-23,tekau e to’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-23,tekau ma to’u,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-35,to’u onohu’u e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-46,e ha onohu’u e ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-46,e ha onohu’u ma ono,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-100,hanere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-1000,tautini,< English thousand,TRUE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-1000,e ’ima tou ha,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-1000,mira,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
-0,’ao’e,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-2,e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-3,e to’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-4,e fa,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-5,e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-6,e ono,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-7,e fitu,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-8,e va’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-9,e iva,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-10,onohu’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-11,onohu’u e tahi,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-12,onohu’u e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-20,tekau,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-23,tekau e to’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-35,to’u onohu’u e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-46,e fa onohu’u e ono,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-100,hanere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-1000,tautini,< English thousand,TRUE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-1000,e ’ima au,archaic or obsolete,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Hiva Oa,sout2866-1
-0,’ao’e,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-2,e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-3,e to’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-4,e fa,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-5,e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-6,e ono,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-7,e fitu,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-8,e va’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-9,e iva,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-10,onohu’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-11,onohu’u e tahi,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-12,onohu’u e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-20,tekau,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-23,tekau e to’u,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-35,to’u onohu’u e ’ima,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-46,fa onohu’u e ono,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-100,hanere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-1000,tautini,< English thousand,TRUE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-1000,mira,,FALSE,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan - Fatu Hiva,sout2866-2
-0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Maupiti,tahi1242-2
-0,’aore,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-1,ho’ē,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-2,piti,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-4,maha,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-5,pae,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-6,ono,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-7,hitu,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-8,va’u,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-9,iva,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-10,hō’ē ’ahuru,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-11,(hō’ē) ’ahuru mā hō’ē,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-12,(hō’ē) ’ahuru mā piti,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-20,(e) piti ’ahuru,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-23,(e) piti ’ahuru mā toru,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-35,(e) toru ’ahuru mā pae,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-46,(e) maha ’ahuru mā ono,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-100,(hō’ē) hānere,hānere < English hundred,TRUE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-1000,(hō’ē) tauatini,tauatini < English thousand,TRUE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
-1,ho’ē,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-2,rua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-4,maha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-5,pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-6,ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-6,hene,“six” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-7,hitu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-8,va’u,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-9,iva,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-9,nīpa,“nine” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-10,’ahuru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-11,’ahuru ma ho’ē,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-12,’ahuru māpiti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-20,piti ’ahuru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-23,piti ’ahuru mā toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-35,toru ’ahuru mā pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-46,maha ’ahuru mā ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-100,haŋere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-1000,tauatini,< English thousand,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
-0,aore,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-1,ka rari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-2,ka ite,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-3,ka ŋeti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-4,ka ope,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-5,ka mihe,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-6,ka hene,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-7,ka tika,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-8,ka hava,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-8,varu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-9,ŋohuru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-10,tapahi reka,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-11,tapahi ma rari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-12,tapahi ma kite,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-20,e rari takau,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-23,e rari takau ma ŋeti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-35,e rari takau tapahi ma mihe,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-46,e ite takau ma hene,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-100,e mie takua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-1000,e mie kiu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
-0,kore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-1,e rari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-2,e rua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-3,eŋeti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-4,e kere,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-4,fā,(Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-5,e fā,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-5,rima,(Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-6,e nohu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-7,ka tika,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-7,e motu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-7,hitu,(Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-8,e firi,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-8,varu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-9,e maŋa,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-9,iva,(Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-10,e rari rua,[?] [homophony between 2 and 10?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-11,e rua rari,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-12,e ruaŋeti,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-20,eŋeti rua,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-23,eŋeti rua e rua,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-35,e rua rua fā,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-46,e kere rua nohu,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-100,e tini,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Fangatau,tuam1242-3
-0,aore,(Makemo) < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-0,kaore,(Raroia) seldom used,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-1,hōē,(Makemo),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-1,tahi,(Raroia) < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-2,rua,(Raroia),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-2,piti,(Makemo) < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-4,maha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-5,pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-5,mihe,(Raroia),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-6,ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-6,hene,“six” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-7,hitu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-8,va’u,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-8,varu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-9,iva,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-9,nīpa,“nine” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-10,hōē ahuru,(Makemo) ahuru < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-10,tahi ahuru,(Raroia) ahuru < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-11,ahuru ma hōē,(Makemo) ahuru < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-11,ahuru ma ho’e,(Raroia) ahuru < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-12,āhuru mā piti,(Makemo),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-12,ahuru ma piti,(Raroia),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-20,piti ahuru,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-23,piti ahuru ma toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-35,toru ahuru ma pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-46,toru ahuru ma pae,[typographical error (duplication of 35)],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-100,hānere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-1000,tauatini,< English thousand,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Makemo (with secondary survey at Raroia),tuam1242-4
-0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-1,ko rari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-2,e ŋeti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-2,e rua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-4,maha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-4,ope,"“four” (“General Tuamotuan”, Stimson)",FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-5,pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-5,rima,(Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-6,ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-6,hene,“six” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-7,hitu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-8,va’u,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-9,iva,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-10,hō’ē ahuru,ahuru < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-11,(hō’ē) ’ahuru mā hō’ē,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-12,(hō’ē) ’ahuru mā piti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-20,(e) piti ahuru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-23,(e) piti ’ahuru mā toru,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-35,(e) toru ’ahuru mā pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-46,(e) maha ’ahuru mā ono,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-100,(hō’ē) hānere,hānere < English hundred,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-1000,(hō’ē) tauatini,tauatini < English thousand,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Anaa,tuam1242-5
-0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-1,ko rari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-2,e ite,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-2,ko ite,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-3,ke ŋeti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-4,e hope,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-4,ke haka,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-5,kā miha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-5,ke miha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-6,kā hene,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-6,ke hene,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-7,kā ito,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-7,ke hito,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-7,ke ito,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-8,kā hava,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-8,ke hava,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-9,kā nipa,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-9,ke nipa,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-10,tua kara ŋauru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-10,parau ŋauru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-11,tua kara kātahi,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-11,korari parau ŋahuru korari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-12,tua kara kā ite,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-12,korari parau ŋauru e ite,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-20,kā ite ŋauru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-20,kā ite parau ŋauru ŋauru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-23,kā ite ŋauru e rari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-35,kā rari ŋauru ka miha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-46,kāhope ŋauru kā hene,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-100,ke rari mano,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-1000,ke rari tini mano,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tatakoto,tuam1242-6
-0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-1,kotahi,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-2,rua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-4,ha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-5,rima,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-6,ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-6,hene,“six” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-7,hitu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-7,fitu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-8,varu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-8,ka hava,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-9,iva,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-9,nīpa,“nine” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-10,ono hua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-11,o nohua ma tahi,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-12,o nohua ma rua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-20,takau,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-23,takau ma toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-35,takau ono hua ma rima,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-46,e rua takau ma ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-100,e rima takau,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-1000,tini,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Amanu,tuam1242-7
-0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-1,hōē,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-2,piti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-2,rua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-4,maha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-4,rima,[?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-5,pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-6,ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-7,hitu,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-8,vaū,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-9,iva,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-10,ŋahuru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-11,ŋahuru mā hōē,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-12,ŋahuru mā piti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-20,pitiŋahuru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-20,takau,"“twenty” (“General Tuamotuan”, Stimson)",FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-23,piti ŋahuru mā toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-35,piti ŋahuru mā pae,[error for 25?],FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-46,mahu ŋahuru mā ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-100,hōē hānere,hānere < English hundred,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-100,rima takau,(Shibata),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-1000,hō’ē tauatini,tauatini < English thousand,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Reao (with secondary survey at Pukarua),tuam1242-8
-0,kore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-1,hō’ē,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-2,piti,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-4,maha,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-4,ope,"“four” (“General Tuamotuan”, Stimson)",FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-5,pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-6,ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-8,va’u,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-9,iva,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-9,nīpa,“nine” (Stimson),FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-10,ahuru,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-11,ahuru mā hō’ē,ahuru < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-12,ahuru mā piti,ahuru < Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-20,piti ahuru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-23,piti ahuru ma toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-35,toru ahuru mā pae,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-46,mā ahuru mā ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-100,hō’e hānere,hānere < English hundred,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-1000,hō’e tauatini,tauatini < English thousand,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Tureia (with secondary survey at Vahitahi),tuam1242-9
-0,’aore,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-1,’ota’i,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-2,piti,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-3,toru,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-4,ma’a,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-5,pae,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-6,ono,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-7,’itu,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-8,va’u,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-9,iva,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-10,a’uru,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-11,a’uru mata’i,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-12,a’uru mapiti,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-20,piti a’uru,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-23,piti a’uru ma toru,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-35,toru a’uru ma pae,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-46,ma’a a’uru ma ono,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-100,’anere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-1000,tauatini,< English thousand,TRUE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Rurutu (with secondary survey at Rimatara),aust1304-1
-0,’aoge,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-1,ho’ē,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-2,piti,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-3,togu,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-4,maha,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-5,pae,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-6,ono,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-7,hitu,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-8,va’u,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-9,iva,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-10,’ahugu,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-11,’ahugu mā hō’ē,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-12,’ahugu mā piti,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-20,piti ahugu,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-23,piti ’ahugu mā togu,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-35,toru ’ahugu mā pae,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-46,maha ’ahugu mā ono,,FALSE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-100,hanege,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,aust1304,Austral - Ra’ivavae,aust1304-2
-0,kore,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-1,e ta’i,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-2,e rua,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-3,e toru,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-4,e ’ā,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-5,e rima,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-6,e ono,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-7,e ’itu,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-8,e varu,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-9,e iva,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-10,roŋo’uru,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-10,roŋouru,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-11,roŋo’uru e ta’i,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-11,ta’i roŋo,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-11,uru e ta’i touara,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-12,roŋo’uru e rua tou’ara,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-12,e ta’i roŋo’uru e rua tou’ara,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-20,e rua roŋo’uru,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-23,e rua roŋo’uru e toru tou’ara,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-35,e toru roŋo’uru rima tou’ara,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-46,tataua,(Rensch),FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-46,e ’ā roŋo’uru ono tou’ara,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-46,e ’ā roŋouru ono touara,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-100,rau,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-100,e ta’i rau,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-1000,mano,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-1000,e ta’i mano,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
-0,kare,,FALSE,Charpentier2015,pp.1825-1843,,rapa1245,Rapa - Rapa (Oparo),rapa1245-1
-1,kota’i,,FALSE,Charpentier2015,pp.1825-1843,,rapa1245,Rapa - Rapa (Oparo),rapa1245-1
-2,e rua,,FALSE,Charpentier2015,pp.1825-1843,,rapa1245,Rapa - Rapa (Oparo),rapa1245-1
-3,toru,,FALSE,Charpentier2015,pp.1825-1843,,rapa1245,Rapa - Rapa (Oparo),rapa1245-1
