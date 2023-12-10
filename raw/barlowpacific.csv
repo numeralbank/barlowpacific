@@ -34736,3 +34736,1547 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
+1,e thi,[cf. p. 244 <ethi>],FALSE,Codrington1885,p.235,,anei1239,Anaiteum,anei1239-1
+2,e ro,,FALSE,Codrington1885,p.235,,anei1239,Anaiteum,anei1239-1
+3,e seij,,FALSE,Codrington1885,p.235,,anei1239,Anaiteum,anei1239-1
+4,e manowan,,FALSE,Codrington1885,p.235,,anei1239,Anaiteum,anei1239-1
+5,ikman,,FALSE,Codrington1885,p.235,,anei1239,Anaiteum,anei1239-1
+1,tai,,FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+1,eta,"In counting eta is used, not tai.",FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+2,e rua,"The Prefix e, no doubt verbal, can be used with all but tanahuru [<taŋahuru>, with <n> in italics].",FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+2,ta rua,"To all Cardinals, except tanahuru [<taŋahuru>, with <n> in italics], ta is sometimes prefixed",FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+3,e ’oru,,FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+3,e’ oru,,FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+4,e hai,,FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+4,e ha’i,,FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+5,rima,,FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+6,ono,,FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+7,bi’u,,FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+8,e waru,,FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+8,waru,,FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+9,e siwa,,FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+9,siwa,,FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+10,taŋahuru,"[<tanahuru>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+11,tai taŋahuru mana tai,"[<tanahuru>, with <n> in italics]; For the sum above ten madara is used by some.",FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+20,rua taŋahuru,"[<tanahuru>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+20,gagau,"A score, used in counting betel nuts and days, is gagau ... but it is not admitted that this word is kakau fingers.",FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+20,rua gagau,"A score, used in counting betel nuts and days, is gagau",FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+100,taŋarau,"[<tanarau>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+134,tai taŋarau mana ’oru taŋahuru mana ha’i,"[<tanarau>, with <n> in italics; <tanahuru>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+1000,_,In Wano of San Cristoval they have no word for a thousand. ... A thousand mangos aii wawai beo.,FALSE,Codrington1885,"pp.237, 511",,aros1241,"San Cristoval, Wano [waŋo]",aros1241-1
+1,niŋgi,"[<nigi>, with <g> in italics]; These Numerals are strange",FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+2,lilu,,FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+3,eve,,FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+4,uvæ,"[<uva>, with <a> in italics, = “short and sharp”]",FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+5,vili,,FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+6,wele ŋgi,"[<wele gi>, with <g> in italics]",FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+6,weleŋgi,"[<welegi>, with <g> in italics]",FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+7,pole lu,,FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+7,polelu,,FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+8,po le,,FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+8,pole,,FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+9,polo ve,,FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+9,polove,,FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+10,nukolu,,FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+10,nu kolu,,FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+12,nu kolu e niŋggi nu a lilu,"[<nigi>, with <g> in italics]; the unit above ten is the a, a Noun",FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+30,nu kolu e ve,,FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+100,tevesiki,,FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+135,tevesiki niŋggi e totoge kolu eve nu a vili,"[<nigi>, with <g> in italics]; the sum above a hundred is expressed by a Verb, e totoge",FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+1000,tegu,,FALSE,Codrington1885,"pp.236, 498",,ayiw1239,"Santa Cruz, Nifilole",ayiw1239-1
+1,sai,,FALSE,Codrington1885,p.237,,biak1248,"Mafoor, New Guinea",biak1248-6
+2,dui,,FALSE,Codrington1885,p.237,,biak1248,"Mafoor, New Guinea",biak1248-6
+3,kior,,FALSE,Codrington1885,p.237,,biak1248,"Mafoor, New Guinea",biak1248-6
+4,fiak,,FALSE,Codrington1885,p.237,,biak1248,"Mafoor, New Guinea",biak1248-6
+5,rim,,FALSE,Codrington1885,p.237,,biak1248,"Mafoor, New Guinea",biak1248-6
+6,onem,,FALSE,Codrington1885,p.237,,biak1248,"Mafoor, New Guinea",biak1248-6
+7,fik,,FALSE,Codrington1885,p.237,,biak1248,"Mafoor, New Guinea",biak1248-6
+8,war,,FALSE,Codrington1885,p.237,,biak1248,"Mafoor, New Guinea",biak1248-6
+9,siw,,FALSE,Codrington1885,p.237,,biak1248,"Mafoor, New Guinea",biak1248-6
+10,samfur,,FALSE,Codrington1885,p.237,,biak1248,"Mafoor, New Guinea",biak1248-6
+1,sikei,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+1,keha,"In counting a series keha is used for ‘one,’ not sikei",FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+1,si,si and sa are also used for ‘one.’,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+1,sa,si and sa are also used for ‘one.’,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+2,rua,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+3,tolu,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+4,vati,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+5,lima,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+6,ono,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+7,vitu,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+8,alu,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+9,hia,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+10,haŋavulu,"[<hanavulu>, with <n> in italics]; [incorrectly attributed to Bugotu? Should this be ten in Florida, Gela?]",FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+10,salage,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+10,selage,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+11,salage sikei,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+20,tutugu,a score,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+21,tutugu sikei,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+30,tolu haŋavulu,"[<hanavulu>, with <n> in italics]; [incorrectly attributed to Bugotu? Should this be ten in Florida, Gela?]",FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+40,e rua tutugu,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+100,hathaŋatu,"[<hathanatu>, with <n> in italics]",FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+100,si na hathaŋatu,"[<hathanatu>, with <n> in italics]",FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+1000,toga,,FALSE,Codrington1885,"pp.227, 237, 242, 250, 553-554",,bugh1239,"Ysabel Island, Bugotu",bugh1239-1
+1,sia,,FALSE,Codrington1885,p.231,,buru1303,Masuratty [from Mr. Wallace],buru1303-2
+2,dua,,FALSE,Codrington1885,p.231,,buru1303,Masuratty [from Mr. Wallace],buru1303-2
+10,polo,,FALSE,Codrington1885,p.231,,buru1303,Masuratty [from Mr. Wallace],buru1303-2
+11,polo tem sia,,FALSE,Codrington1885,p.231,,buru1303,Masuratty [from Mr. Wallace],buru1303-2
+12,polo tem dua,,FALSE,Codrington1885,p.231,,buru1303,Masuratty [from Mr. Wallace],buru1303-2
+1,ésa,,FALSE,Vanoverbergh1937,"pp.111, 117",,casi1235,Casiguran Negrito,casi1235-1
+2,duá,,FALSE,Vanoverbergh1937,"pp.111, 117",,casi1235,Casiguran Negrito,casi1235-1
+3,tëló,,FALSE,Vanoverbergh1937,"pp.111, 117",,casi1235,Casiguran Negrito,casi1235-1
+4,ëpát,,FALSE,Vanoverbergh1937,"pp.111, 117",,casi1235,Casiguran Negrito,casi1235-1
+5,limá,,FALSE,Vanoverbergh1937,"pp.111, 117",,casi1235,Casiguran Negrito,casi1235-1
+6,ënnë́m,,FALSE,Vanoverbergh1937,"pp.111, 117",,casi1235,Casiguran Negrito,casi1235-1
+7,pitó,,FALSE,Vanoverbergh1937,"pp.111, 117",,casi1235,Casiguran Negrito,casi1235-1
+8,waló,,FALSE,Vanoverbergh1937,"pp.111, 117",,casi1235,Casiguran Negrito,casi1235-1
+9,siám,,FALSE,Vanoverbergh1937,"pp.111, 117",,casi1235,Casiguran Negrito,casi1235-1
+10,sapúlo,,FALSE,Vanoverbergh1937,"pp.111, 117",,casi1235,Casiguran Negrito,casi1235-1
+11,sapúlo ta isésa,,FALSE,Vanoverbergh1937,"pp.111, 117",,casi1235,Casiguran Negrito,casi1235-1
+20,duá púlo,,FALSE,Vanoverbergh1937,"pp.111, 117",,casi1235,Casiguran Negrito,casi1235-1
+22,duá púlo ta duá,,FALSE,Vanoverbergh1937,"pp.111, 117",,casi1235,Casiguran Negrito,casi1235-1
+23,duá púlo ta tëló,,FALSE,Vanoverbergh1937,"pp.111, 117",,casi1235,Casiguran Negrito,casi1235-1
+1,tewa,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+2,i rua,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+2,irua,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+3,i tol,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+3,tolu,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+4,i vat,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+4,ivat,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+5,tavalima,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+5,tavalima,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+6,lava tea,"According to native opinion, la with the Numerals of the first hand has the same sort of signification as domai",FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+6,lavatea,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+7,lava rua,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+7,lavarua,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+8,lava tol,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+8,lavatol,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+9,la vat,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+9,lavat,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+10,saŋwulu,"[<sanwulu>, with <n> in italics]",FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+10,sawul,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+23,sawulu rua doman itol,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+100,medol,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+100,meldol,"[<m> in italics, = “nasal”]; For a hundred some say meldol.",FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+320,"medol tol, laŋ woŋana saŋwulu rua","[<lan>, with <n> in italics; <wonana>, with first <n> in italics; <sanwulu>, with <n> in italics]; ‘hundreds three, turn over upon it two tens’",FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+320,medol tol laŋ woŋana sawulu rua,"[<m> in italics, = “nasal”; <wonana>, with first <n> in italics]; laŋa [<lana>, with <n> in italics] turn over; wonana on it",FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+1000,tari,,FALSE,Codrington1885,"pp.233-235, 240, 419",,cent2058,"Aurora Island, Maewo",cent2058-1
+1,isá,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
+2,duá,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
+3,talló,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
+4,appát,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
+5,limá,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
+6,inném,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
+7,pitó,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
+8,waló,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
+9,siám,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
+10,mafúlo,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
+11,mafúlo takdéy,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
+20,duá fúlo,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
+22,duá fúlo dúa,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
+23,duá fúlo talló,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
+1,ësá,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+2,čuá,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+3,tuló,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+4,ëpát,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+5,limá,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+6,ënë́m,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+7,pitó,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+8,waló,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+9,siám,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+10,sinpúo,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+11,sinpúo ya ësán,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+20,čuán púo,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+22,čuán púo ya čuá,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+23,čuán púo ya tuló,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+1,ca,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+1,cha,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+2,lue,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+3,kœni,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+4,eke,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+5,tripi,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+5,tjipi,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+5,tji pi,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+6,ca ngemen,the number-above (five) one,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+7,lue ngemen,the number-above two,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+7,lue gnemen,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+8,kœni gnemen,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+9,eke ngemen,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+10,luepi,two-five,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+10,lue pi,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+11,ca ko,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+12,lue ko,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+13,kœni ko,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+14,eke ko,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+15,kœni-pi,three-five,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+15,kœni pi,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+16,ca huai ano,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+17,lua huai ano,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+18,kœni huai ano,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+19,eke huai ano,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+20,cha-atre,one man,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+20,ca-atj,one man,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+20,ca atj,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+100,tjipi o atj,five men,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
+1,tàa(xẹ́),[cf. p.55 <xẹ́> ‘thing’],FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+2,pérùu(xẹ́),,FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+3,pétȋȋ(xẹ́),,FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+4,pévùu(xẹ́),,FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+5,tàakȗ(xẹ́),"[cf. p.75 <kȗ> ‘on, on top, by (boarding)’]",FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+6,tàakȗxẹ́-mí-tàa-nóotàa,"“five and one”; [cf. p.2 <mí> ‘arm, hand’]",FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+7,tàakȗxẹ́-mí-pérùu-nóotàa,“five and two”,FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+8,tàakȗxẹ́-mí-pétȋȋ-nóotàa,“five and three”,FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+9,tàakȗxẹ́-mí-pévùu-nóotàa,“five and four”,FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+10,pérùukȗ(xẹ́),"“twot times five”; The numbers in use today only go up to ten. Beyond that, French is used.",FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+11,pérùukȗxẹ́ mí tàa(xẹ́),“ten and one”,FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+20,tàa-jíé,“one man”,FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+30,tàa-jíé mí pérùukȗ(xẹ́),“twenty and ten”,FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+40,pérùu-jíé,“two men men”,FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+60,pétȋȋ-jíé,“three men”,FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+80,pévùu-jíé,“four men”,FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+100,tàakȗ-jíé,"“five men”; However, one can count in nráa drùbea up to one hundred.",FALSE,Paita1990,p.61,,dumb1241,nráa drùbea,dumb1241-1
+1,gai tuwale,,FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
+2,rai rue,,FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
+3,gai tolu,,FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
+4,gai vesi,,FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
+5,gai lime,,FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
+6,gai ono,,FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
+7,gai bitu,,FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
+8,gai welu,,FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
+9,gai siwo,,FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
+10,saŋavulu,"[<sanavulu>, with <n> in italics]",FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
+12,saŋavulu domagi gairue,"[<sanavulu>, with <n> in italics; <m> in italics, = “nasal”]",FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
+48,"ŋavulu gevesi, ŋavulu gailimegi gaiwelu","[<navulu>, with <n> in italics (both times); <m> in italics, = “nasal”]; i.e. tens 4, the fifth ten (set), eight.",FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
+110,"vudolue vagatuwale, avigi saŋavulu","[<sanavulu>, with <n> in italics]",FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
+1,iskei,"iskei is sakai, sikai of Solomon Islands",FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+2,rua,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+3,tolu,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+4,bate,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+5,lima,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+6,la tesa,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+6,latesa,"la marks the digits of the second hand, changes to li before fiti; tesa = tea",FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+7,la rua,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+7,larua,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+8,la tolu,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+8,latolu,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+9,la fiti,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+9,lafiti,fite = bate; [should be <lifiti>?],FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+10,relima,"relima = rua lima; ten in fact is two-five; relima, although in fact it means two fives, and not one ten, has become to all intents and purposes a singler numeral",FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+18,relima iskei temati latolu,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+18,relim iskei temati latolu,"one ten, the unit-above eight",FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+20,relima rua,twenty [in fact is] two two-five,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+84,relima latolu temati bate,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+99,"relim e lifiti, temati e lifiti","The Numeral is used with Verbal Particle … tens are nine, the unit above is nine.",FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+100,bunti,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+500,bunti lima,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+1000,manu,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+20000,manu relima rua,,FALSE,Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",efat1236-1
+4,wutu,,FALSE,Codrington1885,p.226,,ende1246,Ende,ende1246-3
+5,lima,,FALSE,Codrington1885,p.226,,ende1246,Ende,ende1246-3
+6,lima a,,FALSE,Codrington1885,p.226,,ende1246,Ende,ende1246-3
+7,lima zua,,FALSE,Codrington1885,p.226,,ende1246,Ende,ende1246-3
+8,rua butu,two fours,FALSE,Codrington1885,p.226,,ende1246,Ende,ende1246-3
+2,adoea,,FALSE,Codrington1885,p.226,,engg1245,Enganho,engg1245-2
+5,alima,,FALSE,Codrington1885,p.226,,engg1245,Enganho,engg1245-2
+7,alimei adoea,A pure decimal series has not yet been formed; the system is still quinary up to ten.,FALSE,Codrington1885,p.226,,engg1245,Enganho,engg1245-2
+1,tai,,FALSE,Codrington1885,"pp.222, 235, 244-245",,epii1237,"Api [exact language unknown, but seems similar to lewo1242]",epii1237-3
+1,ta,,FALSE,Codrington1885,"pp.222, 235, 244-245",,epii1237,"Api [exact language unknown, but seems similar to lewo1242]",epii1237-3
+2,lua,,FALSE,Codrington1885,"pp.222, 235, 244-245",,epii1237,"Api [exact language unknown, but seems similar to lewo1242]",epii1237-3
+2,tua,,FALSE,Codrington1885,"pp.222, 235, 244-245",,epii1237,"Api [exact language unknown, but seems similar to lewo1242]",epii1237-3
+2,chua,,FALSE,Codrington1885,"pp.222, 235, 244-245",,epii1237,"Api [exact language unknown, but seems similar to lewo1242]",epii1237-3
+3,tolu,,FALSE,Codrington1885,"pp.222, 235, 244-245",,epii1237,"Api [exact language unknown, but seems similar to lewo1242]",epii1237-3
+4,vari,,FALSE,Codrington1885,"pp.222, 235, 244-245",,epii1237,"Api [exact language unknown, but seems similar to lewo1242]",epii1237-3
+5,lima,,FALSE,Codrington1885,"pp.222, 235, 244-245",,epii1237,"Api [exact language unknown, but seems similar to lewo1242]",epii1237-3
+6,o rai,,FALSE,Codrington1885,"pp.222, 235, 244-245",,epii1237,"Api [exact language unknown, but seems similar to lewo1242]",epii1237-3
+7,o lua,,FALSE,Codrington1885,"pp.222, 235, 244-245",,epii1237,"Api [exact language unknown, but seems similar to lewo1242]",epii1237-3
+8,o tolo,,FALSE,Codrington1885,"pp.222, 235, 244-245",,epii1237,"Api [exact language unknown, but seems similar to lewo1242]",epii1237-3
+9,o vari,,FALSE,Codrington1885,"pp.222, 235, 244-245",,epii1237,"Api [exact language unknown, but seems similar to lewo1242]",epii1237-3
+10,lua lima,,FALSE,Codrington1885,"pp.222, 235, 244-245",,epii1237,"Api [exact language unknown, but seems similar to lewo1242]",epii1237-3
+1,ta,,FALSE,Codrington1885,pp.469-470,,epii1237,"Api, Tasiko (West coast) [possibly bier1244]",epii1237-4
+2,chua,,FALSE,Codrington1885,pp.469-470,,epii1237,"Api, Tasiko (West coast) [possibly bier1244]",epii1237-4
+3,tolu,,FALSE,Codrington1885,pp.469-470,,epii1237,"Api, Tasiko (West coast) [possibly bier1244]",epii1237-4
+4,veri,,FALSE,Codrington1885,pp.469-470,,epii1237,"Api, Tasiko (West coast) [possibly bier1244]",epii1237-4
+5,chima,,FALSE,Codrington1885,pp.469-470,,epii1237,"Api, Tasiko (West coast) [possibly bier1244]",epii1237-4
+6,ora,Here o with the digits of the second hand corresponds to the la of Fate.,FALSE,Codrington1885,pp.469-470,,epii1237,"Api, Tasiko (West coast) [possibly bier1244]",epii1237-4
+7,olua,It is remarkable that lua in seven and ten does not change to chua.,FALSE,Codrington1885,pp.469-470,,epii1237,"Api, Tasiko (West coast) [possibly bier1244]",epii1237-4
+8,orolu,,FALSE,Codrington1885,pp.469-470,,epii1237,"Api, Tasiko (West coast) [possibly bier1244]",epii1237-4
+9,overi,,FALSE,Codrington1885,pp.469-470,,epii1237,"Api, Tasiko (West coast) [possibly bier1244]",epii1237-4
+10,lua lima,,FALSE,Codrington1885,pp.469-470,,epii1237,"Api, Tasiko (West coast) [possibly bier1244]",epii1237-4
+1,tai,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (West coast) [possibly maii1238]",epii1237-5
+2,lua,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (West coast) [possibly maii1238]",epii1237-5
+3,relu,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (West coast) [possibly maii1238]",epii1237-5
+4,vari,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (West coast) [possibly maii1238]",epii1237-5
+5,lima,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (West coast) [possibly maii1238]",epii1237-5
+6,oraga,obscure,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (West coast) [possibly maii1238]",epii1237-5
+7,o lua,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (West coast) [possibly maii1238]",epii1237-5
+8,o relu,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (West coast) [possibly maii1238]",epii1237-5
+9,a vari,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (West coast) [possibly maii1238]",epii1237-5
+10,lua lima,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (West coast) [possibly maii1238]",epii1237-5
+1,peni,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",epii1237-6
+2,viago,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",epii1237-6
+3,pun sulu,Here sulu may be tolu,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",epii1237-6
+4,pun vire,vire = vari = vati [in other doculects],FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",epii1237-6
+5,pun lima,"pun, po, ka, are strange",FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",epii1237-6
+6,po or,"pun, po, ka, are strange",FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",epii1237-6
+6,poa raka,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",epii1237-6
+7,o lua,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",epii1237-6
+8,o rolu,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",epii1237-6
+9,ka vari,"pun, po, ka, are strange",FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",epii1237-6
+10,lua lima,,FALSE,Codrington1885,p.470,,epii1237,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",epii1237-6
+1,sai,,FALSE,Codrington1885,"pp.222-223, 235, 240, 244, 249",,erro1239,"Eromanga [exact language unknown, but seems similar to siee1239]",erro1239-1
+2,du ru,,FALSE,Codrington1885,"pp.222-223, 235, 240, 244, 249",,erro1239,"Eromanga [exact language unknown, but seems similar to siee1239]",erro1239-1
+2,duru,,FALSE,Codrington1885,"pp.222-223, 235, 240, 244, 249",,erro1239,"Eromanga [exact language unknown, but seems similar to siee1239]",erro1239-1
+3,di sil,,FALSE,Codrington1885,"pp.222-223, 235, 240, 244, 249",,erro1239,"Eromanga [exact language unknown, but seems similar to siee1239]",erro1239-1
+4,di vat,,FALSE,Codrington1885,"pp.222-223, 235, 240, 244, 249",,erro1239,"Eromanga [exact language unknown, but seems similar to siee1239]",erro1239-1
+5,sukrim,,FALSE,Codrington1885,"pp.222-223, 235, 240, 244, 249",,erro1239,"Eromanga [exact language unknown, but seems similar to siee1239]",erro1239-1
+7,sukrim naru,five two,FALSE,Codrington1885,"pp.222-223, 235, 240, 244, 249",,erro1239,"Eromanga [exact language unknown, but seems similar to siee1239]",erro1239-1
+10,narolim,two fives,FALSE,Codrington1885,"pp.222-223, 235, 240, 244, 249",,erro1239,"Eromanga [exact language unknown, but seems similar to siee1239]",erro1239-1
+100,narolim-narolim,"two-five-two-five, i.e. ten tens",FALSE,Codrington1885,"pp.222-223, 235, 240, 244, 249",,erro1239,"Eromanga [exact language unknown, but seems similar to siee1239]",erro1239-1
+1,i tagai,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+1,tagai,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+1,eta,"In counting a series eta is used for ‘one;’ eta, rua, oru, &c.",FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+2,i rua,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+2,rua,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+3,i ’oru,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+3,’oru,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+4,i fai,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+4,fa’i,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+5,i rima,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+5,rima,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+6,i ono,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+6,ono,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+7,i pi’u,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+7,pi’u,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+8,i waru,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+8,waru,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+9,i siwa,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+9,siwa,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+10,taŋavuru,"[<tanavuru>, with <n> in italics]; i.e. two the tens, (and) it has come up to two",FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+10,taŋafuru,"[<tanafuru>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+20,i ru taŋafuru,"[<tanafuru>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+45,i fai taŋafuru matara rima,"[<tanafuru>, with <n> in italics]; The sum above both ten and hundred is matara.",FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+100,taŋarau,"[<tanarau>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+240,i rua taŋarau matara i fai taŋafuru,"[<tanarau>, with <n> in italics; <tanavuru>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+1000,mirumiru,,FALSE,Codrington1885,"pp.233, 237, 504-505",,faga1239,"San Cristoval, Fagani",faga1239-1
+1,isyíń,,FALSE,Vanoverbergh1937,"pp.111, 117",,fair1238,Rizal Negrito,fair1238-2
+2,aduá,,FALSE,Vanoverbergh1937,"pp.111, 117",,fair1238,Rizal Negrito,fair1238-2
+3,telóen,,FALSE,Vanoverbergh1937,"pp.111, 117",,fair1238,Rizal Negrito,fair1238-2
+4,ápat,,FALSE,Vanoverbergh1937,"pp.111, 117",,fair1238,Rizal Negrito,fair1238-2
+5,limá,,FALSE,Vanoverbergh1937,"pp.111, 117",,fair1238,Rizal Negrito,fair1238-2
+6,ánim,,FALSE,Vanoverbergh1937,"pp.111, 117",,fair1238,Rizal Negrito,fair1238-2
+7,pitó,,FALSE,Vanoverbergh1937,"pp.111, 117",,fair1238,Rizal Negrito,fair1238-2
+8,wáo,,FALSE,Vanoverbergh1937,"pp.111, 117",,fair1238,Rizal Negrito,fair1238-2
+9,siám,,FALSE,Vanoverbergh1937,"pp.111, 117",,fair1238,Rizal Negrito,fair1238-2
+10,sampó,,FALSE,Vanoverbergh1937,"pp.111, 117",,fair1238,Rizal Negrito,fair1238-2
+11,labíń isá,"That the Negritos are bad mathematicians is very apparent here: they have thier [sic] own word for “one”, but “eleven” is much too high for them, so they sImply borrow the Tagalog term.",TRUE,Vanoverbergh1937,"pp.111, 117",,fair1238,Rizal Negrito,fair1238-2
+20,dalawám po,,FALSE,Vanoverbergh1937,"pp.111, 117",,fair1238,Rizal Negrito,fair1238-2
+22,dalawám po at aduá,,FALSE,Vanoverbergh1937,"pp.111, 117",,fair1238,Rizal Negrito,fair1238-2
+23,?,,FALSE,Vanoverbergh1937,"pp.111, 117",,fair1238,Rizal Negrito,fair1238-2
+1,dua,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+1,e dua,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+2,e rua,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+3,e tolu,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+4,va,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+4,e va,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+5,e lima,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+5,lima,In Fiji liga is the hand and five lima (footnote: In some Fiji dialects lima is hand as well as five.).,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+6,e ono,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+7,e vitu,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+8,e walu,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+9,e ciwa,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+9,civa,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+10,tini,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+10,e tini,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+13,tini mani tolu,mani is also used with or without ka,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+13,tini ka mani tolu,the numeral above ten is simply introduced with the particle ka,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+20,rua sagavulu,,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+20,e rua na tini,two the tens,FALSE,Codrington1885,"pp.229, 233, 236, 238-239, 246",,fiji1243,Fiji,fiji1243-1
+1,hets,,FALSE,Codrington1885,pp.225-226,,fwai1237,Yehen or Yengen [given by Von der Gabelentz],fwai1237-1
+2,he-luk,,FALSE,Codrington1885,pp.225-226,,fwai1237,Yehen or Yengen [given by Von der Gabelentz],fwai1237-1
+3,he-yen,,FALSE,Codrington1885,pp.225-226,,fwai1237,Yehen or Yengen [given by Von der Gabelentz],fwai1237-1
+4,po-vits,,FALSE,Codrington1885,pp.225-226,,fwai1237,Yehen or Yengen [given by Von der Gabelentz],fwai1237-1
+5,nim,,FALSE,Codrington1885,pp.225-226,,fwai1237,Yehen or Yengen [given by Von der Gabelentz],fwai1237-1
+6,nem wet,"(i.e. nem we hets, hets being one)",FALSE,Codrington1885,pp.225-226,,fwai1237,Yehen or Yengen [given by Von der Gabelentz],fwai1237-1
+7,nim we luk,,FALSE,Codrington1885,pp.225-226,,fwai1237,Yehen or Yengen [given by Von der Gabelentz],fwai1237-1
+8,nim we yen,,FALSE,Codrington1885,pp.225-226,,fwai1237,Yehen or Yengen [given by Von der Gabelentz],fwai1237-1
+9,nim po vits,,FALSE,Codrington1885,pp.225-226,,fwai1237,Yehen or Yengen [given by Von der Gabelentz],fwai1237-1
+10,pain-duk,,FALSE,Codrington1885,pp.225-226,,fwai1237,Yehen or Yengen [given by Von der Gabelentz],fwai1237-1
+1,kahe,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+1,tasa,In beginning to count a series tasa is ‘one;’,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+2,palu,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+3,tolu,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+4,fati,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+5,lima,With lima the Verbal Particle e is used.,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+5,falima,"The Prefix fa goes with all above four, but is not explained.",FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+6,famno,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+7,fa fitu,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+7,fafitu,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+8,falu,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+8,fehu,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+9,fa hia,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+9,fahia,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+10,faboto,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+20,tutu,a score,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+20,falu faboto,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+30,tolu fulu,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+60,tolu tutu,three score,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+100,gobi,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+1000,toga,,FALSE,Codrington1885,"pp.237, 559",,gaoo1237,"Ysabel Island, Gao [ŋgao]",gaoo1237-1
+1,sakai,"In counting, a series is begun with keha, not sakai. The word siki, used as an Indefinite Pronoun, is the same Numeral",FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+1,keha,"in beginning to count a series keha is used for ‘one,’ not sakai.",FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+2,rua,,FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+2,ruka,they sometimes make it ruka,FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+3,tolu,,FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+4,vati,,FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+5,lima,,FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+6,ono,,FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+7,vitu,,FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+8,alu,,FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+8,halu,,FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+9,hiua,,FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+10,haŋavulu,"[<hanavulu>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+12,haŋavulu rua,"[<hanavulu>, with <n> in italics]; ten-two, not two tens",FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+12,haŋavulu e sara rua,"[<hanavulu>, with <n> in italics]; a Verb sara, to come to, is often introduced after ten and a hundred ... ten, two has come to it, i.e. twelve",FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+20,rua haŋavulu,"[<hanavulu>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+22,rua haŋavulu me sara rua,"[<hanavulu>, with <n> in italics]; i.e. two the tens, (and) it has come up to two",FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+100,haŋalatu,"[<hanalatu>, with <n> in italics]; hana has same meaning of double, what ever latu may be.",FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+153,"e sakai na haŋalatu, me sara lima haŋavulu, tolu","[<hanalatu>, with <n> in italics; <hanavulu>, with <n> in italics]; a Verb sara, to come to, is often introduced after ten and a hundre ... one is the hundred, and there has come to it five tens. three",FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+1000,toga,,FALSE,Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,"Florida, Gela [ŋgela]",gela1263-1
+1,eta,"In Florida also there is a series of numerals used only in play, which, however, are mostly the ordinary numerals reversed ... eta may be tea [by metathesis]",FALSE,Codrington1885,"pp. 230, 538",,gela1263,"Florida, Gela [ŋgela] (set of Numerals used in a game at Olevuga)",gela1263-2
+2,ura,metathesis,FALSE,Codrington1885,"pp. 230, 538",,gela1263,"Florida, Gela [ŋgela] (set of Numerals used in a game at Olevuga)",gela1263-2
+3,lotu,metathesis,FALSE,Codrington1885,"pp. 230, 538",,gela1263,"Florida, Gela [ŋgela] (set of Numerals used in a game at Olevuga)",gela1263-2
+4,tavi,metathesis,FALSE,Codrington1885,"pp. 230, 538",,gela1263,"Florida, Gela [ŋgela] (set of Numerals used in a game at Olevuga)",gela1263-2
+5,nila,metathesis,FALSE,Codrington1885,"pp. 230, 538",,gela1263,"Florida, Gela [ŋgela] (set of Numerals used in a game at Olevuga)",gela1263-2
+6,noa,metathesis,FALSE,Codrington1885,"pp. 230, 538",,gela1263,"Florida, Gela [ŋgela] (set of Numerals used in a game at Olevuga)",gela1263-2
+7,tivu,metathesis,FALSE,Codrington1885,"pp. 230, 538",,gela1263,"Florida, Gela [ŋgela] (set of Numerals used in a game at Olevuga)",gela1263-2
+8,rau,remarkable,FALSE,Codrington1885,"pp. 230, 538",,gela1263,"Florida, Gela [ŋgela] (set of Numerals used in a game at Olevuga)",gela1263-2
+9,beta,remarkable,FALSE,Codrington1885,"pp. 230, 538",,gela1263,"Florida, Gela [ŋgela] (set of Numerals used in a game at Olevuga)",gela1263-2
+10,taleri,remarkable,FALSE,Codrington1885,"pp. 230, 538",,gela1263,"Florida, Gela [ŋgela] (set of Numerals used in a game at Olevuga)",gela1263-2
+1,kesa,,FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+2,ruka,,FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+3,tolu,,FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+4,vati,,FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+5,jehe,The Numeral jehe is singular and unexplained,FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+5,chehe,curious [in that it is different from lima],FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+6,ono,,FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+7,vitu,,FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+8,alu,,FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+9,siu,,FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+10,saŋavulu,"[<sanavulu>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+12,saŋavulu ruka,"[<sanavulu>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+20,ruka patu,"patu is probably an older word displaced by saŋavulu [<sanavulu>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+30,tolu saŋavulu,"[<sanavulu>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+100,saŋatu,"[<sanatu>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+123,"kesa saŋatu, ruka patu, tolu","[<sanatu>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+1000,toha,,FALSE,Codrington1885,"pp.237, 246, 545",,ghar1239,"Guadalcanar, Vaturana [vaturaŋa]",ghar1239-1
+1,gai tuwa,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+1,gaituwa,it is evident that gai is a Prefix,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+2,gai rua,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+2,gairua,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+3,gai tolu,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+3,gaitolu,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+4,gai vasi,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+4,gaivasi,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+5,gai lima,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+5,gailima,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+6,gai ono,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+6,gaiono,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+7,gai vitu,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+7,gaivitu,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+8,gai welu,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+8,gaiwelu,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+9,gai siwo,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+9,gaisiwo,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+10,haŋvulu,"[<hanvulu>, with <n> in italics]",FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+12,haŋvulu doman gairua,"[<hanvulu>, with <n> in italics; <m> in italics, = “nasal”]; its doma two ... the unit above ten is its doma, doman",FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+12,haŋavulu doman gairua,"[<hanvulu>, with <n> in italics; <m> in italics, = “nasal”]; ten, its doma two",FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+20,ŋavulu gairua,"[<navulu>, with <n> in italics]; The change to ŋavulu [<navulu>, with <n> in italics] when more than one ten is reckoned is remarkable, and cannot well be explained; compare Maori ngahuru.",FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+46,navul gaivasi doman gaiono,"[<navul>, with <n> in italics; <m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+100,vudolua,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+120,"vudolua vatuwa, vena ŋavul gairua","[<navul>, with <n> in italics]; The unit above [hundred is] vena; ve is probably a Noun, the pile above, vena its pile above",FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+1000,tari,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+1000,vudolua vasaŋvul,"[<vasanvul>, with <n> in italics]; Beyond this sum is vudolua vasaŋvul [vasanvul, with <n> in italics] tamleŋ [<tamlen>, with <n> in italics] ten times hundred to confusion.",FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+1,kahi,,FALSE,Codrington1885,"pp.227, 231",,hawa1245,Sandwich Islands,hawa1245-1
+2,lua,,FALSE,Codrington1885,"pp.227, 231",,hawa1245,Sandwich Islands,hawa1245-1
+10,unu,,FALSE,Codrington1885,"pp.227, 231",,hawa1245,Sandwich Islands,hawa1245-1
+10,umi,,FALSE,Codrington1885,"pp.227, 231",,hawa1245,Sandwich Islands,hawa1245-1
+11,umi kuma ma kahi,"kumi is described as a number or company, and ma as signifying company, and coming after the word to which it is applied. ... ‘ten, the number in company one’",FALSE,Codrington1885,"pp.227, 231",,hawa1245,Sandwich Islands,hawa1245-1
+11,umi kuma ma lua,"‘ten, the number in company ... two.’",FALSE,Codrington1885,"pp.227, 231",,hawa1245,Sandwich Islands,hawa1245-1
+20,iva kalua,two nines,FALSE,Codrington1885,"pp.227, 231",,hawa1245,Sandwich Islands,hawa1245-1
+30,kana kolu,three kana,FALSE,Codrington1885,"pp.227, 231",,hawa1245,Sandwich Islands,hawa1245-1
+1,sáḳey,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
+2,čuá,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
+3,tadó,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
+4,apát,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
+5,dimá,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
+6,inë́m,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
+7,píto,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
+8,waló,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
+9,siám,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
+10,sampúlo,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
+11,sampúlo tan sáḳey,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
+20,čunpúlo,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
+22,čunpúlo tan čuá,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
+23,čunpúlo tan tadó,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
+1,taddéy,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+2,duá,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+3,talló,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+4,appá-,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+5,limá,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+6,annám,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+7,pitó,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+8,waló,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+9,siám,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+10,mafulú,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+11,karataddéy,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+20,duá fulú,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+22,duá fulú duá,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+23,duá fulú talló,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+1,măysá,,FALSE,Vanoverbergh1937,"pp.113, 119",,ilok1237,Iloko,ilok1237-1
+2,duá,,FALSE,Vanoverbergh1937,"pp.113, 119",,ilok1237,Iloko,ilok1237-1
+3,talló,,FALSE,Vanoverbergh1937,"pp.113, 119",,ilok1237,Iloko,ilok1237-1
+4,uppát,,FALSE,Vanoverbergh1937,"pp.113, 119",,ilok1237,Iloko,ilok1237-1
+5,limá,,FALSE,Vanoverbergh1937,"pp.113, 119",,ilok1237,Iloko,ilok1237-1
+6,inném,,FALSE,Vanoverbergh1937,"pp.113, 119",,ilok1237,Iloko,ilok1237-1
+7,pitó,,FALSE,Vanoverbergh1937,"pp.113, 119",,ilok1237,Iloko,ilok1237-1
+8,waló,,FALSE,Vanoverbergh1937,"pp.113, 119",,ilok1237,Iloko,ilok1237-1
+9,siám,,FALSE,Vanoverbergh1937,"pp.113, 119",,ilok1237,Iloko,ilok1237-1
+10,sańapúlo,,FALSE,Vanoverbergh1937,"pp.113, 119",,ilok1237,Iloko,ilok1237-1
+11,sańapúlo ket măysá,,FALSE,Vanoverbergh1937,"pp.113, 119",,ilok1237,Iloko,ilok1237-1
+20,duá púlo,,FALSE,Vanoverbergh1937,"pp.113, 119",,ilok1237,Iloko,ilok1237-1
+22,duá púlo ket duá,,FALSE,Vanoverbergh1937,"pp.113, 119",,ilok1237,Iloko,ilok1237-1
+23,duá púlo ket talló,,FALSE,Vanoverbergh1937,"pp.113, 119",,ilok1237,Iloko,ilok1237-1
+1,siyet,,FALSE,Scheerer1911,pp.48-49,,ilon1239,Egongot,ilon1239-1
+1,(siet),,FALSE,Scheerer1911,pp.48-49,,ilon1239,Egongot,ilon1239-1
+1,sisiet,restrictive form [‘only one’],FALSE,Scheerer1911,pp.48-49,,ilon1239,Egongot,ilon1239-1
+2,dua,,FALSE,Scheerer1911,pp.48-49,,ilon1239,Egongot,ilon1239-1
+3,tego,,FALSE,Scheerer1911,pp.48-49,,ilon1239,Egongot,ilon1239-1
+4,apat,,FALSE,Scheerer1911,pp.48-49,,ilon1239,Egongot,ilon1239-1
+5,tambiang,"formed of a prefix tam (cf. tampo) before a stem, biang.",FALSE,Scheerer1911,pp.48-49,,ilon1239,Egongot,ilon1239-1
+6,tambiang no siyet,“five and one”,FALSE,Scheerer1911,pp.48-49,,ilon1239,Egongot,ilon1239-1
+7,tambiang no dua,“five and two”,FALSE,Scheerer1911,pp.48-49,,ilon1239,Egongot,ilon1239-1
+8,tambiang notgo,“five and three”,FALSE,Scheerer1911,pp.48-49,,ilon1239,Egongot,ilon1239-1
+9,tambiang no apat,“five and four”,FALSE,Scheerer1911,pp.48-49,,ilon1239,Egongot,ilon1239-1
+10,tampo,"It consists of the prefix tang, which also appears in tambiang, changed to tam- by the influence of the labial that follows, and the stem po or poo, which is the common Philippine polo or pulo with elision of l.",FALSE,Scheerer1911,pp.48-49,,ilon1239,Egongot,ilon1239-1
+10,(tampoo),,FALSE,Scheerer1911,pp.48-49,,ilon1239,Egongot,ilon1239-1
+1,sëdiét,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+2,dëwwá,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+3,tëxxó,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+4,pāt,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+5,tambiáń,"tam … is a prefix for units of measure, equivalent to Iloko sańa, Tagalog sań, Bontok Igorot, Kankanay and Kalinga sin, Ifugaw him, Pangasinan and Ibaloy sam.",FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+6,no sit,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+7,nod dëwá,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+8,not tëxó,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+9,no opát,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+10,tampó,"tam … is a prefix for units of measure, equivalent to Iloko sańa, Tagalog sań, Bontok Igorot, Kankanay and Kalinga sin, Ifugaw him, Pangasinan and Ibaloy sam.",FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+11,tampó no sit,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+12,tampó no dëwwá,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+13,tampó no tëxxó,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+14,tampó no pāt,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+15,tampó no tambiáń,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+16,tampó no tambiáń no sit,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+17,tampó no tambiáń no dëwwá,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+20,dëwám po,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+22,dëwám po no dëwwá,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+23,dëwám po no tëxxó,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+30,tëxóm po,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+40,opát ap po,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+50,tambiáń ap po,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+60,tambiáń no sit ap po,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+70,tambiáń no dëwám po,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+77,tambiáń no dëwám po no tambiáń no dëwwá,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+100,tambukx̣ắy,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+1000,tańxíbu,,FALSE,Vanoverbergh1937,"pp.115, 121, 196-197",,ilon1239,Ilongot,ilon1239-2
+1,isá,,FALSE,Vanoverbergh1937,"pp.113, 119",,isna1241,Isneg,isna1241-1
+2,duā́,,FALSE,Vanoverbergh1937,"pp.113, 119",,isna1241,Isneg,isna1241-1
+3,talló,,FALSE,Vanoverbergh1937,"pp.113, 119",,isna1241,Isneg,isna1241-1
+4,appā́t,,FALSE,Vanoverbergh1937,"pp.113, 119",,isna1241,Isneg,isna1241-1
+5,limmá,,FALSE,Vanoverbergh1937,"pp.113, 119",,isna1241,Isneg,isna1241-1
+6,annám,,FALSE,Vanoverbergh1937,"pp.113, 119",,isna1241,Isneg,isna1241-1
+7,pittó,,FALSE,Vanoverbergh1937,"pp.113, 119",,isna1241,Isneg,isna1241-1
+8,waló,,FALSE,Vanoverbergh1937,"pp.113, 119",,isna1241,Isneg,isna1241-1
+9,siā́m,,FALSE,Vanoverbergh1937,"pp.113, 119",,isna1241,Isneg,isna1241-1
+10,mapúlo,,FALSE,Vanoverbergh1937,"pp.113, 119",,isna1241,Isneg,isna1241-1
+11,mapúlo se isá,,FALSE,Vanoverbergh1937,"pp.113, 119",,isna1241,Isneg,isna1241-1
+20,duā́ púlo,,FALSE,Vanoverbergh1937,"pp.113, 119",,isna1241,Isneg,isna1241-1
+22,duā́ púlo se duā́,,FALSE,Vanoverbergh1937,"pp.113, 119",,isna1241,Isneg,isna1241-1
+23,duā́ púlo se talló,,FALSE,Vanoverbergh1937,"pp.113, 119",,isna1241,Isneg,isna1241-1
+1,sa,,FALSE,Codrington1885,p.231,,java1254,Java [from Mr. Wallace],java1254-1
+2,loro,,FALSE,Codrington1885,p.231,,java1254,Java [from Mr. Wallace],java1254-1
+10,pulah,,FALSE,Codrington1885,p.231,,java1254,Java [from Mr. Wallace],java1254-1
+11,swalas,las added to the unit designates it as a sum above ten,FALSE,Codrington1885,p.231,,java1254,Java [from Mr. Wallace],java1254-1
+1,urapon,,FALSE,Codrington1885,p.222,,kala1377,Tauan,kala1377-2
+2,ukasar,,FALSE,Codrington1885,p.222,,kala1377,Tauan,kala1377-2
+3,ukasar-urapon,,FALSE,Codrington1885,p.222,,kala1377,Tauan,kala1377-2
+4,ukasar-ukasar,,FALSE,Codrington1885,p.222,,kala1377,Tauan,kala1377-2
+1,ësá,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+2,duá,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+3,tuló,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+4,upát,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+5,limá,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+6,ënë́m,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+7,pitó,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+8,waó,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+9,siám,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+10,sinpó,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+11,sinpó ya ësá,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+11,sáwa s’ësá,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+20,duán po,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+22,duán po ya duá,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+23,duán po ya tuló,,FALSE,Vanoverbergh1937,"pp.113, 119",,kank1243,Kankanay,kank1243-1
+1,ēssá,,FALSE,Vanoverbergh1937,"pp.110, 116",,kasi1256,Casiguran,kasi1256-2
+2,duá,,FALSE,Vanoverbergh1937,"pp.110, 116",,kasi1256,Casiguran,kasi1256-2
+3,talló,,FALSE,Vanoverbergh1937,"pp.110, 116",,kasi1256,Casiguran,kasi1256-2
+4,ëpát,,FALSE,Vanoverbergh1937,"pp.110, 116",,kasi1256,Casiguran,kasi1256-2
+5,limá,,FALSE,Vanoverbergh1937,"pp.110, 116",,kasi1256,Casiguran,kasi1256-2
+6,ēnnë́m,,FALSE,Vanoverbergh1937,"pp.110, 116",,kasi1256,Casiguran,kasi1256-2
+7,pitú,,FALSE,Vanoverbergh1937,"pp.110, 116",,kasi1256,Casiguran,kasi1256-2
+8,waló,,FALSE,Vanoverbergh1937,"pp.110, 116",,kasi1256,Casiguran,kasi1256-2
+9,siám,,FALSE,Vanoverbergh1937,"pp.110, 116",,kasi1256,Casiguran,kasi1256-2
+10,sapúlo,,FALSE,Vanoverbergh1937,"pp.110, 116",,kasi1256,Casiguran,kasi1256-2
+11,?,,FALSE,Vanoverbergh1937,"pp.110, 116",,kasi1256,Casiguran,kasi1256-2
+20,duá púlo,,FALSE,Vanoverbergh1937,"pp.110, 116",,kasi1256,Casiguran,kasi1256-2
+22,duá púlo ăy ti duá,,FALSE,Vanoverbergh1937,"pp.110, 116",,kasi1256,Casiguran,kasi1256-2
+23,duá púlo ăy ti talló,,FALSE,Vanoverbergh1937,"pp.110, 116",,kasi1256,Casiguran,kasi1256-2
+6,lima sa,five one,FALSE,Codrington1885,p.223,,kawi1241,Kawi Sprache [given by Humboldt],kawi1241-2
+7,lima zua,five two,FALSE,Codrington1885,p.223,,kawi1241,Kawi Sprache [given by Humboldt],kawi1241-2
+1,tikai,"correspond, except in ten, to those of the Banks' Islands",FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+2,urua,,FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+3,otul,,FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+4,ivat,,FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+5,a lima,,FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+6,lip tikai,,FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+7,lov urua,"The resemblance of these, particularly seven, eight, nine, with the Banks’ Islands Numerals is remarkable.",FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+8,lov otule,,FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+8,lov atule,[typo for <lov otule>?],FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+9,lov ivat,,FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+10,tur a lim,,FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+10,tur alim,,FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+10,ave nun,There is another word for ten in which five is not repeated; ten together,FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+20,ur ave nun,,FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+100,a mara,,FALSE,Codrington1885,"pp.225, 571",,kuan1248,New Britain [given by Mr. Wilfred Powell],kuan1248-4
+1,tuwa,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+2,ni ru,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+2,niru,"The Verbal Particle ni is used with rul, tel, vas.",FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+3,ni tel,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+3,nitel,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+4,ni vas,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+4,nivas,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+5,tivilem,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+5,tivilem,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+6,le tuwa,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+6,letuwa,The first of the second hand has tuwa instead of the common tea.,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+7,lavu ru,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+7,lavuru,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+8,lavi tel,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+8,lavitel,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+9,la vas,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+9,lavas,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+10,gapra,means nothing but ‘many’,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+11,gapra jime tuwa,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+23,gapra ru jime nitel,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+100,meljel,"[<m> in italics, = “nasal”]; There is no name for the sum above a hundred.",FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+130,meljel tuwa gapra tel,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+1000,tar,,FALSE,Codrington1885,"pp.233-224, 235, 244, 249, 383",,lako1245,"Santa Maria, Lakon",lako1245-1
+1,vo towa,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+1,votowa,vo = Verbal Particle,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+2,vo ro,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+2,voro,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+3,vo tol,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+3,votol,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+4,vo vet,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+4,vovet,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+5,teveliem,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+5,teveliem,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+6,leve jea,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+6,levejea,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+7,leve ro,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+7,levero,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+8,leve tol,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+8,levetol,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+9,leve vet,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+9,levevet,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+10,saŋowul,"[<sanowul>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+10,saŋowul towa wonowon,"[<sanowul>, with <n> in italics]; The completeness of ten is shown by the addition of wonowon",FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+11,saŋowul towa ne deme votowa,"[<sanowul>, with <n> in italics; <m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+20,saŋowul ro wonowon,"[<sanowul>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+100,meldol,"[<m> in italics, = “nasal”]; there is no name for the sum above",FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+136,"meldol vatowa, saŋowul tol ne deme levejea","[both <m>s in italics, = “nasal”; <sanowul>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+1000,ter,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
+1,vetwa,ve = Verbal Particle,FALSE,Codrington1885,p.390,,leha1244,"Bligh Island, Ureparapara (Norbarbar) (Retan)",leha1244-2
+2,vera,,FALSE,Codrington1885,p.390,,leha1244,"Bligh Island, Ureparapara (Norbarbar) (Retan)",leha1244-2
+3,vetəl,"[<vetel>, with second <e> in italics]",FALSE,Codrington1885,p.390,,leha1244,"Bligh Island, Ureparapara (Norbarbar) (Retan)",leha1244-2
+4,vevat,,FALSE,Codrington1885,p.390,,leha1244,"Bligh Island, Ureparapara (Norbarbar) (Retan)",leha1244-2
+5,tavalem,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,p.390,,leha1244,"Bligh Island, Ureparapara (Norbarbar) (Retan)",leha1244-2
+6,levete,,FALSE,Codrington1885,p.390,,leha1244,"Bligh Island, Ureparapara (Norbarbar) (Retan)",leha1244-2
+7,levera,,FALSE,Codrington1885,p.390,,leha1244,"Bligh Island, Ureparapara (Norbarbar) (Retan)",leha1244-2
+8,levetəl,"[<levetel>, with third <e> in italics]",FALSE,Codrington1885,p.390,,leha1244,"Bligh Island, Ureparapara (Norbarbar) (Retan)",leha1244-2
+9,levevat,,FALSE,Codrington1885,p.390,,leha1244,"Bligh Island, Ureparapara (Norbarbar) (Retan)",leha1244-2
+10,saŋwol,"[<sanwol>, with <n> in italics]",FALSE,Codrington1885,p.390,,leha1244,"Bligh Island, Ureparapara (Norbarbar) (Retan)",leha1244-2
+22,saŋwol ra dome vera,"[<sanwol>, with <n> in italics; <m> in italics, = “nasal”]",FALSE,Codrington1885,p.390,,leha1244,"Bligh Island, Ureparapara (Norbarbar) (Retan)",leha1244-2
+100,meldol,"[<m> in italics, = “nasal”]; there is no name for the sum above",FALSE,Codrington1885,p.390,,leha1244,"Bligh Island, Ureparapara (Norbarbar) (Retan)",leha1244-2
+1000,tar,,FALSE,Codrington1885,p.390,,leha1244,"Bligh Island, Ureparapara (Norbarbar) (Retan)",leha1244-2
+1,umsium,,FALSE,Codrington1885,p.231,,lise1239,Wayapo [from Mr. Wallace],lise1239-5
+2,rua,,FALSE,Codrington1885,p.231,,lise1239,Wayapo [from Mr. Wallace],lise1239-5
+10,polo,,FALSE,Codrington1885,p.231,,lise1239,Wayapo [from Mr. Wallace],lise1239-5
+11,polo geren ensium,,FALSE,Codrington1885,p.231,,lise1239,Wayapo [from Mr. Wallace],lise1239-5
+12,polo geren rua,,FALSE,Codrington1885,p.231,,lise1239,Wayapo [from Mr. Wallace],lise1239-5
+1,hu,,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+2,ru,,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+3,sul,,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+4,fir,on the first hand,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+4,vir,,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+5,lim,,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+6,luse,(se = tea in Mota); on the second hand,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+6,li se,,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+6,lise,"The digits of the second hand are marked by li, lu, as in Fate by la; the common Numeral sa, one, is shown.",FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+7,luru,,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+7,lu ro,,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+7,luro,,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+8,lusul,,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+8,hi sul,,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+9,liafer,,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+9,lia ver,,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+9,liaver,,FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+10,saŋaul,"[<sanaul>, with <n> in italics]",FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+10,saŋula,"[<sanula>, with <n> in italics]",FALSE,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Ambrym,lonw1238-3
+1,vu jia,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+1,vujia,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+1,tuwa,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+1,tuwaga,an Adjectival form [of tuwe],FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+1,tuwe,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+1,jia,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+2,vu rua,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+2,vurua,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+3,və tal,"[<ve tal>, with <e> in italics, = “like French e”]",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+3,vətal,"[<vetal>, with <e> in italics, = “like French e”]",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+4,və vat,"[<ve vat>, with <e> in italics, = “like French e”]",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+4,vəvat,"[<vevat>, with <e> in italics, = “like French e”]",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+5,təvelima,"[<tevelima>, with first <e> in italics, = “like French e”]",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+5,təvelima,"[<tevelima>, with first <e> in italics, = “like French e”; <m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+6,livi jia,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+6,livijia,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+7,lave rua,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+7,lavərua,"[<laverua>, with <e> in italics, = “like French e”]",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+8,lave tal,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+8,lavətal,"[<lavetal>, with <e> in italics, = “like French e”]",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+9,liv vat,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+9,livvat,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+10,heŋawol,"[<henawol>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+10,heŋawul,"[<henawul>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+13,heŋawul tuwaga mahalin vətal,"[<henawul>, with <n> in italics; <vetal>, with <e> in italics, = “like French e”]; mahali, the meaning of which is a thing-above ... The unit above ten is mahalin, its (sum) above, mahali being a Noun meaning what is above, the air, sky.",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+20,heŋawul rua,"[<henawul>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+100,tale,"when hundred are named they are called tale, the word used in Savo for ten",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+100,na won,"but in counting up to a hundred the hundred when reached is na won, the close, or completion. ... The word for a hundred is a Verb, complete",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+100,tela,"if ‘hundred’ is used as an Adjective tela is used ... This word also means ‘man,’ but is not allowed here to have any connection with that meaning; it is probably the same as Savo tale.",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+100,tela tuwe,a hundred,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+121,"na won vaga tuwe, na avavin heŋawul rua, mahalin tuwe","[<henawul>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+1000,ter,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
+1,isá,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+1,osá,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+2,diuá,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+3,teḷó,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+4,opát,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+5,l̠imá,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+6,on̠óm,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+7,pitó,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+8,waḷó,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+9,siám,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+10,simpúḷo,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+11,simpúḷo isá,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+20,diuám púḷo,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+22,diuám púḷo diuá,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+23,diuám púḷo teḷó,,FALSE,Vanoverbergh1937,"pp.115, 121",,lubu1243,Kalinga (Lubuagan dialect),lubu1243-1
+1,sa,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+1,satu,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+2,dua,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+2,duwa,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+3,tiga,"This Numeral in the form of tol is also so nearly universal in the region under view that it is only necessary to remark on some exceptions. One of the most remarkable of these is the Malay tiga, which stands alone in the languages which are called Malayan",FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+4,ampat,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+5,lima,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+6,anam,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+7,tujoh,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+8,delapan,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+9,sambilan,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+10,sapuloh,one ten,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+10,sa puloh,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+11,sablas,"blas, evidently the same as the Javanese las and Salibabo res, is the designation of fthe unit above ten.",FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+11,sa blas,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+12,duablas,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+12,dua blas,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+20,dua puloh,two tens,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+1,sikai,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+2,e-ua,"In Malikolo, as in Marquesas, r has fallen away, leaving ua",FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+2,e ua,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+3,e roi,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+3,eroi,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+4,evatz,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+4,e vatz,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+5,e rima,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+6,sukai,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+6,su kai,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+7,whi-u,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+7,whi u,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+8,oroi,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+8,o roi,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+9,whi-vatz,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+9,whi vatz,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+10,singeap,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+1,tahi,,FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
+2,e rua,,FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
+3,e toru,,FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
+4,e wha,,FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
+5,e rima,,FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
+5,rima,"In Fiji liga is the hand and five lima, as in Maori ringa the hand and rima five, by a change from m to ng in the noun.",FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
+6,e ono,,FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
+7,e whitu,,FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
+8,e waru,,FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
+9,e iwa,,FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
+10,tekau,,FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
+100,ngahuru,nga cannot be thus explained,FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
+1000,tini,"many, or ten thousand",FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
+10,onohuu,,FALSE,Codrington1885,p.227,,marq1246,Marquesas,marq1246-1
+20,tekau,,FALSE,Codrington1885,p.227,,marq1246,Marquesas,marq1246-1
+30,tekau me onohuu,,FALSE,Codrington1885,p.227,,marq1246,Marquesas,marq1246-1
+40,e ua tekau,two score,FALSE,Codrington1885,p.227,,marq1246,Marquesas,marq1246-1
+100,e imma tekau,five score,FALSE,Codrington1885,p.227,,marq1246,Marquesas,marq1246-1
+1,netat,,FALSE,Codrington1885,p.222,,meri1244,Erub,meri1244-2
+2,neisi,,FALSE,Codrington1885,p.222,,meri1244,Erub,meri1244-2
+3,neisi-netat,,FALSE,Codrington1885,p.222,,meri1244,Erub,meri1244-2
+4,neisi-neisi,,FALSE,Codrington1885,p.222,,meri1244,Erub,meri1244-2
+1,tuwale,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+2,i rua,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+2,irua,"The Verbal Particle i is prefixed to rua, tol, vat, being, as is commonly the case, one not used except with Numerals.",FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+3,i tol,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+3,itol,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+4,i vat,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+4,ivat,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+5,tavalim,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+5,tavalim,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+6,live tia,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+6,livetia,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+7,livea rua,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+7,livearua,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+8,livea tol,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+8,liveatol,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+9,lev vat,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+9,levvat,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+10,saŋavul,"[<sanavul>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+11,saŋavul tuwale demei tuwale,"[<sanavul>, with <n> in italics; <m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+20,saŋavul rua,"[<sanavul>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+30,saŋavul tol,"[<sanavul>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+100,meldol,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+110,meldol vatuwale avavi saŋavul,"[<m> in italics, = “nasal”; <sanavul>, with <n> in italics]",FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+1000,tar,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
+1,towal,,FALSE,Codrington1885,"pp.235, 354",,merl1237,"Vanua Lava, Mosina (Mosin)",merl1237-2
+2,ni ru,,FALSE,Codrington1885,"pp.235, 354",,merl1237,"Vanua Lava, Mosina (Mosin)",merl1237-2
+3,ni tol,,FALSE,Codrington1885,"pp.235, 354",,merl1237,"Vanua Lava, Mosina (Mosin)",merl1237-2
+4,ni vet,,FALSE,Codrington1885,"pp.235, 354",,merl1237,"Vanua Lava, Mosina (Mosin)",merl1237-2
+5,tevelim,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.235, 354",,merl1237,"Vanua Lava, Mosina (Mosin)",merl1237-2
+6,leve te,,FALSE,Codrington1885,"pp.235, 354",,merl1237,"Vanua Lava, Mosina (Mosin)",merl1237-2
+7,livu ro,,FALSE,Codrington1885,"pp.235, 354",,merl1237,"Vanua Lava, Mosina (Mosin)",merl1237-2
+8,livi tol,,FALSE,Codrington1885,"pp.235, 354",,merl1237,"Vanua Lava, Mosina (Mosin)",merl1237-2
+9,livi vet,,FALSE,Codrington1885,"pp.235, 354",,merl1237,"Vanua Lava, Mosina (Mosin)",merl1237-2
+10,saŋwul,"[<sanwul>, with <n> in italics]",FALSE,Codrington1885,"pp.235, 354",,merl1237,"Vanua Lava, Mosina (Mosin)",merl1237-2
+1,tuwale,,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+2,nirua,"it appears that the prefix ni is a verbal particle ... The Prefix ni is in fact a Verbal Particle, and can be applied also to tuwale, tavelima, and saŋavul [<sanavul>, with <n> in italics].",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+2,ni rua,,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+3,nitol,,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+3,ni tol,,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+3,tolu,Three is often tolu ... as in counting,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+4,nivat,,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+4,ni vat,,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+4,vati,four [is often] vati ... as in counting,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+5,tavelima,five is not repeated on the second hand,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+5,tavelima,"[<m> in italics, = “nasal”]; The Prefixe tave in tavelima, five, has not been explained, but may be tavaliu, taval lima, hand on one side.",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+6,laveatea,"On the second hand lavea, which is prefixed to numerals, is mot reasonably taken as a word signifying the other side, or something above ... tea is a form of the numeral most commonly used for ‘one.’",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+6,lavea tea,,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+7,lavearua,"in lavearua seven, laveatol eight, laveavat nine, the numerals used for two, three, and four, are evidently repeated with a difference ... It is seen at once that the true numerals two, three, four, are rua, tol, vat; which appear again in seven, eight, nine. ... The meaning of the Prefix lavea in the Numerals of the second hand has not been made out ... tea is the Numeral tea, one, obsolete in Mota, but in use elsewhere.",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+7,lavea rua,,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+8,laveatol,,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+8,lavea tol,,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+9,laveavat,,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+9,lavea vat,,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+10,saŋavul,"[<sanavul>, with <n> in italics]; but when ten, sanavul, is reached, the word is quite distinct, there is no repetition or recalling of five; and further advance is made by tens, not fives. This, then, is not purely quinary; five is used to get to ten, and then the notation becomes decimal. ... Saŋavul [<sanavul>, with <n> in italics] may be said to be naturally a Substantive.",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+10,saŋavul tuwale wonowono,"To mark exactness of reckoning wonowono, full, is used ... full ten",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+11,saŋavul tuwale o numei tuwale,"[<sanavul>, with <n> in italics; <m> in italics, = “nasal”]; one ten, the unit above it one",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+12,o numei nirua,"[<m> in italics, = “nasal”]; It is not necessary always to mention the ten",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+20,saŋavul rua,"[<sanavul>, with <n> in italics]; two tens",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+20,saŋavul rua wonowono,"To mark exactness of reckoning wonowono, full, is used ... full twenty",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+30,[saŋavul] tolu,,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+30,saŋavul tol o numei me vat,"[<sanavul>, with <n> in italics; <m> in italics, = “nasal”]; The Verbal particle may equally be me, ti, ta with the numei; ... when past time is declared, ‘three tens the number-above was four.’",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+40,[saŋavul] vat,and so on up to ninety,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+90,saŋavul laveavat,"[<sanavul>, with <n> in italics]",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+100,melnol,"[<m> in italics, = “nasal”]; that is, a whole mele leaf.",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+103,melnol tuwale o avaviu nitol,"[<m> in italics, = “nasal”]; o avaviu, from the Verb av to put one thing upon another",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+103,melnol vatuwale o avaviu nitol,"[<m> in italics, = “nasal”]; o avaviu, from the Verb av to put one thing upon another",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+110,melnol vatuwale o avaviu saŋavul,"[<sanavul>, with <n> in italics]; hundred once, and the pile above ten",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+250,melnol vagarua o avaviu sanavul tavelima,"[both <m>s in italics, = “nasal”; <sanavul>, with <n> in italics]; twice hundred, the sum-above-hundred five tens.",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+1000,tar,"Substantive, Adjective, or Verb ... The exact use of tar for a thousand is settled in native usage as ten hundreds, but the word is also loosely used for any great number. There is no name for a sum greater than a thousand",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+1000,tar tuwale,one thousand,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+1884,"tar vatuwale, melnol laveatol, o avaviu saŋavul laveatol, o numei nivat","[all <m>s in italics, = “nasal”; <sanavul>, with <n> in italics]; thousand once, hundreds eight, the sum-above-hundreds eight tens, the unit-above four.",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+1884,"tar vatuwale, melnol vagalaveatol, o avaviu saŋavul laveatol, o numei nivat","[all <m>s in italics, = “nasal”; <sanavul>, with <n> in italics]; thousand once, hundreds eight times, the sum-above-hundreds eight tens, the unit-above four.",FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
+1,qasa,"These numerals are all different from any that I can discover elsewhere they appear to be entirely indigenous, and not in use even in the island nearest to Mota. We have, therefore, the phenomenon of a people inventing a series of numerals for themselves which is decimal, and using it in a game, while they continue to use for ordinary purposes their old notation, the basis of which is quinary. ... sa, though never used as one in Mota, is in fact the same as tea, which appears in the Mota word for six and qasa 1, the first qa, corresponds to qaru 6, the second qa ... It is very remarkable that in counting in the game of tika, and in that only, a regular decimal series of Numerals is in use ... These Numerals appear to be peculiar to Mota, and of native invention, none of them corresponding to the Numerals of other islands.",FALSE,Codrington1885,"pp.223-224, 230, 305",,mota1237,Mota (purely decimal series of numerals used in a game),mota1237-2
+2,wura,"Of the words, wura, two, may be the same as that used in Dual Imperative",FALSE,Codrington1885,"pp.223-224, 230, 305",,mota1237,Mota (purely decimal series of numerals used in a game),mota1237-2
+3,lovi,"a form which shows it to be a noun, and which is derived from the word av to pile one thing upon another.",FALSE,Codrington1885,"pp.223-224, 230, 305",,mota1237,Mota (purely decimal series of numerals used in a game),mota1237-2
+4,tama,,FALSE,Codrington1885,"pp.223-224, 230, 305",,mota1237,Mota (purely decimal series of numerals used in a game),mota1237-2
+5,rina,,FALSE,Codrington1885,"pp.223-224, 230, 305",,mota1237,Mota (purely decimal series of numerals used in a game),mota1237-2
+6,qaru,"qasa one, qaru six, seem to refer to the first and second hand respectively, sa being elsewhere ‘one:’ but the use of a pure decimal notation, not of foreign origin, in a game, by people who in common life use one of a quinary character, is very remarkable.",FALSE,Codrington1885,"pp.223-224, 230, 305",,mota1237,Mota (purely decimal series of numerals used in a game),mota1237-2
+7,liŋi,"[<lini>, with <n> in italics]",FALSE,Codrington1885,"pp.223-224, 230, 305",,mota1237,Mota (purely decimal series of numerals used in a game),mota1237-2
+8,naga,,FALSE,Codrington1885,"pp.223-224, 230, 305",,mota1237,Mota (purely decimal series of numerals used in a game),mota1237-2
+9,viga,,FALSE,Codrington1885,"pp.223-224, 230, 305",,mota1237,Mota (purely decimal series of numerals used in a game),mota1237-2
+10,wesu,"wesu in itself means completion, arrival, and is elsewhere used for a hundred. ... wesu, ten, means arriving at the conclusion",FALSE,Codrington1885,"pp.223-224, 230, 305",,mota1237,Mota (purely decimal series of numerals used in a game),mota1237-2
+1,vi twag,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+1,vitwag,The Verbal Particle v- with shifting vowel is evidently employed here,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+2,vo ro,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+2,voro,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+3,ve tel,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+3,vetel,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+4,ve vet,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+4,vevet,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+5,tevelem,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+5,tevelem,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+6,leve te,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+6,levete,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+7,livi ro,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+7,liviro,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+8,leve tel,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+8,levetel,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+9,leve vet,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+9,levevet,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+10,soŋwul,"[<sonwul>, with <n> in italics]",FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+23,soŋwul voro nadme vetel,"[<sonwul>, with <n> in italics; <m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+100,meldel,"[<m> in italics, = “nasal”]; the sumabove a hundred [is] ni vivnegi.",FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+1000,ter,,FALSE,Codrington1885,"pp.236, 321",,motl1237,"Saddle Island, Motlav",motl1237-1
+1,vo twa,The Prefix v- with shifting vowel is a Verbal particle,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+1,votwa,,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+1,tawa,The full form for ‘one’ is tawa,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+2,vo ro,,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+2,vorʊ,"[<voro>, with second <o> in italics, = “There may be a doubt whether u is ever heard, it is rather o”]",FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+3,ve tel,,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+3,vetel,,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+4,ve veat,,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+4,veveat,,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+5,tevelem,,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+5,tevelem,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+6,leve te,,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+6,levete,,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+7,leve ro,,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+7,levero,"[<levero>, with <o> in italics, = “There may be a doubt whether u is ever heard, it is rather o”]",FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+8,leve tel,,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+8,levetel,,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+9,leve veat,,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+9,leveveat,,FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+10,saŋwil,"[<sanwil>, with <n> in italics]",FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+100,meldel,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+253,meldel vorʊ saŋwil tevelem ne neme vetel,"[all <m>s in italics, = “nasal”; <voro>, with second <o> in italics, = “There may be a doubt whether u is ever heard, it is rather o”; <sanwil>, with <n> in italics]",FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+406,meldel veveat ni vivin levete,"[<m> in italics, = “nasal”]; nivivin ‘its number above’",FALSE,Codrington1885,"pp.233-234, 236, 330",,motl1237,"Saddle Island, Volow",motl1237-2
+10,drualima,,FALSE,Codrington1885,p.471,,nama1268,Tonoa [toŋoa],nama1268-1
+1,eja,"The Prefix e, a, o, is of the nature of a Verbal Particle, and drops in a sentence",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+1,e ja,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+1,teja,"for eja one, some say teja",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+1,jia,"In Santa Cruz, where t often turns to tch, written j, ‘one’ is jia",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+2,ali,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+2,a li,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+3,atu,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+3,a tu,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+3,aty,"[<atu>, with <u> in italics, = “French u”]",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+4,apue,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+4,a pue,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+5,na vlu nu,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+5,naplu-nu,the single set [of fingers] is five,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+5,navlunu,"[<navlunu>, with <u> in italics]",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+6,ejame,a suffix marks the numerals of the second hand,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+6,e jamə,"[<e jame>, with second <e> in italics, = “French e”]",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+6,ejamə,"[<ejame>, with second <e> in italics, = “French e”]; The digits of the second hand are marked by the suffix mə [<me>, with <e> in Italics]",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+7,elime,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+7,ø limə,"[<o lime>, with <o> in italics, = “German ö”; with <e> in italics, = “French e”]",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+7,ølimə,"[<olime>, with <o> in italics, = “German ö”; with <e> in italics, = “French e”]",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+8,otume,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+8,ø tumə,"[<o tume>, <o> in italics, = “German ö”; with <e> in italics, = “French e”]",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+8,øtumə,"[<otume>, <o> in italics, = “German ö”; with <e> in italics, = “French e”]",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+9,opueme,"[<o pueme>, with <o> in italics, = “German ö”; with second <e> in italics, = “French e”]",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+9,ø puemə,"[<o pueme>, with <o> in italics, = “German ö”; with second <e> in italics, = “French e”]",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+9,øpuemə,"[<opueme>, with <o> in italics, = “German ö”; with second <e> in italics, = “French e”]",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+10,na vlu,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+10,napnu,meaning probably ‘the set’,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+10,navnu,"ny [<nu>, with <u> in italics, = “French u”] ... distinguishes five from ten",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+10,naplu,the full set of fingers is ten,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+10,navlu,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+13,naplu na wade tu,the unit above ten is wa constructed as a Noun ... The unit above ten is na wade,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+20,naplu li,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+30,naplu tu,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+100,tetiki,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+100,tejigi,,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+230,tejigi li napulu bu tu,the sum above a hundred is marked by ba,FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+1000,jiu,"Beyond a thousand counting is indefinite; jiu labu said with a closing of both hands, is vaguely ten thousand; there is also jiu walao.",FALSE,Codrington1885,"pp.225, 232-233, 236, 244-246, 248, 493",,natu1246,"Santa Cruz, Deni",natu1246-1
+1,sa,This system of enumeration is now obsolete.,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+2,rewe,,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+3,tini,,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+4,ece,,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+5,se dongo,"means that the counting of the fingers of one hand is finished by bringing them to a point together ... In Nengone, as has been said, the fingers are turned up and brought together at five. ... the fingers of the first hand are named up to five, when dongo ‘finish is called; se signifies the bringing of the fingers together to a point.",FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+6,dongo ne sa,"afterwards the counting goes on with five and one, five and two, till the second set of fingers is finished ... The fingers of the second hand are ‘five and one’ and so on, till ten is reached",FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+6,se dongo,,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+6,"dongo, ne sa",,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+7,dongo ne rewe,five and two,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+8,dongo ne tini,,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+9,dongo ne ece,,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+10,rewe tubenine,‘two rows of fingers’ ... two set of fingers,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+11,rewe tubenini ne sa re cemene,"literally, two the sets of fingers and one the sum above ... in Nengone, the name of the unit above ten is cemene or xecene ... i.e. two sets of fingers and one the unit-above ... The toes are counted in the third and fourth sets of five digits",FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+10,rewe tube nine,,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+20,ngome,Twenty is ngome,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+20,re ngome,‘man’ ... and when the whole man is counted twenty is re ngome,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+20,sa re ngome,‘one man’,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+30,sa re ngome ne rewe tubenine,When the sum is no multiple of twenty the word for ten comes in ... one man and two rows of fingers.,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+40,rewe re ngome,‘two men’,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+100,dongo re ngome,‘five men’,FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+100,se dongo re ngome,"five twenties, men",FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+240,rewe dongo rewe re ngome,"five twenties, men",FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+1000,e dongo,"In Nengone to count a thousand was to go as far as could be reached, e dongo, finish ... Beyond two hundred they did not go; e dongo! finished",FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+1,meke,,FALSE,Codrington1885,p.237,,newg1239,"New Georgia [exact language unknown, but seems similar to maro1244]",newg1239-1
+2,karua,,FALSE,Codrington1885,p.237,,newg1239,"New Georgia [exact language unknown, but seems similar to maro1244]",newg1239-1
+3,hike,,FALSE,Codrington1885,p.237,,newg1239,"New Georgia [exact language unknown, but seems similar to maro1244]",newg1239-1
+4,made,,FALSE,Codrington1885,p.237,,newg1239,"New Georgia [exact language unknown, but seems similar to maro1244]",newg1239-1
+5,lima,,FALSE,Codrington1885,p.237,,newg1239,"New Georgia [exact language unknown, but seems similar to maro1244]",newg1239-1
+6,onoono,,FALSE,Codrington1885,p.237,,newg1239,"New Georgia [exact language unknown, but seems similar to maro1244]",newg1239-1
+7,fopa,,FALSE,Codrington1885,p.237,,newg1239,"New Georgia [exact language unknown, but seems similar to maro1244]",newg1239-1
+8,vesu,,FALSE,Codrington1885,p.237,,newg1239,"New Georgia [exact language unknown, but seems similar to maro1244]",newg1239-1
+9,sia,,FALSE,Codrington1885,p.237,,newg1239,"New Georgia [exact language unknown, but seems similar to maro1244]",newg1239-1
+10,naŋguru,"[<naguru>, with <g> in italics]",FALSE,Codrington1885,p.237,,newg1239,"New Georgia [exact language unknown, but seems similar to maro1244]",newg1239-1
+1,sikai,,FALSE,Codrington1885,"pp.222, 235, 238, 469",,nort2836,"Three Hills Island, Sesake",nort2836-1
+2,dua,,FALSE,Codrington1885,"pp.222, 235, 238, 469",,nort2836,"Three Hills Island, Sesake",nort2836-1
+3,dolu,,FALSE,Codrington1885,"pp.222, 235, 238, 469",,nort2836,"Three Hills Island, Sesake",nort2836-1
+4,pati,,FALSE,Codrington1885,"pp.222, 235, 238, 469",,nort2836,"Three Hills Island, Sesake",nort2836-1
+5,lima,,FALSE,Codrington1885,"pp.222, 235, 238, 469",,nort2836,"Three Hills Island, Sesake",nort2836-1
+6,la tesa,,FALSE,Codrington1885,"pp.222, 235, 238, 469",,nort2836,"Three Hills Island, Sesake",nort2836-1
+7,la dua,,FALSE,Codrington1885,"pp.222, 235, 238, 469",,nort2836,"Three Hills Island, Sesake",nort2836-1
+8,la dolu,,FALSE,Codrington1885,"pp.222, 235, 238, 469",,nort2836,"Three Hills Island, Sesake",nort2836-1
+9,lo veti,,FALSE,Codrington1885,"pp.222, 235, 238, 469",,nort2836,"Three Hills Island, Sesake",nort2836-1
+10,dua lima,,FALSE,Codrington1885,"pp.222, 235, 238, 469",,nort2836,"Three Hills Island, Sesake",nort2836-1
+20,dua lima dua,two two-fives,FALSE,Codrington1885,"pp.222, 235, 238, 469",,nort2836,"Three Hills Island, Sesake",nort2836-1
+20,dualima dua,"combines two ways of speaking; in dualima two fives, i.e. ten, dua comes first though dua qualifies lima, but dualima having become one word, a Noun, dua as an Adjective comes after it.",FALSE,Codrington1885,"pp.222, 235, 238, 469",,nort2836,"Three Hills Island, Sesake",nort2836-1
+1,hu,,FALSE,Codrington1885,p.458,,nort2839,Embululi [given by Bishop Patteson],nort2839-2
+2,ru,,FALSE,Codrington1885,p.458,,nort2839,Embululi [given by Bishop Patteson],nort2839-2
+3,sul,,FALSE,Codrington1885,p.458,,nort2839,Embululi [given by Bishop Patteson],nort2839-2
+4,it,,FALSE,Codrington1885,p.458,,nort2839,Embululi [given by Bishop Patteson],nort2839-2
+5,lim,,FALSE,Codrington1885,p.458,,nort2839,Embululi [given by Bishop Patteson],nort2839-2
+6,lisa,,FALSE,Codrington1885,p.458,,nort2839,Embululi [given by Bishop Patteson],nort2839-2
+7,luru,,FALSE,Codrington1885,p.458,,nort2839,Embululi [given by Bishop Patteson],nort2839-2
+8,lisul,,FALSE,Codrington1885,p.458,,nort2839,Embululi [given by Bishop Patteson],nort2839-2
+9,iafer,,FALSE,Codrington1885,p.458,,nort2839,Embululi [given by Bishop Patteson],nort2839-2
+10,ahu,,FALSE,Codrington1885,p.458,,nort2839,Embululi [given by Bishop Patteson],nort2839-2
+1,itëssí,,FALSE,Vanoverbergh1937,"pp.111, 117",,nort2875,Baler Negrito,nort2875-1
+2,duá,,FALSE,Vanoverbergh1937,"pp.111, 117",,nort2875,Baler Negrito,nort2875-1
+3,tatló,,FALSE,Vanoverbergh1937,"pp.111, 117",,nort2875,Baler Negrito,nort2875-1
+4,ápat,,FALSE,Vanoverbergh1937,"pp.111, 117",,nort2875,Baler Negrito,nort2875-1
+5,limmá,,FALSE,Vanoverbergh1937,"pp.111, 117",,nort2875,Baler Negrito,nort2875-1
+6,ënë́m,,FALSE,Vanoverbergh1937,"pp.111, 117",,nort2875,Baler Negrito,nort2875-1
+7,pitó,,FALSE,Vanoverbergh1937,"pp.111, 117",,nort2875,Baler Negrito,nort2875-1
+8,waló,,FALSE,Vanoverbergh1937,"pp.111, 117",,nort2875,Baler Negrito,nort2875-1
+9,siám,,FALSE,Vanoverbergh1937,"pp.111, 117",,nort2875,Baler Negrito,nort2875-1
+10,sapúlo,,FALSE,Vanoverbergh1937,"pp.111, 117",,nort2875,Baler Negrito,nort2875-1
+11,?,,FALSE,Vanoverbergh1937,"pp.111, 117",,nort2875,Baler Negrito,nort2875-1
+20,?,,FALSE,Vanoverbergh1937,"pp.111, 117",,nort2875,Baler Negrito,nort2875-1
+22,?,,FALSE,Vanoverbergh1937,"pp.111, 117",,nort2875,Baler Negrito,nort2875-1
+23,?,,FALSE,Vanoverbergh1937,"pp.111, 117",,nort2875,Baler Negrito,nort2875-1
+1,tuwal,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+2,i ru,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+2,iru,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+3,i tol,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+3,itol,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+4,i vat,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+4,ivat,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+5,tevelim,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+5,tevelim,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+6,leve te,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+6,levete,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+7,leve ru,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+7,leveru,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+8,leve tol,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+8,levetol,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+9,leve vat,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+9,levevat,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+10,saŋovul,"[<sanovul>, with <n> in italics]",FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+12,saŋovul tuwal domen teru,"[<sanovul>, with <n> in italics; <m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+20,saŋovul ru,"[<sanovul>, with <n> in italics]",FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+100,meldol,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+124,"meldol vagatuwal, avavin saŋovul tol domen tevat","[both <m>s in italics, = “nasal”; <sanovul>, with <n> in italics]",FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+1000,tar,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
+1,tAA,(low tone),FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+2,bö,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+2,bo,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+2,boo,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+3,betîî,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+4,bëëvÜ,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+4,béévÜ,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+5,tAA vïxé,"[cf. p.39 <vï> ‘make/do, take’; cf. p.40 <xe, xé-e, xë ‘thing’]",FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+5,tAAkÜ,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+5,tAA k(Ü),,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+6,tAA vïxé,[This looks like an error (a repetition of 5); the intended form is possibly <tAA no tAA>.],FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+7,boo na tAA,[cf. p.35 <-na-> ‘connecting particle’; should be <no>?],FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+8,betîî no tAA,[cf. p.35 <no> (high tone) ‘then’; <no> ‘numeral connector’,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+9,bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+10,bo vïxé,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+11,bovïxé mô tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+11,bovïxé tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+12,bovïxé mô boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+12,bovïxé boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+13,bovïxé mô betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+13,bovïxé betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+14,bovïxé mô bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+14,bovïxé bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+15,betîî vïxé,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+16,betîîvïxé mô tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+16,betîîvïxé tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+17,betîîvïxé mô boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+17,betîîvïxé boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+18,betîîvïxémô betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+18,betîîvïxé betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+19,betîîvïxé mô bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+19,betîîvïxé bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+20,tAA nyee,"[cf. p. 37 <nyế, niế> ‘male, man’",FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+21,tAA nyee mô tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+22,tAA nyee mô boo,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+23,tAA nyee mô betîî,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+24,tAA nyee mô béévÜÜ,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+25,tAA nyee mô tAA kwê,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+25,tAA nyee tAA kwê,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+26,tAA nyee mô tAA kwê mô tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+26,tAA nyee tAA kwê mô tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+27,tAA nyee mô tAA kwê mô boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+27,tAA nyee tAA kwê mô boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+28,tAA nyee mô tAA kwê mô betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+28,tAA nyee tAA kwê mô betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+29,tAA nyee mô tAA kwê mô bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+29,tAA nyee tAA kwê mô bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+30,tAA nyee mô boo kwê,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+30,tAA nyee mô drÜ-ngê mè,"[cf. p.81 <drü-, drÜ-, dru-> ‘both’; cf. p.36 <-ngêmè> ‘hand’",FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+40,boo nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+60,betîî nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+80,bëëvÜ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+100,tAA kÛ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+200,boo kÛ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+400,bëëvÜ kÛ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+1,tai,,FALSE,Codrington1885,p.235,,paam1238,Pama,paam1238-1
+2,e lua,,FALSE,Codrington1885,p.235,,paam1238,Pama,paam1238-1
+3,e tolu,,FALSE,Codrington1885,p.235,,paam1238,Pama,paam1238-1
+4,e hati,,FALSE,Codrington1885,p.235,,paam1238,Pama,paam1238-1
+5,e lime,,FALSE,Codrington1885,p.235,,paam1238,Pama,paam1238-1
+6,a hitai,,FALSE,Codrington1885,p.235,,paam1238,Pama,paam1238-1
+7,o lu,,FALSE,Codrington1885,p.235,,paam1238,Pama,paam1238-1
+8,o tolu,,FALSE,Codrington1885,p.235,,paam1238,Pama,paam1238-1
+9,o hati,,FALSE,Codrington1885,p.235,,paam1238,Pama,paam1238-1
+10,ha lua lim,,FALSE,Codrington1885,p.235,,paam1238,Pama,paam1238-1
+1,isa,,FALSE,Scheerer1911,p.48,,pang1290,Pangasinan,pang1290-1
+2,dua,,FALSE,Scheerer1911,p.48,,pang1290,Pangasinan,pang1290-1
+3,talo,,FALSE,Scheerer1911,p.48,,pang1290,Pangasinan,pang1290-1
+4,apat,,FALSE,Scheerer1911,p.48,,pang1290,Pangasinan,pang1290-1
+5,lima,,FALSE,Scheerer1911,p.48,,pang1290,Pangasinan,pang1290-1
+6,anem,,FALSE,Scheerer1911,p.48,,pang1290,Pangasinan,pang1290-1
+7,pito,,FALSE,Scheerer1911,p.48,,pang1290,Pangasinan,pang1290-1
+8,uato,,FALSE,Scheerer1911,p.48,,pang1290,Pangasinan,pang1290-1
+9,siam,,FALSE,Scheerer1911,p.48,,pang1290,Pangasinan,pang1290-1
+10,sampolo,,FALSE,Scheerer1911,p.48,,pang1290,Pangasinan,pang1290-1
+10,(samplo),,FALSE,Scheerer1911,p.48,,pang1290,Pangasinan,pang1290-1
+1,isa,only used in counting,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+1,iray,used in composite numbers,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+1,iraiky,used in composite numbers,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+2,roa,,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+3,telo,,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+4,efatra,,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+5,dimy,,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+6,enina,,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+7,fito,,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+8,valo,,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+9,sify,,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+10,folo,,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+12,roa amby ny folo,‘two above the ten’,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+10000,alina [?],"If the Malagasy alina means ten thousand, the meaning of the word is still ‘night,’ and there is a certain absurdity in saying alina roa ‘two nights,’ for twenty thousand, using a word for a certain number which denies the possibility of counting.",FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+1,ra,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+1,takai,takai is the same with sakai of the Solomon Islands,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+2,rua,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+2,ru,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+3,tula,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+3,tul,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+4,wat,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+5,lima,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+6,nom,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+7,limadi ma ruadi,"For seven, eight, nine, Ordinal forms are found",FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+7,talaka tul,"Another way of expressing seven, eight, nine, is by talaka signifying ‘minus’; (ten) minus three",FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+8,ru wat,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+8,talaka rua,(ten) minus two,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+9,tol ta takai,"is given as ten minus one, which is, perhaps, talak takai",FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+10,no,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+10,noina,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+11,noina ma ra,The unit above ten is added with the Conjunction ma,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+20,ru noina,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+30,tul a noina,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+70,lima na noina ma ru noina,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+80,ru wat na noina,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+100,mara,,FALSE,Codrington1885,"pp.225, 244, 571",,ramo1244,Duke of York Island,ramo1244-8
+1,kai,one couple,FALSE,Codrington1885,"pp.241, 571-572",,ramo1244,Duke of York Island (counting by couples,ramo1244-9
+2,u rua,two couple,FALSE,Codrington1885,"pp.241, 571-572",,ramo1244,Duke of York Island (counting by couples,ramo1244-9
+3,u tul,three couple,FALSE,Codrington1885,"pp.241, 571-572",,ramo1244,Duke of York Island (counting by couples,ramo1244-9
+4,lu wat,four couple,FALSE,Codrington1885,"pp.241, 571-572",,ramo1244,Duke of York Island (counting by couples,ramo1244-9
+5,ti lim,five couple,FALSE,Codrington1885,"pp.241, 571-572",,ramo1244,Duke of York Island (counting by couples,ramo1244-9
+6,ma nom,six couple,FALSE,Codrington1885,"pp.241, 571-572",,ramo1244,Duke of York Island (counting by couples,ramo1244-9
+7,ma wit,seven couple; wit ... probably borrowed,TRUE,Codrington1885,"pp.241, 571-572",,ramo1244,Duke of York Island (counting by couples,ramo1244-9
+8,ti wal,eight couple; wal ... probably borrowed,TRUE,Codrington1885,"pp.241, 571-572",,ramo1244,Duke of York Island (counting by couples,ramo1244-9
+9,ti wa,nine couple; wa ... probably borrowed,TRUE,Codrington1885,"pp.241, 571-572",,ramo1244,Duke of York Island (counting by couples,ramo1244-9
+10,ti keno,ten couple,FALSE,Codrington1885,"pp.241, 571-572",,ramo1244,Duke of York Island (counting by couples,ramo1244-9
+1,tahi,basic form,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+1,hoꞌe,"alternative form; used in compound numerals; also used in dates and when telling the time, and sometimes in measures; borrowed from Tahitian",TRUE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+2,rua,basic form,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+2,piti,"alternative form; used in compound numerals; also used in dates and when telling the time, and sometimes in measures; borrowed from Tahitian",TRUE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+3,toru,basic form,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+4,hā,basic form,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+4,maha,"alternative form; used in compound numerals; also used in dates and when telling the time, and sometimes in measures; borrowed from Tahitian",TRUE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+5,rima,basic form,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+5,pae,"alternative form; used in compound numerals; also used in dates and when telling the time, and sometimes in measures; borrowed from Tahitian",TRUE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+6,ono,basic form,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+7,hitu,basic form,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+8,vaꞌu,basic form; borrowed from Tahitian,TRUE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+8,varu,old form,TRUE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+9,iva,basic form,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+10,hoꞌe ꞌahuru,basic form; borrowed from Tahitian,TRUE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+10,ꞌaŋahuru,"basic form (an older form which is still in use, but rare. It is especially used as a noun ‘a group of ten’, and as ordinal number ‘tenth’)",FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+10,hoꞌe ꞌahuru,"alternative form; used in compound numerals; also used in dates and when telling the time, and sometimes in measures; borrowed from Tahitian",FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+11,hoꞌe ꞌahuru mā hoꞌe,"particle mā ‘and, with’; possibly Rapa Nui borrowed mā from Tahitian.",FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+12,hoꞌe ꞌahuru mā piti,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+13,hoꞌe ꞌahuru mā toru,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+14,hoꞌe ꞌahuru mā maha,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+15,hoꞌe ꞌahuru mā pae,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+20,piti ꞌahuru,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+21,piti ꞌahuru mā hoꞌe,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+22,piti ꞌahuru mā piti,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+30,toru ꞌahuru,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+40,maha ꞌahuru,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+50,pae ꞌahuru,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+60,ono ꞌahuru,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+70,hitu ꞌahuru,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+80,vaꞌu ꞌahuru,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+90,iva ꞌahuru,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+100,hoꞌe hānere,"Hānere is also a Tahitian borrowing, derived from English ‘hundred’.",TRUE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+101,hoꞌe hānere mā hoꞌe,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+102,hoꞌe hānere mā piti,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+110,hoꞌe hānere (e) ho ꞌe ꞌahuru,"Between hundreds and tens, and between thousands and hundreds, the particle e can be used, but this",FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+111,hoꞌe hānere (e) hoꞌe ꞌahuru mā hoꞌe,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+120,hoꞌe hānere (e) piti ꞌahuru,is not obligatory.,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+157,hoꞌe hānere (e) pae ꞌahuru mā hitu,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+200,piti hānere,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+678,ono hānere (e) hitu ꞌahuru mā va ꞌu,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+1000,hoꞌe taꞌutini,"The origin of taꞌutini is a little more complicated. It was probably borrowed from Tahitian tauatini, whereby the second a disappeared and a glottal was introduced between the first two vowels. Tahitian tauatini itself is a development from the older form tautani, from Eng. ‘thousand’.",TRUE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+1001,hoꞌe taꞌutini mā hoꞌe,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+1100,hoꞌe taꞌutini (e) hoꞌe hānere,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+1722,hoꞌe taꞌutini (e) hitu hānere (e) piti ꞌahuru mā piti,,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+10,kauatu,old – and obsolete,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+100,rau,old – and obsolete,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+1000,pīere,old – and obsolete,FALSE,Kieviet2017,pp.147-152,,rapa1244,Rapa Nui,rapa1244-1
+3,ngokor,,FALSE,Codrington1885,p.225,,roon1237,Ron,roon1237-2
+4,fak,,FALSE,Codrington1885,p.225,,roon1237,Ron,roon1237-2
+8,onemegnokor,,FALSE,Codrington1885,p.225,,roon1237,Ron,roon1237-2
+9,onenfak,,FALSE,Codrington1885,p.225,,roon1237,Ron,roon1237-2
+1,ta,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+2,rua,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+3,folu,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+4,hak,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+5,liam,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+5,lima,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+6,on,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+7,hif,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+8,vol,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+8,volu,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+9,siav,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+10,saghulu,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+10,saŋhulu,"[<sanhulu>, with <n> in italics]",FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+11,saŋhulu ma ta,"[<sanhulu>, with <n> in italics]; ten and one",FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+20,ruuŋhulu,"[<ruunhulu>, with <n> in italics]",FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+100,tarau,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+100,ta rau,one leaf,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+1000,ef,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+1,e ta,,FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+1,eta,The Particle e marks the use of the Numeral as a Verb.,FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+1,tai,,FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+2,e rua,,FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+3,e ’olu,,FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+4,e hai,,FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+4,ha’i,,FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+5,e lima,,FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+6,e ono,,FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+7,e hi’u,,FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+8,e walu,,FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+9,e siwa,,FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+10,taŋahulu,"[<tanahulu>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+10,awala,"The difference between taŋahulu [<tanahulu>, with <n> in italics] and awala is not plain; the latter is always used for more than one ten.",FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+11,ta awala ma na eta,"The sum above ten and above a hundred is marked by ma, which is not a Conjunction.",FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+11,taŋahulu ma ŋa eta,"[<tanahulu>, with <n> in italics; <na>, with <n> it italics]",FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+20,e rua awala,,FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+22,e rua awala ma na rua,,FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+100,taŋarau,"[<tanarau>, with <n> in italics]; the word for hundred means the double frond, counted on both sides, as the word for ten means the double handful of fingers.",FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+100,taŋalau,"[<tanalau>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+122,tai taŋalau ma na rua awala ma na rua,"[<tanalau>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+1000,mola,"There is a word in use in Florida and Bugotu, mola, which is used indefinitely for a great number beyond count; and this, but doubtfully, is given in Malanta and Ulawa for a thousand.",FALSE,Codrington1885,"pp.237, 249-250, 516",,saaa1240,"Contrariété Island, Ulawa",saaa1240-1
+1,e ta,"In counting a series it is e ta, but after that rua, ’olu, &c., without the Verbal Particle e",FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+1,eta,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+1,tata,A single thing is not eta but tata,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+2,e rua,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+2,e rue,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+2,rua,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+3,e ’olu,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+3,’olu,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+4,e hai,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+4,e ha’i,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+5,e lime,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+6,e ono,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+7,e hi’u,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+8,e walu,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+8,walu,This [Verbal Particle e] is never used with walu and siwe,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+9,e siwe,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+9,siwe,This [Verbal Particle e] is never used with walu and siwe,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+10,taŋahulu,"[<tanahulu>, with <n> in italics]; [The Verbal Particle e] is sometimes [used] with taŋahulu [<tanahulu>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+12,awala mana rua,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+20,rue awala,,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+100,taŋarau,"[<tanarau>, with <n> in italics]; the word for hundred means the double frond, counted on both sides, as the word for ten means the double handful of fingers.",FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+124,tata taŋalau rue awala mana hai,"[<tanalau>, with <n> in italics]",FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+1000,mola,"There is a word in use in Florida and Bugotu, mola, which is used indefinitely for a great number beyond count; and this, but doubtfully, is given in Malanta and Ulawa for a thousand.",FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+1000,mola,"[<mola>, with <m> in italics, = “nasal”]; The exact number of a thousand is conveyed by mola when yams are counted.",FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+1000,qela,A thousand cocoa-nuts is qela ni niu,FALSE,Codrington1885,"pp.237, 259-250, 522",,saaa1240,"Malanta, Saa",saaa1240-2
+1,ela,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+1,e la,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+2,edo,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+2,do,In Savo do also appears,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+3,igiva,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+3,igivaga,From three onwards the Plural termination ga may be used,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+4,agava,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+4,aga-va,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+4,agavaga,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+5,ara,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+6,pogoa,"It may be observed that the digits of the second hand correspond, to some extent, to those of the first",FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+6,pogo a,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+6,pogo-a,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+7,pogoro,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+7,pogo ro,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+7,pogo-ro,ro in pogo-ro is do in a more common form,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+8,(kui),,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+8,kui,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+9,kuava,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+9,kua va,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+9,kua-va,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+10,sale,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+10,atale,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+10,tale,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+10,talega,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+10,a tale,a appears as ‘one’ in a tale,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+11,pa nipiti,"pa is always ‘one,’ except a the beginning of a series. ... The unit above ten is nipiti; and tale, ten, is not needed; pa nipiti one the unit above ten",FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+12,edo nipiti,edo is two and ten is not named,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+12,edoga,edoga is used as well as edo nipiti,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+19,kuava nipiti,edo is two and ten is not named,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+20,nebolo,"the presence of a name for the unit above twenty, lisoa, different from that above ten, nipiti, is a mark in Savo that counting by twenties, nebolo, is an ancient practice ... The name for twenty is distinct, as in Bugotu",FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+21,nebolo lisoa pa,the unit above nebolo is lisoa; nebolo lisoa pa a score the unit above one,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+21,nebolo pa,"Some, however, only use lisoa for the sum above a hundred, and simply add the unit after the score",FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+22,nebolo lisoa edoga,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+22,nebolo edoga,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+30,igiva liza,"As in Gao, another designation comes in for the tens above the score, liza; ... three sets of ten",FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+30,igiva sale,some use tale or sale all through,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+40,agava liza,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+40,agava sale,some use tale or sale all through,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+50,ara tale,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+50,ara sale,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+50,talega,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+100,kela,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+100,pa kela,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+101,"pa kela, lisoa pa",The sum above a hundred is lisoa.,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+102,pa kela lisoa edoga,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+200,edo kela,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+200,kelaga,,FALSE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+1000,toga,The word for a thousand is probably borrowed.,TRUE,Codrington1885,"pp.224-225, 227-228, 231, 233, 236, 245, 249, 564-565",,savo1255,Savo,savo1255-2
+1,boiri,"Here it is evident that there is a prefix bo to the numerals on the first hand, and a suffix kori with those of the second.",FALSE,Codrington1885,p.225,,seru1244,"a dialect of Seroei, near Port Dorey [given by Latham]",seru1244-2
+2,boroe,,FALSE,Codrington1885,p.225,,seru1244,"a dialect of Seroei, near Port Dorey [given by Latham]",seru1244-2
+3,botoro,,FALSE,Codrington1885,p.225,,seru1244,"a dialect of Seroei, near Port Dorey [given by Latham]",seru1244-2
+4,boah,,FALSE,Codrington1885,p.225,,seru1244,"a dialect of Seroei, near Port Dorey [given by Latham]",seru1244-2
+6,boiri-kori,,FALSE,Codrington1885,p.225,,seru1244,"a dialect of Seroei, near Port Dorey [given by Latham]",seru1244-2
+7,bor-kori,,FALSE,Codrington1885,p.225,,seru1244,"a dialect of Seroei, near Port Dorey [given by Latham]",seru1244-2
+8,boto-kori,,FALSE,Codrington1885,p.225,,seru1244,"a dialect of Seroei, near Port Dorey [given by Latham]",seru1244-2
+9,boa-kori,,FALSE,Codrington1885,p.225,,seru1244,"a dialect of Seroei, near Port Dorey [given by Latham]",seru1244-2
+1,au,,FALSE,Codrington1885,p.222,,sout2949,Fly River,sout2949-4
+2,etoa,,FALSE,Codrington1885,p.222,,sout2949,Fly River,sout2949-4
+3,netoa-nau,,FALSE,Codrington1885,p.222,,sout2949,Fly River,sout2949-4
+4,netoa-netoa,,FALSE,Codrington1885,p.222,,sout2949,Fly River,sout2949-4
+1,isá,,FALSE,Vanoverbergh1937,"pp.110, 116",,taga1270,Tagalog,taga1270-2
+2,dalawá,,FALSE,Vanoverbergh1937,"pp.110, 116",,taga1270,Tagalog,taga1270-2
+3,tatló,,FALSE,Vanoverbergh1937,"pp.110, 116",,taga1270,Tagalog,taga1270-2
+4,apát,,FALSE,Vanoverbergh1937,"pp.110, 116",,taga1270,Tagalog,taga1270-2
+5,limá,,FALSE,Vanoverbergh1937,"pp.110, 116",,taga1270,Tagalog,taga1270-2
+6,aním,,FALSE,Vanoverbergh1937,"pp.110, 116",,taga1270,Tagalog,taga1270-2
+7,pitó,,FALSE,Vanoverbergh1937,"pp.110, 116",,taga1270,Tagalog,taga1270-2
+8,waló,,FALSE,Vanoverbergh1937,"pp.110, 116",,taga1270,Tagalog,taga1270-2
+9,siám,,FALSE,Vanoverbergh1937,"pp.110, 116",,taga1270,Tagalog,taga1270-2
+10,sańpó-,,FALSE,Vanoverbergh1937,"pp.110, 116",,taga1270,Tagalog,taga1270-2
+11,labíń isá,,FALSE,Vanoverbergh1937,"pp.110, 116",,taga1270,Tagalog,taga1270-2
+20,dalawáń po-,,FALSE,Vanoverbergh1937,"pp.110, 116",,taga1270,Tagalog,taga1270-2
+22,dalawáń pot dalawá,,FALSE,Vanoverbergh1937,"pp.110, 116",,taga1270,Tagalog,taga1270-2
+23,dalawáń pot tatlo,,FALSE,Vanoverbergh1937,"pp.110, 116",,taga1270,Tagalog,taga1270-2
+12,rolas,,FALSE,Codrington1885,p.231,,tala1285,Salibabo [from Mr. Wallace],tala1285-3
+1,sa,,FALSE,Codrington1885,p.231,,tala1285,Salibabo [from Mr. Wallace],tala1285-3
+10,mapuroh,,FALSE,Codrington1885,p.231,,tala1285,Salibabo [from Mr. Wallace],tala1285-3
+11,ressa,"there is no mention of mapuroh ten, but res is evidently [equivalent to] the Java las",FALSE,Codrington1885,p.231,,tala1285,Salibabo [from Mr. Wallace],tala1285-3
+1,riti,,FALSE,Codrington1885,"pp.221-223, 235, 239",,tann1242,"Tana (Tanna) [exact language unknown, but seems similar to kwam1252]",tann1242-1
+2,ka ru,,FALSE,Codrington1885,"pp.221-223, 235, 239",,tann1242,"Tana (Tanna) [exact language unknown, but seems similar to kwam1252]",tann1242-1
+3,ka har,,FALSE,Codrington1885,"pp.221-223, 235, 239",,tann1242,"Tana (Tanna) [exact language unknown, but seems similar to kwam1252]",tann1242-1
+4,ke fa,,FALSE,Codrington1885,"pp.221-223, 235, 239",,tann1242,"Tana (Tanna) [exact language unknown, but seems similar to kwam1252]",tann1242-1
+5,karirum,,FALSE,Codrington1885,"pp.221-223, 235, 239",,tann1242,"Tana (Tanna) [exact language unknown, but seems similar to kwam1252]",tann1242-1
+5,ka rirum,,FALSE,Codrington1885,"pp.221-223, 235, 239",,tann1242,"Tana (Tanna) [exact language unknown, but seems similar to kwam1252]",tann1242-1
+6,karirum riti,,FALSE,Codrington1885,"pp.221-223, 235, 239",,tann1242,"Tana (Tanna) [exact language unknown, but seems similar to kwam1252]",tann1242-1
+10,karirum karirum,"five five, stands for ten",FALSE,Codrington1885,"pp.221-223, 235, 239",,tann1242,"Tana (Tanna) [exact language unknown, but seems similar to kwam1252]",tann1242-1
+10,karirum-karirum,,FALSE,Codrington1885,"pp.221-223, 235, 239",,tann1242,"Tana (Tanna) [exact language unknown, but seems similar to kwam1252]",tann1242-1
+10,karirumkarirum,"… appears in the light thrown upon it by other languages to be after all a verbal expression; karirum five has the verbal ka, just as karu, two, is the same in form and grammatical character as Fiji or Maori, ka rua.",FALSE,Codrington1885,"pp.221-223, 235, 239",,tann1242,"Tana (Tanna) [exact language unknown, but seems similar to kwam1252]",tann1242-1
+1,tea,,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+1,motea,The Verbal Particle is used with the first five digits,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+2,rua,,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+2,morua,The Verbal Particle is used with the first five digits,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+3,tol,,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+3,motol,The Verbal Particle is used with the first five digits,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+4,vati,,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+4,movati,The Verbal Particle is used with the first five digits,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+5,lina,,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+5,molina,The Verbal Particle is used with the first five digits,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+6,arave,In the Numerals of the second hand rave is no doubt the same with the Mota lave; and ma with rave may be the Verbal Particle.,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+6,larave,[derived from Bishop Patterson’s notes],FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+6,marave,[derived from Bishop Patterson’s notes],FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+6,lima rave,[derived from Bishop Patterson’s notes],FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+6,linarabe,Commodore Goodenough,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+7,ve rua,,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+7,verua,,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+7,laverua,[derived from Bishop Patterson’s notes],FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+7,erua,Commodore Goodenough,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+8,ve tou,,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+8,vetou,,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+8,laveto,[derived from Bishop Patterson’s notes],FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+8,etou,Commodore Goodenough,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+9,ra tati,,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+9,ratati,,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+9,lima rapati,[derived from Bishop Patterson’s notes],FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+10,saŋovul,"[<sanovul>, with <n> in italics]",FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+10,soŋovul,"[<sonovul>, with <n> in italics]",FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+10,gavula tea,As in Arag there is another word for ten; [derived from Bishop Patterson’s notes],FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+20,soŋovul rua,"[<sonovul>, with <n> in italics]",FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+20,gavula rua,"[<sonovul>, with <n> in italics; derived from Bishop Patterson’s notes]",FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+44,soŋovul vat na vana movat,"[<sonovul>, with <n> in italics]; the name of the number above ten shows itself plainly as a noun … ‘tens four, its unit above is four.’ This word va is probably the same as ve of Araga, Whitsuntide, used for the number above a hundred, and the Santa Cruz wa; both of which are, like it, constructed as nouns with the pronoun suffixed.",FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+100,tari,an indefinite number; [derived from Bishop Patterson’s notes],FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+100,patevuli,Commodore Goodenough,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+240,tari vagarua na vulena soŋovul vati,"[<sonovul>, with <n> in italics]",FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+600,tari vaga lima rave,[derived from Bishop Patterson’s notes],FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+1000,tairao,,FALSE,Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,"Espiritu Santo, Marina",tolo1255-1
+1,taha,,FALSE,Codrington1885,"pp.229, 246",,tong1325,Tongan (Tonga),tong1325-2
+5,nima,,FALSE,Codrington1885,"pp.229, 246",,tong1325,Tongan (Tonga),tong1325-2
+9,hiva,,FALSE,Codrington1885,"pp.229, 246",,tong1325,Tongan (Tonga),tong1325-2
+10,hongafulu,,FALSE,Codrington1885,"pp.229, 246",,tong1325,Tongan (Tonga),tong1325-2
+1,ohá,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
+2,duá,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
+3,tuló,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
+4,opát,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
+5,limá,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
+6,onóm,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
+7,pitó,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
+8,waló,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
+9,hiám,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
+10,himpúlo,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
+11,himpúlot ohá,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
+20,duám púlo,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
+22,duám púlot duá,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
+23,duám púlot tuló,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
+1,satu,,FALSE,Codrington1885,pp.230-231,,vehi1234,colloquial Malay of Singapore [from Mr. Wallace],vehi1234-1
+2,dua,,FALSE,Codrington1885,pp.230-231,,vehi1234,colloquial Malay of Singapore [from Mr. Wallace],vehi1234-1
+10,sapuloh,,FALSE,Codrington1885,pp.230-231,,vehi1234,colloquial Malay of Singapore [from Mr. Wallace],vehi1234-1
+11,sapuloh satu,the unit is simply added to ten,FALSE,Codrington1885,pp.230-231,,vehi1234,colloquial Malay of Singapore [from Mr. Wallace],vehi1234-1
+12,sapuloh dua,,FALSE,Codrington1885,pp.230-231,,vehi1234,colloquial Malay of Singapore [from Mr. Wallace],vehi1234-1
+1,vu wal,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+1,vuwal,"The Verbal Particle vu is prefixed to the true Numerals, as shown in twenty and thirteen.",FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+2,vu ru,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+2,vʊrʊ,"[<vuru>, with both <u>s in italics, = “[difference from <u> is] shortness and sharpness”]",FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+3,vu ’ol,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+3,vʊ’ʊl,"[<vu’ul>, with both <u>s in italics, = “[difference from <u> is] shortness and sharpness”]",FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+4,vu ve,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+4,vu ve,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+5,’evelem,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+5,’evelem,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+6,leve ’a,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+6,leve’a,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+7,leve ru,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+7,leveru,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+8,leve ’ol,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+8,leve’ol,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+9,leve ve,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+9,leveve’,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+10,saŋwul,"[<sanwul>, with <n> in italics]",FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+13,saŋwul wal demei vʊʊl,"[<sanwul>, with <n> in italics; <m> in italics, = “nasal”; <vuul>, with both <u>s in italics, = “[difference from <u> is] shortness and sharpness”]",FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+20,saŋwul ru,"[<sanwul>, with <n> in italics]",FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+100,meltol,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+409,meltol vagve’ venegi leveve’,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+1000,’ar,,FALSE,Codrington1885,"pp.235, 337",,vera1241,"Vanua Lava, Pak",vera1241-1
+1,vowel,The with Cardinals is the Verbal Particle v- with shifting vowel,FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Leon",vera1241-2
+2,voru,,FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Leon",vera1241-2
+3,ve’øl,"[<ve’ol>, with <o> in italics]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Leon",vera1241-2
+4,veve’,,FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Leon",vera1241-2
+5,’evelim,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Leon",vera1241-2
+6,leve’a,,FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Leon",vera1241-2
+7,liviru,,FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Leon",vera1241-2
+8,livi’øl,"[<livi’ol>, with <o> in italics]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Leon",vera1241-2
+9,leveva’,,FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Leon",vera1241-2
+10,saŋwul,"[<sanwul>, with <n> in italics]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Leon",vera1241-2
+13,saŋwul wel,"[<sanwul>, with <n> in italics]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Leon",vera1241-2
+100,meltol,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Leon",vera1241-2
+140,meltol vawel teme saŋwul ve’,"[both <m>s in italics, = “nasal”; <sanwul>, with <n> in italics]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Leon",vera1241-2
+1000,’er,,FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Leon",vera1241-2
+1,vowal,The with Cardinals is the Verbal Particle v- with shifting vowel,FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Sasar",vera1241-3
+2,voro,,FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Sasar",vera1241-3
+3,ve’øl,"[<ve’ol>, with <o> in italics]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Sasar",vera1241-3
+4,veve’,,FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Sasar",vera1241-3
+5,’əvəlem,"[<’evelem>, with first two <e>s in italics; with <m> in italics, = “nasal”]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Sasar",vera1241-3
+6,levə’a,"[<levə’a>, with second <e> in italics]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Sasar",vera1241-3
+7,liviro,,FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Sasar",vera1241-3
+8,livi’ol,,FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Sasar",vera1241-3
+9,løvəve’,"[<loveve’>, with <o> in italics; with first <e> in italics]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Sasar",vera1241-3
+10,saŋwul,"[<sanwul>, with <n> in italics]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Sasar",vera1241-3
+13,saŋwul wal,"[<sanwul>, with <n> in italics]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Sasar",vera1241-3
+100,meltol,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Sasar",vera1241-3
+140,meltol vawal virnegi saŋwul ve’,"[<m> in italics, = “nasal”; <sanwul>, with <n> in italics]",FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Sasar",vera1241-3
+1000,’ar,,FALSE,Codrington1885,p.344,,vera1241,"Vanua Lava, Sasar",vera1241-3
+1,vo’owal,,FALSE,Codrington1885,p.357,,vera1241,"Vanua Lava, Alo Teqel",vera1241-4
+2,varo,,FALSE,Codrington1885,p.357,,vera1241,"Vanua Lava, Alo Teqel",vera1241-4
+3,vo’ol,,FALSE,Codrington1885,p.357,,vera1241,"Vanua Lava, Alo Teqel",vera1241-4
+4,ve ve’e,,FALSE,Codrington1885,p.357,,vera1241,"Vanua Lava, Alo Teqel",vera1241-4
+5,’evelem,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,p.357,,vera1241,"Vanua Lava, Alo Teqel",vera1241-4
+6,livi’e,,FALSE,Codrington1885,p.357,,vera1241,"Vanua Lava, Alo Teqel",vera1241-4
+7,liviro,,FALSE,Codrington1885,p.357,,vera1241,"Vanua Lava, Alo Teqel",vera1241-4
+8,livi’ol,,FALSE,Codrington1885,p.357,,vera1241,"Vanua Lava, Alo Teqel",vera1241-4
+9,livive’e,,FALSE,Codrington1885,p.357,,vera1241,"Vanua Lava, Alo Teqel",vera1241-4
+10,soŋwul,"[<sonwul>, with <n> in italics]",FALSE,Codrington1885,p.357,,vera1241,"Vanua Lava, Alo Teqel",vera1241-4
+13,soŋwul ’awal temegi vool,"[<sonwul>, with <n> in italics; <m> in italics, = “nasal”]",FALSE,Codrington1885,p.357,,vera1241,"Vanua Lava, Alo Teqel",vera1241-4
+140,meltol soŋwul ve’e ran,"(upon it); [<m> in italics, = “nasal”; <sonwul>, with <n> in italics",FALSE,Codrington1885,p.357,,vera1241,"Vanua Lava, Alo Teqel",vera1241-4
+1000,’er,,FALSE,Codrington1885,p.357,,vera1241,"Vanua Lava, Alo Teqel",vera1241-4
+1,tuwel,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+2,ni ro,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+2,niro,"The Numerals ro, tol, vat, have the Verbal Prefix ni.",FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+3,ni tol,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+3,nitol,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+4,ni vat,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+4,nivat,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+5,tevelem,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+5,tevelem,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+6,leve te,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+6,levete,"The vowels in levete, lovoro, lovotol, change with the numeral stem",FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+7,lovo ro,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+7,lovoro,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+8,lo vo tol,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+8,lovotol,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+9,leve vat,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+9,levevat,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+10,samol,,FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+10,samul,"[<m> in italics, = “nasal”]; samul should, probably, be samwul for saŋwul [<sanwul>, with <n> in italics]",FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+13,samul tuwel deme nitol,"[both <m>s in italics, = “nasal”]",FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+142,melnol vagaro o vivi samul vat deme niro,"[all <m>s in italics, = “nasal”]",FALSE,Codrington1885,"pp.235, 349",,vure1239,"Vanua Lava, Vureas (Vuras)",vure1239-1
+1,aia,,FALSE,Codrington1885,p.225,,waim1251,Yule Island,waim1251-2
+2,rua,,FALSE,Codrington1885,p.225,,waim1251,Yule Island,waim1251-2
+6,abaraia,,FALSE,Codrington1885,p.225,,waim1251,Yule Island,waim1251-2
+7,abarua,,FALSE,Codrington1885,p.225,,waim1251,Yule Island,waim1251-2
