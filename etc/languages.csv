@@ -611,7 +611,7 @@ edol1239-1,Beami (Etoro dialect: Bopole village),LeanWestern,p.13,SIL (undated).
 edol1239-2,Beami (Etoro dialect: Namusatu village),LeanWestern,p.14,SIL (undated). Village: Namusatu.,edol1239,Edolo,etr,Papunesia,-6.11618,142.65,Bosavi
 edol1239-3,"Etoro (Etolo, Edolo) (from Peter Dwyer)",LeanWestern,pp.14-17,Peter Dwyer (1979-1980).,edol1239,Edolo,etr,Papunesia,-6.11618,142.65,Bosavi
 efat1235-1,Efatese,MacDonald1889,pp.36-37,,efat1235,Efatese,,Papunesia,-17.57023,168.25945,Artificial Language
-efat1236-1,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,Efate,,Papunesia,-17.65555,168.37575,Austronesian
+efat1236-1,"Sandwich Island, Fate [exact language unknown, but seems similar to lele1267]",Codrington1885,"pp.221-224, 232, 235, 244, 476",,efat1236,Efate,,,-17.65555,168.37575,Austronesian
 ekar1243-1,Ekari Ekari,Galis1955,p.165,,ekar1243,Ekari,ekg,Papunesia,-3.88974,136.018,Nuclear Trans New Guinea
 ekar1243-2,Ekari Jabi,Galis1955,p.166,,ekar1243,Ekari,ekg,Papunesia,-3.88974,136.018,Nuclear Trans New Guinea
 ekar1243-3,Ekari Simori,Galis1955,p.166,,ekar1243,Ekari,ekg,Papunesia,-3.88974,136.018,Nuclear Trans New Guinea
@@ -635,19 +635,19 @@ engg1245-1,Enggano,Stokhof1987Vol10.3,p.199,,engg1245,Enggano,eno,Papunesia,-5.3
 engg1245-2,Enganho,Codrington1885,p.226,,engg1245,Enggano,eno,Papunesia,-5.38846,102.245,Austronesian
 enre1239-1,Endékan,Arnaud1998,pp.863-879 [word list item numbers],,enre1239,Enrekang,ptt,Papunesia,-3.53848,119.66,Austronesian
 enre1239-2,Masenrempulu (Enrekang),Grimes1987,pp.129-135,,enre1239,Enrekang,ptt,Papunesia,-3.53848,119.66,Austronesian
-epii1237-1,"Epi (system used by a spirit in a story) [exact language unknown, but possibly lewo1242]",Riddle1916,p.24,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
-epii1237-2,"Epi [exact language unknown, but possibly lewo1242]",Riddle1916,p.24,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
-epii1237-3,"Api [exact language unknown, but seems similar to lewo1242]",Codrington1885,"pp.222, 235, 244-245",,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
-epii1237-4,"Api, Tasiko (West coast) [possibly bier1244]",Codrington1885,pp.469-470,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
-epii1237-5,"Api, Tasiko (West coast) [possibly maii1238]",Codrington1885,p.470,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
-epii1237-6,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",Codrington1885,p.470,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
+epii1237-1,"Epi (system used by a spirit in a story) [exact language unknown, but possibly lewo1242]",Riddle1916,p.24,,epii1237,Epi,,,-16.71345017,168.2113396,Austronesian
+epii1237-2,"Epi [exact language unknown, but possibly lewo1242]",Riddle1916,p.24,,epii1237,Epi,,,-16.71345017,168.2113396,Austronesian
+epii1237-3,"Api [exact language unknown, but seems similar to lewo1242]",Codrington1885,"pp.222, 235, 244-245",,epii1237,Epi,,,-16.71345017,168.2113396,Austronesian
+epii1237-4,"Api, Tasiko (West coast) [possibly bier1244]",Codrington1885,pp.469-470,,epii1237,Epi,,,-16.71345017,168.2113396,Austronesian
+epii1237-5,"Api, Tasiko (West coast) [possibly maii1238]",Codrington1885,p.470,,epii1237,Epi,,,-16.71345017,168.2113396,Austronesian
+epii1237-6,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",Codrington1885,p.470,,epii1237,Epi,,,-16.71345017,168.2113396,Austronesian
 erav1244-1,Kewa (Southern dialect),Franklin1968,p.32,,erav1244,Erave,kjy,Papunesia,-6.55011,143.918,Nuclear Trans New Guinea
 erav1244-2,South Kewa (Pole),Franklin2001,pp.152-153,,erav1244,Erave,kjy,Papunesia,-6.55011,143.918,Nuclear Trans New Guinea
 eree1241-1,Ere,Blust2021,"pp.25, 30, 32, 38",,eree1241,Ere,twp,Papunesia,-2.15569,147.083,Austronesian
 eree1241-2,Ere-Lele-Gele'-Kuruti (Ere dialect),Lean1985Vol02,p.35,1 CSQ. Village: Tawii.,eree1241,Ere,twp,Papunesia,-2.15569,147.083,Austronesian
 erok1237-1,Arkwanas,Galis1960,p.138,,erok1237,Erokwanas,erw,Papunesia,-2.83746,132.705,Austronesian
 erok1237-2,Goras,Grace1956pdf31,p.2 [of pdf],,erok1237,Erokwanas,erw,Papunesia,-2.83746,132.705,Austronesian
-erro1239-1,"Eromanga [exact language unknown, but seems similar to siee1239]",Codrington1885,"pp.222-223, 235, 240, 244, 249",,erro1239,Erromanga,,Papunesia,-18.7532,169.085666666667,Austronesian
+erro1239-1,"Eromanga [exact language unknown, but seems similar to siee1239]",Codrington1885,"pp.222-223, 235, 240, 244, 249",,erro1239,Erromanga,,,-18.7532,169.085666666667,Austronesian
 ewag1241-1,Notu,Lean1985Vol05,p.32,"4 CSQs. Villages: Natatu, Gona (2), Baberada.",ewag1241,Ewage-Notu,nou,Papunesia,-8.68756,148.405,Nuclear Trans New Guinea
 ewag1241-2,Notu (Buna village),Lean1985Vol05,p.32,SIL word list (1975). Village: Buna.,ewag1241,Ewage-Notu,nou,Papunesia,-8.68756,148.405,Nuclear Trans New Guinea
 ewag1241-3,Yega,Chinnery1915,p.165,,ewag1241,Ewage-Notu,nou,Papunesia,-8.68756,148.405,Nuclear Trans New Guinea
@@ -1348,7 +1348,7 @@ mala1533-2,Tugu Schuchardt 1891,Maurer2011,pp.34-35,,mala1533,Malacca-Batavia Po
 mala1533-3,Tugu 1937 manuscript,Maurer2011,pp.34-35,,mala1533,Malacca-Batavia Portuguese Creole,mcm,Eurasia,2.188087,102.262059,Indo-European
 mala1533-4,Tugu Wallace 1978,Maurer2011,pp.34-35,,mala1533,Malacca-Batavia Portuguese Creole,mcm,Eurasia,2.188087,102.262059,Indo-European
 mala1534-1,Malaweg,Reid1987,p.6,,mala1534,Malaweg,,Papunesia,17.844833,121.391322,Austronesian
-mala1539-1,"Malikolo [exact language unknown, but seems similar to port1285]",Codrington1885,"pp.225, 235, 245",,mala1539,Malakula,,Papunesia,-16.1281006299147,167.390832297129,Austronesian
+mala1539-1,"Malikolo [exact language unknown, but seems similar to port1285]",Codrington1885,"pp.225, 235, 245",,mala1539,Malakula,,,-16.1281006299147,167.390832297129,Austronesian
 male1289-1,Kilenge,Lean1985Vol04,p.94,"Kettenis, IMP data (1977). See also Kettenis (1978).",male1289,Maleu-Kilenge,mgl,Papunesia,-5.61613,148.445,Austronesian
 male1289-2,Maleu,Lean1985Vol04,p.97,"2 CSQs. Villages: Gie, Aimaga.",male1289,Maleu-Kilenge,mgl,Papunesia,-5.61613,148.445,Austronesian
 male1289-3,kileŋe,Grace1955pdf45,p.5,,male1289,Maleu-Kilenge,mgl,Papunesia,-5.61613,148.445,Austronesian
@@ -1428,7 +1428,7 @@ mari1435-2,Maring (from IMP/SIL),LeanWesternHighlands,p.8,IMP/SIL Questionnaire 
 mari1435-3,Maring (Kompiai village),LeanWesternHighlands,p.8,"SIL Word List (1975), Kompiai village.",mari1435,Maring,mbw,Papunesia,-5.44015,144.642,Nuclear Trans New Guinea
 mari1438-1,Gebi,Ray1938EasternPapua,p.183,,mari1438,Maria (Papua New Guinea),mds,Papunesia,-9.92982,148.303,Manubaran
 mari1438-2,Orai iu,Ray1938EasternPapua,p.183,,mari1438,Maria (Papua New Guinea),mds,Papunesia,-9.92982,148.303,Manubaran
-marq1246-1,Marquesas,Codrington1885,p.227,,marq1246,Marquesan,,Papunesia,-8.95419687299994,-139.616769986,Austronesian
+marq1246-1,Marquesas,Codrington1885,p.227,,marq1246,Marquesan,,,-8.95419687299994,-139.616769986,Austronesian
 masa1307-1,"Masadiit (Balatok), Kilong-olaw (Boliney, Abra)",Walton2003Balatok,pp.3-7,,masa1307,Masadiit Itneg,tis,Papunesia,17.4501,120.829,Austronesian
 masa1307-2,"Masadiit, Boliney, Abra",Walton2003Boliney,pp.3-7,,masa1307,Masadiit Itneg,tis,Papunesia,17.4501,120.829,Austronesian
 masa1307-3,"Masadiit, Lamao, Bucloc",Walton2003Lamao,pp.3-7,,masa1307,Masadiit Itneg,tis,Papunesia,17.4501,120.829,Austronesian
@@ -1705,7 +1705,7 @@ nend1239-1,Nend,Harris1990,p.91,,nend1239,Nend,anh,Papunesia,-5.04271,144.886,Nu
 nend1239-2,Angaua,Zgraggen1980SouthernAdelbert,p.46,,nend1239,Nend,anh,Papunesia,-5.04271,144.886,Nuclear Trans New Guinea
 neng1238-1,"Britannia Island, Nengone",Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,Nengone,nen,Papunesia,-21.5305,167.964,Austronesian
 nete1240-1,Nete,Franklin2012,p.51,,nete1240,Nete,net,Papunesia,-5.02368,143.029,Nuclear Trans New Guinea
-newg1239-1,"New Georgia [exact language unknown, but seems similar to maro1244]",Codrington1885,p.237,,newg1239,New Georgia,,Papunesia,-8.2321693196052,157.356950365812,Austronesian
+newg1239-1,"New Georgia [exact language unknown, but seems similar to maro1244]",Codrington1885,p.237,,newg1239,New Georgia,,,-8.2321693196052,157.356950365812,Austronesian
 ngai1241-1,Ngaing (Sibog village),Gray2015,p.65,,ngai1241,Ngaing,nnf,Papunesia,-5.6513,146.343,Nuclear Trans New Guinea
 ngaj1237-1,Katingan Dayak,Stokhof1986Vol8,p.75,,ngaj1237,Ngaju,nij,Papunesia,-1.58463,112.794,Austronesian
 ngaj1237-2,Ngaju Dayak,Stokhof1986Vol8,p.53,,ngaj1237,Ngaju,nij,Papunesia,-1.58463,112.794,Austronesian
@@ -2270,7 +2270,7 @@ tang1355-2,Tangu,Zgraggen1972,pp.215-219,,tang1355,Tanggu,tgu,Papunesia,-4.4621,
 tang1355-3,Tangu (Amuk village),LeanMadang,p.11,1 CSQ. Village: Amuk.,tang1355,Tanggu,tgu,Papunesia,-4.4621,144.916,Lower Sepik-Ramu
 tang1355-4,Tangu (Duapmang village),LeanMadang,pp.10-11,SIL Word List (1975). Village: Duapmang.,tang1355,Tanggu,tgu,Papunesia,-4.4621,144.916,Lower Sepik-Ramu
 tang1356-1,Tanguat,Zgraggen1972,pp.215-219,,tang1356,Tanguat,tbs,Papunesia,-4.57282,144.927,Lower Sepik-Ramu
-tann1242-1,"Tana (Tanna) [exact language unknown, but seems similar to kwam1252]",Codrington1885,"pp.221-223, 235, 239",,tann1242,Tanna,,Papunesia,-19.5222075,169.3502575,Austronesian
+tann1242-1,"Tana (Tanna) [exact language unknown, but seems similar to kwam1252]",Codrington1885,"pp.221-223, 235, 239",,tann1242,Tanna,,,-19.5222075,169.3502575,Austronesian
 tano1246-1,Tanosy,Jully1901,passim,,tano1246,Tanosy Malagasy,txy,Africa,-24.9186,47.1357,Austronesian
 tape1242-1,Tapei (Awim village),Kassell2017,pp.52-53,,tape1242,Tapei,afp,Papunesia,-4.77763,143.337,Arafundi
 tape1242-2,Tapei (Imboin-Awim villages),Kassell2017,pp.52-53,,tape1242,Tapei,afp,Papunesia,-4.77763,143.337,Arafundi
@@ -2468,7 +2468,7 @@ vani1248-2,Vanimo,Laycock1970D03,p.322,,vani1248,Vanimo,vam,Papunesia,-2.68501,1
 vani1248-3,Wanimo,Ray1919,p.330,,vani1248,Vanimo,vam,Papunesia,-2.68501,141.258,Sko
 vani1248-4,Yako,Ray1919,p.331,,vani1248,Vanimo,vam,Papunesia,-2.68501,141.258,Sko
 vehe1237-1,Vehes,Smith1988,p.74,,vehe1237,Vehes,val,Papunesia,-6.92151,146.895,Austronesian
-vehi1234-1,colloquial Malay of Singapore [from Mr. Wallace],Codrington1885,pp.230-231,,vehi1234,Vehicular Malay,,Eurasia,-0.519317033613174,109.132732670432,Austronesian
+vehi1234-1,colloquial Malay of Singapore [from Mr. Wallace],Codrington1885,pp.230-231,,vehi1234,Vehicular Malay,,,-0.519317033613174,109.132732670432,Austronesian
 vera1241-1,"Vanua Lava, Pak",Codrington1885,"pp.235, 337",,vera1241,Vera'a,vra,Papunesia,-13.892528,167.428701,Austronesian
 vera1241-2,"Vanua Lava, Leon",Codrington1885,p.344,,vera1241,Vera'a,vra,Papunesia,-13.892528,167.428701,Austronesian
 vera1241-3,"Vanua Lava, Sasar",Codrington1885,p.344,,vera1241,Vera'a,vra,Papunesia,-13.892528,167.428701,Austronesian
