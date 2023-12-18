@@ -7994,31 +7994,6 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 12,saŋavulu domagi gairue,"[<sanavulu>, with <n> in italics; <m> in italics, = “nasal”]",FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
 48,"ŋavulu gevesi, ŋavulu gailimegi gaiwelu","[<navulu>, with <n> in italics (both times); <m> in italics, = “nasal”]; i.e. tens 4, the fifth ten (set), eight.",FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
 110,"vudolue vagatuwale, avigi saŋavulu","[<sanavulu>, with <n> in italics]",FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
-1,isa,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-1,sā,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-2,rua,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-2,lua,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-2,dua,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-2,roti,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-3,teru,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-3,letu,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-3,tolu,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-3,toru,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-4,haa,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-4,hata,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-4,ata,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-4,fāt,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-5,rima,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-5,lima,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-5,dima,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-6,nē,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-6,nona,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-6,nō,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-6,onam,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-10,husane,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-10,husā,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-10,utsya,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
-20,huturua,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],east2466-1
 1,pa-menda,,FALSE,Franklin2012,pp.44-45,,east2516,East Kewa,east2516-1
 1,panda-ne,,FALSE,Franklin2012,pp.44-45,,east2516,East Kewa,east2516-1
 2,laapo ,,FALSE,Franklin2012,pp.44-45,,east2516,East Kewa,east2516-1
@@ -23873,6 +23848,31 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,tAA kÛ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
 200,boo kÛ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
 400,bëëvÜ kÛ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+1,isa,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+1,sā,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+2,rua,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+2,lua,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+2,dua,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+2,roti,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+3,teru,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+3,letu,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+3,tolu,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+3,toru,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+4,haa,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+4,hata,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+4,ata,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+4,fāt,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+5,rima,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+5,lima,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+5,dima,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+6,nē,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+6,nona,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+6,nō,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+6,onam,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+10,husane,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+10,husā,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+10,utsya,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
+20,huturua,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
 1,sai,,FALSE,Stokhof1982Vol3.4,p.104,,nusa1245,"Nalahia, Nusa Laut",nusa1245-1
 1,sāné,,FALSE,Stokhof1982Vol3.4,p.104,,nusa1245,"Nalahia, Nusa Laut",nusa1245-1
 2,roewa,,FALSE,Stokhof1982Vol3.4,p.104,,nusa1245,"Nalahia, Nusa Laut",nusa1245-1
