@@ -49,7 +49,7 @@ aikl1237-3,Aiklep - Asailo village,Spencer2013,pp.88-89,,aikl1237,Aiklep,mwg,Pap
 aiom1240-1,Aiome,Zgraggen1972,pp.215-219,,aiom1240,Aiome,aki,Papunesia,-5.13467,144.765,Lower Sepik-Ramu
 aiom1240-2,Aomie,Lean1985Vol05,p.40,1 IMP.,aiom1240,Aiome,aki,Papunesia,-5.13467,144.765,Lower Sepik-Ramu
 airo1242-1,Apauwar,Stokhof1983Vol5.2,p.50,,airo1242,Airoran,air,Papunesia,-1.8522,138.158,Greater Kwerba
-aisi1234-1,"Aisi [data correspond to two Glottocodes: musa1266 , magi1243]",Daniels2015,p.790,,aisi1234,Aisian,,,,,Nuclear Trans New Guinea
+aisi1234-1,"Aisi [data correspond to two Glottocodes: musa1266 , magi1243]",Daniels2015,p.790,,aisi1234,Aisian,,,-5.256285,145.15305,Nuclear Trans New Guinea
 ajie1238-1,ajie (Houaïlou),Grace1955pdfNotes,p.9 [of pdf],,ajie1238,Ajië,aji,Papunesia,-21.3029,165.468,Austronesian
 akkk1240-1,Ak,Laycock1970D09,p.1232,,akkk1240,Ak,akq,Papunesia,-3.57026,141.784,Sepik
 akol1237-1,Gasmata (Ablingi Island),Lean1985Vol04,p.61,"3 CSQs. Villages: Ablingi Island, Alepen, Anato.",akol1237,Akolet,akt,Papunesia,-6.22711,150.182,Austronesian
@@ -118,7 +118,7 @@ anga1290-1,Agaataha,Smith1988,p.99,,anga1290,Angaataha,agm,Papunesia,-7.15012,14
 anga1292-1,Augu,Williams1940,p.58,,anga1292,Angal Heneng,akh,Papunesia,-6.13347,143.478,Nuclear Trans New Guinea
 anga1293-1,Mendi (Angal Heneng),Lean1986Vol10,p.30,17 CSQs.,anga1293,Angal,age,Papunesia,-6.0127,143.592,Nuclear Trans New Guinea
 anga1294-1,Mendi (South Mendi dialect),Lean1986Vol10,p.32,6 CSQs. (Nembi Valley).,anga1294,Angal Enen,aoe,Papunesia,-6.23296,143.583,Nuclear Trans New Guinea
-anga1314-1,"Mendi/Dialects [data correspond to three Glottocodes: anga1292, anga1293, anga1294]",Franklin2012,pp.44-45,,anga1314,Angal Mendi,,,,,Nuclear Trans New Guinea
+anga1314-1,"Mendi/Dialects [data correspond to three Glottocodes: anga1292, anga1293, anga1294]",Franklin2012,pp.44-45,,anga1314,Angal Mendi,,,-6.126376667,143.551,Nuclear Trans New Guinea
 angg1239-1,Yali (Angguruk),Zoellner2017,"pp.15, 78, 89, 124, 133, 152, 161, 172, 191",,angg1239,Angguruk Yali,yli,Papunesia,-4.0836,139.457,Nuclear Trans New Guinea
 ango1254-1,Anggor (Angor Community School),LeanSandaun,p.19,1 CSQ. Angor Community School.,ango1254,Angor,agg,Papunesia,-3.7167,141.199,Senagi
 ango1254-2,Anggor (from IMP/SIL),LeanSandaun,p.19,SIL Word List (1976) for 1 to 5; IMP/SIL Questionnaire (1978).,ango1254,Angor,agg,Papunesia,-3.7167,141.199,Senagi
@@ -635,12 +635,12 @@ engg1245-1,Enggano,Stokhof1987Vol10.3,p.199,,engg1245,Enggano,eno,Papunesia,-5.3
 engg1245-2,Enganho,Codrington1885,p.226,,engg1245,Enggano,eno,Papunesia,-5.38846,102.245,Austronesian
 enre1239-1,Endékan,Arnaud1998,pp.863-879 [word list item numbers],,enre1239,Enrekang,ptt,Papunesia,-3.53848,119.66,Austronesian
 enre1239-2,Masenrempulu (Enrekang),Grimes1987,pp.129-135,,enre1239,Enrekang,ptt,Papunesia,-3.53848,119.66,Austronesian
-epii1237-1,"Epi (system used by a spirit in a story) [exact language unknown, but possibly lewo1242]",Riddle1916,p.24,,epii1237,Epi,,Papunesia,,,Austronesian
-epii1237-2,"Epi [exact language unknown, but possibly lewo1242]",Riddle1916,p.24,,epii1237,Epi,,Papunesia,,,Austronesian
-epii1237-3,"Api [exact language unknown, but seems similar to lewo1242]",Codrington1885,"pp.222, 235, 244-245",,epii1237,Epi,,Papunesia,,,Austronesian
-epii1237-4,"Api, Tasiko (West coast) [possibly bier1244]",Codrington1885,pp.469-470,,epii1237,Epi,,Papunesia,,,Austronesian
-epii1237-5,"Api, Tasiko (West coast) [possibly maii1238]",Codrington1885,p.470,,epii1237,Epi,,Papunesia,,,Austronesian
-epii1237-6,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",Codrington1885,p.470,,epii1237,Epi,,Papunesia,,,Austronesian
+epii1237-1,"Epi (system used by a spirit in a story) [exact language unknown, but possibly lewo1242]",Riddle1916,p.24,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
+epii1237-2,"Epi [exact language unknown, but possibly lewo1242]",Riddle1916,p.24,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
+epii1237-3,"Api [exact language unknown, but seems similar to lewo1242]",Codrington1885,"pp.222, 235, 244-245",,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
+epii1237-4,"Api, Tasiko (West coast) [possibly bier1244]",Codrington1885,pp.469-470,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
+epii1237-5,"Api, Tasiko (West coast) [possibly maii1238]",Codrington1885,p.470,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
+epii1237-6,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",Codrington1885,p.470,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
 erav1244-1,Kewa (Southern dialect),Franklin1968,p.32,,erav1244,Erave,kjy,Papunesia,-6.55011,143.918,Nuclear Trans New Guinea
 erav1244-2,South Kewa (Pole),Franklin2001,pp.152-153,,erav1244,Erave,kjy,Papunesia,-6.55011,143.918,Nuclear Trans New Guinea
 eree1241-1,Ere,Blust2021,"pp.25, 30, 32, 38",,eree1241,Ere,twp,Papunesia,-2.15569,147.083,Austronesian
@@ -717,7 +717,7 @@ geda1237-3,Gedaged (from CSQ),LeanMadang,p.49,1 CSQ. Village: Siar.,geda1237,Ged
 geda1237-4,Gedaged,Dempwolff,p.36,,geda1237,Gedaged,gdd,Papunesia,-5.18175,145.781,Austronesian
 geda1237-5,Mitebog,Ray1919,p.328,,geda1237,Gedaged,gdd,Papunesia,-5.18175,145.781,Austronesian
 geda1237-6,Siar-Ragetta,Ray1919,p.328,,geda1237,Gedaged,gdd,Papunesia,-5.18175,145.781,Austronesian
-geel1240-1,Wamberan [unidentified language; possibly belongs to the Geelvink Bay family],Ray1912,p.340,,geel1240,Geelvink Bay,,,,,Geelvink Bay
+geel1240-1,Wamberan [unidentified language; possibly belongs to the Geelvink Bay family],Ray1912,p.340,,geel1240,Geelvink Bay,,,-2.48758567,136.8862179,Geelvink Bay
 gela1263-1,"Florida, Gela [ŋgela]",Codrington1885,"pp.233, 237, 238, 243, 245, 250, 538",,gela1263,Gela,nlg,Papunesia,-9.04587,160.186,Austronesian
 gela1263-2,"Florida, Gela [ŋgela] (set of Numerals used in a game at Olevuga)",Codrington1885,"pp. 230, 538",,gela1263,Gela,nlg,Papunesia,-9.04587,160.186,Austronesian
 gend1249-1,Gende,LeanMadang,p.57,9 CSQs.,gend1249,Gende,gaf,Papunesia,-5.67528,145.177,Nuclear Trans New Guinea
@@ -924,7 +924,7 @@ kama1367-2,Sagi (Kamasau),Laycock1971D34,p.5102,,kama1367,Kamasau,kms,Papunesia,
 kama1370-1,Kamano,Scott1978,"pp.181, 182, 188, 193, 194",,kama1370,Kamano,kbq,Papunesia,-6.25829,145.728,Nuclear Trans New Guinea
 kama1370-2,Kamano (from CSQs),Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano,kbq,Papunesia,-6.25829,145.728,Nuclear Trans New Guinea
 kama1370-3,Kamano (from IMP/SIL),Lean1986Vol08,p.30,"IMP/SIL Questionnaire (1978). S.I.L survey word list (1975), taken at Hogu village, gives identical data for 1 to 5, and 10.",kama1370,Kamano,kbq,Papunesia,-6.25829,145.728,Nuclear Trans New Guinea
-kama1374-1,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas. ,kama1374,Kamano-Yagaria,,,,,Nuclear Trans New Guinea
+kama1374-1,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas. ,kama1374,Kamano-Yagaria,,,-6.296611618,145.5584545,Nuclear Trans New Guinea
 kamb1299-1,Sumba,Stokhof1983Vol6,pp.152-153,,kamb1299,Kambera,xbr,Papunesia,-9.88447,120.235,Austronesian
 kamb1302-1,Gampoka,Grace1955pdf50,p.55 [of pdf],,kamb1302,Kamberau,irx,Papunesia,-3.53189,133.518,Austronesian
 kamb1302-2,i·ria - inare village (= Berdaba),Grace1955pdf50,p.55 [of pdf],,kamb1302,Kamberau,irx,Papunesia,-3.53189,133.518,Austronesian
@@ -1264,7 +1264,7 @@ lotu1250-1,Lotud,Lobel2016,pp.234-239,,lotu1250,Lotud,dtr,Papunesia,6.13732,116.
 louu1245-1,Baluan-Lou-Pam (Lou dialect),Lean1985Vol02,p.22,"5 CSQs. Villages: Rei, Lago (Lako).",louu1245,Lou,loj,Papunesia,-2.38659,147.346,Austronesian
 louu1245-2,Lou,Blust2021,"pp.25, 30, 32, 38",,louu1245,Lou,loj,Papunesia,-2.38659,147.346,Austronesian
 lowe1415-1,Dani,vanderStap1966,pp.155-156,,lowe1415,Lower Grand Valley Dani,dni,Papunesia,-4.25684,138.992,Nuclear Trans New Guinea
-lowl1259-1,Tanah Merah area,Stokhof1982Vol5.1,p.182,,lowl1259,Lowland Ok,,,,,Nuclear Trans New Guinea
+lowl1259-1,Tanah Merah area,Stokhof1982Vol5.1,p.182,,lowl1259,Lowland Ok,,,-5.715403333,141.057,Nuclear Trans New Guinea
 lubu1241-1,Lubu,Helbig1933,p.106,,lubu1241,Lubu,lcf,Papunesia,0.63989,99.74549,Austronesian
 lubu1243-1,Kalinga (Lubuagan dialect),Vanoverbergh1937,"pp.115, 121",,lubu1243,Lubuagan Kalinga,knb,Papunesia,17.3879,121.0365,Austronesian
 lusi1240-1,Kove-Kaliai (Kaliai dialect),Lean1985Vol04,p.72,"2 CSQs. Villages: Lauvore, Taveleai.",lusi1240,Lusi,khl,Papunesia,-5.55033,149.148,Austronesian
@@ -1783,7 +1783,7 @@ nucl1633-1,Nimboran-groep Nimboran,Galis1955,p.162,,nucl1633,Nimboran,nir,Papune
 nucl1634-1,Seka,Ray1912,pp.340-341,,nucl1634,Skou,skv,Papunesia,-2.64378,140.902,Sko
 nucl1634-2,Skou,Donohue2004Skou,p.179,,nucl1634,Skou,skv,Papunesia,-2.64378,140.902,Sko
 nucl1634-3,Tami-groep Sko,Galis1955,p.164,,nucl1634,Skou,skv,Papunesia,-2.64378,140.902,Sko
-nucl1806-1,Unidentified (Malay dialect from Sumatra?),Stokhof1987Vol11,p.332,,nucl1806,Nuclear Malayic,,,,,Austronesian
+nucl1806-1,Unidentified (Malay dialect from Sumatra?),Stokhof1987Vol11,p.332,,nucl1806,Nuclear Malayic,,,-3.231052342,108.0641382,Austronesian
 nukk1240-1,Nuk,Smith1988,p.90,,nukk1240,Nuk,noc,Papunesia,-6.40741,146.875,Nuclear Trans New Guinea
 nukk1240-2,Karau village & some living now in musom,Grace1955pdf51,p.31,,nukk1240,Nuk,noc,Papunesia,-6.40741,146.875,Nuclear Trans New Guinea
 nukn1238-1,Komutu,Smith1988,p.96,,nukn1238,Nukna,klt,Papunesia,-6.0177,146.969,Nuclear Trans New Guinea
@@ -1796,7 +1796,7 @@ numa1254-3,Numanggang: variation from Kasin village,Smith1988,p.91,,numa1254,Num
 numb1247-1,Numbami,Smith1988,p.57,,numb1247,Numbami,sij,Papunesia,-7.52806,147.298,Austronesian
 nume1241-1,"Santa Maria, Gog",Codrington1885,"pp.235, 377",,nume1241,Nume,tgs,Papunesia,-14.230149,167.593474,Austronesian
 nume1242-1,nââ kwênyII ,Dubois1977,p.87,,nume1242,Numee,kdk,Papunesia,-22.2689,166.705,Austronesian
-nunu1252-1,Ceram [various languages of Seram island],Ray1912,pp.340-341,,nunu1252,Nunusaku,,,,,Austronesian
+nunu1252-1,Ceram [various languages of Seram island],Ray1912,pp.340-341,,nunu1252,Nunusaku,,,-3.265846684,128.3099055,Austronesian
 nusa1245-1,"Nalahia, Nusa Laut",Stokhof1982Vol3.4,p.104,,nusa1245,Nusa Laut,nul,Papunesia,-3.67727,128.776,Austronesian
 nusa1245-2,Nusa Laut,Stokhof1982Vol3.4,p.127,,nusa1245,Nusa Laut,nul,Papunesia,-3.67727,128.776,Austronesian
 nyin1250-1,Lindrou,Lean1985Vol02,p.48,"6 CSQs, 1 IMP. Villages: Pundahi, Lessau, Korojih, Sapondralis, Nihon Island.",nyin1250,Nyindrou,lid,Papunesia,-2.1143,146.627,Austronesian
@@ -2662,7 +2662,7 @@ yaum1237-1,Yau [Morobe],Smith1988,p.98,,yaum1237,Yau-Nungon,yuw,Papunesia,-6.082
 yaur1239-1,Jaur,Ray1912,pp.340-341,,yaur1239,Yaur,jau,Papunesia,-3.32519,134.879,Austronesian
 yaur1239-2,Jaur,Galis1955,p.141,,yaur1239,Yaur,jau,Papunesia,-3.32519,134.879,Austronesian
 yaur1239-3,Yaur A (Irian Jaya),Stokhof1987Vol11,p.204,,yaur1239,Yaur,jau,Papunesia,-3.32519,134.879,Austronesian
-yaus1235-1,Yau [West Sepik],Laycock1967C02,p.50,,yaus1235,Yau (Sandaun Province),yyu,Papunesia,-3.4663,141.974,Nuclear Torricelli
+yaus1235-1,Yau [West Sepik],Laycock1967C02,p.50,,yaus1235,Yau (Sandaun Province),yyu,Papunesia,-3.52064,142.04228,Nuclear Torricelli
 yawe1241-1,Yabiyufa,Scott1978,"pp.181, 182, 188, 193, 194",,yawe1241,Yaweyuha,yby,Papunesia,-6.1868,145.359,Nuclear Trans New Guinea
 yawe1241-2,Yabiyufa ,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yaweyuha,yby,Papunesia,-6.1868,145.359,Nuclear Trans New Guinea
 yawe1241-3,Yabiyufa (Masumave village),Lean1986Vol08,p.21,S.I.L word list (1965). Village: Masumave.,yawe1241,Yaweyuha,yby,Papunesia,-6.1868,145.359,Nuclear Trans New Guinea
