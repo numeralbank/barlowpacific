@@ -600,7 +600,6 @@ east2440-5,Peleri/Samsuma,Teljeur1982,pp.145-146,,east2440,East Makian,mky,Papun
 east2440-6,Soma,Teljeur1982,pp.145-146,,east2440,East Makian,mky,Papunesia,0.07337,127.423,Austronesian
 east2440-7,Tahane,Teljeur1982,pp.145-146,,east2440,East Makian,mky,Papunesia,0.07337,127.423,Austronesian
 east2443-1,"Lepers’ Island, Oba",Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,East Ambae,omb,Papunesia,-15.3523,167.89,Austronesian
-east2466-1,Ceram [various languages of Seram island],Ray1912,pp.340-341,,east2466,East Central Maluku,,,,,Austronesian
 east2516-1,East Kewa,Franklin2012,pp.44-45,,east2516,East Kewa,kjs,Papunesia,-6.32989,143.931,Nuclear Trans New Guinea
 east2516-2,Kewa (Eastern dialect),Franklin1968,p.32,,east2516,East Kewa,kjs,Papunesia,-6.32989,143.931,Nuclear Trans New Guinea
 east2694-1,Eastern Subanen,Lobel2013,pp.319-356,,east2694,Eastern Subanen,sfe,Papunesia,8.2475,123.5234,Austronesian
@@ -784,7 +783,7 @@ hanu1241-1,Maŋyan-Hanunoo,Arnaud1998,pp.863-878 [word list item numbers],,hanu1
 haru1244-1,Haruku,Stokhof1982Vol3.3,pp.147-148,,haru1244,Haruku,hrk,Papunesia,-3.57029,128.476,Austronesian
 haru1244-2,Pelauw Haruku,Stokhof1982Vol3.3,p.121,,haru1244,Haruku,hrk,Papunesia,-3.57029,128.476,Austronesian
 haru1245-1,Waibuk,Tonson1976,pp.100-103,,haru1245,Haruai,tmd,Papunesia,-5.09522,144.3375,Piawi
-haru1245-2,Haruai,Comrie1999,pp.81-91,,,Haruai,tmd,Papunesia,-5.09522,144.3375,Piawi
+haru1245-2,Haruai,Comrie1999,pp.81-91,,haru1245,Haruai,tmd,Papunesia,-5.09522,144.3375,Piawi
 hata1243-1,Hattam,Galis1955,p.138,,hata1243,Hatam,had,Papunesia,-1.13531,134.037,Hatam-Mansim
 hata1243-2,Moiré,Galis1960,p.141,,hata1243,Hatam,had,Papunesia,-1.13531,134.037,Hatam-Mansim
 hawa1245-1,Sandwich Islands,Codrington1885,"pp.227, 231",,hawa1245,Hawaiian,haw,Papunesia,19.6297,-155.43,Austronesian
@@ -1797,6 +1796,7 @@ numa1254-3,Numanggang: variation from Kasin village,Smith1988,p.91,,numa1254,Num
 numb1247-1,Numbami,Smith1988,p.57,,numb1247,Numbami,sij,Papunesia,-7.52806,147.298,Austronesian
 nume1241-1,"Santa Maria, Gog",Codrington1885,"pp.235, 377",,nume1241,Nume,tgs,Papunesia,-14.230149,167.593474,Austronesian
 nume1242-1,nââ kwênyII ,Dubois1977,p.87,,nume1242,Numee,kdk,Papunesia,-22.2689,166.705,Austronesian
+nunu1252-1,Ceram [various languages of Seram island],Ray1912,pp.340-341,,nunu1252,Nunusaku,,,,,Austronesian
 nusa1245-1,"Nalahia, Nusa Laut",Stokhof1982Vol3.4,p.104,,nusa1245,Nusa Laut,nul,Papunesia,-3.67727,128.776,Austronesian
 nusa1245-2,Nusa Laut,Stokhof1982Vol3.4,p.127,,nusa1245,Nusa Laut,nul,Papunesia,-3.67727,128.776,Austronesian
 nyin1250-1,Lindrou,Lean1985Vol02,p.48,"6 CSQs, 1 IMP. Villages: Pundahi, Lessau, Korojih, Sapondralis, Nihon Island.",nyin1250,Nyindrou,lid,Papunesia,-2.1143,146.627,Austronesian
