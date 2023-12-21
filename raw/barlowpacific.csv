@@ -577,7 +577,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,mʊnɑɡ ikɑʊ,,FALSE,Zgraggen1972,pp.215-219,,aiom1240,Aiome,aiom1240-1
 5,mʊnɑɡ ikɑʊ mʊnɑɡ ikɑʊ biɑvʉŋ,,FALSE,Zgraggen1972,pp.215-219,,aiom1240,Aiome,aiom1240-1
 1,gemu,,FALSE,Lean1985Vol05,p.40,1 IMP.,aiom1240,Aomie,aiom1240-2
-2,nio'i ,,FALSE,Lean1985Vol05,p.40,1 IMP.,aiom1240,Aomie,aiom1240-2
+2,nio'i,,FALSE,Lean1985Vol05,p.40,1 IMP.,aiom1240,Aomie,aiom1240-2
 3,ehi nio'i ehi gemu,"2 + 1 (ehi = ‘like, as’)",FALSE,Lean1985Vol05,p.40,1 IMP.,aiom1240,Aomie,aiom1240-2
 4,ehi nio'i ehi nio'i,2 + 2,FALSE,Lean1985Vol05,p.40,1 IMP.,aiom1240,Aomie,aiom1240-2
 5,ovo go mine,"‘hand other complete (finish, end)’",FALSE,Lean1985Vol05,p.40,1 IMP.,aiom1240,Aomie,aiom1240-2
@@ -911,10 +911,10 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 15,mink hwanifuk,other armpit,FALSE,LeanSandaun,pp.17-18,IMP/SIL (1978).,aman1265,Amanab (from IMP/SIL),aman1265-2
 16,mink guk,other shoulder,FALSE,LeanSandaun,pp.17-18,IMP/SIL (1978).,aman1265,Amanab (from IMP/SIL),aman1265-2
 25,mink angik,other little finger,FALSE,LeanSandaun,pp.17-18,IMP/SIL (1978).,aman1265,Amanab (from IMP/SIL),aman1265-2
-1,munggo,,FALSE,LeanSandaun,p.18,SIL Word List (1968). Village: Naineri. ,aman1265,Amanab (Naineri village),aman1265-3
-2,sambaga,,FALSE,LeanSandaun,p.18,SIL Word List (1968). Village: Naineri. ,aman1265,Amanab (Naineri village),aman1265-3
-3,sambaga munggo,2 + 1,FALSE,LeanSandaun,p.18,SIL Word List (1968). Village: Naineri. ,aman1265,Amanab (Naineri village),aman1265-3
-4,sambaga sambaga,2 + 2,FALSE,LeanSandaun,p.18,SIL Word List (1968). Village: Naineri. ,aman1265,Amanab (Naineri village),aman1265-3
+1,munggo,,FALSE,LeanSandaun,p.18,SIL Word List (1968). Village: Naineri.,aman1265,Amanab (Naineri village),aman1265-3
+2,sambaga,,FALSE,LeanSandaun,p.18,SIL Word List (1968). Village: Naineri.,aman1265,Amanab (Naineri village),aman1265-3
+3,sambaga munggo,2 + 1,FALSE,LeanSandaun,p.18,SIL Word List (1968). Village: Naineri.,aman1265,Amanab (Naineri village),aman1265-3
+4,sambaga sambaga,2 + 2,FALSE,LeanSandaun,p.18,SIL Word List (1968). Village: Naineri.,aman1265,Amanab (Naineri village),aman1265-3
 1,sia,‘one’,FALSE,LeanEastSepik,p.17,IMP/SIL Questionnaire (1978).,amap1240,Ama,amap1240-1
 2,tiwai,‘two’,FALSE,LeanEastSepik,p.17,IMP/SIL Questionnaire (1978).,amap1240,Ama,amap1240-1
 3,tauwai,‘three’,FALSE,LeanEastSepik,p.17,IMP/SIL Questionnaire (1978).,amap1240,Ama,amap1240-1
@@ -1176,12 +1176,12 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,haloeng,,FALSE,Knappert1905,pp.615-616,,ampa1239,Ampanang,ampa1239-1
 9,salatian,,FALSE,Knappert1905,pp.615-616,,ampa1239,Ampanang,ampa1239-1
 10,sapoeloeh,,FALSE,Knappert1905,pp.615-616,,ampa1239,Ampanang,ampa1239-1
-1,ohu,,FALSE,LeanSandaun,p.29,SIL Word List (1972). Village: Amto. ,amto1250,Amto,amto1250-1
-2,kiyah,,FALSE,LeanSandaun,p.29,SIL Word List (1972). Village: Amto. ,amto1250,Amto,amto1250-1
-3,kri:ya,,FALSE,LeanSandaun,p.29,SIL Word List (1972). Village: Amto. ,amto1250,Amto,amto1250-1
-4,kiyapei,,FALSE,LeanSandaun,p.29,SIL Word List (1972). Village: Amto. ,amto1250,Amto,amto1250-1
-5,pu:m'ka,,FALSE,LeanSandaun,p.29,SIL Word List (1972). Village: Amto. ,amto1250,Amto,amto1250-1
-10,wapumka,it is possible that a morpheme for 5 also appears in the number word for 10,FALSE,LeanSandaun,p.29,SIL Word List (1972). Village: Amto. ,amto1250,Amto,amto1250-1
+1,ohu,,FALSE,LeanSandaun,p.29,SIL Word List (1972). Village: Amto.,amto1250,Amto,amto1250-1
+2,kiyah,,FALSE,LeanSandaun,p.29,SIL Word List (1972). Village: Amto.,amto1250,Amto,amto1250-1
+3,kri:ya,,FALSE,LeanSandaun,p.29,SIL Word List (1972). Village: Amto.,amto1250,Amto,amto1250-1
+4,kiyapei,,FALSE,LeanSandaun,p.29,SIL Word List (1972). Village: Amto.,amto1250,Amto,amto1250-1
+5,pu:m'ka,,FALSE,LeanSandaun,p.29,SIL Word List (1972). Village: Amto.,amto1250,Amto,amto1250-1
+10,wapumka,it is possible that a morpheme for 5 also appears in the number word for 10,FALSE,LeanSandaun,p.29,SIL Word List (1972). Village: Amto.,amto1250,Amto,amto1250-1
 1,ohu,,FALSE,Conrad1975,pp.21-24,,amto1250,Amto,amto1250-2
 2,kiyaA,,FALSE,Conrad1975,pp.21-24,,amto1250,Amto,amto1250-2
 3,kři:ya,,FALSE,Conrad1975,pp.21-24,,amto1250,Amto,amto1250-2
@@ -1848,7 +1848,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1,bwa,,FALSE,LeanEastSepik,p.61,SIL Word List (1975). Village: Kambaramba.,apma1241,Kambot (Kambaramba village),apma1241-4
 1,n'dol bwa,,FALSE,LeanEastSepik,p.61,SIL Word List (1975). Village: Kambaramba.,apma1241,Kambot (Kambaramba village),apma1241-4
 2,nyung gwan,,FALSE,LeanEastSepik,p.61,SIL Word List (1975). Village: Kambaramba.,apma1241,Kambot (Kambaramba village),apma1241-4
-3,sai ale ,,FALSE,LeanEastSepik,p.61,SIL Word List (1975). Village: Kambaramba.,apma1241,Kambot (Kambaramba village),apma1241-4
+3,sai ale,,FALSE,LeanEastSepik,p.61,SIL Word List (1975). Village: Kambaramba.,apma1241,Kambot (Kambaramba village),apma1241-4
 4,yele,,FALSE,LeanEastSepik,p.61,SIL Word List (1975). Village: Kambaramba.,apma1241,Kambot (Kambaramba village),apma1241-4
 5,m'bowa,,FALSE,LeanEastSepik,p.61,SIL Word List (1975). Village: Kambaramba.,apma1241,Kambot (Kambaramba village),apma1241-4
 10,m'binyung gon,,FALSE,LeanEastSepik,p.61,SIL Word List (1975). Village: Kambaramba.,apma1241,Kambot (Kambaramba village),apma1241-4
@@ -2754,7 +2754,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,hel fenbo humeli,,FALSE,LeanEastSepik,p.22,IMP/SIL Questionnaire (1978).,bahi1254,Bahinemo,bahi1254-1
 9,hel fenbi geda,,FALSE,LeanEastSepik,p.22,IMP/SIL Questionnaire (1978).,bahi1254,Bahinemo,bahi1254-1
 10,hel bafu hel bafu,‘hand gone hand gone’,FALSE,LeanEastSepik,p.22,IMP/SIL Questionnaire (1978).,bahi1254,Bahinemo,bahi1254-1
-11,hel bafu hel bafu ual fenbi,‘ual’ = ‘leg’; ‘hand gone hand gone leg other it’ ,FALSE,LeanEastSepik,p.22,IMP/SIL Questionnaire (1978).,bahi1254,Bahinemo,bahi1254-1
+11,hel bafu hel bafu ual fenbi,‘ual’ = ‘leg’; ‘hand gone hand gone leg other it’,FALSE,LeanEastSepik,p.22,IMP/SIL Questionnaire (1978).,bahi1254,Bahinemo,bahi1254-1
 12,hel bafu hel bafu ual fenbo husi,‘hand gone hand gone leg another two’,FALSE,LeanEastSepik,p.22,IMP/SIL Questionnaire (1978).,bahi1254,Bahinemo,bahi1254-1
 15,hel bafu hel bafu ual bafu,,FALSE,LeanEastSepik,p.22,IMP/SIL Questionnaire (1978).,bahi1254,Bahinemo,bahi1254-1
 16,hel bafu hel bafu ual bafu ual fenbi,,FALSE,LeanEastSepik,p.22,IMP/SIL Questionnaire (1978).,bahi1254,Bahinemo,bahi1254-1
@@ -2772,11 +2772,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 7,hɜwbwinɑbɑfu,,FALSE,Laycock1971D27,p.3844,,bahi1254,Bahinemo,bahi1254-2
 11,wɑpwɜni bɑhu ?,start on leg ?,FALSE,Laycock1971D27,p.3844,,bahi1254,Bahinemo,bahi1254-2
 20,bɑfu eyɑ tipətəpe,?,FALSE,Laycock1971D27,p.3844,,bahi1254,Bahinemo,bahi1254-2
-1,giesa,,FALSE,LeanSandaun,p.21,SIL Word List (undated). ,baib1251,Baibai,baib1251-1
-2,naebaeia,,FALSE,LeanSandaun,p.21,SIL Word List (undated). ,baib1251,Baibai,baib1251-1
-3,nambakiesa,,FALSE,LeanSandaun,p.21,SIL Word List (undated). ,baib1251,Baibai,baib1251-1
-4,nambakaros,,FALSE,LeanSandaun,p.21,SIL Word List (undated). ,baib1251,Baibai,baib1251-1
-5,anayuwa (?),"not related to the word for ‘hand’, ‘degi’",FALSE,LeanSandaun,p.21,SIL Word List (undated). ,baib1251,Baibai,baib1251-1
+1,giesa,,FALSE,LeanSandaun,p.21,SIL Word List (undated).,baib1251,Baibai,baib1251-1
+2,naebaeia,,FALSE,LeanSandaun,p.21,SIL Word List (undated).,baib1251,Baibai,baib1251-1
+3,nambakiesa,,FALSE,LeanSandaun,p.21,SIL Word List (undated).,baib1251,Baibai,baib1251-1
+4,nambakaros,,FALSE,LeanSandaun,p.21,SIL Word List (undated).,baib1251,Baibai,baib1251-1
+5,anayuwa (?),"not related to the word for ‘hand’, ‘degi’",FALSE,LeanSandaun,p.21,SIL Word List (undated).,baib1251,Baibai,baib1251-1
 1,kʸɛs,,FALSE,Laycock1970D15,p.2090,,baib1251,Baibai,baib1251-2
 2,nɛmbɛli,,FALSE,Laycock1970D15,p.2090,,baib1251,Baibai,baib1251-2
 3,nɛmbɛl kwɔlɔ́s,,FALSE,Laycock1970D15,p.2090,,baib1251,Baibai,baib1251-2
@@ -3211,7 +3211,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,vàlo,,FALSE,Rabenilaina1974,p.323,,bara1369,Bara,bara1369-1
 9,sívy,,FALSE,Rabenilaina1974,p.323,,bara1369,Bara,bara1369-1
 10,fólo,,FALSE,Rabenilaina1974,p.323,,bara1369,Bara,bara1369-1
-12,fólo róy àmbi-ny ,"‘two, ten in addition’",FALSE,Rabenilaina1974,p.323,,bara1369,Bara,bara1369-1
+12,fólo róy àmbi-ny,"‘two, ten in addition’",FALSE,Rabenilaina1974,p.323,,bara1369,Bara,bara1369-1
 13,télo ámbin'ny fólo,‘three taken from ten’,FALSE,Rabenilaina1974,p.323,,bara1369,Bara,bara1369-1
 20,roapólo,,FALSE,Rabenilaina1974,p.323,,bara1369,Bara,bara1369-1
 20,roa-pólo,,FALSE,Rabenilaina1974,p.323,,bara1369,Bara,bara1369-1
@@ -3273,19 +3273,19 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,misorako,,FALSE,Ray1912,pp.340-341,,bara1378,Tirio,bara1378-1
 4,miseka-miseka,,FALSE,Ray1912,pp.340-341,,bara1378,Tirio,bara1378-1
 5,miseka-miseka-oroka,,FALSE,Ray1912,pp.340-341,,bara1378,Tirio,bara1378-1
-1,amulik,,FALSE,LeanMadang,p.30,4 CSQs. ,barg1252,Mugil,barg1252-1
-1,amilik,,FALSE,LeanMadang,p.30,4 CSQs. ,barg1252,Mugil,barg1252-1
-2,giger,,FALSE,LeanMadang,p.30,4 CSQs. ,barg1252,Mugil,barg1252-1
-2,geger,,FALSE,LeanMadang,p.30,4 CSQs. ,barg1252,Mugil,barg1252-1
-3,ezeman,,FALSE,LeanMadang,p.30,4 CSQs. ,barg1252,Mugil,barg1252-1
-4,aveve,,FALSE,LeanMadang,p.30,4 CSQs. ,barg1252,Mugil,barg1252-1
-4,awewe,,FALSE,LeanMadang,p.30,4 CSQs. ,barg1252,Mugil,barg1252-1
-5,abainaginta,‘ben’ = ‘thumb’,FALSE,LeanMadang,p.30,4 CSQs. ,barg1252,Mugil,barg1252-1
-6,ben sor amulik,‘hand + sor + one’,FALSE,LeanMadang,p.30,4 CSQs. ,barg1252,Mugil,barg1252-1
-7,ben sor giger,,FALSE,LeanMadang,p.30,4 CSQs. ,barg1252,Mugil,barg1252-1
-8,ben sor ezeman,,FALSE,LeanMadang,p.30,4 CSQs. ,barg1252,Mugil,barg1252-1
-9,ben sor aveve,,FALSE,LeanMadang,p.30,4 CSQs. ,barg1252,Mugil,barg1252-1
-10,ben sor sor,,FALSE,LeanMadang,p.30,4 CSQs. ,barg1252,Mugil,barg1252-1
+1,amulik,,FALSE,LeanMadang,p.30,4 CSQs.,barg1252,Mugil,barg1252-1
+1,amilik,,FALSE,LeanMadang,p.30,4 CSQs.,barg1252,Mugil,barg1252-1
+2,giger,,FALSE,LeanMadang,p.30,4 CSQs.,barg1252,Mugil,barg1252-1
+2,geger,,FALSE,LeanMadang,p.30,4 CSQs.,barg1252,Mugil,barg1252-1
+3,ezeman,,FALSE,LeanMadang,p.30,4 CSQs.,barg1252,Mugil,barg1252-1
+4,aveve,,FALSE,LeanMadang,p.30,4 CSQs.,barg1252,Mugil,barg1252-1
+4,awewe,,FALSE,LeanMadang,p.30,4 CSQs.,barg1252,Mugil,barg1252-1
+5,abainaginta,‘ben’ = ‘thumb’,FALSE,LeanMadang,p.30,4 CSQs.,barg1252,Mugil,barg1252-1
+6,ben sor amulik,‘hand + sor + one’,FALSE,LeanMadang,p.30,4 CSQs.,barg1252,Mugil,barg1252-1
+7,ben sor giger,,FALSE,LeanMadang,p.30,4 CSQs.,barg1252,Mugil,barg1252-1
+8,ben sor ezeman,,FALSE,LeanMadang,p.30,4 CSQs.,barg1252,Mugil,barg1252-1
+9,ben sor aveve,,FALSE,LeanMadang,p.30,4 CSQs.,barg1252,Mugil,barg1252-1
+10,ben sor sor,,FALSE,LeanMadang,p.30,4 CSQs.,barg1252,Mugil,barg1252-1
 1,amulik,,FALSE,Kasprus1942,pp.746-747,,barg1252,Saker (Pap.) [Mugil],barg1252-2
 2,gege̱r,,FALSE,Kasprus1942,pp.746-747,,barg1252,Saker (Pap.) [Mugil],barg1252-2
 2,gega̱r,,FALSE,Kasprus1942,pp.746-747,,barg1252,Saker (Pap.) [Mugil],barg1252-2
@@ -3971,13 +3971,13 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,nayáhi lúɡa'a sú háɡo,,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,bena1264,Benabena,bena1264-1
 5,loé yáɡi loé yáɡi móne yáɡi,alternative,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,bena1264,Benabena,bena1264-1
 10,nayáhi lúɡa lúɡa sú háɡo,,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,bena1264,Benabena,bena1264-1
-1,moneko,,FALSE,Lean1986Vol08,p.24,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa. ",bena1264,Benabena (from CSQs),bena1264-2
-2,loe,,FALSE,Lean1986Vol08,p.24,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa. ",bena1264,Benabena (from CSQs),bena1264-2
-3,loe yagi mone yagi,,FALSE,Lean1986Vol08,p.24,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa. ",bena1264,Benabena (from CSQs),bena1264-2
-4,loe yagi loe yagi,,FALSE,Lean1986Vol08,p.24,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa. ",bena1264,Benabena (from CSQs),bena1264-2
-5,nayahi mone suhago,,FALSE,Lean1986Vol08,p.24,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa. ",bena1264,Benabena (from CSQs),bena1264-2
-10,nayahi loe suhago,,FALSE,Lean1986Vol08,p.24,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa. ",bena1264,Benabena (from CSQs),bena1264-2
-10,osahi moneko,‘osahi’ appears to be a ‘ten’ morpheme,FALSE,Lean1986Vol08,p.24,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa. ",bena1264,Benabena (from CSQs),bena1264-2
+1,moneko,,FALSE,Lean1986Vol08,p.24,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa.",bena1264,Benabena (from CSQs),bena1264-2
+2,loe,,FALSE,Lean1986Vol08,p.24,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa.",bena1264,Benabena (from CSQs),bena1264-2
+3,loe yagi mone yagi,,FALSE,Lean1986Vol08,p.24,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa.",bena1264,Benabena (from CSQs),bena1264-2
+4,loe yagi loe yagi,,FALSE,Lean1986Vol08,p.24,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa.",bena1264,Benabena (from CSQs),bena1264-2
+5,nayahi mone suhago,,FALSE,Lean1986Vol08,p.24,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa.",bena1264,Benabena (from CSQs),bena1264-2
+10,nayahi loe suhago,,FALSE,Lean1986Vol08,p.24,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa.",bena1264,Benabena (from CSQs),bena1264-2
+10,osahi moneko,‘osahi’ appears to be a ‘ten’ morpheme,FALSE,Lean1986Vol08,p.24,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa.",bena1264,Benabena (from CSQs),bena1264-2
 1,mone-ko yabe,‘one only is’,FALSE,Lean1986Vol08,p.24,IMP/SIL Questionnaire (1978).,bena1264,Benabena (from IMP/SIL),bena1264-3
 2,loe-mo yabe,‘two only is’,FALSE,Lean1986Vol08,p.24,IMP/SIL Questionnaire (1978).,bena1264,Benabena (from IMP/SIL),bena1264-3
 3,loe ya-gi mone ya-gi,‘two is and one is and’,FALSE,Lean1986Vol08,p.24,IMP/SIL Questionnaire (1978).,bena1264,Benabena (from IMP/SIL),bena1264-3
@@ -4275,7 +4275,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1,ketei,,FALSE,LeanMadang,p.53,SIL Word List (1975). Village: Bilbil.,bilb1241,Bilbil,bilb1241-1
 2,oru,,FALSE,LeanMadang,p.53,SIL Word List (1975). Village: Bilbil.,bilb1241,Bilbil,bilb1241-1
 3,toli,,FALSE,LeanMadang,p.53,SIL Word List (1975). Village: Bilbil.,bilb1241,Bilbil,bilb1241-1
-4,pali ,,FALSE,LeanMadang,p.53,SIL Word List (1975). Village: Bilbil.,bilb1241,Bilbil,bilb1241-1
+4,pali,,FALSE,LeanMadang,p.53,SIL Word List (1975). Village: Bilbil.,bilb1241,Bilbil,bilb1241-1
 5,nimanta,‘nima-’ = ‘hand’,FALSE,LeanMadang,p.53,SIL Word List (1975). Village: Bilbil.,bilb1241,Bilbil,bilb1241-1
 10,nimand'oru,‘hand(s) two’,FALSE,LeanMadang,p.53,SIL Word List (1975). Village: Bilbil.,bilb1241,Bilbil,bilb1241-1
 1,kukun,,FALSE,Ray1919,p.328,,bilb1241,Bilibili,bilb1241-2
@@ -5083,14 +5083,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,parbang,‘hand one’,FALSE,LeanMadang,p.2,2 CSQs. Village: Dongar.,bosn1248,Bosman (Dongar village),bosn1248-2
 10,parning,‘hand(s) two’,FALSE,LeanMadang,p.2,2 CSQs. Village: Dongar.,bosn1248,Bosman (Dongar village),bosn1248-2
 20,orning,‘foot two’,FALSE,LeanMadang,p.2,2 CSQs. Village: Dongar.,bosn1248,Bosman (Dongar village),bosn1248-2
-1,koku(ne),,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976). ,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
-2,buning,,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976). ,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
-3,buankak,2 + 1,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976). ,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
-4,bogur,,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976). ,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
-4,bogul,,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976). ,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
-5,parembang,‘hand one’,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976). ,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
-10,parning,‘hand(s) two’,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976). ,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
-20,(parning) orning,‘(hand two) foot two’,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976). ,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
+1,koku(ne),,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976).,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
+2,buning,,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976).,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
+3,buankak,2 + 1,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976).,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
+4,bogur,,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976).,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
+4,bogul,,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976).,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
+5,parembang,‘hand one’,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976).,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
+10,parning,‘hand(s) two’,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976).,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
+20,(parning) orning,‘(hand two) foot two’,FALSE,LeanMadang,p.2,Lean’s Field Notes (1976).,bosn1248,Bosman (from Lean’s field notes),bosn1248-3
 1,kɔku,,FALSE,Capell1951,p.138,,bosn1248,Bosngun,bosn1248-4
 2,(m)buni,,FALSE,Capell1951,p.138,,bosn1248,Bosngun,bosn1248-4
 3,(m)bɔnkaːk,,FALSE,Capell1951,p.138,,bosn1248,Bosngun,bosn1248-4
@@ -5243,7 +5243,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,popo udxu icisi,,FALSE,Tousch2016,pp.10-11,,brer1240,Kwanga,brer1240-6
 6,popo udxu icini nagnana eke udxu,‘one full and one’; 6 to 9 = 5 naqna ana eke 1-4,FALSE,Tousch2016,pp.10-11,,brer1240,Kwanga,brer1240-6
 10,popo qnohso icisi,‘two hands’,FALSE,Tousch2016,pp.10-11,,brer1240,Kwanga,brer1240-6
-10,popo oqoenye icisi ,"there are two ways to say two, so two ways to say ten",FALSE,Tousch2016,pp.10-11,,brer1240,Kwanga,brer1240-6
+10,popo oqoenye icisi,"there are two ways to say two, so two ways to say ten",FALSE,Tousch2016,pp.10-11,,brer1240,Kwanga,brer1240-6
 11,10 omkrobo ana eke 1,‘two hands and 1 toe’,FALSE,Tousch2016,pp.10-11,,brer1240,Kwanga,brer1240-6
 12,10 omkrobo ana eke 2,‘two hands and 2 toes’,FALSE,Tousch2016,pp.10-11,,brer1240,Kwanga,brer1240-6
 13,10 omkrobo ana eke 3,‘two hands and 3 toes’,FALSE,Tousch2016,pp.10-11,,brer1240,Kwanga,brer1240-6
@@ -5254,7 +5254,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 17,popo 2 omkrebi 1 icini omkrebi iidxii ana eke 2,"‘two hands, one foot and 2 toes’",FALSE,Tousch2016,pp.10-11,,brer1240,Kwanga,brer1240-6
 18,popo 2 omkrebi 1 icini omkrebi iidxii ana eke 3,"‘two hands, one foot and 3 toes’",FALSE,Tousch2016,pp.10-11,,brer1240,Kwanga,brer1240-6
 19,popo 2 omkrebi 1 icini omkrebi iidxii ana eke 3,"‘two hands, one foot and 4 toes’",FALSE,Tousch2016,pp.10-11,,brer1240,Kwanga,brer1240-6
-20,10 omkrebi 2 icisi ,‘two hands and two feet’,FALSE,Tousch2016,pp.10-11,,brer1240,Kwanga,brer1240-6
+20,10 omkrebi 2 icisi,‘two hands and two feet’,FALSE,Tousch2016,pp.10-11,,brer1240,Kwanga,brer1240-6
 20,uxu eqnii udxutu iiviisii,"NB: In fact no one was mastering numbers when we first came, then the people encouraged themselves to use them and came up with this. This system is not the way people naturally counted before we came, they used TP numbers. If we want to be understood by the average Kwanga man we use TP numbers.",FALSE,Tousch2016,pp.10-11,,brer1240,Kwanga,brer1240-6
 2,dua,,FALSE,Thiessen1980,pp.72-78,,broo1239,Brooke's Point Palawan,broo1239-1
 3,telu,,FALSE,Thiessen1980,pp.72-78,,broo1239,Brooke's Point Palawan,broo1239-1
@@ -5937,7 +5937,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,birikun,‘hand one’,FALSE,LeanMorobe,p.93,1 CSQ. Village: Mindik.,buru1306,Yaknge,buru1306-2
 6,ongop likep ni kun,,FALSE,LeanMorobe,p.93,1 CSQ. Village: Mindik.,buru1306,Yaknge,buru1306-2
 10,biri weit,‘hands two’,FALSE,LeanMorobe,p.93,1 CSQ. Village: Mindik.,buru1306,Yaknge,buru1306-2
-15,biri weit kana kun,‘hands two leg one’ ,FALSE,LeanMorobe,p.93,1 CSQ. Village: Mindik.,buru1306,Yaknge,buru1306-2
+15,biri weit kana kun,‘hands two leg one’,FALSE,LeanMorobe,p.93,1 CSQ. Village: Mindik.,buru1306,Yaknge,buru1306-2
 20,biriweit kana weit,‘hands two legs two’,FALSE,LeanMorobe,p.93,1 CSQ. Village: Mindik.,buru1306,Yaknge,buru1306-2
 1,mohokung,,FALSE,Smith1988,p.86,,buru1306,Yaknge,buru1306-3
 2,weit,,FALSE,Smith1988,p.86,,buru1306,Yaknge,buru1306-3
@@ -6807,7 +6807,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,iram,(counting stones),FALSE,LeanEastSepik,p.45,1 CSQ. Village: Kilimbit.,cham1313,Chambri (Kilimbit village),cham1313-3
 4,iram,(finger counting),FALSE,LeanEastSepik,p.45,1 CSQ. Village: Kilimbit.,cham1313,Chambri (Kilimbit village),cham1313-3
 5,ses,(counting stones),FALSE,LeanEastSepik,p.45,1 CSQ. Village: Kilimbit.,cham1313,Chambri (Kilimbit village),cham1313-3
-5,ses,"(finger counting) The numeral 5, ‘ses’, is not cognate with the word for ‘hand’ although the CSQ informant indicates that 7 and 8 may be translated respectively as ‘hand + 2’ and ‘hand + 3’. ",FALSE,LeanEastSepik,p.45,1 CSQ. Village: Kilimbit.,cham1313,Chambri (Kilimbit village),cham1313-3
+5,ses,"(finger counting) The numeral 5, ‘ses’, is not cognate with the word for ‘hand’ although the CSQ informant indicates that 7 and 8 may be translated respectively as ‘hand + 2’ and ‘hand + 3’.",FALSE,LeanEastSepik,p.45,1 CSQ. Village: Kilimbit.,cham1313,Chambri (Kilimbit village),cham1313-3
 6,wumir,(counting stones),FALSE,LeanEastSepik,p.45,1 CSQ. Village: Kilimbit.,cham1313,Chambri (Kilimbit village),cham1313-3
 6,wumir,(finger counting),FALSE,LeanEastSepik,p.45,1 CSQ. Village: Kilimbit.,cham1313,Chambri (Kilimbit village),cham1313-3
 7,nontab wri,(counting stones),FALSE,LeanEastSepik,p.45,1 CSQ. Village: Kilimbit.,cham1313,Chambri (Kilimbit village),cham1313-3
@@ -7141,7 +7141,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1,dedeli,,FALSE,Lean1986Vol09,p.74,"IMP/SIL Questionnaire (1978). S.I.L word list (1975) gives identical data for 1 to 5, and 10.",dadi1250,Mikaru (Dadibi) (from IMP/SIL),dadi1250-2
 2,si,,FALSE,Lean1986Vol09,p.74,"IMP/SIL Questionnaire (1978). S.I.L word list (1975) gives identical data for 1 to 5, and 10.",dadi1250,Mikaru (Dadibi) (from IMP/SIL),dadi1250-2
 3,sela,,FALSE,Lean1986Vol09,p.74,"IMP/SIL Questionnaire (1978). S.I.L word list (1975) gives identical data for 1 to 5, and 10.",dadi1250,Mikaru (Dadibi) (from IMP/SIL),dadi1250-2
-3,si dedeli ,2 + 1,FALSE,Lean1986Vol09,p.74,"IMP/SIL Questionnaire (1978). S.I.L word list (1975) gives identical data for 1 to 5, and 10.",dadi1250,Mikaru (Dadibi) (from IMP/SIL),dadi1250-2
+3,si dedeli,2 + 1,FALSE,Lean1986Vol09,p.74,"IMP/SIL Questionnaire (1978). S.I.L word list (1975) gives identical data for 1 to 5, and 10.",dadi1250,Mikaru (Dadibi) (from IMP/SIL),dadi1250-2
 4,me si me si,2 + 2,FALSE,Lean1986Vol09,p.74,"IMP/SIL Questionnaire (1978). S.I.L word list (1975) gives identical data for 1 to 5, and 10.",dadi1250,Mikaru (Dadibi) (from IMP/SIL),dadi1250-2
 5,a,‘thumb’,FALSE,Lean1986Vol09,p.74,"IMP/SIL Questionnaire (1978). S.I.L word list (1975) gives identical data for 1 to 5, and 10.",dadi1250,Mikaru (Dadibi) (from IMP/SIL),dadi1250-2
 6,me si me si me si,2 + 2 + 2,FALSE,Lean1986Vol09,p.74,"IMP/SIL Questionnaire (1978). S.I.L word list (1975) gives identical data for 1 to 5, and 10.",dadi1250,Mikaru (Dadibi) (from IMP/SIL),dadi1250-2
@@ -7547,7 +7547,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,to'ebweu,presumably an abbreviated form of ‘tomotai ebweu’ or ‘man one’,FALSE,Lean1986Vol06,p.77,"16 CSQs. Villages: Asa, Naikwala, Yoo, Sanaroa, Unai, Waluma (2), Gomina, Diu, Wedaweda, Kaiwau, Salakahadi, Bwa'ataya, Etana, (2 not given).",dobu1241,Dobu,dobu1241-1
 30,to'ebweu ta sanau,appears to be an abbreviated form of ‘tomotai luwa’ or ‘men two’,FALSE,Lean1986Vol06,p.77,"16 CSQs. Villages: Asa, Naikwala, Yoo, Sanaroa, Unai, Waluma (2), Gomina, Diu, Wedaweda, Kaiwau, Salakahadi, Bwa'ataya, Etana, (2 not given).",dobu1241,Dobu,dobu1241-1
 40,tomoluwa,,FALSE,Lean1986Vol06,p.77,"16 CSQs. Villages: Asa, Naikwala, Yoo, Sanaroa, Unai, Waluma (2), Gomina, Diu, Wedaweda, Kaiwau, Salakahadi, Bwa'ataya, Etana, (2 not given).",dobu1241,Dobu,dobu1241-1
-1,'ebweu ,,FALSE,Lean1986Vol06,p.77,S.I.L Data.,dobu1241,Dobu (from SIL data),dobu1241-2
+1,ebweu,,FALSE,Lean1986Vol06,p.77,S.I.L Data.,dobu1241,Dobu (from SIL data),dobu1241-2
 2,eluwa,,FALSE,Lean1986Vol06,p.77,S.I.L Data.,dobu1241,Dobu (from SIL data),dobu1241-2
 3,'etoi,,FALSE,Lean1986Vol06,p.77,S.I.L Data.,dobu1241,Dobu (from SIL data),dobu1241-2
 4,'ata,,FALSE,Lean1986Vol06,p.77,S.I.L Data.,dobu1241,Dobu (from SIL data),dobu1241-2
@@ -8468,7 +8468,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,ma-nge menda-i wakitao ma-nge,‘top part of something’; Probably from wakyátae ‘exposed top part’ (Lang 1973:111).,FALSE,Franklin2012,pp.35-36,,enga1252,Enga,enga1252-1
 10,akali-ta,-ta ‘completive’,FALSE,Franklin2012,pp.35-36,,enga1252,Enga,enga1252-1
 11,akali-ta kisa menda-i kisa,‘on top of a man another (finger)’,FALSE,Franklin2012,pp.35-36,,enga1252,Enga,enga1252-1
-12,tuélo ,(TP) [Tok Pisin loan],TRUE,Franklin2012,pp.35-36,,enga1252,Enga,enga1252-1
+12,tuélo,(TP) [Tok Pisin loan],TRUE,Franklin2012,pp.35-36,,enga1252,Enga,enga1252-1
 13,_,TP (?) [Tok Pisin loan?],TRUE,Franklin2012,pp.35-36,,enga1252,Enga,enga1252-1
 14,_,TP (?) [Tok Pisin loan?],TRUE,Franklin2012,pp.35-36,,enga1252,Enga,enga1252-1
 15,akali-ta kisa konda-pe ,,FALSE,Franklin2012,pp.35-36,,enga1252,Enga,enga1252-1
@@ -8564,7 +8564,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,rāp,fourth finger of the right hand,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
 3,tö̱p,third finger of the right hand,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
 4,kidumöntö,second finger of the right hand,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
-5,yö̱u,thumb of the right hand tucked into the clenched hand ,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
+5,yö̱u,thumb of the right hand tucked into the clenched hand,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
 6,kunju,forearm,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
 7,māp,crook of the arm,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
 8,pöyup,shoulder,FALSE,Kirschbaum1938,pp.278-279,,enga1252,Marámun,enga1252-5
@@ -8977,11 +8977,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 18,nagal madik,(other shoulder),FALSE,Lean1986Vol12,p.16,IMP/SIL Questionnaire.,faiw1243,Faiwol (from IMP/SIL),faiw1243-2
 19,bati madik,(other upper arm),FALSE,Lean1986Vol12,p.16,IMP/SIL Questionnaire.,faiw1243,Faiwol (from IMP/SIL),faiw1243-2
 20,luwan madik,(other arm joint),FALSE,Lean1986Vol12,p.16,IMP/SIL Questionnaire.,faiw1243,Faiwol (from IMP/SIL),faiw1243-2
-1,pasakandai,,FALSE,LeanSandaun,p.20,SIL Word List (undated). ,fass1245,Fas,fass1245-1
-2,tienabam,,FALSE,LeanSandaun,p.20,SIL Word List (undated). ,fass1245,Fas,fass1245-1
-4,ienabam tienabam,2 + 2,FALSE,LeanSandaun,p.20,SIL Word List (undated). ,fass1245,Fas,fass1245-1
-5,kaipumamo,‘kai’ = ‘hand’,FALSE,LeanSandaun,p.20,SIL Word List (undated). ,fass1245,Fas,fass1245-1
-10,kaipupamo kaipupamo,,FALSE,LeanSandaun,p.20,SIL Word List (undated). ,fass1245,Fas,fass1245-1
+1,pasakandai,,FALSE,LeanSandaun,p.20,SIL Word List (undated).,fass1245,Fas,fass1245-1
+2,tienabam,,FALSE,LeanSandaun,p.20,SIL Word List (undated).,fass1245,Fas,fass1245-1
+4,ienabam tienabam,2 + 2,FALSE,LeanSandaun,p.20,SIL Word List (undated).,fass1245,Fas,fass1245-1
+5,kaipumamo,‘kai’ = ‘hand’,FALSE,LeanSandaun,p.20,SIL Word List (undated).,fass1245,Fas,fass1245-1
+10,kaipupamo kaipupamo,,FALSE,LeanSandaun,p.20,SIL Word List (undated).,fass1245,Fas,fass1245-1
 1,tɑsəri,(masc),FALSE,Laycock1970D02,p.249,,fass1245,Fas,fass1245-2
 2,nərəm,(masc),FALSE,Laycock1970D02,p.249,,fass1245,Fas,fass1245-2
 2,nɛvɛm,(fem),FALSE,Laycock1970D02,p.249,,fass1245,Fas,fass1245-2
@@ -9305,45 +9305,45 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,tarawa tarawakí',,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,fore1270,Fore,fore1270-1
 5,naya:ká:'mu',,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,fore1270,Fore,fore1270-1
 10,naya: tára'mu',,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,fore1270,Fore,fore1270-1
-1,ka,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-1,kane,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-2,tala,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-2,tara,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-3,kakaga,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-4,talawa talawa ki,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-5,naya kamu,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-6,to nentisa ka umaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-7,to nentisa tala umaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-8,to nentisa kakaga umaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-9,to nentisa talawa talawa ki umaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-10,naya taramu,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-11,nagisarisa ka tumbaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-12,nagisarisa tala tumbaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-16,to nagisarisa ka umaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-19,to nagisarisa talawa talawa ki umaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-20,naya talamu nagisa talumu,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-20,kakina,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-20,ka wasana,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas). ,fore1270,Fore (3 dialect areas),fore1270-2
-1,ka:,,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-2,tara,,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-3,kakaga,‘one-one-one’ (1 + 1 + 1),FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-3,tara-wa-ka:-na-ki,,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-4,tara-wa tara-wa-ki,‘two-it is two-it-is together’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-5,naya:ka-mu,‘hand one-add’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-6,to naentisa ka:umaema,‘from another hand one add’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-7,to naentisa tara umaema,,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-8,to naentisa kakaga umaema,,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-9,to naentisa tarawatarawaki umaema,‘from another hand two-it is two-it is-together and’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-9,to naentisa ka:megasima,‘from another hand one cast away’ (10 - 1),FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-10,naya:tara-mu,‘hand two-add’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-11,nagisarisa ka:tumpaema,‘from one foot one down and get’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-12,nagisarisa tara tumpaema,,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-15,nagisa ka:amu-puma,‘foot one add do-and’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-16,to nagisarisa ka:umaema,,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-19,to nagisarisa tarawatarawaki umaema,‘from another foot two-it is two-it is-together get’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-19,to nagisarisa ka:meg,‘from another foot one cast away’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-20,ka:kina,‘one being’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
-20,nagisa tara-mu pu-ma,‘foot two-add-do-and hand two-add’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL) ,fore1270-3
+1,ka,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+1,kane,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+2,tala,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+2,tara,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+3,kakaga,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+4,talawa talawa ki,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+5,naya kamu,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+6,to nentisa ka umaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+7,to nentisa tala umaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+8,to nentisa kakaga umaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+9,to nentisa talawa talawa ki umaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+10,naya taramu,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+11,nagisarisa ka tumbaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+12,nagisarisa tala tumbaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+16,to nagisarisa ka umaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+19,to nagisarisa talawa talawa ki umaima,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+20,naya talamu nagisa talumu,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+20,kakina,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+20,ka wasana,,FALSE,Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore (3 dialect areas),fore1270-2
+1,ka:,,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+2,tara,,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+3,kakaga,‘one-one-one’ (1 + 1 + 1),FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+3,tara-wa-ka:-na-ki,,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+4,tara-wa tara-wa-ki,‘two-it is two-it-is together’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+5,naya:ka-mu,‘hand one-add’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+6,to naentisa ka:umaema,‘from another hand one add’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+7,to naentisa tara umaema,,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+8,to naentisa kakaga umaema,,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+9,to naentisa tarawatarawaki umaema,‘from another hand two-it is two-it is-together and’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+9,to naentisa ka:megasima,‘from another hand one cast away’ (10 - 1),FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+10,naya:tara-mu,‘hand two-add’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+11,nagisarisa ka:tumpaema,‘from one foot one down and get’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+12,nagisarisa tara tumpaema,,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+15,nagisa ka:amu-puma,‘foot one add do-and’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+16,to nagisarisa ka:umaema,,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+19,to nagisarisa tarawatarawaki umaema,‘from another foot two-it is two-it is-together get’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+19,to nagisarisa ka:meg,‘from another foot one cast away’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+20,ka:kina,‘one being’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
+20,nagisa tara-mu pu-ma,‘foot two-add-do-and hand two-add’,FALSE,Lean1986Vol08,p.51,IMP/SIL Questionnaire (1978) compiled by G. Scott.,fore1270,Fore (from IMP/SIL),fore1270-3
 1,kano,,FALSE,Lean1986Vol08,p.51,S.I.L word list (1975). Village: Oriesa.,fore1270,Fore (Oriesa village),fore1270-4
 2,tara,,FALSE,Lean1986Vol08,p.51,S.I.L word list (1975). Village: Oriesa.,fore1270,Fore (Oriesa village),fore1270-4
 2,tala,,FALSE,Lean1986Vol08,p.51,S.I.L word list (1975). Village: Oriesa.,fore1270,Fore (Oriesa village),fore1270-4
@@ -9901,7 +9901,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,rua ma rua,2 + 2,FALSE,Lean1986Vol06,p.37,"4 CSQs. Villages: Boianai (3), Vurawara.",ghay1237,Boianaki,ghay1237-1
 5,meikovi,,FALSE,Lean1986Vol06,p.37,"4 CSQs. Villages: Boianai (3), Vurawara.",ghay1237,Boianaki,ghay1237-1
 6,kumaneva sago,,FALSE,Lean1986Vol06,p.37,"4 CSQs. Villages: Boianai (3), Vurawara.",ghay1237,Boianaki,ghay1237-1
-7,kumaneva rua ,,FALSE,Lean1986Vol06,p.37,"4 CSQs. Villages: Boianai (3), Vurawara.",ghay1237,Boianaki,ghay1237-1
+7,kumaneva rua,,FALSE,Lean1986Vol06,p.37,"4 CSQs. Villages: Boianai (3), Vurawara.",ghay1237,Boianaki,ghay1237-1
 8,kumaneva aroba,,FALSE,Lean1986Vol06,p.37,"4 CSQs. Villages: Boianai (3), Vurawara.",ghay1237,Boianaki,ghay1237-1
 9,kumaneva rua ma rua,,FALSE,Lean1986Vol06,p.37,"4 CSQs. Villages: Boianai (3), Vurawara.",ghay1237,Boianaki,ghay1237-1
 10,ima rua (ikovi),‘hands two (finished)’,FALSE,Lean1986Vol06,p.37,"4 CSQs. Villages: Boianai (3), Vurawara.",ghay1237,Boianaki,ghay1237-1
@@ -9960,17 +9960,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,rarebete rarebete,,FALSE,Lean1986Vol08,p.48,S.I.L word list (1968).,gimi1243,Gimi (from SIL word list),gimi1243-3
 5,kaisanazaubu,,FALSE,Lean1986Vol08,p.48,S.I.L word list (1968).,gimi1243,Gimi (from SIL word list),gimi1243-3
 10,nazatare,,FALSE,Lean1986Vol08,p.48,S.I.L word list (1968).,gimi1243,Gimi (from SIL word list),gimi1243-3
-1,ikika,,FALSE,Lean1986Vol08,p.48,"2 CSQs. Villages: Yauma, Inigi (West d.). ",gimi1243,Gimi (West dialect),gimi1243-4
-2,lale,,FALSE,Lean1986Vol08,p.48,"2 CSQs. Villages: Yauma, Inigi (West d.). ",gimi1243,Gimi (West dialect),gimi1243-4
-3,lalegao ikika,,FALSE,Lean1986Vol08,p.48,"2 CSQs. Villages: Yauma, Inigi (West d.). ",gimi1243,Gimi (West dialect),gimi1243-4
-4,lale gao lale gao,,FALSE,Lean1986Vol08,p.48,"2 CSQs. Villages: Yauma, Inigi (West d.). ",gimi1243,Gimi (West dialect),gimi1243-4
-5,lale gao lale gao ikika,,FALSE,Lean1986Vol08,p.48,"2 CSQs. Villages: Yauma, Inigi (West d.). ",gimi1243,Gimi (West dialect),gimi1243-4
+1,ikika,,FALSE,Lean1986Vol08,p.48,"2 CSQs. Villages: Yauma, Inigi (West d.).",gimi1243,Gimi (West dialect),gimi1243-4
+2,lale,,FALSE,Lean1986Vol08,p.48,"2 CSQs. Villages: Yauma, Inigi (West d.).",gimi1243,Gimi (West dialect),gimi1243-4
+3,lalegao ikika,,FALSE,Lean1986Vol08,p.48,"2 CSQs. Villages: Yauma, Inigi (West d.).",gimi1243,Gimi (West dialect),gimi1243-4
+4,lale gao lale gao,,FALSE,Lean1986Vol08,p.48,"2 CSQs. Villages: Yauma, Inigi (West d.).",gimi1243,Gimi (West dialect),gimi1243-4
+5,lale gao lale gao ikika,,FALSE,Lean1986Vol08,p.48,"2 CSQs. Villages: Yauma, Inigi (West d.).",gimi1243,Gimi (West dialect),gimi1243-4
 1,desi,,FALSE,Lean1986Vol06,p.25,S.I.L word list (1972). Village: Etau.,ginu1240,Ginuman,ginu1240-1
 2,deidei,,FALSE,Lean1986Vol06,p.25,S.I.L word list (1972). Village: Etau.,ginu1240,Ginuman,ginu1240-1
 3,deidei desi,,FALSE,Lean1986Vol06,p.25,S.I.L word list (1972). Village: Etau.,ginu1240,Ginuman,ginu1240-1
 4,deidei aba deidei,,FALSE,Lean1986Vol06,p.25,S.I.L word list (1972). Village: Etau.,ginu1240,Ginuman,ginu1240-1
 5,inia dibi,‘hand’ = ‘yeinabe’,FALSE,Lean1986Vol06,p.25,S.I.L word list (1972). Village: Etau.,ginu1240,Ginuman,ginu1240-1
-10,binimo'an ,,FALSE,Lean1986Vol06,p.25,S.I.L word list (1972). Village: Etau.,ginu1240,Ginuman,ginu1240-1
+10,binimo'an,,FALSE,Lean1986Vol06,p.25,S.I.L word list (1972). Village: Etau.,ginu1240,Ginuman,ginu1240-1
 1,ʔarʌ(r),,FALSE,Zgraggen1980Mabuso,p.92,,gira1247,Girawa,gira1247-1
 2,oiror,,FALSE,Zgraggen1980Mabuso,p.92,,gira1247,Girawa,gira1247-1
 1,eze,,FALSE,LeanMorobe,p.22,1 CSQ. Village: Gitua.,gitu1237,Gitua,gitu1237-1
@@ -9991,7 +9991,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,rua,,FALSE,Smith1988,pp.63-64,,gitu1237,Gitua,gitu1237-2
 3,tolu,,FALSE,Smith1988,pp.63-64,,gitu1237,Gitua,gitu1237-2
 4,pange,,FALSE,Smith1988,pp.63-64,,gitu1237,Gitua,gitu1237-2
-5,nimanda sirip,hand half ,FALSE,Smith1988,pp.63-64,,gitu1237,Gitua,gitu1237-2
+5,nimanda sirip,hand half,FALSE,Smith1988,pp.63-64,,gitu1237,Gitua,gitu1237-2
 5,lima,alternative,FALSE,Smith1988,pp.63-64,,gitu1237,Gitua,gitu1237-2
 6,nimanda sirip wolo eze,hand half and one,FALSE,Smith1988,pp.63-64,,gitu1237,Gitua,gitu1237-2
 7,nimanda sirip wolo rua,,FALSE,Smith1988,pp.63-64,,gitu1237,Gitua,gitu1237-2
@@ -10069,8 +10069,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,mai yaedegu yaedegu,‘mai’ = ‘hand’,FALSE,Lean1986Vol12,p.42,13 CSQs.,gogo1265,Gogodala,gogo1265-2
 11,mai sakai gula aei yaedele menagi,,FALSE,Lean1986Vol12,p.42,13 CSQs.,gogo1265,Gogodala,gogo1265-2
 12,mai sakai gula aei yaedele sakai,,FALSE,Lean1986Vol12,p.42,13 CSQs.,gogo1265,Gogodala,gogo1265-2
-15,mai sakai gula aei yaedegu,‘aei’ = ‘leg’ or ‘foot’ ,FALSE,Lean1986Vol12,p.42,13 CSQs.,gogo1265,Gogodala,gogo1265-2
-20,mai yaedegu yaedegu aei yaedegu yaedegu,‘hands and feet completed’ ,FALSE,Lean1986Vol12,p.42,13 CSQs.,gogo1265,Gogodala,gogo1265-2
+15,mai sakai gula aei yaedegu,‘aei’ = ‘leg’ or ‘foot’,FALSE,Lean1986Vol12,p.42,13 CSQs.,gogo1265,Gogodala,gogo1265-2
+20,mai yaedegu yaedegu aei yaedegu yaedegu,‘hands and feet completed’,FALSE,Lean1986Vol12,p.42,13 CSQs.,gogo1265,Gogodala,gogo1265-2
 1,menagi,,FALSE,Lean1986Vol12,p.42,SIL Word List (1976). Village: Kotale.,gogo1265,Gogodala (Kotale village),gogo1265-3
 2,saki,,FALSE,Lean1986Vol12,p.42,SIL Word List (1976). Village: Kotale.,gogo1265,Gogodala (Kotale village),gogo1265-3
 3,salikiliwa,,FALSE,Lean1986Vol12,p.42,SIL Word List (1976). Village: Kotale.,gogo1265,Gogodala (Kotale village),gogo1265-3
@@ -10316,7 +10316,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 11,boto esese ma okoho pai,,FALSE,LeanMorobe,p.69,IMP/SIL (1978).,guhu1244,Guhu-Samane (from IMP/SIL),guhu1244-3
 15,oko tena,‘oko’ = ‘foot’,FALSE,LeanMorobe,p.69,IMP/SIL (1978).,guhu1244,Guhu-Samane (from IMP/SIL),guhu1244-3
 16,oko tena ma temho pai,,FALSE,LeanMorobe,p.69,IMP/SIL (1978).,guhu1244,Guhu-Samane (from IMP/SIL),guhu1244-3
-20,abi sama tena,‘man whole one’ ,FALSE,LeanMorobe,p.69,IMP/SIL (1978).,guhu1244,Guhu-Samane (from IMP/SIL),guhu1244-3
+20,abi sama tena,‘man whole one’,FALSE,LeanMorobe,p.69,IMP/SIL (1978).,guhu1244,Guhu-Samane (from IMP/SIL),guhu1244-3
 1,dena,,FALSE,Chinnery1915,p.163,,guhu1244,Tahari,guhu1244-4
 2,eseri,,FALSE,Chinnery1915,p.163,,guhu1244,Tahari,guhu1244-4
 3,dapari,,FALSE,Chinnery1915,p.163,,guhu1244,Tahari,guhu1244-4
@@ -10329,11 +10329,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,bodo eseri,,FALSE,Chinnery1915,p.163,,guhu1244,Tahari,guhu1244-4
 1,olaʔie,,FALSE,Zgraggen1980Mabuso,p.92,,guma1255,Gumalu,guma1255-1
 2,ɛrit,,FALSE,Zgraggen1980Mabuso,p.92,,guma1255,Gumalu,guma1255-1
-1,mitene,“The CSQ informant indeed does indicate that a decimal system operates (i.e. a 10-cycle system with no sub-ordinate cycles) but at the same time says that the system is a body-part tally one that utilizes tally parts on the body as well as the fingers of both hands.”,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School. ,guri1248,Kwomtari (Guriaso Community School),guri1248-1
-2,aser,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School. ,guri1248,Kwomtari (Guriaso Community School),guri1248-1
-3,amdir,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School. ,guri1248,Kwomtari (Guriaso Community School),guri1248-1
-4,niso,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School. ,guri1248,Kwomtari (Guriaso Community School),guri1248-1
-5,akmo,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School. ,guri1248,Kwomtari (Guriaso Community School),guri1248-1
+1,mitene,“The CSQ informant indeed does indicate that a decimal system operates (i.e. a 10-cycle system with no sub-ordinate cycles) but at the same time says that the system is a body-part tally one that utilizes tally parts on the body as well as the fingers of both hands.”,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School.,guri1248,Kwomtari (Guriaso Community School),guri1248-1
+2,aser,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School.,guri1248,Kwomtari (Guriaso Community School),guri1248-1
+3,amdir,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School.,guri1248,Kwomtari (Guriaso Community School),guri1248-1
+4,niso,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School.,guri1248,Kwomtari (Guriaso Community School),guri1248-1
+5,akmo,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School.,guri1248,Kwomtari (Guriaso Community School),guri1248-1
 1,mətɛnɛ,[<mvtehneh>],FALSE,Baron1983,p.9,,guri1248,Guriaso,guri1248-2
 2,asər,[<asvr>],FALSE,Baron1983,p.9,,guri1248,Guriaso,guri1248-2
 3,amtər,[<amtvr>],FALSE,Baron1983,p.9,,guri1248,Guriaso,guri1248-2
@@ -10387,7 +10387,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 30,topisa u maloto,,FALSE,Lean1985Vol03,p.16,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",hako1237,Halia (Haku dialect),hako1237-1
 50,tolima u maloto,,FALSE,Lean1985Vol03,p.16,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",hako1237,Halia (Haku dialect),hako1237-1
 100,hamal maloto,reduplication of ‘maloto’ to indicate ‘ten tens’,FALSE,Lean1985Vol03,p.16,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",hako1237,Halia (Haku dialect),hako1237-1
-100,(toa use) ,,FALSE,Lean1985Vol03,p.16,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",hako1237,Halia (Haku dialect),hako1237-1
+100,(toa use),,FALSE,Lean1985Vol03,p.16,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",hako1237,Halia (Haku dialect),hako1237-1
 1,'toa,,FALSE,Lean1985Vol03,p.16,"SIL Wordlist, Allen and Hurd (1963).",hali1244,Halia (from SIL word list),hali1244-1
 2,'huol,,FALSE,Lean1985Vol03,p.16,"SIL Wordlist, Allen and Hurd (1963).",hali1244,Halia (from SIL word list),hali1244-1
 3,to'pisa,,FALSE,Lean1985Vol03,p.16,"SIL Wordlist, Allen and Hurd (1963).",hali1244,Halia (from SIL word list),hali1244-1
@@ -10711,11 +10711,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,kolua,index finger,FALSE,LeanSouthernHighlands,p.1,SIL Word List (1980). Village: Wanakipe.,hewa1241,Hewa (Wanakipe village),hewa1241-2
 5,kelia,thumb,FALSE,LeanSouthernHighlands,p.1,SIL Word List (1980). Village: Wanakipe.,hewa1241,Hewa (Wanakipe village),hewa1241-2
 10,alia,shoulder,FALSE,LeanSouthernHighlands,p.1,SIL Word List (1980). Village: Wanakipe.,hewa1241,Hewa (Wanakipe village),hewa1241-2
-1,belun,,FALSE,LeanSandaun,p.35,SIL Word List (1980). Village: Wulbowe. ,heyo1240,Heyo,heyo1240-1
-2,ʔolo,,FALSE,LeanSandaun,p.35,SIL Word List (1980). Village: Wulbowe. ,heyo1240,Heyo,heyo1240-1
-3,olobelug,2 + 1,FALSE,LeanSandaun,p.35,SIL Word List (1980). Village: Wulbowe. ,heyo1240,Heyo,heyo1240-1
-4,olotoʔolop,2 + 2,FALSE,LeanSandaun,p.35,SIL Word List (1980). Village: Wulbowe. ,heyo1240,Heyo,heyo1240-1
-5,ruvepnateg,‘nateg’ = ‘hand’,FALSE,LeanSandaun,p.35,SIL Word List (1980). Village: Wulbowe. ,heyo1240,Heyo,heyo1240-1
+1,belun,,FALSE,LeanSandaun,p.35,SIL Word List (1980). Village: Wulbowe.,heyo1240,Heyo,heyo1240-1
+2,ʔolo,,FALSE,LeanSandaun,p.35,SIL Word List (1980). Village: Wulbowe.,heyo1240,Heyo,heyo1240-1
+3,olobelug,2 + 1,FALSE,LeanSandaun,p.35,SIL Word List (1980). Village: Wulbowe.,heyo1240,Heyo,heyo1240-1
+4,olotoʔolop,2 + 2,FALSE,LeanSandaun,p.35,SIL Word List (1980). Village: Wulbowe.,heyo1240,Heyo,heyo1240-1
+5,ruvepnateg,‘nateg’ = ‘hand’,FALSE,LeanSandaun,p.35,SIL Word List (1980). Village: Wulbowe.,heyo1240,Heyo,heyo1240-1
 1,bɛlʊn,,FALSE,Laycock1967C11,p.56,,heyo1240,Heyo,heyo1240-2
 2,ɔloʔʷ,,FALSE,Laycock1967C11,p.56,,heyo1240,Heyo,heyo1240-2
 3,ɔlɔ bɛlɪk̚,,FALSE,Laycock1967C11,p.56,,heyo1240,Heyo,heyo1240-2
@@ -10980,14 +10980,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 16,kiyeri silageta,,FALSE,LeanEastSepik,p.47,Author’s Field Notes (1976). Village: Malingei.,iatm1242,Iatmul (Malingei village),iatm1242-3
 20,kita dumi,‘one man’,FALSE,LeanEastSepik,p.47,Author’s Field Notes (1976). Village: Malingei.,iatm1242,Iatmul (Malingei village),iatm1242-3
 40,dumi vilet,‘man two’,FALSE,LeanEastSepik,p.47,Author’s Field Notes (1976). Village: Malingei.,iatm1242,Iatmul (Malingei village),iatm1242-3
-1,nak,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region. ,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
-2,vila,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region. ,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
-3,kovuk,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region. ,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
-4,einak,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region. ,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
-5,taambem,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region. ,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
-6,cergagelag,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region. ,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
-7,celaveli,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region. ,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
-10,tambeli,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region. ,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
+1,nak,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region.,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
+2,vila,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region.,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
+3,kovuk,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region.,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
+4,einak,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region.,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
+5,taambem,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region.,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
+6,cergagelag,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region.,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
+7,celaveli,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region.,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
+10,tambeli,,FALSE,LeanEastSepik,p.48,12 CSQs. Nyaura d. region.,iatm1242,Iatmul (Nyaura dialect),iatm1242-4
 1,kəta,,FALSE,Laycock1965,pp.173-174,,iatm1242,Iatmul (Nyaura dialect),iatm1242-5
 2,vələlək,,FALSE,Laycock1965,pp.173-174,,iatm1242,Iatmul (Nyaura dialect),iatm1242-5
 3,kwpwk,,FALSE,Laycock1965,pp.173-174,,iatm1242,Iatmul (Nyaura dialect),iatm1242-5
@@ -11152,9 +11152,9 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,kum'dd'ga,2 + 1,FALSE,Lean1986Vol12,p.62,1 CSQ. Village: Malam.,idii1243,Idi (Malam village),idii1243-2
 4,komlla komlla,2 + 2,FALSE,Lean1986Vol12,p.62,1 CSQ. Village: Malam.,idii1243,Idi (Malam village),idii1243-2
 5,apte ttang,‘ttang’ = ‘hand’,FALSE,Lean1986Vol12,p.62,1 CSQ. Village: Malam.,idii1243,Idi (Malam village),idii1243-2
-10,komlla ttang,‘two hands’ ,FALSE,Lean1986Vol12,p.62,1 CSQ. Village: Malam.,idii1243,Idi (Malam village),idii1243-2
+10,komlla ttang,‘two hands’,FALSE,Lean1986Vol12,p.62,1 CSQ. Village: Malam.,idii1243,Idi (Malam village),idii1243-2
 15,[komlla ttang?] apte tt'le,‘tt'le’ = ‘foot’,FALSE,Lean1986Vol12,p.62,1 CSQ. Village: Malam.,idii1243,Idi (Malam village),idii1243-2
-20,komlla ttang komlla tt'le,‘two hands two feet’ ,FALSE,Lean1986Vol12,p.62,1 CSQ. Village: Malam.,idii1243,Idi (Malam village),idii1243-2
+20,komlla ttang komlla tt'le,‘two hands two feet’,FALSE,Lean1986Vol12,p.62,1 CSQ. Village: Malam.,idii1243,Idi (Malam village),idii1243-2
 1,sa'eyana,,FALSE,Lean1986Vol06,p.69,S.I.L word list (1964?). Village: Wakonai.,idun1242,Iduna,idun1242-1
 2,luhei,,FALSE,Lean1986Vol06,p.69,S.I.L word list (1964?). Village: Wakonai.,idun1242,Iduna,idun1242-1
 3,tohiye,,FALSE,Lean1986Vol06,p.69,S.I.L word list (1964?). Village: Wakonai.,idun1242,Iduna,idun1242-1
@@ -11773,7 +11773,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,ailu,,FALSE,LeanMorobe,p.52,IMP/SIL Questionnaire (1978).,iwal1237,Kaiwa,iwal1237-1
 3,aitol,,FALSE,LeanMorobe,p.52,IMP/SIL Questionnaire (1978).,iwal1237,Kaiwa,iwal1237-1
 4,aivat,,FALSE,LeanMorobe,p.52,IMP/SIL Questionnaire (1978).,iwal1237,Kaiwa,iwal1237-1
-5,bage tavlu,‘hand(s) half’ ,FALSE,LeanMorobe,p.52,IMP/SIL Questionnaire (1978).,iwal1237,Kaiwa,iwal1237-1
+5,bage tavlu,‘hand(s) half’,FALSE,LeanMorobe,p.52,IMP/SIL Questionnaire (1978).,iwal1237,Kaiwa,iwal1237-1
 6,bage tavlu ano ailu,5 + 1,FALSE,LeanMorobe,p.52,IMP/SIL Questionnaire (1978).,iwal1237,Kaiwa,iwal1237-1
 7,bage tavlu ano ailu,5 + 2,FALSE,LeanMorobe,p.52,IMP/SIL Questionnaire (1978).,iwal1237,Kaiwa,iwal1237-1
 10,bage isgabu,‘bage’ = ‘hand’,FALSE,LeanMorobe,p.52,IMP/SIL Questionnaire (1978).,iwal1237,Kaiwa,iwal1237-1
@@ -11800,11 +11800,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1,luluwɑ,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
 1,lúluwɑ,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
 1,ɑluwɑ,(fem),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-1,ɡwʊl ,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
+1,ɡwʊl,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
 1,hwʊl,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
 2,lusuwɑ,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
 2,ɑsŭ,(fem),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-2,ɡwis ,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
+2,ɡwis,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
 2,hwis,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
 3,lŭsu nʊl,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
 3,ɑsid,(fem),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
@@ -11870,7 +11870,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1,ɡɪˈdɑi,(ɡid [in Z’graggen 1980:92]),FALSE,Daniels2014Item584,p.48,,jili1241,Bara,jili1241-1
 2,lil,(lil [in Z’graggen 1980:92]),FALSE,Daniels2014Item584,p.48,,jili1241,Bara,jili1241-1
 3,qɑˈlub,[first vowel is marked as “longish”],FALSE,Daniels2014Item584,p.48,,jili1241,Bara,jili1241-1
-4,lil lil ,,FALSE,Daniels2014Item584,p.48,,jili1241,Bara,jili1241-1
+4,lil lil,,FALSE,Daniels2014Item584,p.48,,jili1241,Bara,jili1241-1
 5,lil lil ɡɪdɑi,,FALSE,Daniels2014Item584,p.48,,jili1241,Bara,jili1241-1
 1,ɡid,,FALSE,Zgraggen1980RaiCoast,p.92,,jili1241,Jilim,jili1241-2
 2,lil,,FALSE,Zgraggen1980RaiCoast,p.92,,jili1241,Jilim,jili1241-2
@@ -11984,11 +11984,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1000,sōhiwu,,FALSE,Stokhof1983Vol7.1,pp.234-235,,kaid1239,Kaidipang,kaid1239-1
 1000,(hiwu),,FALSE,Stokhof1983Vol7.1,pp.234-235,,kaid1239,Kaidipang,kaid1239-1
 10000,mopuRa hiwu,,FALSE,Stokhof1983Vol7.1,pp.234-235,,kaid1239,Kaidipang,kaid1239-1
-1,ta,,FALSE,Laycock1976,p.416,,kaie1237,Kaiep ,kaie1237-1
-2,lu,,FALSE,Laycock1976,p.416,,kaie1237,Kaiep ,kaie1237-1
-3,tol,,FALSE,Laycock1976,p.416,,kaie1237,Kaiep ,kaie1237-1
-4,tənal,,FALSE,Laycock1976,p.416,,kaie1237,Kaiep ,kaie1237-1
-5,lim,,FALSE,Laycock1976,p.416,,kaie1237,Kaiep ,kaie1237-1
+1,ta,,FALSE,Laycock1976,p.416,,kaie1237,Kaiep,kaie1237-1
+2,lu,,FALSE,Laycock1976,p.416,,kaie1237,Kaiep,kaie1237-1
+3,tol,,FALSE,Laycock1976,p.416,,kaie1237,Kaiep,kaie1237-1
+4,tənal,,FALSE,Laycock1976,p.416,,kaie1237,Kaiep,kaie1237-1
+5,lim,,FALSE,Laycock1976,p.416,,kaie1237,Kaiep,kaie1237-1
 1,ta,tallied on the left thumb,FALSE,LeanEastSepik,p.38,1 CSQ. Village: Kaiep.,kaie1237,Kaiep (from CSQ),kaie1237-2
 2,lu,,FALSE,LeanEastSepik,p.38,1 CSQ. Village: Kaiep.,kaie1237,Kaiep (from CSQ),kaie1237-2
 3,tol,,FALSE,LeanEastSepik,p.38,1 CSQ. Village: Kaiep.,kaie1237,Kaiep (from CSQ),kaie1237-2
@@ -12062,7 +12062,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,maŋariveat,,FALSE,Grace1955pdf42,p.37,,kair1263,Kairiru,kair1263-5
 10,koleam,,FALSE,Grace1955pdf42,p.37,,kair1263,Kairiru,kair1263-5
 11,koleam tae̯,,FALSE,Grace1955pdf42,p.37,,kair1263,Kairiru,kair1263-5
-20,kolemuru, ,FALSE,Grace1955pdf42,p.37,,kair1263,Kairiru,kair1263-5
+20,kolemuru,,FALSE,Grace1955pdf42,p.37,,kair1263,Kairiru,kair1263-5
 30,kolemuto·l,etc.,FALSE,Grace1955pdf42,p.37,,kair1263,Kairiru,kair1263-5
 1,ónátè,,FALSE,Galis1955,p.137,,kais1235,Mintámáni,kais1235-1
 2,ugè,,FALSE,Galis1955,p.137,,kais1235,Mintámáni,kais1235-1
@@ -12137,34 +12137,34 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 40,afat fuluan,,FALSE,Lobel2016,pp.234-239,,kala1391,Murut Kalabakan,kala1391-1
 100,sangiapan,,FALSE,Lobel2016,pp.234-239,,kala1391,Murut Kalabakan,kala1391-1
 200,duo ngiapan,,FALSE,Lobel2016,pp.234-239,,kala1391,Murut Kalabakan,kala1391-1
-1,tanggreng,little finger,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-1,nogom,(without the help of the fingers),FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-2,namants,ring-finger,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-2,omngar,(without the help of the fingers),FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-3,namants,middle finger,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-3,omngar nogom,(without the help of the fingers),FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-4,tenggaup,index,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-4,omngar omngar,(without the help of the fingers),FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-5,mamende,thumb,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-5,omngar omngar nogom,(without the help of the fingers),FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-6,kanggor,"forearm, above the wrist",FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-7,kozip,"forearm, below the elbow",FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-8,ndire,joint of the elbow,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-9,andip,upper arm,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-10,vandirem,shoulder,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-11,agromp,hole between the collar-bone and the neck on one side of the neck,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-12,umunggan,hole (in front) between the collar-bone and the neck,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-13,agromp pus,"hole-between the collar-bone and the neck, on the other side",FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-14,vanidrem pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-15,andip pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-16,ndire pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-17,kozip pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-18,kanggor pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-19,mamende pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-20,tenggaup pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-21,namants pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-22,namants pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
-23,tanggreng pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai ,kala1397-1
+1,tanggreng,little finger,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+1,nogom,(without the help of the fingers),FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+2,namants,ring-finger,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+2,omngar,(without the help of the fingers),FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+3,namants,middle finger,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+3,omngar nogom,(without the help of the fingers),FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+4,tenggaup,index,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+4,omngar omngar,(without the help of the fingers),FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+5,mamende,thumb,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+5,omngar omngar nogom,(without the help of the fingers),FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+6,kanggor,"forearm, above the wrist",FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+7,kozip,"forearm, below the elbow",FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+8,ndire,joint of the elbow,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+9,andip,upper arm,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+10,vandirem,shoulder,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+11,agromp,hole between the collar-bone and the neck on one side of the neck,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+12,umunggan,hole (in front) between the collar-bone and the neck,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+13,agromp pus,"hole-between the collar-bone and the neck, on the other side",FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+14,vanidrem pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+15,andip pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+16,ndire pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+17,kozip pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+18,kanggor pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+19,mamende pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+20,tenggaup pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+21,namants pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+22,namants pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
+23,tanggreng pus,,FALSE,Aufenanger1960,p.248,,kala1397,Asai,kala1397-1
 1,nokom,,FALSE,LeanMadang,p.36,SIL Word List (1975). Village: Gabun.,kala1397,Kalam (Gabun village),kala1397-2
 2,omingal,,FALSE,LeanMadang,p.36,SIL Word List (1975). Village: Gabun.,kala1397,Kalam (Gabun village),kala1397-2
 3,omingal nokom,2 + 1,FALSE,LeanMadang,p.36,SIL Word List (1975). Village: Gabun.,kala1397,Kalam (Gabun village),kala1397-2
@@ -12345,31 +12345,31 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,táreɡi' táreɡi',,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,kama1370,Kamano,kama1370-1
 5,näyátiɡa',,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,kama1370,Kamano,kama1370-1
 10,näyántremá'a,,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,kama1370,Kamano,kama1370-1
-1,magoke,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-1,mago,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-1,nago,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-1,nagoke,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-2,tare,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-3,taregi nagoki,2 + 1,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-3,taregi magoki,2 + 1,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-3,tagufa,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-4,taregi taregi,2 + 2,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-5,najama'a,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-5,najatiga'a,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-5,taregi taregi magoki,2 + 2 + 1,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-6,naja evuraka he,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-6,taregi magogi taregi magogi,2 + 1 + 2 + 1,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-7,naja te tare evraka he,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-7,mago nayanki tare,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-8,naja taregi nagoki (evruka he),,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-8,mago-nayanki tagufa,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-9,naja taregi taregi,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-9,mago majanki taregi taregi,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-10,tare najanki,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-10,najantarema'e,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-10,nago kona,‘one bundle’,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-20,naga naja ma'e,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
-20,najantare naga reregi nagarere ma'e najantare ma'e,,FALSE,Lean1986Vol08,p.30,40 CSQs. ,kama1370,Kamano (from CSQs),kama1370-2
+1,magoke,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+1,mago,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+1,nago,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+1,nagoke,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+2,tare,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+3,taregi nagoki,2 + 1,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+3,taregi magoki,2 + 1,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+3,tagufa,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+4,taregi taregi,2 + 2,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+5,najama'a,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+5,najatiga'a,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+5,taregi taregi magoki,2 + 2 + 1,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+6,naja evuraka he,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+6,taregi magogi taregi magogi,2 + 1 + 2 + 1,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+7,naja te tare evraka he,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+7,mago nayanki tare,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+8,naja taregi nagoki (evruka he),,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+8,mago-nayanki tagufa,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+9,naja taregi taregi,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+9,mago majanki taregi taregi,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+10,tare najanki,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+10,najantarema'e,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+10,nago kona,‘one bundle’,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+20,naga naja ma'e,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
+20,najantare naga reregi nagarere ma'e najantare ma'e,,FALSE,Lean1986Vol08,p.30,40 CSQs.,kama1370,Kamano (from CSQs),kama1370-2
 1,magoke,‘one only’,FALSE,Lean1986Vol08,p.30,"IMP/SIL Questionnaire (1978). S.I.L survey word list (1975), taken at Hogu village, gives identical data for 1 to 5, and 10.",kama1370,Kamano (from IMP/SIL),kama1370-3
 2,tare,‘two’,FALSE,Lean1986Vol08,p.30,"IMP/SIL Questionnaire (1978). S.I.L survey word list (1975), taken at Hogu village, gives identical data for 1 to 5, and 10.",kama1370,Kamano (from IMP/SIL),kama1370-3
 3,tagufa,‘three’,FALSE,Lean1986Vol08,p.30,"IMP/SIL Questionnaire (1978). S.I.L survey word list (1975), taken at Hogu village, gives identical data for 1 to 5, and 10.",kama1370,Kamano (from IMP/SIL),kama1370-3
@@ -12385,18 +12385,18 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 15,nayanteti evagaregeno mago kayiya naga vagaria,‘from my hand finished one side my foot finishes’,FALSE,Lean1986Vol08,p.30,"IMP/SIL Questionnaire (1978). S.I.L survey word list (1975), taken at Hogu village, gives identical data for 1 to 5, and 10.",kama1370,Kamano (from IMP/SIL),kama1370-3
 16,mago naga kayiga hana higene mago kayigati mago evruka hia,,FALSE,Lean1986Vol08,p.30,"IMP/SIL Questionnaire (1978). S.I.L survey word list (1975), taken at Hogu village, gives identical data for 1 to 5, and 10.",kama1370,Kamano (from IMP/SIL),kama1370-3
 20,nagarre nayantrema'a,‘my two feet my two hands amount’,FALSE,Lean1986Vol08,p.30,"IMP/SIL Questionnaire (1978). S.I.L survey word list (1975), taken at Hogu village, gives identical data for 1 to 5, and 10.",kama1370,Kamano (from IMP/SIL),kama1370-3
-1,mogoke,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas. ,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
-1,nagoke,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas. ,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
-2,tore,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas. ,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
-2,tole,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas. ,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
-3,tolegi mogoke,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas. ,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
-4,tolegi toglegi,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas. ,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
-5,mago nayama'a,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas. ,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
-5,naya mago kaiya'a,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas. ,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
-10,tole nayane,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas. ,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
-10,naya tole,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas. ,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
-20,tole naiyagi,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas. ,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
-20,tole nayanagi,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas. ,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
+1,mogoke,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas.,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
+1,nagoke,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas.,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
+2,tore,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas.,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
+2,tole,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas.,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
+3,tolegi mogoke,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas.,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
+4,tolegi toglegi,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas.,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
+5,mago nayama'a,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas.,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
+5,naya mago kaiya'a,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas.,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
+10,tole nayane,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas.,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
+10,naya tole,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas.,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
+20,tole naiyagi,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas.,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
+20,tole nayanagi,,FALSE,Lean1986Vol08,p.46,11 CSQs. Villages within the 3 sub-dialect areas.,kama1374,"Yate (3 sub-dialect areas) [data correspond to three Glottocodes: kani1286, keya1238, inok1238]",kama1374-1
 1,Hau,,FALSE,Stokhof1983Vol6,pp.152-153,,kamb1299,Sumba,kamb1299-1
 2,Damboe,,FALSE,Stokhof1983Vol6,pp.152-153,,kamb1299,Sumba,kamb1299-1
 3,Tèloe,,FALSE,Stokhof1983Vol6,pp.152-153,,kamb1299,Sumba,kamb1299-1
@@ -12871,7 +12871,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,sangahuluei,,FALSE,Schnee1901,p.260,,kara1486,Lamusmus,kara1486-2
 11,sangahuluei asaχa,,FALSE,Schnee1901,p.260,,kara1486,Lamusmus,kara1486-2
 12,sangahuluei asaχa hadalahue,,FALSE,Schnee1901,p.260,,kara1486,Lamusmus,kara1486-2
-13,sangahuluei asaχa a talatul ,,FALSE,Schnee1901,p.260,,kara1486,Lamusmus,kara1486-2
+13,sangahuluei asaχa a talatul,,FALSE,Schnee1901,p.260,,kara1486,Lamusmus,kara1486-2
 14,sangahuluei asaχa a talahat,,FALSE,Schnee1901,p.260,,kara1486,Lamusmus,kara1486-2
 15,sangahuluei asaχa havatma,,FALSE,Schnee1901,p.260,,kara1486,Lamusmus,kara1486-2
 16,sangahuluei awaisaχa,,FALSE,Schnee1901,p.260,,kara1486,Lamusmus,kara1486-2
@@ -12934,8 +12934,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 14,ɑŋɡəfre,[right shoulder],FALSE,Laycock1970D13,p.1810,,kark1258,Yuri,kark1258-1
 15,ɑŋɡɑsərɑp,[right muscle],FALSE,Laycock1970D13,p.1810,,kark1258,Yuri,kark1258-1
 16,ɑŋɡiliɣup,[right] elbow,FALSE,Laycock1970D13,p.1810,,kark1258,Yuri,kark1258-1
-17,ɑŋɡəɣfɑne ,[right mid lower arm],FALSE,Laycock1970D13,p.1810,,kark1258,Yuri,kark1258-1
-18,ɑŋɡət towɑm ,[right wrist],FALSE,Laycock1970D13,p.1810,,kark1258,Yuri,kark1258-1
+17,ɑŋɡəɣfɑne,[right mid lower arm],FALSE,Laycock1970D13,p.1810,,kark1258,Yuri,kark1258-1
+18,ɑŋɡət towɑm,[right wrist],FALSE,Laycock1970D13,p.1810,,kark1258,Yuri,kark1258-1
 19,ɑŋɡən dyi,[right] thumb,FALSE,Laycock1970D13,p.1810,,kark1258,Yuri,kark1258-1
 20,kurubwi,,FALSE,Laycock1970D13,p.1810,,kark1258,Yuri,kark1258-1
 21,yɑwɔri,,FALSE,Laycock1970D13,p.1810,,kark1258,Yuri,kark1258-1
@@ -12947,20 +12947,20 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,iyvor,,FALSE,LeanSandaun,p.23,SIL Word List (1974/75). Village: Auya No. 2.,kark1258,Yuri (Auya No. 2 village),kark1258-2
 5,a'ndik,"not identical to the word for ‘hand’, ‘ye(i)’",FALSE,LeanSandaun,p.23,SIL Word List (1974/75). Village: Auya No. 2.,kark1258,Yuri (Auya No. 2 village),kark1258-2
 10,fa're sambram,,FALSE,LeanSandaun,p.23,SIL Word List (1974/75). Village: Auya No. 2.,kark1258,Yuri (Auya No. 2 village),kark1258-2
-1,angkarang,(left little finger),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap. ,kark1258,Yuri (Kambriap village),kark1258-3
-2,anang,(ring finger),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap. ,kark1258,Yuri (Kambriap village),kark1258-3
-3,yining,(middle finger),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap. ,kark1258,Yuri (Kambriap village),kark1258-3
-4,iyor,(index finger),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap. ,kark1258,Yuri (Kambriap village),kark1258-3
-5,andi,(thumb),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap. ,kark1258,Yuri (Kambriap village),kark1258-3
-6,togoam,(wrist),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap. ,kark1258,Yuri (Kambriap village),kark1258-3
-7,fok-kini ,(lower arm),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap. ,kark1258,Yuri (Kambriap village),kark1258-3
-8,yukup,(elbow),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap. ,kark1258,Yuri (Kambriap village),kark1258-3
-9,sara-ak,(upper arm),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap. ,kark1258,Yuri (Kambriap village),kark1258-3
-10,fare,(shoulder),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap. ,kark1258,Yuri (Kambriap village),kark1258-3
-11,mum,(left breast),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap. ,kark1258,Yuri (Kambriap village),kark1258-3
-12,indir,(sternum),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap. ,kark1258,Yuri (Kambriap village),kark1258-3
-13,anger mum,(right breast),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap. ,kark1258,Yuri (Kambriap village),kark1258-3
-14,anger fare,(right shoulder),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap. ,kark1258,Yuri (Kambriap village),kark1258-3
+1,angkarang,(left little finger),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap.,kark1258,Yuri (Kambriap village),kark1258-3
+2,anang,(ring finger),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap.,kark1258,Yuri (Kambriap village),kark1258-3
+3,yining,(middle finger),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap.,kark1258,Yuri (Kambriap village),kark1258-3
+4,iyor,(index finger),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap.,kark1258,Yuri (Kambriap village),kark1258-3
+5,andi,(thumb),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap.,kark1258,Yuri (Kambriap village),kark1258-3
+6,togoam,(wrist),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap.,kark1258,Yuri (Kambriap village),kark1258-3
+7,fok-kini,(lower arm),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap.,kark1258,Yuri (Kambriap village),kark1258-3
+8,yukup,(elbow),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap.,kark1258,Yuri (Kambriap village),kark1258-3
+9,sara-ak,(upper arm),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap.,kark1258,Yuri (Kambriap village),kark1258-3
+10,fare,(shoulder),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap.,kark1258,Yuri (Kambriap village),kark1258-3
+11,mum,(left breast),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap.,kark1258,Yuri (Kambriap village),kark1258-3
+12,indir,(sternum),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap.,kark1258,Yuri (Kambriap village),kark1258-3
+13,anger mum,(right breast),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap.,kark1258,Yuri (Kambriap village),kark1258-3
+14,anger fare,(right shoulder),FALSE,LeanSandaun,p.23,1 CSQ. Village: Kambriap.,kark1258,Yuri (Kambriap village),kark1258-3
 1,ta,,FALSE,Smith1988,pp.58-59,,karn1252,Barim,karn1252-1
 2,ru,,FALSE,Smith1988,pp.58-59,,karn1252,Barim,karn1252-1
 3,tol,,FALSE,Smith1988,pp.58-59,,karn1252,Barim,karn1252-1
@@ -13193,7 +13193,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,tangkitan nemaka,,FALSE,LeanMorobe,p.62,SIL Word List (undated).,kawa1276,Kawatsa,kawa1276-1
 6,vai i tangkitan,,FALSE,LeanMorobe,p.62,SIL Word List (undated).,kawa1276,Kawatsa,kawa1276-1
 7,vai i tangkitan tavawu,,FALSE,LeanMorobe,p.62,SIL Word List (undated).,kawa1276,Kawatsa,kawa1276-1
-10,nemaka ,,FALSE,LeanMorobe,p.62,SIL Word List (undated).,kawa1276,Kawatsa,kawa1276-1
+10,nemaka,,FALSE,LeanMorobe,p.62,SIL Word List (undated).,kawa1276,Kawatsa,kawa1276-1
 1,tona,Lloyd (1973: 549): uwa'na,FALSE,Smith1988,p.100,,kawa1276,Kawatsa,kawa1276-2
 2,tavau,Lloyd (1973: 549): huvaa'u,FALSE,Smith1988,p.100,,kawa1276,Kawatsa,kawa1276-2
 3,tavau to,2 + 1,FALSE,Smith1988,p.100,,kawa1276,Kawatsa,kawa1276-2
@@ -13450,7 +13450,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 11,dònsòrafatan,,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
 15,dònsòr fasber,dònsòr is given as ‘ten’; fasber is given as ‘five’,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
 16,dònsòr fasber afatan,,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
-20,nawò dònsòrò,nawò is given as ‘two’; dònsòrò as ,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
+20,nawò dònsòrò,nawò is given as ‘two’; dònsòrò as,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
 30,nowyèngkindònsòrò,,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
 40,nawanawa dònsòrò,nawanawa is given as ‘four’; dònsòrò as ‘ten’,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
 60,fasberafatan dònsòrò,dònsòrò is given as ‘ten’,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
@@ -14361,8 +14361,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 22,moto-ketmuru,ring finger on the other side,FALSE,Wilbrink2004,pp.70-71,,kopk1238,Kopkaka,kopk1238-1
 23,moto-keker,pink on the other side [sic],FALSE,Wilbrink2004,pp.70-71,,kopk1238,Kopkaka,kopk1238-1
 24,[?],"“However, for twenty-four and following numbers, one can start all over again by adding the word dumon. When doing this it seems that people skip some of the numbers used in the basic system, giving different patterns. Probably out of confusion, because it seemed that they do not use it often. For example, some people I met on a sago grub festival skipped the armpit and/or the middle of the underarm, resulting in nineteen numbers extra to the basic system.”",FALSE,Wilbrink2004,pp.70-71,,kopk1238,Kopkaka,kopk1238-1
-1,arobman,when used attributively ,FALSE,Wilbrink2004,pp.70-71,,kopk1238,Kopkaka,kopk1238-1
-2,awo,when used attributively ,FALSE,Wilbrink2004,pp.70-71,,kopk1238,Kopkaka,kopk1238-1
+1,arobman,when used attributively,FALSE,Wilbrink2004,pp.70-71,,kopk1238,Kopkaka,kopk1238-1
+2,awo,when used attributively,FALSE,Wilbrink2004,pp.70-71,,kopk1238,Kopkaka,kopk1238-1
 3,metanenen,when used attributively (?); “evidence for this at this moment is too short”,FALSE,Wilbrink2004,pp.70-71,,kopk1238,Kopkaka,kopk1238-1
 1,ʔaˈrɔbmæn,,FALSE,Wilbrink2004,p.98,,kopk1238,Kopkaka (from UNCEN-SIL),kopk1238-2
 2,aˈwɔ,,FALSE,Wilbrink2004,p.98,,kopk1238,Kopkaka (from UNCEN-SIL),kopk1238-2
@@ -14934,72 +14934,72 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,ko'mediya,,FALSE,LeanWestern,p.11,SIL (1971). Village: Mogwibi (Kubo d.).,kubo1242,Nomad (Kubo dialect),kubo1242-3
 4,go'go,,FALSE,LeanWestern,p.11,SIL (1971). Village: Mogwibi (Kubo d.).,kubo1242,Nomad (Kubo dialect),kubo1242-3
 5,fa'fo'moi,,FALSE,LeanWestern,p.11,SIL (1971). Village: Mogwibi (Kubo d.).,kubo1242,Nomad (Kubo dialect),kubo1242-3
-1,satu,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
-2,dua,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
-3,tiga,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
-4,əmpat,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
-5,lima,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
-6,ənam,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
-7,tujuh,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
-8,dəlapan,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
-9,səmbilan,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
-10,səpuluh,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
-11,səbəlas,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
-100,sərotus,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
-1000,səribu,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
-1,sikoʔ,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
-1,so,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
-2,duo,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
-3,tigo,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
-4,əmpat,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
-5,limo,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
-6,ənam,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
-7,tujuh,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
-8,dəlapan,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
-9,səmbilan,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
-10,səpuluh,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
-11,səbəlas,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
-100,sərotus,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
-1000,səribu,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
-1,səlay,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
-2,duwa,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
-3,tiga,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
-4,əmpa?,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
-5,lima,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
-6,ənom,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
-7,tujuh,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
-8,dəlapan,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
-9,səmbilan,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
-10,sərotuyi,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
-11,səbəlayi,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
-100,səpuluh,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
-1000,səribu,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
-1,soloy,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
-2,due,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
-3,tigo,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
-4,əmpaʔ,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
-5,bogih,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
-6,ənam,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
-7,tujuh,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
-8,dəlapan,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
-9,səmbilan,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
-10,səpuluh,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
-11,səbəlas,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
-100,sərotus,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
-1000,səribu,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
-1,sikoʔ,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
-2,due,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
-3,tige,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
-4,mpat,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
-5,lima,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
-6,nam,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
-7,tuju,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
-8,lapan,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
-9,səmbilan,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
-10,spulu,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
-11,səblas,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
-100,sratus,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
-1000,sribu,,FALSE,Anderbeck2008,pp.133-135 ,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
+1,satu,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
+2,dua,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
+3,tiga,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
+4,əmpat,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
+5,lima,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
+6,ənam,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
+7,tujuh,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
+8,dəlapan,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
+9,səmbilan,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
+10,səpuluh,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
+11,səbəlas,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
+100,sərotus,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
+1000,səribu,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubo (Dusun Tuo),kubu1239-1
+1,sikoʔ,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
+1,so,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
+2,duo,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
+3,tigo,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
+4,əmpat,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
+5,limo,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
+6,ənam,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
+7,tujuh,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
+8,dəlapan,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
+9,səmbilan,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
+10,səpuluh,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
+11,səbəlas,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
+100,sərotus,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
+1000,səribu,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Bukit Tembesu),kubu1239-2
+1,səlay,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
+2,duwa,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
+3,tiga,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
+4,əmpa?,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
+5,lima,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
+6,ənom,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
+7,tujuh,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
+8,dəlapan,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
+9,səmbilan,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
+10,sərotuyi,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
+11,səbəlayi,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
+100,səpuluh,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
+1000,səribu,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kabau),kubu1239-3
+1,soloy,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
+2,due,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
+3,tigo,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
+4,əmpaʔ,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
+5,bogih,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
+6,ənam,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
+7,tujuh,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
+8,dəlapan,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
+9,səmbilan,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
+10,səpuluh,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
+11,səbəlas,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
+100,sərotus,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
+1000,səribu,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Pematang Kolim),kubu1239-4
+1,sikoʔ,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
+2,due,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
+3,tige,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
+4,mpat,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
+5,lima,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
+6,nam,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
+7,tuju,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
+8,lapan,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
+9,səmbilan,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
+10,spulu,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
+11,səblas,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
+100,sratus,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
+1000,sribu,,FALSE,Anderbeck2008,pp.133-135,,kubu1239,Kubu (Tanjung Lebar),kubu1239-5
 1,isəʔ,,FALSE,Lobel2016,pp.234-239,,kuij1237,Kujau,kuij1237-1
 2,duvə,,FALSE,Lobel2016,pp.234-239,,kuij1237,Kujau,kuij1237-1
 3,tə£u,,FALSE,Lobel2016,pp.234-239,,kuij1237,Kujau,kuij1237-1
@@ -15583,7 +15583,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 17,poeloe na pito,,FALSE,Stokhof1983Vol6,pp.277-278,,lama1277,Solor (as spoken in Lamelera (Lomblen),lama1278-1
 18,poeloe na boeto,,FALSE,Stokhof1983Vol6,pp.277-278,,lama1277,Solor (as spoken in Lamelera (Lomblen),lama1278-1
 19,poeloe na hiwa,,FALSE,Stokhof1983Vol6,pp.277-278,,lama1277,Solor (as spoken in Lamelera (Lomblen),lama1278-1
-20,poeloe roea ,,FALSE,Stokhof1983Vol6,pp.277-278,,lama1277,Solor (as spoken in Lamelera (Lomblen),lama1278-1
+20,poeloe roea,,FALSE,Stokhof1983Vol6,pp.277-278,,lama1277,Solor (as spoken in Lamelera (Lomblen),lama1278-1
 21,poeloe roea na tooe,,FALSE,Stokhof1983Vol6,pp.277-278,,lama1277,Solor (as spoken in Lamelera (Lomblen),lama1278-1
 25,poeloe roea na lema,,FALSE,Stokhof1983Vol6,pp.277-278,,lama1277,Solor (as spoken in Lamelera (Lomblen),lama1278-1
 30,poeloe tello,,FALSE,Stokhof1983Vol6,pp.277-278,,lama1277,Solor (as spoken in Lamelera (Lomblen),lama1278-1
@@ -15972,11 +15972,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10000,sompulu libu,,FALSE,Himmelmann2001,pp.101-104,,lauj1238,Lauje,lauj1238-2
 100000,magatusE libu,,FALSE,Himmelmann2001,pp.101-104,,lauj1238,Lauje,lauj1238-2
 1,egas,prefix ‘e-’,FALSE,Lean1985Vol01,p.40,"Field Notes, 1983. Village: Lamasong.",lava1239,Lavatbura-Lamusong,lava1239-1
-2,e-u ,,FALSE,Lean1985Vol01,p.40,"Field Notes, 1983. Village: Lamasong.",lava1239,Lavatbura-Lamusong,lava1239-1
+2,e-u,,FALSE,Lean1985Vol01,p.40,"Field Notes, 1983. Village: Lamasong.",lava1239,Lavatbura-Lamusong,lava1239-1
 3,erun,,FALSE,Lean1985Vol01,p.40,"Field Notes, 1983. Village: Lamasong.",lava1239,Lavatbura-Lamusong,lava1239-1
 4,evet,,FALSE,Lean1985Vol01,p.40,"Field Notes, 1983. Village: Lamasong.",lava1239,Lavatbura-Lamusong,lava1239-1
 4,(ewet),,FALSE,Lean1985Vol01,p.40,"Field Notes, 1983. Village: Lamasong.",lava1239,Lavatbura-Lamusong,lava1239-1
-5,lima,‘hand’ = ‘egum-’; appears to be unrelated ,FALSE,Lean1985Vol01,p.40,"Field Notes, 1983. Village: Lamasong.",lava1239,Lavatbura-Lamusong,lava1239-1
+5,lima,‘hand’ = ‘egum-’; appears to be unrelated,FALSE,Lean1985Vol01,p.40,"Field Notes, 1983. Village: Lamasong.",lava1239,Lavatbura-Lamusong,lava1239-1
 6,ono,,FALSE,Lean1985Vol01,p.40,"Field Notes, 1983. Village: Lamasong.",lava1239,Lavatbura-Lamusong,lava1239-1
 7,uti,,FALSE,Lean1985Vol01,p.40,"Field Notes, 1983. Village: Lamasong.",lava1239,Lavatbura-Lamusong,lava1239-1
 8,wan,,FALSE,Lean1985Vol01,p.40,"Field Notes, 1983. Village: Lamasong.",lava1239,Lavatbura-Lamusong,lava1239-1
@@ -16034,7 +16034,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 50,Alima m poeloeh,,FALSE,Stokhof1984Vol7.3,p.137,,ledo1238,Palu,ledo1238-2
 60,Ono m poeloeh,,FALSE,Stokhof1984Vol7.3,p.137,,ledo1238,Palu,ledo1238-2
 100,satoe roatoesan djoboe,(two hundred) [?],FALSE,Stokhof1984Vol7.3,p.137,,ledo1238,Palu,ledo1238-2
-300,tataloe roatoesan djoboe,(three hundred) ,FALSE,Stokhof1984Vol7.3,p.137,,ledo1238,Palu,ledo1238-2
+300,tataloe roatoesan djoboe,(three hundred),FALSE,Stokhof1984Vol7.3,p.137,,ledo1238,Palu,ledo1238-2
 1000,Santaga roean djoboe,(two thousand) [?],FALSE,Stokhof1984Vol7.3,p.137,,ledo1238,Palu,ledo1238-2
 1,samba'a isa,,FALSE,Stokhof1984Vol7.3,p.124,,ledo1238,Sausu,ledo1238-3
 2,raduwa,,FALSE,Stokhof1984Vol7.3,p.124,,ledo1238,Sausu,ledo1238-3
@@ -17185,7 +17185,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,sik,,FALSE,Lean1985Vol01,p.41,"Field Notes, 1983",mada1285,Madak (Alternative system used in both Malom and Katingan areas),mada1285-1
 10,sangaun,,FALSE,Lean1985Vol01,p.41,"Field Notes, 1983",mada1285,Madak (Alternative system used in both Malom and Katingan areas),mada1285-1
 1,neges,,FALSE,Lean1985Vol01,p.41,"2 CSQs, Field Notes, 1983. Villages: Katingan, Pinatgin, Silom.",mada1285,Madak (Katingan dialect),mada1285-2
-2,ne-u ,,FALSE,Lean1985Vol01,p.41,"2 CSQs, Field Notes, 1983. Villages: Katingan, Pinatgin, Silom.",mada1285,Madak (Katingan dialect),mada1285-2
+2,ne-u,,FALSE,Lean1985Vol01,p.41,"2 CSQs, Field Notes, 1983. Villages: Katingan, Pinatgin, Silom.",mada1285,Madak (Katingan dialect),mada1285-2
 3,nerun,,FALSE,Lean1985Vol01,p.41,"2 CSQs, Field Notes, 1983. Villages: Katingan, Pinatgin, Silom.",mada1285,Madak (Katingan dialect),mada1285-2
 4,nevet,,FALSE,Lean1985Vol01,p.41,"2 CSQs, Field Notes, 1983. Villages: Katingan, Pinatgin, Silom.",mada1285,Madak (Katingan dialect),mada1285-2
 5,nelimo,,FALSE,Lean1985Vol01,p.41,"2 CSQs, Field Notes, 1983. Villages: Katingan, Pinatgin, Silom.",mada1285,Madak (Katingan dialect),mada1285-2
@@ -18224,7 +18224,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,nimanda ɛn,,FALSE,Carter2012,p.60,,mala1489,Malamai (Malamai village),mala1489-3
 10,nimanda rua,,FALSE,Carter2012,p.60,,mala1489,Malamai (Malamai village),mala1489-3
 1,ṅaia,,FALSE,Ray1919,p.330,,mala1494,Dagoi,mala1494-1
-2,ṅner ,,FALSE,Ray1919,p.330,,mala1494,Dagoi,mala1494-1
+2,ṅner,,FALSE,Ray1919,p.330,,mala1494,Dagoi,mala1494-1
 3,arob,,FALSE,Ray1919,p.330,,mala1494,Dagoi,mala1494-1
 4,ṅaramban,,FALSE,Ray1919,p.330,,mala1494,Dagoi,mala1494-1
 5,kur,,FALSE,Ray1919,p.330,,mala1494,Dagoi,mala1494-1
@@ -18392,23 +18392,23 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,mapulu,,FALSE,Reid1987,p.6,,mala1534,Malaweg,mala1534-1
 20,duwapulu,,FALSE,Reid1987,p.6,,mala1534,Malaweg,mala1534-1
 100,magasut,,FALSE,Reid1987,p.6,,mala1534,Malaweg,mala1534-1
-1,sikai,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-2,e-ua,"In Malikolo, as in Marquesas, r has fallen away, leaving ua",FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-2,e ua,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-3,e roi,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-3,eroi,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-4,evatz,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-4,e vatz,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-5,e rima,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-6,sukai,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-6,su kai,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-7,whi-u,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-7,whi u,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-8,oroi,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-8,o roi,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-9,whi-vatz,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-9,whi vatz,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
-10,singeap,,FALSE,Codrington1885,"pp.225, 235, 245 ",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+1,sikai,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+2,e-ua,"In Malikolo, as in Marquesas, r has fallen away, leaving ua",FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+2,e ua,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+3,e roi,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+3,eroi,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+4,evatz,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+4,e vatz,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+5,e rima,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+6,sukai,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+6,su kai,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+7,whi-u,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+7,whi u,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+8,oroi,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+8,o roi,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+9,whi-vatz,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+9,whi vatz,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
+10,singeap,,FALSE,Codrington1885,"pp.225, 235, 245",,mala1539,"Malikolo [exact language unknown, but seems similar to port1285]",mala1539-1
 1,teia,,FALSE,Lean1985Vol04,p.94,"Kettenis, IMP data (1977). See also Kettenis (1978).",male1289,Kilenge,male1289-1
 2,lua,,FALSE,Lean1985Vol04,p.94,"Kettenis, IMP data (1977). See also Kettenis (1978).",male1289,Kilenge,male1289-1
 3,tol,,FALSE,Lean1985Vol04,p.94,"Kettenis, IMP data (1977). See also Kettenis (1978).",male1289,Kilenge,male1289-1
@@ -19839,11 +19839,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,piltak,,FALSE,LeanMadang,p.17,SIL Word List (1974). Village: Medebur.,mede1237,Medebur (from SIL word list),mede1237-3
 5,lim,"distinct from the word for ‘hand’, ‘nima-’ (with possessive suffixes)",FALSE,LeanMadang,p.17,SIL Word List (1974). Village: Medebur.,mede1237,Medebur (from SIL word list),mede1237-3
 10,lim ilak,,FALSE,LeanMadang,p.17,SIL Word List (1974). Village: Medebur.,mede1237,Medebur (from SIL word list),mede1237-3
-1,diraplet,,FALSE,LeanSandaun,p.28,SIL Word List (1980). Village: Nuku. ,mehe1243,Mehek,mehe1243-1
-2,lisip,,FALSE,LeanSandaun,p.28,SIL Word List (1980). Village: Nuku. ,mehe1243,Mehek,mehe1243-1
-3,lisi 'prindin,,FALSE,LeanSandaun,p.28,SIL Word List (1980). Village: Nuku. ,mehe1243,Mehek,mehe1243-1
-4,lisipu lisipu,2 + 2,FALSE,LeanSandaun,p.28,SIL Word List (1980). Village: Nuku. ,mehe1243,Mehek,mehe1243-1
-5,yokwondambelesu,‘lesu’ = ‘hand’,FALSE,LeanSandaun,p.28,SIL Word List (1980). Village: Nuku. ,mehe1243,Mehek,mehe1243-1
+1,diraplet,,FALSE,LeanSandaun,p.28,SIL Word List (1980). Village: Nuku.,mehe1243,Mehek,mehe1243-1
+2,lisip,,FALSE,LeanSandaun,p.28,SIL Word List (1980). Village: Nuku.,mehe1243,Mehek,mehe1243-1
+3,lisi 'prindin,,FALSE,LeanSandaun,p.28,SIL Word List (1980). Village: Nuku.,mehe1243,Mehek,mehe1243-1
+4,lisipu lisipu,2 + 2,FALSE,LeanSandaun,p.28,SIL Word List (1980). Village: Nuku.,mehe1243,Mehek,mehe1243-1
+5,yokwondambelesu,‘lesu’ = ‘hand’,FALSE,LeanSandaun,p.28,SIL Word List (1980). Village: Nuku.,mehe1243,Mehek,mehe1243-1
 1,ndinamblɪ,,FALSE,Laycock1967C10,p.11,,mehe1243,Mehek,mehe1243-2
 2,lɪsɪfᵘ,,FALSE,Laycock1967C10,p.11,,mehe1243,Mehek,mehe1243-2
 3,lɪsɪfᵘ fɪrndɪn,,FALSE,Laycock1967C10,p.11,,mehe1243,Mehek,mehe1243-2
@@ -19922,8 +19922,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,engaka,,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 9,engaka pamb ti,8 + 1,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 10,engaka pamb ralg pip,8 + 2,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
-10,ki tenta,‘hand(s) one’ or ‘the hands of one man’ ,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
-10,ki ti,‘hand(s) one’ or ‘the hands of one man’ ,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
+10,ki tenta,‘hand(s) one’ or ‘the hands of one man’,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
+10,ki ti,‘hand(s) one’ or ‘the hands of one man’,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 11,engaka pamb ralg pip pamb ol tenta,(8 + 2) + 1,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 12,engaka pamb ralg pip pamb ol ralg,(8 + 2) + 2,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 13,engaka pamb ralg pip gul raltika,(8 + 2) + 3,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
@@ -19933,7 +19933,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 17,engkaka pamb ralg pip timbakaka pakit raltika gul,(8 + 2) + 4 + 3,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 18,engaka pamb ralg pip wote engaka,(8 + 2) + 8,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 19,engaka pamb ralg pip engaka pamb ti,(8 + 2) + 8 + 1,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
-20,ki ralg,‘hands two’ or ‘the hands of two men’ ,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
+20,ki ralg,‘hands two’ or ‘the hands of two men’,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 21,ki ralg wote tenta,,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 22,ki ralg gul ralg,,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 23,ki ralg gul raltika,,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
@@ -19943,7 +19943,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 27,ki ralg timbakaka gul raltika,,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 28,ki ralg wote engaka,,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 29,ki ralg engaka pamb ti,,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
-30,ki raltika,‘hands three’ or ‘the hands of three men’ ,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
+30,ki raltika,‘hands three’ or ‘the hands of three men’,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 40,ki timbakaka,,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 50,ki timbakaka pamb ti,,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
 60,ki timbakaka gul ralg,,FALSE,Lean1986Vol09,p.41,"IMP material (unpublished, 1978).",melp1238,Hagen (Melpa dialect),melp1238-1
@@ -20433,14 +20433,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,Ekesinonia,[Ekegesenania = 4th Finger],FALSE,Johnston1921,p.120,,mina1274,Eme-Eme,mina1274-1
 10,Ekeia,,FALSE,Johnston1921,p.120,,mina1274,Eme-Eme,mina1274-1
 20,Katigo,,FALSE,Johnston1921,p.120,,mina1274,Eme-Eme,mina1274-1
-1,nibitibe,,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon). ,mini1253,Wiaki,mini1253-1
-2,yadowiye,,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon). ,mini1253,Wiaki,mini1253-1
-3,wiye-enim,,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon). ,mini1253,Wiaki,mini1253-1
-4,wiye wiye,,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon). ,mini1253,Wiaki,mini1253-1
-5,lanukrim,‘lanu-’ = ‘arm’,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon). ,mini1253,Wiaki,mini1253-1
-10,lanukrim lanukrim,‘lanu-’ = ‘arm’,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon). ,mini1253,Wiaki,mini1253-1
-15,lanukrim lanukrim edinukrim,‘edinu-’ = ‘leg’,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon). ,mini1253,Wiaki,mini1253-1
-20,lanukrim lanukrim edinukrim edinukrim,‘edinu-’ = ‘leg’,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon). ,mini1253,Wiaki,mini1253-1
+1,nibitibe,,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon).,mini1253,Wiaki,mini1253-1
+2,yadowiye,,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon).,mini1253,Wiaki,mini1253-1
+3,wiye-enim,,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon).,mini1253,Wiaki,mini1253-1
+4,wiye wiye,,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon).,mini1253,Wiaki,mini1253-1
+5,lanukrim,‘lanu-’ = ‘arm’,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon).,mini1253,Wiaki,mini1253-1
+10,lanukrim lanukrim,‘lanu-’ = ‘arm’,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon).,mini1253,Wiaki,mini1253-1
+15,lanukrim lanukrim edinukrim,‘edinu-’ = ‘leg’,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon).,mini1253,Wiaki,mini1253-1
+20,lanukrim lanukrim edinukrim edinukrim,‘edinu-’ = ‘leg’,FALSE,LeanSandaun,p.33,1 CSQ. Wassisi Community School (Walgon).,mini1253,Wiaki,mini1253-1
 1,bitəba kɑɡә́,,FALSE,Laycock1967C07,p.60,,mini1253,Wiaki,mini1253-2
 2,yɑdowiyɛ,,FALSE,Laycock1967C07,p.60,,mini1253,Wiaki,mini1253-2
 3,wiyɛ· ɛnʊm,[?],FALSE,Laycock1967C07,p.60,,mini1253,Wiaki,mini1253-2
@@ -21465,7 +21465,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,kiróŋɔ,,FALSE,Laycock1970D07,p.936,,muri1260,Murik (Wakamut),muri1260-5
 4,sɑŋɑŋɡɔ,,FALSE,Laycock1970D07,p.936,,muri1260,Murik (Wakamut),muri1260-5
 5,tɑbúʷɡɔ,,FALSE,Laycock1970D07,p.936,,muri1260,Murik (Wakamut),muri1260-5
-6,tɑbu yɑǥe ɑbɛ́ ,,FALSE,Laycock1970D07,p.936,,muri1260,Murik (Wakamut),muri1260-5
+6,tɑbu yɑǥe ɑbɛ́,,FALSE,Laycock1970D07,p.936,,muri1260,Murik (Wakamut),muri1260-5
 7,[tɑbu (?)] yɑɡip kwoƀɔ,,FALSE,Laycock1970D07,p.936,,muri1260,Murik (Wakamut),muri1260-5
 8,[tɑbu (?)] yɑɡip kɛrɔ́ŋɔ,,FALSE,Laycock1970D07,p.936,,muri1260,Murik (Wakamut),muri1260-5
 9,[tɑbu yɑɡip (?)] sɑŋɑ́ŋɔ,,FALSE,Laycock1970D07,p.936,,muri1260,Murik (Wakamut),muri1260-5
@@ -21571,21 +21571,21 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 50,ga limangaulu,,FALSE,Lean1985Vol01,p.20,"7 CSQs, 1 IMP. Villages: Tasitel, Lomakunauru, Katulusae.",muss1246,Emira-Mussau (Mussau dialect),muss1246-2
 100,ka teva airari,,FALSE,Lean1985Vol01,p.20,"7 CSQs, 1 IMP. Villages: Tasitel, Lomakunauru, Katulusae.",muss1246,Emira-Mussau (Mussau dialect),muss1246-2
 1000,ka sangaulu-airari,,FALSE,Lean1985Vol01,p.20,"7 CSQs, 1 IMP. Villages: Tasitel, Lomakunauru, Katulusae.",muss1246,Emira-Mussau (Mussau dialect),muss1246-2
-1,kateva,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira) ,muss1246-3
-2,galua,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira) ,muss1246-3
-3,kotolu̥,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira) ,muss1246-3
-4,ga·t,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira) ,muss1246-3
-5,ˈgalim,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira) ,muss1246-3
-6,gao̯nomo̥,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira) ,muss1246-3
-7,gai̯tu,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira) ,muss1246-3
-8,gao̥alu,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira) ,muss1246-3
-9,gasio,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira) ,muss1246-3
-10,kasaŋaulu,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira) ,muss1246-3
-11,kasaŋaulu kateva,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira) ,muss1246-3
-20,galu ŋau̯lu,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira) ,muss1246-3
-30,kotolu ŋau̯lu,etc.,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira) ,muss1246-3
-100,ai̯rari̥,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira) ,muss1246-3
-1,ez ,,FALSE,LeanMorobe,p.6,3 CSQs. Tuam Island.,mutu1242,Mutu,mutu1242-1
+1,kateva,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira),muss1246-3
+2,galua,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira),muss1246-3
+3,kotolu̥,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira),muss1246-3
+4,ga·t,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira),muss1246-3
+5,ˈgalim,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira),muss1246-3
+6,gao̯nomo̥,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira),muss1246-3
+7,gai̯tu,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira),muss1246-3
+8,gao̥alu,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira),muss1246-3
+9,gasio,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira),muss1246-3
+10,kasaŋaulu,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira),muss1246-3
+11,kasaŋaulu kateva,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira),muss1246-3
+20,galu ŋau̯lu,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira),muss1246-3
+30,kotolu ŋau̯lu,etc.,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira),muss1246-3
+100,ai̯rari̥,,FALSE,Grace1955pdf43,p.75,,muss1246,inaŋari musau̯ (Mussau + Emira),muss1246-3
+1,ez,,FALSE,LeanMorobe,p.6,3 CSQs. Tuam Island.,mutu1242,Mutu,mutu1242-1
 1,es,,FALSE,LeanMorobe,p.6,3 CSQs. Tuam Island.,mutu1242,Mutu,mutu1242-1
 2,ru,,FALSE,LeanMorobe,p.6,3 CSQs. Tuam Island.,mutu1242,Mutu,mutu1242-1
 3,tol,,FALSE,LeanMorobe,p.6,3 CSQs. Tuam Island.,mutu1242,Mutu,mutu1242-1
@@ -21865,12 +21865,12 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,saᵐbulu,,FALSE,Pita2016,p.132,,nage1237,Nagekeo,nage1237-1
 11,"sa(b,ᵐb)ulu sa ʡəsa",,FALSE,Pita2016,p.132,,nage1237,Nagekeo,nage1237-1
 12,"sa(b,ᵐb)ulu ʡəsa z(r,ɗ)ua",,FALSE,Pita2016,p.132,,nage1237,Nagekeo,nage1237-1
-1,maimeʔ,,FALSE,LeanSandaun,p.22,SIL Word List (undated). ,naii1241,Biaka,naii1241-1
-2,arameʔ,,FALSE,LeanSandaun,p.22,SIL Word List (undated). ,naii1241,Biaka,naii1241-1
-3,magopeʔ,,FALSE,LeanSandaun,p.22,SIL Word List (undated). ,naii1241,Biaka,naii1241-1
-4,amitaiʔ,,FALSE,LeanSandaun,p.22,SIL Word List (undated). ,naii1241,Biaka,naii1241-1
-5,yarituʔ,"not identical to the word for ‘hand’, ‘ameʔ’",FALSE,LeanSandaun,p.22,SIL Word List (undated). ,naii1241,Biaka,naii1241-1
-10,yarituʔ yarituʔ,5–5,FALSE,LeanSandaun,p.22,SIL Word List (undated). ,naii1241,Biaka,naii1241-1
+1,maimeʔ,,FALSE,LeanSandaun,p.22,SIL Word List (undated).,naii1241,Biaka,naii1241-1
+2,arameʔ,,FALSE,LeanSandaun,p.22,SIL Word List (undated).,naii1241,Biaka,naii1241-1
+3,magopeʔ,,FALSE,LeanSandaun,p.22,SIL Word List (undated).,naii1241,Biaka,naii1241-1
+4,amitaiʔ,,FALSE,LeanSandaun,p.22,SIL Word List (undated).,naii1241,Biaka,naii1241-1
+5,yarituʔ,"not identical to the word for ‘hand’, ‘ameʔ’",FALSE,LeanSandaun,p.22,SIL Word List (undated).,naii1241,Biaka,naii1241-1
+10,yarituʔ yarituʔ,5–5,FALSE,LeanSandaun,p.22,SIL Word List (undated).,naii1241,Biaka,naii1241-1
 1,mwɑmɛ,,FALSE,Laycock1970D13,p.1810,,naii1241,Biaka,naii1241-2
 2,ɑrəpɑ́ro,ɑrəpɑ́ro = little finger,FALSE,Laycock1970D13,p.1810,,naii1241,Biaka,naii1241-2
 3,mɑuŋɡupɑ́ro,ɑmukɑriro = ring finger,FALSE,Laycock1970D13,p.1810,,naii1241,Biaka,naii1241-2
@@ -22031,9 +22031,9 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 6,kavisik-sakai,,FALSE,Lean1985Vol01,p.30,"4 CSQs. Villages: Lugagun, Fisoa.",nali1244,"Nalik (Lugagun, Fisoa)",nali1244-1
 7,kavisi-kuru,,FALSE,Lean1985Vol01,p.30,"4 CSQs. Villages: Lugagun, Fisoa.",nali1244,"Nalik (Lugagun, Fisoa)",nali1244-1
 8,kavisiktul,,FALSE,Lean1985Vol01,p.30,"4 CSQs. Villages: Lugagun, Fisoa.",nali1244,"Nalik (Lugagun, Fisoa)",nali1244-1
-9,kavisikvat ,,FALSE,Lean1985Vol01,p.30,"4 CSQs. Villages: Lugagun, Fisoa.",nali1244,"Nalik (Lugagun, Fisoa)",nali1244-1
+9,kavisikvat,,FALSE,Lean1985Vol01,p.30,"4 CSQs. Villages: Lugagun, Fisoa.",nali1244,"Nalik (Lugagun, Fisoa)",nali1244-1
 10,a sangaflu,,FALSE,Lean1985Vol01,p.30,"4 CSQs. Villages: Lugagun, Fisoa.",nali1244,"Nalik (Lugagun, Fisoa)",nali1244-1
-11,a sangaflu fa sakai ,,FALSE,Lean1985Vol01,p.30,"4 CSQs. Villages: Lugagun, Fisoa.",nali1244,"Nalik (Lugagun, Fisoa)",nali1244-1
+11,a sangaflu fa sakai,,FALSE,Lean1985Vol01,p.30,"4 CSQs. Villages: Lugagun, Fisoa.",nali1244,"Nalik (Lugagun, Fisoa)",nali1244-1
 15,a sangaflu fa vatmat,,FALSE,Lean1985Vol01,p.30,"4 CSQs. Villages: Lugagun, Fisoa.",nali1244,"Nalik (Lugagun, Fisoa)",nali1244-1
 20,a sangaflu varu,,FALSE,Lean1985Vol01,p.30,"4 CSQs. Villages: Lugagun, Fisoa.",nali1244,"Nalik (Lugagun, Fisoa)",nali1244-1
 50,a sangaflu vamatmat,,FALSE,Lean1985Vol01,p.30,"4 CSQs. Villages: Lugagun, Fisoa.",nali1244,"Nalik (Lugagun, Fisoa)",nali1244-1
@@ -23721,7 +23721,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,katoa,,FALSE,Lean1985Vol03,p.16,1 CSQ. Nuguria.,nuku1259,Nuguria,nuku1259-1
 11,thanahuru mat me hoko tari,,FALSE,Lean1985Vol03,p.16,1 CSQ. Nuguria.,nuku1259,Nuguria,nuku1259-1
 15,thanahuru mana me rima,,FALSE,Lean1985Vol03,p.16,1 CSQ. Nuguria.,nuku1259,Nuguria,nuku1259-1
-20,tipu rua ,,FALSE,Lean1985Vol03,p.16,1 CSQ. Nuguria.,nuku1259,Nuguria,nuku1259-1
+20,tipu rua,,FALSE,Lean1985Vol03,p.16,1 CSQ. Nuguria.,nuku1259,Nuguria,nuku1259-1
 30,tipu toru,,FALSE,Lean1985Vol03,p.16,1 CSQ. Nuguria.,nuku1259,Nuguria,nuku1259-1
 40,tipu ha,,FALSE,Lean1985Vol03,p.16,1 CSQ. Nuguria.,nuku1259,Nuguria,nuku1259-1
 100,thanahuru hoko tahi,,FALSE,Lean1985Vol03,p.16,1 CSQ. Nuguria.,nuku1259,Nuguria,nuku1259-1
@@ -23793,61 +23793,61 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,meldol,"[<m> in italics, = “nasal”]",FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
 124,"meldol vagatuwal, avavin saŋovul tol domen tevat","[both <m>s in italics, = “nasal”; <sanovul>, with <n> in italics]",FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
 1000,tar,,FALSE,Codrington1885,"pp.235, 377",,nume1241,"Santa Maria, Gog",nume1241-1
-1,tAA,(low tone),FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-2,bö,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-2,bo,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-2,boo,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-3,betîî,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-4,bëëvÜ,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-4,béévÜ,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-5,tAA vïxé,"[cf. p.39 <vï> ‘make/do, take’; cf. p.40 <xe, xé-e, xë ‘thing’]",FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-5,tAAkÜ,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-5,tAA k(Ü),,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-6,tAA vïxé,[This looks like an error (a repetition of 5); the intended form is possibly <tAA no tAA>.],FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-7,boo na tAA,[cf. p.35 <-na-> ‘connecting particle’; should be <no>?],FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-8,betîî no tAA,[cf. p.35 <no> (high tone) ‘then’; <no> ‘numeral connector’,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-9,bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-10,bo vïxé,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-11,bovïxé mô tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-11,bovïxé tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-12,bovïxé mô boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-12,bovïxé boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-13,bovïxé mô betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-13,bovïxé betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-14,bovïxé mô bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-14,bovïxé bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-15,betîî vïxé,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-16,betîîvïxé mô tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-16,betîîvïxé tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-17,betîîvïxé mô boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-17,betîîvïxé boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-18,betîîvïxémô betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-18,betîîvïxé betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-19,betîîvïxé mô bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-19,betîîvïxé bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-20,tAA nyee,"[cf. p. 37 <nyế, niế> ‘male, man’",FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-21,tAA nyee mô tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-22,tAA nyee mô boo,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-23,tAA nyee mô betîî,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-24,tAA nyee mô béévÜÜ,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-25,tAA nyee mô tAA kwê,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-25,tAA nyee tAA kwê,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-26,tAA nyee mô tAA kwê mô tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-26,tAA nyee tAA kwê mô tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-27,tAA nyee mô tAA kwê mô boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-27,tAA nyee tAA kwê mô boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-28,tAA nyee mô tAA kwê mô betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-28,tAA nyee tAA kwê mô betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-29,tAA nyee mô tAA kwê mô bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-29,tAA nyee tAA kwê mô bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-30,tAA nyee mô boo kwê,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-30,tAA nyee mô drÜ-ngê mè,"[cf. p.81 <drü-, drÜ-, dru-> ‘both’; cf. p.36 <-ngêmè> ‘hand’",FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-40,boo nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-60,betîî nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-80,bëëvÜ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-100,tAA kÛ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-200,boo kÛ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
-400,bëëvÜ kÛ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII ,nume1242-1
+1,tAA,(low tone),FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+2,bö,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+2,bo,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+2,boo,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+3,betîî,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+4,bëëvÜ,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+4,béévÜ,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+5,tAA vïxé,"[cf. p.39 <vï> ‘make/do, take’; cf. p.40 <xe, xé-e, xë ‘thing’]",FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+5,tAAkÜ,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+5,tAA k(Ü),,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+6,tAA vïxé,[This looks like an error (a repetition of 5); the intended form is possibly <tAA no tAA>.],FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+7,boo na tAA,[cf. p.35 <-na-> ‘connecting particle’; should be <no>?],FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+8,betîî no tAA,[cf. p.35 <no> (high tone) ‘then’; <no> ‘numeral connector’,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+9,bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+10,bo vïxé,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+11,bovïxé mô tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+11,bovïxé tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+12,bovïxé mô boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+12,bovïxé boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+13,bovïxé mô betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+13,bovïxé betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+14,bovïxé mô bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+14,bovïxé bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+15,betîî vïxé,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+16,betîîvïxé mô tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+16,betîîvïxé tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+17,betîîvïxé mô boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+17,betîîvïxé boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+18,betîîvïxémô betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+18,betîîvïxé betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+19,betîîvïxé mô bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+19,betîîvïxé bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+20,tAA nyee,"[cf. p. 37 <nyế, niế> ‘male, man’",FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+21,tAA nyee mô tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+22,tAA nyee mô boo,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+23,tAA nyee mô betîî,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+24,tAA nyee mô béévÜÜ,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+25,tAA nyee mô tAA kwê,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+25,tAA nyee tAA kwê,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+26,tAA nyee mô tAA kwê mô tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+26,tAA nyee tAA kwê mô tAA no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+27,tAA nyee mô tAA kwê mô boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+27,tAA nyee tAA kwê mô boo no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+28,tAA nyee mô tAA kwê mô betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+28,tAA nyee tAA kwê mô betîî no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+29,tAA nyee mô tAA kwê mô bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+29,tAA nyee tAA kwê mô bëëvÜ no tAA,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+30,tAA nyee mô boo kwê,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+30,tAA nyee mô drÜ-ngê mè,"[cf. p.81 <drü-, drÜ-, dru-> ‘both’; cf. p.36 <-ngêmè> ‘hand’",FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+40,boo nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+60,betîî nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+80,bëëvÜ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+100,tAA kÛ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+200,boo kÛ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
+400,bëëvÜ kÛ nyee,,FALSE,Dubois1977,p.87,,nume1242,nââ kwênyII,nume1242-1
 1,isa,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
 1,sā,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
 2,rua,,FALSE,Ray1912,pp.340-341,,east2466,Ceram [various languages of Seram island],nunu1252-1
@@ -23984,11 +23984,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 800,drulúnek ,,FALSE,Blust2021,"pp.24, 30, 31, 37",,nyin1250,Lindrou ,nyin1250-2
 900,drórinek ,,FALSE,Blust2021,"pp.24, 30, 31, 37",,nyin1250,Lindrou ,nyin1250-2
 1000,rawá ,,FALSE,Blust2021,"pp.24, 30, 31, 37",,nyin1250,Lindrou ,nyin1250-2
-1,otutu,,FALSE,LeanSandaun,p.25,SIL Word List (1980). Village: Rawei. ,odia1239,Busa,odia1239-1
-2,tinanaʔ,,FALSE,LeanSandaun,p.25,SIL Word List (1980). Village: Rawei. ,odia1239,Busa,odia1239-1
-3,wurana,,FALSE,LeanSandaun,p.25,SIL Word List (1980). Village: Rawei. ,odia1239,Busa,odia1239-1
-4,aiti,,FALSE,LeanSandaun,p.25,SIL Word List (1980). Village: Rawei. ,odia1239,Busa,odia1239-1
-5,yuve' nati,"not the same as the word for ‘hand’, ‘noh’",FALSE,LeanSandaun,p.25,SIL Word List (1980). Village: Rawei. ,odia1239,Busa,odia1239-1
+1,otutu,,FALSE,LeanSandaun,p.25,SIL Word List (1980). Village: Rawei.,odia1239,Busa,odia1239-1
+2,tinanaʔ,,FALSE,LeanSandaun,p.25,SIL Word List (1980). Village: Rawei.,odia1239,Busa,odia1239-1
+3,wurana,,FALSE,LeanSandaun,p.25,SIL Word List (1980). Village: Rawei.,odia1239,Busa,odia1239-1
+4,aiti,,FALSE,LeanSandaun,p.25,SIL Word List (1980). Village: Rawei.,odia1239,Busa,odia1239-1
+5,yuve' nati,"not the same as the word for ‘hand’, ‘noh’",FALSE,LeanSandaun,p.25,SIL Word List (1980). Village: Rawei.,odia1239,Busa,odia1239-1
 1,ɔtʊtu,,FALSE,Laycock1971D32,p.4632,,odia1239,Busa,odia1239-2
 2,tinɑnɑʔ,,FALSE,Laycock1971D32,p.4632,,odia1239,Busa,odia1239-2
 3,wʊnɑnɑʔ,,FALSE,Laycock1971D32,p.4632,,odia1239,Busa,odia1239-2
@@ -24023,39 +24023,39 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,aatus,,FALSE,Lobel2016,pp.234-239,,okol1241,Kolod,okol1241-1
 200,duo nga atus,,FALSE,Lobel2016,pp.234-239,,okol1241,Kolod,okol1241-1
 1000,maribu,,FALSE,Lobel2016,pp.234-239,,okol1241,Kolod,okol1241-1
-1,tipan,(thumb),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-1,tipana,(thumb),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-2,tipnarip,(index finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-2,lawatipan,(index finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-3,bumrip,(middle finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-4,hatrip,(ring finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-4,hatlip,(ring finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-5,hathat,(little finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-6,dop,(wrist),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-6,dopa,(wrist),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-6,handap,(wrist),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-7,bes,(forearm),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-7,besa,(forearm),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-8,kir,(elbow),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-8,amun,(elbow),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-9,towat,(upper arm),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-10,kat,(shoulder),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-10,kata,(shoulder),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-11,gwel,(neck),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-12,nat,(ear),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-12,nata,(ear),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-13,kin,(eye),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-13,kina,(eye),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-14,rum,(nose),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-14,ruma,(nose),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-15,tan-kin,(other eye),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-16,tan-nat,(other ear),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-22,tan-dop,(other wrist),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-23,tan-hathat,(other little finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-24,tan-hatrip,(other ring finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-25,tan-bumrip,(other middle finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-26,tan-tipnarip,(other index finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
-27,tan-tipan,(other thumb),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume. ",oksa1245,Oksapmin (from CSQs),oksa1245-1
+1,tipan,(thumb),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+1,tipana,(thumb),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+2,tipnarip,(index finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+2,lawatipan,(index finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+3,bumrip,(middle finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+4,hatrip,(ring finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+4,hatlip,(ring finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+5,hathat,(little finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+6,dop,(wrist),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+6,dopa,(wrist),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+6,handap,(wrist),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+7,bes,(forearm),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+7,besa,(forearm),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+8,kir,(elbow),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+8,amun,(elbow),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+9,towat,(upper arm),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+10,kat,(shoulder),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+10,kata,(shoulder),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+11,gwel,(neck),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+12,nat,(ear),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+12,nata,(ear),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+13,kin,(eye),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+13,kina,(eye),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+14,rum,(nose),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+14,ruma,(nose),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+15,tan-kin,(other eye),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+16,tan-nat,(other ear),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+22,tan-dop,(other wrist),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+23,tan-hathat,(other little finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+24,tan-hatrip,(other ring finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+25,tan-bumrip,(other middle finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+26,tan-tipnarip,(other index finger),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
+27,tan-tipan,(other thumb),FALSE,LeanSandaun,p.50,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",oksa1245,Oksapmin (from CSQs),oksa1245-1
 1,tit,,FALSE,LeanSandaun,p.50,SIL Word List (1968).,oksa1245,Oksapmin (from SIL word list),oksa1245-2
 1,titpokwi,,FALSE,LeanSandaun,p.50,SIL Word List (1968).,oksa1245,Oksapmin (from SIL word list),oksa1245-2
 2,yota,,FALSE,LeanSandaun,p.50,SIL Word List (1968).,oksa1245,Oksapmin (from SIL word list),oksa1245-2
@@ -24434,11 +24434,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,sɑmpək sɑmpək ᵐbɑy,,FALSE,Laycock1970D04,p.498,,pagi1244,Pagei,pagi1244-1
 6,sɑmpək sɑmpək sɑmpək,,FALSE,Laycock1970D04,p.498,,pagi1244,Pagei,pagi1244-1
 10,yɛlmundey,"planti [i.e., ‘many’]",FALSE,Laycock1970D04,p.498,,pagi1244,Pagei,pagi1244-1
-1,mai,,FALSE,LeanSandaun,p.16,SIL Word List (1980). Village: Imbrinis. ,pagi1244,Pagi,pagi1244-2
-2,sampla,,FALSE,LeanSandaun,p.16,SIL Word List (1980). Village: Imbrinis. ,pagi1244,Pagi,pagi1244-2
-3,sampla mai,2 + 1,FALSE,LeanSandaun,p.16,SIL Word List (1980). Village: Imbrinis. ,pagi1244,Pagi,pagi1244-2
-4,sampla sampla,2 + 2,FALSE,LeanSandaun,p.16,SIL Word List (1980). Village: Imbrinis. ,pagi1244,Pagi,pagi1244-2
-5,sampla sampla mai,2 + 2 + 1,FALSE,LeanSandaun,p.16,SIL Word List (1980). Village: Imbrinis. ,pagi1244,Pagi,pagi1244-2
+1,mai,,FALSE,LeanSandaun,p.16,SIL Word List (1980). Village: Imbrinis.,pagi1244,Pagi,pagi1244-2
+2,sampla,,FALSE,LeanSandaun,p.16,SIL Word List (1980). Village: Imbrinis.,pagi1244,Pagi,pagi1244-2
+3,sampla mai,2 + 1,FALSE,LeanSandaun,p.16,SIL Word List (1980). Village: Imbrinis.,pagi1244,Pagi,pagi1244-2
+4,sampla sampla,2 + 2,FALSE,LeanSandaun,p.16,SIL Word List (1980). Village: Imbrinis.,pagi1244,Pagi,pagi1244-2
+5,sampla sampla mai,2 + 2 + 1,FALSE,LeanSandaun,p.16,SIL Word List (1980). Village: Imbrinis.,pagi1244,Pagi,pagi1244-2
 1,moedoe moi,,FALSE,Stokhof1980Vol2,p.198,,pagu1249,Pagu,pagu1249-1
 2,modidi,,FALSE,Stokhof1980Vol2,p.198,,pagu1249,Pagu,pagu1249-1
 3,mange,,FALSE,Stokhof1980Vol2,p.198,,pagu1249,Pagu,pagu1249-1
@@ -24778,7 +24778,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,vige vilu,‘hand(s) half’,FALSE,LeanMorobe,p.36,IMP/SIL Questionnaire (1978). Patep dialect.,pate1247,Mumeng (Patep dialect),pate1247-2
 6,vige vilu di seʔ ti,‘hand(s) half and cross-over-to one’,FALSE,LeanMorobe,p.36,IMP/SIL Questionnaire (1978). Patep dialect.,pate1247,Mumeng (Patep dialect),pate1247-2
 7,vige vilu di seʔ yuu,,FALSE,LeanMorobe,p.36,IMP/SIL Questionnaire (1978). Patep dialect.,pate1247,Mumeng (Patep dialect),pate1247-2
-8,vige vilu di seʔ yon, ,FALSE,LeanMorobe,p.36,IMP/SIL Questionnaire (1978). Patep dialect.,pate1247,Mumeng (Patep dialect),pate1247-2
+8,vige vilu di seʔ yon,,FALSE,LeanMorobe,p.36,IMP/SIL Questionnaire (1978). Patep dialect.,pate1247,Mumeng (Patep dialect),pate1247-2
 9,vige vilu di seʔ yuu di yuu,,FALSE,LeanMorobe,p.36,IMP/SIL Questionnaire (1978). Patep dialect.,pate1247,Mumeng (Patep dialect),pate1247-2
 10,vige yuu,‘hand(s) two’,FALSE,LeanMorobe,p.36,IMP/SIL Questionnaire (1978). Patep dialect.,pate1247,Mumeng (Patep dialect),pate1247-2
 15,vige yuu di vixa vilu,‘hand(s) two and feet half’,FALSE,LeanMorobe,p.36,IMP/SIL Questionnaire (1978). Patep dialect.,pate1247,Mumeng (Patep dialect),pate1247-2
@@ -25584,7 +25584,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,iairi,,FALSE,Lean1986Vol11,p.37,1 CSQ (Ara'ava Community School).,pura1257,Purari (Ara'ava Community School),pura1257-2
 4,leao mo leao mo,2 + 2,FALSE,Lean1986Vol11,p.37,1 CSQ (Ara'ava Community School).,pura1257,Purari (Ara'ava Community School),pura1257-2
 5,eve mekai monou,,FALSE,Lean1986Vol11,p.37,1 CSQ (Ara'ava Community School).,pura1257,Purari (Ara'ava Community School),pura1257-2
-10,eve mekai leako ,‘eve’ = ‘hand’; ‘mekai’ = ‘half’,FALSE,Lean1986Vol11,p.37,1 CSQ (Ara'ava Community School).,pura1257,Purari (Ara'ava Community School),pura1257-2
+10,eve mekai leako,‘eve’ = ‘hand’; ‘mekai’ = ‘half’,FALSE,Lean1986Vol11,p.37,1 CSQ (Ara'ava Community School).,pura1257,Purari (Ara'ava Community School),pura1257-2
 15,eve leako ari mekai monou,‘hand(s) two foot half one’,FALSE,Lean1986Vol11,p.37,1 CSQ (Ara'ava Community School).,pura1257,Purari (Ara'ava Community School),pura1257-2
 20,eve leako mo ari leako,‘hand(s) two feet two’,FALSE,Lean1986Vol11,p.37,1 CSQ (Ara'ava Community School).,pura1257,Purari (Ara'ava Community School),pura1257-2
 1,monou,,FALSE,Lean1986Vol11,p.37,SIL Word List (1975). Village: Kapai.,pura1257,Purari (Kapai village),pura1257-3
@@ -26053,7 +26053,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 6,kande-gula gidembolo-gula-nangge,,FALSE,LeanMadang,p.71,1 CSQ. Village: Guhu.,rawa1267,Rawa (Guhu village),rawa1267-1
 7,kande-gula gidembolo-elaya,,FALSE,LeanMadang,p.71,1 CSQ. Village: Guhu.,rawa1267,Rawa (Guhu village),rawa1267-1
 10,kande-ela,,FALSE,LeanMadang,p.71,1 CSQ. Village: Guhu.,rawa1267,Rawa (Guhu village),rawa1267-1
-20,oni biga,‘man die’ ,FALSE,LeanMadang,p.71,1 CSQ. Village: Guhu.,rawa1267,Rawa (Guhu village),rawa1267-1
+20,oni biga,‘man die’,FALSE,LeanMadang,p.71,1 CSQ. Village: Guhu.,rawa1267,Rawa (Guhu village),rawa1267-1
 1,gura-nangge,,FALSE,LeanMadang,p.71,IMP/SIL (1978); SIL Word List (1964). Village: Tauta.,rawa1267,Rawa (Tauta village),rawa1267-2
 2,eraya,,FALSE,LeanMadang,p.71,IMP/SIL (1978); SIL Word List (1964). Village: Tauta.,rawa1267,Rawa (Tauta village),rawa1267-2
 2,era'ya,,FALSE,LeanMadang,p.71,IMP/SIL (1978); SIL Word List (1964). Village: Tauta.,rawa1267,Rawa (Tauta village),rawa1267-2
@@ -26833,7 +26833,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 13,Mapuḷo tělu,,FALSE,Stokhof1982Vol4,pp.74-75,,sang1336,"Sangir: Enemawira, Tabukan dialect",sang1336-2
 14,Mapuḷo ěpạ,,FALSE,Stokhof1982Vol4,pp.74-75,,sang1336,"Sangir: Enemawira, Tabukan dialect",sang1336-2
 15,Mapuḷo ḷima,,FALSE,Stokhof1982Vol4,pp.74-75,,sang1336,"Sangir: Enemawira, Tabukan dialect",sang1336-2
-16,Mapuḷo ěnoeng ,,FALSE,Stokhof1982Vol4,pp.74-75,,sang1336,"Sangir: Enemawira, Tabukan dialect",sang1336-2
+16,Mapuḷo ěnoeng,,FALSE,Stokhof1982Vol4,pp.74-75,,sang1336,"Sangir: Enemawira, Tabukan dialect",sang1336-2
 17,Mapuḷo pitoe,,FALSE,Stokhof1982Vol4,pp.74-75,,sang1336,"Sangir: Enemawira, Tabukan dialect",sang1336-2
 18,Mapuḷo uaḷoe,,FALSE,Stokhof1982Vol4,pp.74-75,,sang1336,"Sangir: Enemawira, Tabukan dialect",sang1336-2
 19,Mapuḷo sio,,FALSE,Stokhof1982Vol4,pp.74-75,,sang1336,"Sangir: Enemawira, Tabukan dialect",sang1336-2
@@ -26998,7 +26998,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 7,pitoe,,FALSE,Stokhof1982Vol4,pp.88-89,,sang1336,Sangir: Taruna dialect,sang1336-6
 8,oeaḷoe,,FALSE,Stokhof1982Vol4,pp.88-89,,sang1336,Sangir: Taruna dialect,sang1336-6
 9,sio,,FALSE,Stokhof1982Vol4,pp.88-89,,sang1336,Sangir: Taruna dialect,sang1336-6
-10,mapoeḷo ,,FALSE,Stokhof1982Vol4,pp.88-89,,sang1336,Sangir: Taruna dialect,sang1336-6
+10,mapoeḷo,,FALSE,Stokhof1982Vol4,pp.88-89,,sang1336,Sangir: Taruna dialect,sang1336-6
 11,mapoeḷo ěsa,,FALSE,Stokhof1982Vol4,pp.88-89,,sang1336,Sangir: Taruna dialect,sang1336-6
 12,mapoeḷo doea,,FALSE,Stokhof1982Vol4,pp.88-89,,sang1336,Sangir: Taruna dialect,sang1336-6
 13,mapoeḷo teloe,,FALSE,Stokhof1982Vol4,pp.88-89,,sang1336,Sangir: Taruna dialect,sang1336-6
@@ -27860,25 +27860,25 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,bolok ngerek,‘all of only the hands’,FALSE,LeanMorobe,p.17,"5 CSQs. Villages: Kondolop, Satop (North d.); Indum (South d.).",sele1250,Selepet (from CSQs),sele1250-2
 20,lok konok (ngerek),‘man one (all)’,FALSE,LeanMorobe,p.17,"5 CSQs. Villages: Kondolop, Satop (North d.); Indum (South d.).",sele1250,Selepet (from CSQs),sele1250-2
 40,lok yogop ngerek,,FALSE,LeanMorobe,p.17,"5 CSQs. Villages: Kondolop, Satop (North d.); Indum (South d.).",sele1250,Selepet (from CSQs),sele1250-2
-1,konok,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-2,yohop,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-3,kalimbu,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-4,imbot,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-5,botnombot,"‘hand half (or part, side)’",FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-5,mome,‘thumb’,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-6,nombolon konok,"‘at the side one’, or ‘one at the side’",FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-7,nombolon yohop,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-8,nombolon kalimbu,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-9,nombolon imbot,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-10,bolok ngerek,‘all of only the hands’,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-11,koion konok,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-12,koion yohop,‘at the foot two’ or ‘two at the foot’,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-15,koion botnobot,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-16,koi nombotgen konok,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-17,koi nombotgen yohop,‘at the other foot two’ or ‘two at the other foot’,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-20,lok konok ngerek,"‘man one all’, i.e. ‘all of one man’",FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-40,lok yohop ngerek,‘man two all’ or ‘all of two men’,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
-44,lok yohop ngerek lok olohot imbot,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51). ",sele1250,Selepet (from IMP/SIL),sele1250-3
+1,konok,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+2,yohop,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+3,kalimbu,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+4,imbot,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+5,botnombot,"‘hand half (or part, side)’",FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+5,mome,‘thumb’,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+6,nombolon konok,"‘at the side one’, or ‘one at the side’",FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+7,nombolon yohop,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+8,nombolon kalimbu,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+9,nombolon imbot,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+10,bolok ngerek,‘all of only the hands’,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+11,koion konok,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+12,koion yohop,‘at the foot two’ or ‘two at the foot’,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+15,koion botnobot,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+16,koi nombotgen konok,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+17,koi nombotgen yohop,‘at the other foot two’ or ‘two at the other foot’,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+20,lok konok ngerek,"‘man one all’, i.e. ‘all of one man’",FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+40,lok yohop ngerek,‘man two all’ or ‘all of two men’,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
+44,lok yohop ngerek lok olohot imbot,,FALSE,LeanMorobe,pp.16-17,"IMP/SIL (1978); McElhanon (1972, pp.50-51).",sele1250,Selepet (from IMP/SIL),sele1250-3
 1,saaʔ,,FALSE,Lobel2016,pp.234-239,,selu1243,Tingalan (western),selu1243-1
 1,doonoʔ,,FALSE,Lobel2016,pp.234-239,,selu1243,Tingalan (western),selu1243-1
 2,duo,,FALSE,Lobel2016,pp.234-239,,selu1243,Tingalan (western),selu1243-1
@@ -28304,12 +28304,12 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,himolo,,FALSE,Conrad1975,pp.21-24,,siaw1243,Musan,siaw1243-1
 3,ľuweľo,,FALSE,Conrad1975,pp.21-24,,siaw1243,Musan,siaw1243-1
 4,katukwiʌľo,,FALSE,Conrad1975,pp.21-24,,siaw1243,Musan,siaw1243-1
-1,samoʔ,,FALSE,LeanSandaun,p.29,SIL Word List (undated). Village: Seiawi. ,siaw1243,Musian,siaw1243-2
-2,himolo,,FALSE,LeanSandaun,p.29,SIL Word List (undated). Village: Seiawi. ,siaw1243,Musian,siaw1243-2
-3,luwelo,,FALSE,LeanSandaun,p.29,SIL Word List (undated). Village: Seiawi. ,siaw1243,Musian,siaw1243-2
-4,katukwialo,,FALSE,LeanSandaun,p.29,SIL Word List (undated). Village: Seiawi. ,siaw1243,Musian,siaw1243-2
-5,katilo,The word list gives ‘ka’ for ‘hand’ and it may be that this morpheme appears in the number word for 5 (and also for 4),FALSE,LeanSandaun,p.29,SIL Word List (undated). Village: Seiawi. ,siaw1243,Musian,siaw1243-2
-10,ʔogwalo,,FALSE,LeanSandaun,p.29,SIL Word List (undated). Village: Seiawi. ,siaw1243,Musian,siaw1243-2
+1,samoʔ,,FALSE,LeanSandaun,p.29,SIL Word List (undated). Village: Seiawi.,siaw1243,Musian,siaw1243-2
+2,himolo,,FALSE,LeanSandaun,p.29,SIL Word List (undated). Village: Seiawi.,siaw1243,Musian,siaw1243-2
+3,luwelo,,FALSE,LeanSandaun,p.29,SIL Word List (undated). Village: Seiawi.,siaw1243,Musian,siaw1243-2
+4,katukwialo,,FALSE,LeanSandaun,p.29,SIL Word List (undated). Village: Seiawi.,siaw1243,Musian,siaw1243-2
+5,katilo,The word list gives ‘ka’ for ‘hand’ and it may be that this morpheme appears in the number word for 5 (and also for 4),FALSE,LeanSandaun,p.29,SIL Word List (undated). Village: Seiawi.,siaw1243,Musian,siaw1243-2
+10,ʔogwalo,,FALSE,LeanSandaun,p.29,SIL Word List (undated). Village: Seiawi.,siaw1243,Musian,siaw1243-2
 1,nau,,FALSE,Lean1985Vol03,p.64,"5 CSQs. Villages: Momoganali, Sianeki, Panam.",sibe1248,Nagovisi,sibe1248-1
 2,keuka,,FALSE,Lean1985Vol03,p.64,"5 CSQs. Villages: Momoganali, Sianeki, Panam.",sibe1248,Nagovisi,sibe1248-1
 3,wekago,,FALSE,Lean1985Vol03,p.64,"5 CSQs. Villages: Momoganali, Sianeki, Panam.",sibe1248,Nagovisi,sibe1248-1
@@ -28507,11 +28507,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,erɑŋɑ tuku,,FALSE,Daniels2014Item331,p.34,,sile1255,Sirva,sile1255-2
 1,mususʌ,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,sile1255,Sileibi,sile1255-3
 2,ɛːraŋ,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,sile1255,Sileibi,sile1255-3
-1,bokiev,,FALSE,LeanSandaun,p.34,SIL Word List (1980). Village: Seleput. ,sili1247,Siliput,sili1247-1
-2,wurikin,,FALSE,LeanSandaun,p.34,SIL Word List (1980). Village: Seleput. ,sili1247,Siliput,sili1247-1
-3,wurbouk,It is uncertain whether 3 is a distinct numeral or whether it is an amalgam of 2 and 1,FALSE,LeanSandaun,p.34,SIL Word List (1980). Village: Seleput. ,sili1247,Siliput,sili1247-1
-4,wurikina wurikin,2 + 2,FALSE,LeanSandaun,p.34,SIL Word List (1980). Village: Seleput. ,sili1247,Siliput,sili1247-1
-5,betok,not identical to the word for ‘hand’: ‘lang’,FALSE,LeanSandaun,p.34,SIL Word List (1980). Village: Seleput. ,sili1247,Siliput,sili1247-1
+1,bokiev,,FALSE,LeanSandaun,p.34,SIL Word List (1980). Village: Seleput.,sili1247,Siliput,sili1247-1
+2,wurikin,,FALSE,LeanSandaun,p.34,SIL Word List (1980). Village: Seleput.,sili1247,Siliput,sili1247-1
+3,wurbouk,It is uncertain whether 3 is a distinct numeral or whether it is an amalgam of 2 and 1,FALSE,LeanSandaun,p.34,SIL Word List (1980). Village: Seleput.,sili1247,Siliput,sili1247-1
+4,wurikina wurikin,2 + 2,FALSE,LeanSandaun,p.34,SIL Word List (1980). Village: Seleput.,sili1247,Siliput,sili1247-1
+5,betok,not identical to the word for ‘hand’: ‘lang’,FALSE,LeanSandaun,p.34,SIL Word List (1980). Village: Seleput.,sili1247,Siliput,sili1247-1
 1,boᵘɡyɛβ,,FALSE,Laycock1967C09,p.52,,sili1247,Siliput,sili1247-2
 2,wr̃ikəŋ,,FALSE,Laycock1967C09,p.52,,sili1247,Siliput,sili1247-2
 3,wr̃i boup,,FALSE,Laycock1967C09,p.52,,sili1247,Siliput,sili1247-2
@@ -29671,11 +29671,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,aatus,,FALSE,Lobel2016,pp.234-239,,sugu1243,Dusun Talantang,sugu1243-1
 200,duvo na atus,,FALSE,Lobel2016,pp.234-239,,sugu1243,Dusun Talantang,sugu1243-1
 1000,oribu,,FALSE,Lobel2016,pp.234-239,,sugu1243,Dusun Talantang,sugu1243-1
-1,nimap,,FALSE,Lean1986Vol12,p.36,1 CSQ. Village: Aewe (Ewe). ,suki1245,Suki,suki1245-1
-2,menes,,FALSE,Lean1986Vol12,p.36,1 CSQ. Village: Aewe (Ewe). ,suki1245,Suki,suki1245-1
-3,menes nimap,2 + 1,FALSE,Lean1986Vol12,p.36,1 CSQ. Village: Aewe (Ewe). ,suki1245,Suki,suki1245-1
-4,menes menes,2 + 2,FALSE,Lean1986Vol12,p.36,1 CSQ. Village: Aewe (Ewe). ,suki1245,Suki,suki1245-1
-5,menes menes nimap,2 + 2 + 1,FALSE,Lean1986Vol12,p.36,1 CSQ. Village: Aewe (Ewe). ,suki1245,Suki,suki1245-1
+1,nimap,,FALSE,Lean1986Vol12,p.36,1 CSQ. Village: Aewe (Ewe).,suki1245,Suki,suki1245-1
+2,menes,,FALSE,Lean1986Vol12,p.36,1 CSQ. Village: Aewe (Ewe).,suki1245,Suki,suki1245-1
+3,menes nimap,2 + 1,FALSE,Lean1986Vol12,p.36,1 CSQ. Village: Aewe (Ewe).,suki1245,Suki,suki1245-1
+4,menes menes,2 + 2,FALSE,Lean1986Vol12,p.36,1 CSQ. Village: Aewe (Ewe).,suki1245,Suki,suki1245-1
+5,menes menes nimap,2 + 2 + 1,FALSE,Lean1986Vol12,p.36,1 CSQ. Village: Aewe (Ewe).,suki1245,Suki,suki1245-1
 1,bisan,,FALSE,Smith1988,p.67,,suku1264,Sukurum,suku1264-1
 2,leluk,,FALSE,Smith1988,p.67,,suku1264,Sukurum,suku1264-1
 3,leluk anga bisan,2 + 1,FALSE,Smith1988,p.67,,suku1264,Sukurum,suku1264-1
@@ -29745,7 +29745,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,aktiek,‘a ktiek’ = ‘a hand’,FALSE,Lean1985Vol04,p.34,IMP Questionnaire. Village: Ganai.,sulk1246,Sulka,sulk1246-1
 6,aktiek hore orom aitiang,‘one hand completed with an extra one’,FALSE,Lean1985Vol04,p.34,IMP Questionnaire. Village: Ganai.,sulk1246,Sulka,sulk1246-1
 7,aktiek hore orom alomin,,FALSE,Lean1985Vol04,p.34,IMP Questionnaire. Village: Ganai.,sulk1246,Sulka,sulk1246-1
-8,aktiek hore orom korlotge ,,FALSE,Lean1985Vol04,p.34,IMP Questionnaire. Village: Ganai.,sulk1246,Sulka,sulk1246-1
+8,aktiek hore orom korlotge,,FALSE,Lean1985Vol04,p.34,IMP Questionnaire. Village: Ganai.,sulk1246,Sulka,sulk1246-1
 9,aktiek hore orom korlolo,,FALSE,Lean1985Vol04,p.34,IMP Questionnaire. Village: Ganai.,sulk1246,Sulka,sulk1246-1
 10,loktiek,‘(article) two hands’,FALSE,Lean1985Vol04,p.34,IMP Questionnaire. Village: Ganai.,sulk1246,Sulka,sulk1246-1
 11,loktiek hore orom aitiang,,FALSE,Lean1985Vol04,p.34,IMP Questionnaire. Village: Ganai.,sulk1246,Sulka,sulk1246-1
@@ -29806,7 +29806,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1,(kes),,FALSE,Lean1985Vol01,p.48,"4 CSQs, 2 IMP. Villages: Hilalon, Himau, Samo, Poronbus.",surs1246,"Sursurunga (Hilalon, Himau, Samo, and Poronbus villages)",surs1246-1
 2,(a) ru,,FALSE,Lean1985Vol01,p.48,"4 CSQs, 2 IMP. Villages: Hilalon, Himau, Samo, Poronbus.",surs1246,"Sursurunga (Hilalon, Himau, Samo, and Poronbus villages)",surs1246-1
 3,(a) tul,,FALSE,Lean1985Vol01,p.48,"4 CSQs, 2 IMP. Villages: Hilalon, Himau, Samo, Poronbus.",surs1246,"Sursurunga (Hilalon, Himau, Samo, and Poronbus villages)",surs1246-1
-4,(a) hat ,,FALSE,Lean1985Vol01,p.48,"4 CSQs, 2 IMP. Villages: Hilalon, Himau, Samo, Poronbus.",surs1246,"Sursurunga (Hilalon, Himau, Samo, and Poronbus villages)",surs1246-1
+4,(a) hat,,FALSE,Lean1985Vol01,p.48,"4 CSQs, 2 IMP. Villages: Hilalon, Himau, Samo, Poronbus.",surs1246,"Sursurunga (Hilalon, Himau, Samo, and Poronbus villages)",surs1246-1
 5,(a) lim,,FALSE,Lean1985Vol01,p.48,"4 CSQs, 2 IMP. Villages: Hilalon, Himau, Samo, Poronbus.",surs1246,"Sursurunga (Hilalon, Himau, Samo, and Poronbus villages)",surs1246-1
 6,(a) won,,FALSE,Lean1985Vol01,p.48,"4 CSQs, 2 IMP. Villages: Hilalon, Himau, Samo, Poronbus.",surs1246,"Sursurunga (Hilalon, Himau, Samo, and Poronbus villages)",surs1246-1
 7,(a) hit,,FALSE,Lean1985Vol01,p.48,"4 CSQs, 2 IMP. Villages: Hilalon, Himau, Samo, Poronbus.",surs1246,"Sursurunga (Hilalon, Himau, Samo, and Poronbus villages)",surs1246-1
@@ -31350,7 +31350,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 27,maakob madi,(little finger),FALSE,LeanSandaun,p.47,IMP/SIL Questionnaire (1978).,tifa1245,Tifal,tifa1245-1
 1,sakai,,FALSE,Lean1985Vol01,p.24,"9 CSQs, 2 IMP, Beaumont (1979, p.105). Villages: Omo, Mongol, Sumuna, Kulangit, Upuas, Enuk, Salapiu, Nonovaul Island.",tiga1245,Tigak (Central dialect),tiga1245-1
 2,pauak,,FALSE,Lean1985Vol01,p.24,"9 CSQs, 2 IMP, Beaumont (1979, p.105). Villages: Omo, Mongol, Sumuna, Kulangit, Upuas, Enuk, Salapiu, Nonovaul Island.",tiga1245,Tigak (Central dialect),tiga1245-1
-3,potul ,,FALSE,Lean1985Vol01,p.24,"9 CSQs, 2 IMP, Beaumont (1979, p.105). Villages: Omo, Mongol, Sumuna, Kulangit, Upuas, Enuk, Salapiu, Nonovaul Island.",tiga1245,Tigak (Central dialect),tiga1245-1
+3,potul,,FALSE,Lean1985Vol01,p.24,"9 CSQs, 2 IMP, Beaumont (1979, p.105). Villages: Omo, Mongol, Sumuna, Kulangit, Upuas, Enuk, Salapiu, Nonovaul Island.",tiga1245,Tigak (Central dialect),tiga1245-1
 4,poiat,,FALSE,Lean1985Vol01,p.24,"9 CSQs, 2 IMP, Beaumont (1979, p.105). Villages: Omo, Mongol, Sumuna, Kulangit, Upuas, Enuk, Salapiu, Nonovaul Island.",tiga1245,Tigak (Central dialect),tiga1245-1
 5,palmit,‘mit-’ = ‘hand’ (‘palmit muan’ = ‘right hand’),FALSE,Lean1985Vol01,p.24,"9 CSQs, 2 IMP, Beaumont (1979, p.105). Villages: Omo, Mongol, Sumuna, Kulangit, Upuas, Enuk, Salapiu, Nonovaul Island.",tiga1245,Tigak (Central dialect),tiga1245-1
 6,palmit sakai,,FALSE,Lean1985Vol01,p.24,"9 CSQs, 2 IMP, Beaumont (1979, p.105). Villages: Omo, Mongol, Sumuna, Kulangit, Upuas, Enuk, Salapiu, Nonovaul Island.",tiga1245,Tigak (Central dialect),tiga1245-1
@@ -32340,7 +32340,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,oewadoe,,FALSE,Stokhof1983Vol7.2,p.86,,tons1240,Tonsea (recorded in Maoembi <Maumbi>),tons1240-3
 9,siow,,FALSE,Stokhof1983Vol7.2,p.86,,tons1240,Tonsea (recorded in Maoembi <Maumbi>),tons1240-3
 10,mapoedȯė,the root is poedȯė = (unit of) ten; the prefix ma (with s short a) means = become.,FALSE,Stokhof1983Vol7.2,p.86,,tons1240,Tonsea (recorded in Maoembi <Maumbi>),tons1240-3
-11,mapoedȯė wo ěsa,"Ěsa becomes sa when the preceding word ends in an a, e, or o. ",FALSE,Stokhof1983Vol7.2,p.86,,tons1240,Tonsea (recorded in Maoembi <Maumbi>),tons1240-3
+11,mapoedȯė wo ěsa,"Ěsa becomes sa when the preceding word ends in an a, e, or o.",FALSE,Stokhof1983Vol7.2,p.86,,tons1240,Tonsea (recorded in Maoembi <Maumbi>),tons1240-3
 12,mapoedȯė wo doea,,FALSE,Stokhof1983Vol7.2,p.86,,tons1240,Tonsea (recorded in Maoembi <Maumbi>),tons1240-3
 13,mapoedȯė wo tědoe,,FALSE,Stokhof1983Vol7.2,p.86,,tons1240,Tonsea (recorded in Maoembi <Maumbi>),tons1240-3
 14,mapoedȯė wo ěpat,"Ěpat can become pat, see above. Read: mapoedȯė wo pat",FALSE,Stokhof1983Vol7.2,p.86,,tons1240,Tonsea (recorded in Maoembi <Maumbi>),tons1240-3
@@ -33106,12 +33106,12 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,Die’aauw,,FALSE,Stokhof1983Vol5.2,p.41,,tung1293,"Tarunggareh, Siriwo and Warenai area",tung1293-3
 5,Nie’a’hoe orre te ha,,FALSE,Stokhof1983Vol5.2,p.41,,tung1293,"Tarunggareh, Siriwo and Warenai area",tung1293-3
 5,nie ha oe horre te ha,,FALSE,Stokhof1983Vol5.2,p.41,,tung1293,"Tarunggareh, Siriwo and Warenai area",tung1293-3
-1,mo'tou,(little finger),FALSE,LeanSandaun,p.48,SIL Word List (1981). Village: Tuware. ,tuwa1242,Tuwari,tuwa1242-1
-2,potonami,(ring finger),FALSE,LeanSandaun,p.48,SIL Word List (1981). Village: Tuware. ,tuwa1242,Tuwari,tuwa1242-1
-3,'towele,(middle finger),FALSE,LeanSandaun,p.48,SIL Word List (1981). Village: Tuware. ,tuwa1242,Tuwari,tuwa1242-1
-4,'saʔanami,(ring finger),FALSE,LeanSandaun,p.48,SIL Word List (1981). Village: Tuware. ,tuwa1242,Tuwari,tuwa1242-1
-5,'senealeteo,(thumb),FALSE,LeanSandaun,p.48,SIL Word List (1981). Village: Tuware. ,tuwa1242,Tuwari,tuwa1242-1
-10,'yeniso,(shoulder),FALSE,LeanSandaun,p.48,SIL Word List (1981). Village: Tuware. ,tuwa1242,Tuwari,tuwa1242-1
+1,mo'tou,(little finger),FALSE,LeanSandaun,p.48,SIL Word List (1981). Village: Tuware.,tuwa1242,Tuwari,tuwa1242-1
+2,potonami,(ring finger),FALSE,LeanSandaun,p.48,SIL Word List (1981). Village: Tuware.,tuwa1242,Tuwari,tuwa1242-1
+3,'towele,(middle finger),FALSE,LeanSandaun,p.48,SIL Word List (1981). Village: Tuware.,tuwa1242,Tuwari,tuwa1242-1
+4,'saʔanami,(ring finger),FALSE,LeanSandaun,p.48,SIL Word List (1981). Village: Tuware.,tuwa1242,Tuwari,tuwa1242-1
+5,'senealeteo,(thumb),FALSE,LeanSandaun,p.48,SIL Word List (1981). Village: Tuware.,tuwa1242,Tuwari,tuwa1242-1
+10,'yeniso,(shoulder),FALSE,LeanSandaun,p.48,SIL Word List (1981). Village: Tuware.,tuwa1242,Tuwari,tuwa1242-1
 1,ohá,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
 2,duá,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
 3,tuló,,FALSE,Vanoverbergh1937,"pp.114, 120",,tuwa1243,Ifugaw (Kiangan dialect),tuwa1243-1
@@ -33626,7 +33626,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,wiei,,FALSE,LeanSandaun,p.40,2 CSQs. Village: Lemieng.,valm1241,Valman,valm1241-2
 3,wiei ngo,2 + 1,FALSE,LeanSandaun,p.40,2 CSQs. Village: Lemieng.,valm1241,Valman,valm1241-2
 4,wiei wiei,2 + 2,FALSE,LeanSandaun,p.40,2 CSQs. Village: Lemieng.,valm1241,Valman,valm1241-2
-5,klakolun,Klaffl and Vormann (1905) gives ‘klago’ to mean ‘arm’ ,FALSE,LeanSandaun,p.40,2 CSQs. Village: Lemieng.,valm1241,Valman,valm1241-2
+5,klakolun,Klaffl and Vormann (1905) gives ‘klago’ to mean ‘arm’,FALSE,LeanSandaun,p.40,2 CSQs. Village: Lemieng.,valm1241,Valman,valm1241-2
 10,klakolun-klakolun,5 + 5,FALSE,LeanSandaun,p.40,2 CSQs. Village: Lemieng.,valm1241,Valman,valm1241-2
 1,alpa,,FALSE,Ray1919,p.330,,valm1241,Valman,valm1241-3
 2,viei,,FALSE,Ray1919,p.330,,valm1241,Valman,valm1241-3
@@ -34416,18 +34416,18 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1,mungwasal,,FALSE,LeanSandaun,p.17,IMP/SIL Questionnaire (1978).,wari1266,Waris (from IMP/SIL),wari1266-4
 2,sambla,,FALSE,LeanSandaun,p.17,IMP/SIL Questionnaire (1978).,wari1266,Waris (from IMP/SIL),wari1266-4
 3,samblamunk,2 + 1,FALSE,LeanSandaun,p.17,IMP/SIL Questionnaire (1978).,wari1266,Waris (from IMP/SIL),wari1266-4
-4,sambla sambla ,2 + 2,FALSE,LeanSandaun,p.17,IMP/SIL Questionnaire (1978).,wari1266,Waris (from IMP/SIL),wari1266-4
+4,sambla sambla,2 + 2,FALSE,LeanSandaun,p.17,IMP/SIL Questionnaire (1978).,wari1266,Waris (from IMP/SIL),wari1266-4
 5,sambla sambla munk,2 + 2 + 1,FALSE,LeanSandaun,p.17,IMP/SIL Questionnaire (1978).,wari1266,Waris (from IMP/SIL),wari1266-4
 5,engala,‘hand’,FALSE,LeanSandaun,p.17,IMP/SIL Questionnaire (1978).,wari1266,Waris (from IMP/SIL),wari1266-4
 10,engala-mungala,‘hand-foot’,FALSE,LeanSandaun,p.17,IMP/SIL Questionnaire (1978).,wari1266,Waris (from IMP/SIL),wari1266-4
-15,engala-mungala-engala,‘hand-foot-hand’ ,FALSE,LeanSandaun,p.17,IMP/SIL Questionnaire (1978).,wari1266,Waris (from IMP/SIL),wari1266-4
+15,engala-mungala-engala,‘hand-foot-hand’,FALSE,LeanSandaun,p.17,IMP/SIL Questionnaire (1978).,wari1266,Waris (from IMP/SIL),wari1266-4
 20,engala-mungala-engala-mungala,‘hand-foot-hand-foot’,FALSE,LeanSandaun,p.17,IMP/SIL Questionnaire (1978).,wari1266,Waris (from IMP/SIL),wari1266-4
-1,mongal,,FALSE,LeanSandaun,p.17,SIL Word List (1980). ,wari1266,Waris (from SIL word list),wari1266-5
-2,sampla,,FALSE,LeanSandaun,p.17,SIL Word List (1980). ,wari1266,Waris (from SIL word list),wari1266-5
-3,samblamongk,2 + 1,FALSE,LeanSandaun,p.17,SIL Word List (1980). ,wari1266,Waris (from SIL word list),wari1266-5
-4,sambla sambla,2 + 2,FALSE,LeanSandaun,p.17,SIL Word List (1980). ,wari1266,Waris (from SIL word list),wari1266-5
-5,sambla sambla mongk,2 + 2 + 1,FALSE,LeanSandaun,p.17,SIL Word List (1980). ,wari1266,Waris (from SIL word list),wari1266-5
-10,engla sambla,‘hand(s) two’,FALSE,LeanSandaun,p.17,SIL Word List (1980). ,wari1266,Waris (from SIL word list),wari1266-5
+1,mongal,,FALSE,LeanSandaun,p.17,SIL Word List (1980).,wari1266,Waris (from SIL word list),wari1266-5
+2,sampla,,FALSE,LeanSandaun,p.17,SIL Word List (1980).,wari1266,Waris (from SIL word list),wari1266-5
+3,samblamongk,2 + 1,FALSE,LeanSandaun,p.17,SIL Word List (1980).,wari1266,Waris (from SIL word list),wari1266-5
+4,sambla sambla,2 + 2,FALSE,LeanSandaun,p.17,SIL Word List (1980).,wari1266,Waris (from SIL word list),wari1266-5
+5,sambla sambla mongk,2 + 2 + 1,FALSE,LeanSandaun,p.17,SIL Word List (1980).,wari1266,Waris (from SIL word list),wari1266-5
+10,engla sambla,‘hand(s) two’,FALSE,LeanSandaun,p.17,SIL Word List (1980).,wari1266,Waris (from SIL word list),wari1266-5
 1,bósiò,,FALSE,Galis1955,p.140,,waro1242,Waropen,waro1242-1
 1,wosiò,,FALSE,Galis1955,p.140,,waro1242,Waropen,waro1242-1
 2,bóruò,,FALSE,Galis1955,p.140,,waro1242,Waropen,waro1242-1
@@ -35116,7 +35116,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,pongi,(joint ?),FALSE,Lean1986Vol10,p.49,7 CSQs. (Villages in Pangia Sub-Province).,wiru1244,Wiru (body-part tally-system),wiru1244-2
 10,noi,(forearm),FALSE,Lean1986Vol10,p.49,7 CSQs. (Villages in Pangia Sub-Province).,wiru1244,Wiru (body-part tally-system),wiru1244-2
 11,noi tuku,(elbow),FALSE,Lean1986Vol10,p.49,7 CSQs. (Villages in Pangia Sub-Province).,wiru1244,Wiru (body-part tally-system),wiru1244-2
-12,aileme ,(upper arm),FALSE,Lean1986Vol10,p.49,7 CSQs. (Villages in Pangia Sub-Province).,wiru1244,Wiru (body-part tally-system),wiru1244-2
+12,aileme,(upper arm),FALSE,Lean1986Vol10,p.49,7 CSQs. (Villages in Pangia Sub-Province).,wiru1244,Wiru (body-part tally-system),wiru1244-2
 13,koromane,(below shoulder),FALSE,Lean1986Vol10,p.49,7 CSQs. (Villages in Pangia Sub-Province).,wiru1244,Wiru (body-part tally-system),wiru1244-2
 14,wangene,(shoulder),FALSE,Lean1986Vol10,p.49,7 CSQs. (Villages in Pangia Sub-Province).,wiru1244,Wiru (body-part tally-system),wiru1244-2
 15,kalambe,(upper shoulder),FALSE,Lean1986Vol10,p.49,7 CSQs. (Villages in Pangia Sub-Province).,wiru1244,Wiru (body-part tally-system),wiru1244-2
@@ -35512,17 +35512,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,'wəlyə'mplaako,two hands,FALSE,Smith1988,p.102,,yagw1240,Yagwoia,yagw1240-1
 15,hyulə wəlyəmpu,hands and foot,FALSE,Smith1988,p.102,,yagw1240,Yagwoia,yagw1240-1
 20,apni,man,FALSE,Smith1988,p.102,,yagw1240,Yagwoia,yagw1240-1
-1,numusuku,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo. ,yaha1247,Yahang,yaha1247-1
-2,kolou,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo. ,yaha1247,Yahang,yaha1247-1
-3,kololomu,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo. ,yaha1247,Yahang,yaha1247-1
-4,kolikolou,2 + 2,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo. ,yaha1247,Yahang,yaha1247-1
-5,wom nateng,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo. ,yaha1247,Yahang,yaha1247-1
-6,nor nateng numu,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo. ,yaha1247,Yahang,yaha1247-1
-7,nor nateng kolou,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo. ,yaha1247,Yahang,yaha1247-1
-8,nor nateng kololomu,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo. ,yaha1247,Yahang,yaha1247-1
-9,nor nateng kolikolou,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo. ,yaha1247,Yahang,yaha1247-1
-10,kolou nateng,‘two hand(s)’,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo. ,yaha1247,Yahang,yaha1247-1
-20,kolou nateng kolou inding,"‘two hand(s), two feet’",FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo. ,yaha1247,Yahang,yaha1247-1
+1,numusuku,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo.,yaha1247,Yahang,yaha1247-1
+2,kolou,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo.,yaha1247,Yahang,yaha1247-1
+3,kololomu,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo.,yaha1247,Yahang,yaha1247-1
+4,kolikolou,2 + 2,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo.,yaha1247,Yahang,yaha1247-1
+5,wom nateng,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo.,yaha1247,Yahang,yaha1247-1
+6,nor nateng numu,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo.,yaha1247,Yahang,yaha1247-1
+7,nor nateng kolou,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo.,yaha1247,Yahang,yaha1247-1
+8,nor nateng kololomu,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo.,yaha1247,Yahang,yaha1247-1
+9,nor nateng kolikolou,,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo.,yaha1247,Yahang,yaha1247-1
+10,kolou nateng,‘two hand(s)’,FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo.,yaha1247,Yahang,yaha1247-1
+20,kolou nateng kolou inding,"‘two hand(s), two feet’",FALSE,LeanSandaun,p.36,2 CSQs. Village: Namblo.,yaha1247,Yahang,yaha1247-1
 1,noumʊn,,FALSE,Laycock1967C11,p.11,,yaha1247,Yahang,yaha1247-2
 2,kɔlou,,FALSE,Laycock1967C11,p.11,,yaha1247,Yahang,yaha1247-2
 3,kɔlou lʊmʊn,,FALSE,Laycock1967C11,p.11,,yaha1247,Yahang,yaha1247-2
@@ -35582,12 +35582,12 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,teľɛʔ,,FALSE,Conrad1975,pp.26-29,,yale1246,Nagatiman,yale1246-1
 3,ʔaʋnʌʔ,,FALSE,Conrad1975,pp.26-29,,yale1246,Nagatiman,yale1246-1
 4,niľinʌʔ,,FALSE,Conrad1975,pp.26-29,,yale1246,Nagatiman,yale1246-1
-1,zuwaʔ,,FALSE,LeanSandaun,p.24,SIL Word List (1972). Village: Dila. ,yale1246,Nagatman,yale1246-2
-2,teleʔ,,FALSE,LeanSandaun,p.24,SIL Word List (1972). Village: Dila. ,yale1246,Nagatman,yale1246-2
-3,ʔaunaʔ,,FALSE,LeanSandaun,p.24,SIL Word List (1972). Village: Dila. ,yale1246,Nagatman,yale1246-2
-4,nilinaʔ,,FALSE,LeanSandaun,p.24,SIL Word List (1972). Village: Dila. ,yale1246,Nagatman,yale1246-2
-5,tubaliʔ,,FALSE,LeanSandaun,p.24,SIL Word List (1972). Village: Dila. ,yale1246,Nagatman,yale1246-2
-10,wurzaʔ,,FALSE,LeanSandaun,p.24,SIL Word List (1972). Village: Dila. ,yale1246,Nagatman,yale1246-2
+1,zuwaʔ,,FALSE,LeanSandaun,p.24,SIL Word List (1972). Village: Dila.,yale1246,Nagatman,yale1246-2
+2,teleʔ,,FALSE,LeanSandaun,p.24,SIL Word List (1972). Village: Dila.,yale1246,Nagatman,yale1246-2
+3,ʔaunaʔ,,FALSE,LeanSandaun,p.24,SIL Word List (1972). Village: Dila.,yale1246,Nagatman,yale1246-2
+4,nilinaʔ,,FALSE,LeanSandaun,p.24,SIL Word List (1972). Village: Dila.,yale1246,Nagatman,yale1246-2
+5,tubaliʔ,,FALSE,LeanSandaun,p.24,SIL Word List (1972). Village: Dila.,yale1246,Nagatman,yale1246-2
+10,wurzaʔ,,FALSE,LeanSandaun,p.24,SIL Word List (1972). Village: Dila.,yale1246,Nagatman,yale1246-2
 1,dʒuwɑ,,FALSE,Laycock1971D32,p.4588,,yale1246,Nagatman (Yale),yale1246-3
 2,teⁱrɛ,,FALSE,Laycock1971D32,p.4588,,yale1246,Nagatman (Yale),yale1246-3
 3,ɑunɑ,,FALSE,Laycock1971D32,p.4588,,yale1246,Nagatman (Yale),yale1246-3
@@ -35733,7 +35733,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,"mban amnok am, mbaẹü zamnok am takas",cf. Kawenak,FALSE,Drabbe1963,p.105,,yaos1235,Asmat (Keenakap),yaos1235-2
 1,diaqand,,FALSE,Galis1955,p.168,,yaqa1246,Jaqay,yaqa1246-1
 2,qajaqamaère,,FALSE,Galis1955,p.168,,yaqa1246,Jaqay,yaqa1246-1
-3,amara-diaqand-amara-qajaqamaére ,,FALSE,Galis1955,p.168,,yaqa1246,Jaqay,yaqa1246-1
+3,amara-diaqand-amara-qajaqamaére,,FALSE,Galis1955,p.168,,yaqa1246,Jaqay,yaqa1246-1
 4,qajaqamaére-qajaqamaère,,FALSE,Galis1955,p.168,,yaqa1246,Jaqay,yaqa1246-1
 1,jɑɣɑnd,,FALSE,Kriens2010,pp.48-49,,yaqa1246,Yaqay: Kogo,yaqa1246-2
 2,xɑjɑɣɑmɑr,,FALSE,Kriens2010,pp.48-49,,yaqa1246,Yaqay: Kogo,yaqa1246-2
@@ -35903,22 +35903,22 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,loveki loveki,,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,yawe1241,Yabiyufa,yawe1241-1
 5,lade maloka suvoko,,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,yawe1241,Yabiyufa,yawe1241-1
 10,lade maloka maloka suvoko,,FALSE,Scott1978,"pp.181, 182, 188, 193, 194",,yawe1241,Yabiyufa,yawe1241-1
-1,mako,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-1,makoko,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-2,lowe,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-2,love,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-3,loweki makoki,2 + 1,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-4,loweki loweki,2 + 2,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-5,ade maloka suwoko,‘hand half (or part) finished’,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-6,ade maloka suwoko mako,‘hand half finished one’ or ‘hand side finished one’,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-7,ade maloka suwoko lowe,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-8,ade maloka suwoko loweki makoki,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-9,ade maloka suwoko loweki loweki,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-10,ade lowe suwoko,‘hand(s) two finished’,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-15,ade lowe suwoko ine maloka,‘hands two finished foot side’,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-20,ade(ne) lowe suwoko ine lowe suwoko,‘hands two finished feet two finished’,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-100,owo,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
-200,owo lowe,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa. ",yawe1241,Yabiyufa ,yawe1241-2
+1,mako,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+1,makoko,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+2,lowe,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+2,love,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+3,loweki makoki,2 + 1,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+4,loweki loweki,2 + 2,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+5,ade maloka suwoko,‘hand half (or part) finished’,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+6,ade maloka suwoko mako,‘hand half finished one’ or ‘hand side finished one’,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+7,ade maloka suwoko lowe,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+8,ade maloka suwoko loweki makoki,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+9,ade maloka suwoko loweki loweki,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+10,ade lowe suwoko,‘hand(s) two finished’,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+15,ade lowe suwoko ine maloka,‘hands two finished foot side’,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+20,ade(ne) lowe suwoko ine lowe suwoko,‘hands two finished feet two finished’,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+100,owo,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
+200,owo lowe,,FALSE,Lean1986Vol08,p.21,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",yawe1241,Yabiyufa,yawe1241-2
 1,ma'koko,,FALSE,Lean1986Vol08,p.21,S.I.L word list (1965). Village: Masumave.,yawe1241,Yabiyufa (Masumave village),yawe1241-3
 2,'yove,,FALSE,Lean1986Vol08,p.21,S.I.L word list (1965). Village: Masumave.,yawe1241,Yabiyufa (Masumave village),yawe1241-3
 3,love ma'koi,2 + 1,FALSE,Lean1986Vol08,p.21,S.I.L word list (1965). Village: Masumave.,yawe1241,Yabiyufa (Masumave village),yawe1241-3
@@ -36241,17 +36241,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1,ɣɛ,,FALSE,Grace1955pdfNotes,p.12 [of pdf],,yuag1237,θua·ŋɛ (Gomen),yuag1237-1
 3,kɔ,,FALSE,Grace1955pdfNotes,p.12 [of pdf],,yuag1237,θua·ŋɛ (Gomen),yuag1237-1
 5,ni,,FALSE,Grace1955pdfNotes,p.12 [of pdf],,yuag1237,θua·ŋɛ (Gomen),yuag1237-1
-1,kai̯keɣu,one,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel) ,zaba1237-1
-1,ˈtaho,one (in counting),FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel) ,zaba1237-1
-2,ˈpalu,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel) ,zaba1237-1
-3,ˈlito,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel) ,zaba1237-1
-4,roˈdana,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel) ,zaba1237-1
-5,ˈgaha,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel) ,zaba1237-1
-6,ˈonomo,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel) ,zaba1237-1
-7,ˈvitu,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel) ,zaba1237-1
-8,ˈhana,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel) ,zaba1237-1
-9,ˈleɣaha,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel) ,zaba1237-1
-10,ˈtazo,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel) ,zaba1237-1
+1,kai̯keɣu,one,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel),zaba1237-1
+1,ˈtaho,one (in counting),FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel),zaba1237-1
+2,ˈpalu,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel),zaba1237-1
+3,ˈlito,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel),zaba1237-1
+4,roˈdana,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel),zaba1237-1
+5,ˈgaha,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel),zaba1237-1
+6,ˈonomo,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel),zaba1237-1
+7,ˈvitu,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel),zaba1237-1
+8,ˈhana,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel),zaba1237-1
+9,ˈleɣaha,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel),zaba1237-1
+10,ˈtazo,,FALSE,Grace1955pdf42,p.26,,zaba1237,Zabana (upper Ysabel),zaba1237-1
 1,dekako,,FALSE,Smith1988,p.105,,ziaa1250,Mawae,ziaa1250-1
 2,eto,,FALSE,Smith1988,p.105,,ziaa1250,Mawae,ziaa1250-1
 3,etama,,FALSE,Smith1988,p.105,,ziaa1250,Mawae,ziaa1250-1
