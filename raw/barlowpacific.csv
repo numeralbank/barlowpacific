@@ -30584,6 +30584,23 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,sinòtumieihi,,FALSE,Galis1955,p.140,,tand1253,Tandia,tand1253-2
 30,sinòtumieihi-maruhiwe,,FALSE,Galis1955,p.140,,tand1253,Tandia,tand1253-2
 40,sinòturuki,[sinòturuki (Galis 1960)],FALSE,Galis1955,p.140,,tand1253,Tandia,tand1253-2
+1,qisá-,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
+2,duhá-,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
+3,tuú-,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
+4,qupát,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
+5,limá-,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
+6,qunúm,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
+7,pitú-,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
+8,wayú-,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
+9,siyám,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
+10,napúuq,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
+100,gatús,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
+1000,líbu-,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
+1,ʔisá,,FALSE,Zorc1972Naturalis,p.2 [of pdf],,tand1258,Naturalis (Tagù),tand1258-2
+2,duhá,,FALSE,Zorc1972Naturalis,p.2 [of pdf],,tand1258,Naturalis (Tagù),tand1258-2
+3,tuː,,FALSE,Zorc1972Naturalis,p.2 [of pdf],,tand1258,Naturalis (Tagù),tand1258-2
+4,ʔupát,,FALSE,Zorc1972Naturalis,p.2 [of pdf],,tand1258,Naturalis (Tagù),tand1258-2
+5,limá,,FALSE,Zorc1972Naturalis,p.2 [of pdf],,tand1258,Naturalis (Tagù),tand1258-2
 1,tika,nur beim Zählen - sonst: tike,FALSE,Maurer1966,p.79,,tang1348,Tangga,tang1348-1
 2,ka u,,FALSE,Maurer1966,p.79,,tang1348,Tangga,tang1348-1
 3,ka tul,,FALSE,Maurer1966,p.79,,tang1348,Tangga,tang1348-1
@@ -36280,20 +36297,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,qisá-,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
-2,duhá-,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
-3,tuú-,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
-4,qupát,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
-5,limá-,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
-6,qunúm,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
-7,pitú-,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
-8,wayú-,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
-9,siyám,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
-10,napúuq,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
-100,gatús,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
-1000,líbu-,,FALSE,Zorc1977,pp.101-102,,tand1258,Naturalis,tand1258-1
-1,ʔisá,,FALSE,Zorc1972Naturalis,p.2 [of pdf],,tand1258,Naturalis (Tagù),tand1258-2
-2,duhá,,FALSE,Zorc1972Naturalis,p.2 [of pdf],,tand1258,Naturalis (Tagù),tand1258-2
-3,tuː,,FALSE,Zorc1972Naturalis,p.2 [of pdf],,tand1258,Naturalis (Tagù),tand1258-2
-4,ʔupát,,FALSE,Zorc1972Naturalis,p.2 [of pdf],,tand1258,Naturalis (Tagù),tand1258-2
-5,limá,,FALSE,Zorc1972Naturalis,p.2 [of pdf],,tand1258,Naturalis (Tagù),tand1258-2
