@@ -36297,3 +36297,456 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
+1,morots,,FALSE,Fischer1963,pp.224-225,,midd1327,Watut (Bentseŋ),midd1327-2
+2,serok,,FALSE,Fischer1963,pp.224-225,,midd1327,Watut (Bentseŋ),midd1327-2
+3,serok a morots,,FALSE,Fischer1963,pp.224-225,,midd1327,Watut (Bentseŋ),midd1327-2
+4,serok a serok,,FALSE,Fischer1963,pp.224-225,,midd1327,Watut (Bentseŋ),midd1327-2
+5,serok a serok a morots,,FALSE,Fischer1963,pp.224-225,,midd1327,Watut (Bentseŋ),midd1327-2
+5,lelaso ŋa beŋki,literally means: “bend the hand” (bend the fingers of the hand). [<beŋki> ‘hand’],FALSE,Fischer1963,pp.224-225,,midd1327,Watut (Bentseŋ),midd1327-2
+10,ŋa beŋki serok,,FALSE,Fischer1963,pp.224-225,,midd1327,Watut (Bentseŋ),midd1327-2
+20,lelaso ŋa beŋki serok ana faga serok,“bend two hands to two feet” [<faga> ‘foot’],FALSE,Fischer1963,pp.224-225,,midd1327,Watut (Bentseŋ),midd1327-2
+1,bi´its,,FALSE,Fischer1963,pp.224-225,,nort2857,Watut (Uruf),nort2857-2
+2,siru´,,FALSE,Fischer1963,pp.224-225,,nort2857,Watut (Uruf),nort2857-2
+3,siru´ a bi´its,,FALSE,Fischer1963,pp.224-225,,nort2857,Watut (Uruf),nort2857-2
+4,siru´ a siru´,,FALSE,Fischer1963,pp.224-225,,nort2857,Watut (Uruf),nort2857-2
+5,biaŋke haitsi,[cf. Bentseŋ <beŋki> ‘hand’],FALSE,Fischer1963,pp.224-225,,nort2857,Watut (Uruf),nort2857-2
+1,taganaŋk,,FALSE,Fischer1963,pp.224-225,,sout2877,Watut (Maralaŋko),sout2877-5
+2,serok,,FALSE,Fischer1963,pp.224-225,,sout2877,Watut (Maralaŋko),sout2877-5
+3,serok a waŋin,"Whereas taganaŋk really means “one”, waŋin can rather be translated as “plus one”. waŋin corresponds to the indefinite article ...",FALSE,Fischer1963,pp.224-225,,sout2877,Watut (Maralaŋko),sout2877-5
+4,serok a serok,,FALSE,Fischer1963,pp.224-225,,sout2877,Watut (Maralaŋko),sout2877-5
+5,serok a serok a waŋin,,FALSE,Fischer1963,pp.224-225,,sout2877,Watut (Maralaŋko),sout2877-5
+5,ŋa baŋge,[cf. Bentseŋ <beŋki> ‘hand’],FALSE,Fischer1963,pp.224-225,,sout2877,Watut (Maralaŋko),sout2877-5
+1,uˈwane,,FALSE,Taber1993,pp.418-419,,oira1263,Oirata,oira1263-1
+2,ˈei,,FALSE,Taber1993,pp.418-419,,oira1263,Oirata,oira1263-1
+3,ˈutu,,FALSE,Taber1993,pp.418-419,,oira1263,Oirata,oira1263-1
+4,ˈpat,,FALSE,Taber1993,pp.418-419,,oira1263,Oirata,oira1263-1
+5,ˈlim,,FALSE,Taber1993,pp.418-419,,oira1263,Oirata,oira1263-1
+6,ˈnem,,FALSE,Taber1993,pp.418-419,,oira1263,Oirata,oira1263-1
+7,ˈpitu,,FALSE,Taber1993,pp.418-419,,oira1263,Oirata,oira1263-1
+8,ˈkapa,,FALSE,Taber1993,pp.418-419,,oira1263,Oirata,oira1263-1
+9,ˈsiwa,,FALSE,Taber1993,pp.418-419,,oira1263,Oirata,oira1263-1
+10,taʔaˈnauni,,FALSE,Taber1993,pp.418-419,,oira1263,Oirata,oira1263-1
+100,ˈrauni,,FALSE,Taber1993,pp.418-419,,oira1263,Oirata,oira1263-1
+1000,ˈriunˈʔauni,,FALSE,Taber1993,pp.418-419,,oira1263,Oirata,oira1263-1
+1,ˈeha,,FALSE,Taber1993,pp.418-419,,iliu1237,Iliun,iliu1237-1
+2,haˈrua,,FALSE,Taber1993,pp.418-419,,iliu1237,Iliun,iliu1237-1
+3,haˈtelu,,FALSE,Taber1993,pp.418-419,,iliu1237,Iliun,iliu1237-1
+4,ˈhaʔa,,FALSE,Taber1993,pp.418-419,,iliu1237,Iliun,iliu1237-1
+5,haˈlima,,FALSE,Taber1993,pp.418-419,,iliu1237,Iliun,iliu1237-1
+6,haˈne,,FALSE,Taber1993,pp.418-419,,iliu1237,Iliun,iliu1237-1
+7,haˈitu,,FALSE,Taber1993,pp.418-419,,iliu1237,Iliun,iliu1237-1
+8,haˈkau,,FALSE,Taber1993,pp.418-419,,iliu1237,Iliun,iliu1237-1
+9,haˈsia,,FALSE,Taber1993,pp.418-419,,iliu1237,Iliun,iliu1237-1
+10,saˈnulu,,FALSE,Taber1993,pp.418-419,,iliu1237,Iliun,iliu1237-1
+100,atuˈweha,,FALSE,Taber1993,pp.418-419,,iliu1237,Iliun,iliu1237-1
+1000,rihunˈeha,,FALSE,Taber1993,pp.418-419,,iliu1237,Iliun,iliu1237-1
+1,ˈeha,,FALSE,Taber1993,pp.418-419,,tugu1245,Tugun,tugu1245-1
+1,ˈhasa,,FALSE,Taber1993,pp.418-419,,tugu1245,Tugun,tugu1245-1
+2,ˈrua,,FALSE,Taber1993,pp.418-419,,tugu1245,Tugun,tugu1245-1
+3,ˈtelu,,FALSE,Taber1993,pp.418-419,,tugu1245,Tugun,tugu1245-1
+4,ˈaːt,,FALSE,Taber1993,pp.418-419,,tugu1245,Tugun,tugu1245-1
+5,ˈlima,,FALSE,Taber1993,pp.418-419,,tugu1245,Tugun,tugu1245-1
+6,ˈnein,,FALSE,Taber1993,pp.418-419,,tugu1245,Tugun,tugu1245-1
+7,ˈitu,,FALSE,Taber1993,pp.418-419,,tugu1245,Tugun,tugu1245-1
+8,ˈkau,,FALSE,Taber1993,pp.418-419,,tugu1245,Tugun,tugu1245-1
+9,ˈsia,,FALSE,Taber1993,pp.418-419,,tugu1245,Tugun,tugu1245-1
+10,səˈnulu,,FALSE,Taber1993,pp.418-419,,tugu1245,Tugun,tugu1245-1
+100,ratuˈeha,,FALSE,Taber1993,pp.418-419,,tugu1245,Tugun,tugu1245-1
+1000,rihunˈeha,,FALSE,Taber1993,pp.418-419,,tugu1245,Tugun,tugu1245-1
+1,ˈhasa,,FALSE,Taber1993,pp.418-419,,pera1257,Perai,pera1257-1
+2,ˈrua,,FALSE,Taber1993,pp.418-419,,pera1257,Perai,pera1257-1
+3,ˈtelu,,FALSE,Taber1993,pp.418-419,,pera1257,Perai,pera1257-1
+4,ˈauk,,FALSE,Taber1993,pp.418-419,,pera1257,Perai,pera1257-1
+5,ˈlima,,FALSE,Taber1993,pp.418-419,,pera1257,Perai,pera1257-1
+6,ˈneŋ,,FALSE,Taber1993,pp.418-419,,pera1257,Perai,pera1257-1
+7,ˈitu,,FALSE,Taber1993,pp.418-419,,pera1257,Perai,pera1257-1
+8,ˈkau,,FALSE,Taber1993,pp.418-419,,pera1257,Perai,pera1257-1
+9,ˈsia,,FALSE,Taber1993,pp.418-419,,pera1257,Perai,pera1257-1
+10,saˈnulu,,FALSE,Taber1993,pp.418-419,,pera1257,Perai,pera1257-1
+100,ˈatus,,FALSE,Taber1993,pp.418-419,,pera1257,Perai,pera1257-1
+1000,ˈriuŋ,,FALSE,Taber1993,pp.418-419,,pera1257,Perai,pera1257-1
+1,ˈeha,,FALSE,Taber1993,pp.418-419,,aput1237,Aputai,aput1237-1
+1,ˈhasa,,FALSE,Taber1993,pp.418-419,,aput1237,Aputai,aput1237-1
+2,ˈrua,,FALSE,Taber1993,pp.418-419,,aput1237,Aputai,aput1237-1
+3,ˈtelu,,FALSE,Taber1993,pp.418-419,,aput1237,Aputai,aput1237-1
+4,ˈak,,FALSE,Taber1993,pp.418-419,,aput1237,Aputai,aput1237-1
+5,ˈlima,,FALSE,Taber1993,pp.418-419,,aput1237,Aputai,aput1237-1
+6,ˈneŋ,,FALSE,Taber1993,pp.418-419,,aput1237,Aputai,aput1237-1
+7,ˈitu,,FALSE,Taber1993,pp.418-419,,aput1237,Aputai,aput1237-1
+8,ˈkao,,FALSE,Taber1993,pp.418-419,,aput1237,Aputai,aput1237-1
+9,ˈsia,,FALSE,Taber1993,pp.418-419,,aput1237,Aputai,aput1237-1
+10,səˈnulu,,FALSE,Taber1993,pp.418-419,,aput1237,Aputai,aput1237-1
+100,atusˈeha,,FALSE,Taber1993,pp.418-419,,aput1237,Aputai,aput1237-1
+1000,rihunˈeha,,FALSE,Taber1993,pp.418-419,,aput1237,Aputai,aput1237-1
+1,ˈnehe,,FALSE,Taber1993,pp.418-419,,galo1243,Talur,galo1243-2
+2,ˈirua,,FALSE,Taber1993,pp.418-419,,galo1243,Talur,galo1243-2
+3,iˈtelu,,FALSE,Taber1993,pp.418-419,,galo1243,Talur,galo1243-2
+4,inˈhaʔat,,FALSE,Taber1993,pp.418-419,,galo1243,Talur,galo1243-2
+5,iˈlima,,FALSE,Taber1993,pp.418-419,,galo1243,Talur,galo1243-2
+6,ˈinen,,FALSE,Taber1993,pp.418-419,,galo1243,Talur,galo1243-2
+7,ˈihitu,,FALSE,Taber1993,pp.418-419,,galo1243,Talur,galo1243-2
+8,ˈihau,,FALSE,Taber1993,pp.418-419,,galo1243,Talur,galo1243-2
+9,iˈsia,,FALSE,Taber1993,pp.418-419,,galo1243,Talur,galo1243-2
+10,seˈnulu,,FALSE,Taber1993,pp.418-419,,galo1243,Talur,galo1243-2
+100,ˈatus,,FALSE,Taber1993,pp.418-419,,galo1243,Talur,galo1243-2
+1000,ˈrihun,,FALSE,Taber1993,pp.418-419,,galo1243,Talur,galo1243-2
+1,ˈiʈa,,FALSE,Taber1993,pp.418-419,,kisa1266,Kisar,kisa1266-1
+2,woˈroʔo,,FALSE,Taber1993,pp.418-419,,kisa1266,Kisar,kisa1266-1
+3,woˈkelu,,FALSE,Taber1993,pp.418-419,,kisa1266,Kisar,kisa1266-1
+4,woˈʔaka,,FALSE,Taber1993,pp.418-419,,kisa1266,Kisar,kisa1266-1
+5,woˈlima,,FALSE,Taber1993,pp.418-419,,kisa1266,Kisar,kisa1266-1
+6,woˈnɛme,,FALSE,Taber1993,pp.418-419,,kisa1266,Kisar,kisa1266-1
+7,woˈisku,,FALSE,Taber1993,pp.418-419,,kisa1266,Kisar,kisa1266-1
+8,woˈʔaː,,FALSE,Taber1993,pp.418-419,,kisa1266,Kisar,kisa1266-1
+9,woˈhiː,,FALSE,Taber1993,pp.418-419,,kisa1266,Kisar,kisa1266-1
+10,iʈaˈweli,,FALSE,Taber1993,pp.418-419,,kisa1266,Kisar,kisa1266-1
+100,rahuˈiʈa,,FALSE,Taber1993,pp.418-419,,kisa1266,Kisar,kisa1266-1
+1000,riuˈniʈa,,FALSE,Taber1993,pp.418-419,,kisa1266,Kisar,kisa1266-1
+1,ˈida,,FALSE,Taber1993,pp.418-419,,roma1332,Roma,roma1332-1
+2,woˈɾua,,FALSE,Taber1993,pp.418-419,,roma1332,Roma,roma1332-1
+3,woˈtelu,,FALSE,Taber1993,pp.418-419,,roma1332,Roma,roma1332-1
+4,woˈʔatta,,FALSE,Taber1993,pp.418-419,,roma1332,Roma,roma1332-1
+5,woˈlima,,FALSE,Taber1993,pp.418-419,,roma1332,Roma,roma1332-1
+6,woˈnema,,FALSE,Taber1993,pp.418-419,,roma1332,Roma,roma1332-1
+7,woˈʔittu,,FALSE,Taber1993,pp.418-419,,roma1332,Roma,roma1332-1
+8,woˈʔallu,,FALSE,Taber1993,pp.418-419,,roma1332,Roma,roma1332-1
+9,woˈhia,,FALSE,Taber1993,pp.418-419,,roma1332,Roma,roma1332-1
+10,idˈweli,,FALSE,Taber1993,pp.418-419,,roma1332,Roma,roma1332-1
+100,rahˈtʷida,,FALSE,Taber1993,pp.418-419,,roma1332,Roma,roma1332-1
+1000,rinˈwida,,FALSE,Taber1993,pp.418-419,,roma1332,Roma,roma1332-1
+1,ˈidə,,FALSE,Taber1993,pp.418-419,,luan1263,Luang,luan1263-1
+2,ˈworu,,FALSE,Taber1993,pp.418-419,,luan1263,Luang,luan1263-1
+3,woˈtelu,,FALSE,Taber1993,pp.418-419,,luan1263,Luang,luan1263-1
+4,woˈgatə,,FALSE,Taber1993,pp.418-419,,luan1263,Luang,luan1263-1
+5,woˈlima,,FALSE,Taber1993,pp.418-419,,luan1263,Luang,luan1263-1
+6,woˈnema,,FALSE,Taber1993,pp.418-419,,luan1263,Luang,luan1263-1
+7,woˈitu,,FALSE,Taber1993,pp.418-419,,luan1263,Luang,luan1263-1
+8,woˈawə,,FALSE,Taber1993,pp.418-419,,luan1263,Luang,luan1263-1
+9,woˈsʲewə,,FALSE,Taber1993,pp.418-419,,luan1263,Luang,luan1263-1
+10,haˈnulu,,FALSE,Taber1993,pp.418-419,,luan1263,Luang,luan1263-1
+100,rahuˈida,,FALSE,Taber1993,pp.418-419,,luan1263,Luang,luan1263-1
+1000,rinˈnida,,FALSE,Taber1993,pp.418-419,,luan1263,Luang,luan1263-1
+1,meˈ han,,FALSE,Taber1993,pp.418-419,,east2472,East Damar,east2472-1
+2,ˈworu,,FALSE,Taber1993,pp.418-419,,east2472,East Damar,east2472-1
+3,woˈtelu,,FALSE,Taber1993,pp.418-419,,east2472,East Damar,east2472-1
+4,woˈatu,,FALSE,Taber1993,pp.418-419,,east2472,East Damar,east2472-1
+5,woˈlim,,FALSE,Taber1993,pp.418-419,,east2472,East Damar,east2472-1
+6,woˈnem,,FALSE,Taber1993,pp.418-419,,east2472,East Damar,east2472-1
+7,woˈitu,,FALSE,Taber1993,pp.418-419,,east2472,East Damar,east2472-1
+8,ˈgwalu,,FALSE,Taber1993,pp.418-419,,east2472,East Damar,east2472-1
+9,ˈwosi,,FALSE,Taber1993,pp.418-419,,east2472,East Damar,east2472-1
+10,wuˈsar,,FALSE,Taber1993,pp.418-419,,east2472,East Damar,east2472-1
+100,ratuˈsar,,FALSE,Taber1993,pp.418-419,,east2472,East Damar,east2472-1
+1000,riʔunˈhar,,FALSE,Taber1993,pp.418-419,,east2472,East Damar,east2472-1
+1,ˈmɛsni,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
+2,ˈru,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
+3,ˈtɛlu,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
+4,ˈwatu,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
+5,ˈlimu,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
+6,ˈnɛmu,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
+7,ˈjitu,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
+8,ˈwalu,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
+9,ˈsi,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
+10,futuˈɔta,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
+100,raˈseta,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
+1000,rifˈnata,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
+1,ˈmɛsa,,FALSE,Taber1993,pp.418-419,,nila1244,Nila,nila1244-2
+2,ˈru,,FALSE,Taber1993,pp.418-419,,nila1244,Nila,nila1244-2
+3,ˈtɛlu,,FALSE,Taber1993,pp.418-419,,nila1244,Nila,nila1244-2
+4,ˈnatu,,FALSE,Taber1993,pp.418-419,,nila1244,Nila,nila1244-2
+5,ˈlimu,,FALSE,Taber1993,pp.418-419,,nila1244,Nila,nila1244-2
+6,ˈnɛmu,,FALSE,Taber1993,pp.418-419,,nila1244,Nila,nila1244-2
+7,ˈitu,,FALSE,Taber1993,pp.418-419,,nila1244,Nila,nila1244-2
+8,ˈwalu,,FALSE,Taber1993,pp.418-419,,nila1244,Nila,nila1244-2
+9,ˈsi,,FALSE,Taber1993,pp.418-419,,nila1244,Nila,nila1244-2
+10,hutuˈwɔsa,,FALSE,Taber1993,pp.418-419,,nila1244,Nila,nila1244-2
+100,rasˈʃɔsa,,FALSE,Taber1993,pp.418-419,,nila1244,Nila,nila1244-2
+1000,rifˈɲɔsa,,FALSE,Taber1993,pp.418-419,,nila1244,Nila,nila1244-2
+1,meˈ sa,,FALSE,Taber1993,pp.418-419,,seru1245,Serua,seru1245-1
+2,ˈrua,,FALSE,Taber1993,pp.418-419,,seru1245,Serua,seru1245-1
+3,ˈtɛlu,,FALSE,Taber1993,pp.418-419,,seru1245,Serua,seru1245-1
+4,ˈnatu,,FALSE,Taber1993,pp.418-419,,seru1245,Serua,seru1245-1
+5,ˈlimu,,FALSE,Taber1993,pp.418-419,,seru1245,Serua,seru1245-1
+6,ˈnɛmu,,FALSE,Taber1993,pp.418-419,,seru1245,Serua,seru1245-1
+7,ˈitu,,FALSE,Taber1993,pp.418-419,,seru1245,Serua,seru1245-1
+8,ˈalu,,FALSE,Taber1993,pp.418-419,,seru1245,Serua,seru1245-1
+9,ˈsia,,FALSE,Taber1993,pp.418-419,,seru1245,Serua,seru1245-1
+10,wuˈtɔsa,,FALSE,Taber1993,pp.418-419,,seru1245,Serua,seru1245-1
+100,raˈsɔsa,,FALSE,Taber1993,pp.418-419,,seru1245,Serua,seru1245-1
+1000,riuˈnasa,,FALSE,Taber1993,pp.418-419,,seru1245,Serua,seru1245-1
+1,ˈmɛhno,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
+2,viɛˈru,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
+3,viɛˈteli,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
+4,viˈoto,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
+5,viˈlimo,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
+6,visˈnamo,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
+7,viˈti,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
+8,viˈaː,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
+9,viˈsi,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
+10,usˈwuti,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
+100,ofresso,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
+1000,rivˈnuso,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
+1,ˈmɛd,,FALSE,Taber1993,pp.418-419,,dawe1237,Dawera-Daweloor,dawe1237-1
+2,ˈruv,,FALSE,Taber1993,pp.418-419,,dawe1237,Dawera-Daweloor,dawe1237-1
+3,ˈtɛl,,FALSE,Taber1993,pp.418-419,,dawe1237,Dawera-Daweloor,dawe1237-1
+4,ˈatʰ,,FALSE,Taber1993,pp.418-419,,dawe1237,Dawera-Daweloor,dawe1237-1
+5,ˈlim,,FALSE,Taber1993,pp.418-419,,dawe1237,Dawera-Daweloor,dawe1237-1
+6,ˈlɛm,,FALSE,Taber1993,pp.418-419,,dawe1237,Dawera-Daweloor,dawe1237-1
+7,ˈitʰ,,FALSE,Taber1993,pp.418-419,,dawe1237,Dawera-Daweloor,dawe1237-1
+8,ˈauw,,FALSE,Taber1993,pp.418-419,,dawe1237,Dawera-Daweloor,dawe1237-1
+9,ˈsiuw,,FALSE,Taber1993,pp.418-419,,dawe1237,Dawera-Daweloor,dawe1237-1
+10,ˈdəwut,,FALSE,Taber1993,pp.418-419,,dawe1237,Dawera-Daweloor,dawe1237-1
+100,ˈraije,,FALSE,Taber1993,pp.418-419,,dawe1237,Dawera-Daweloor,dawe1237-1
+1000,ˈriviɛʔ,,FALSE,Taber1993,pp.418-419,,dawe1237,Dawera-Daweloor,dawe1237-1
+1,ˈmɛd,,FALSE,Taber1993,pp.418-419,,daii1240,Dai,daii1240-1
+2,ˈru,,FALSE,Taber1993,pp.418-419,,daii1240,Dai,daii1240-1
+3,ˈtɛn,,FALSE,Taber1993,pp.418-419,,daii1240,Dai,daii1240-1
+4,ˈat,,FALSE,Taber1993,pp.418-419,,daii1240,Dai,daii1240-1
+5,ˈnim,,FALSE,Taber1993,pp.418-419,,daii1240,Dai,daii1240-1
+6,ˈnɛm,,FALSE,Taber1993,pp.418-419,,daii1240,Dai,daii1240-1
+7,ˈitʰ,,FALSE,Taber1993,pp.418-419,,daii1240,Dai,daii1240-1
+8,ˈav,,FALSE,Taber1993,pp.418-419,,daii1240,Dai,daii1240-1
+9,ˈsiv,,FALSE,Taber1993,pp.418-419,,daii1240,Dai,daii1240-1
+10,ˈdʷut,,FALSE,Taber1993,pp.418-419,,daii1240,Dai,daii1240-1
+100,ˈrahjɛ,,FALSE,Taber1993,pp.418-419,,daii1240,Dai,daii1240-1
+1000,ˈrivɛʔarˈaɲɛ,,FALSE,Taber1993,pp.418-419,,daii1240,Dai,daii1240-1
+1,ˈmɛdɛ,,FALSE,Taber1993,pp.418-419,,nort2860,North Babar,nort2860-1
+2,ˈruwu,,FALSE,Taber1993,pp.418-419,,nort2860,North Babar,nort2860-1
+3,ˈkini,,FALSE,Taber1993,pp.418-419,,nort2860,North Babar,nort2860-1
+4,ˈato,,FALSE,Taber1993,pp.418-419,,nort2860,North Babar,nort2860-1
+5,ˈnimo,,FALSE,Taber1993,pp.418-419,,nort2860,North Babar,nort2860-1
+6,ˈnemo,,FALSE,Taber1993,pp.418-419,,nort2860,North Babar,nort2860-1
+7,ˈiti,,FALSE,Taber1993,pp.418-419,,nort2860,North Babar,nort2860-1
+8,ˈawou,,FALSE,Taber1993,pp.418-419,,nort2860,North Babar,nort2860-1
+9,ˈsiwou,,FALSE,Taber1993,pp.418-419,,nort2860,North Babar,nort2860-1
+10,ˈdawuti,,FALSE,Taber1993,pp.418-419,,nort2860,North Babar,nort2860-1
+100,ˈratau,,FALSE,Taber1993,pp.418-419,,nort2860,North Babar,nort2860-1
+1000,ˈrivitau,,FALSE,Taber1993,pp.418-419,,nort2860,North Babar,nort2860-1
+1,ˈmetl̩,,FALSE,Taber1993,pp.418-419,,sout2883,Southeast Babar,sout2883-1
+2,ˈwuru,,FALSE,Taber1993,pp.418-419,,sout2883,Southeast Babar,sout2883-1
+3,ˈwɔkɛl,,FALSE,Taber1993,pp.418-419,,sout2883,Southeast Babar,sout2883-1
+4,ˈwax,,FALSE,Taber1993,pp.418-419,,sout2883,Southeast Babar,sout2883-1
+5,wɔˈlim,,FALSE,Taber1993,pp.418-419,,sout2883,Southeast Babar,sout2883-1
+6,wɔˈlɛm,,FALSE,Taber1993,pp.418-419,,sout2883,Southeast Babar,sout2883-1
+7,wɔˈix,,FALSE,Taber1993,pp.418-419,,sout2883,Southeast Babar,sout2883-1
+8,wɔˈka,,FALSE,Taber1993,pp.418-419,,sout2883,Southeast Babar,sout2883-1
+9,ˈwusi,,FALSE,Taber1993,pp.418-419,,sout2883,Southeast Babar,sout2883-1
+10,ˈwuki,,FALSE,Taber1993,pp.418-419,,sout2883,Southeast Babar,sout2883-1
+100,ˈrai,,FALSE,Taber1993,pp.418-419,,sout2883,Southeast Babar,sout2883-1
+1000,ˈribali,,FALSE,Taber1993,pp.418-419,,sout2883,Southeast Babar,sout2883-1
+1,mɛtˈɛl,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
+2,ˈburu,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
+3,bokˈkɛl,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
+4,boˈʔa,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
+5,buˈlim,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
+6,boˈlem,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
+7,boˈʔit,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
+8,boˈa,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
+9,buˈsi,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
+10,buˈki,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
+100,raˈi,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
+1000,niˈbɛl,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
+1,ˈmɛtəl,,FALSE,Taber1993,pp.418-419,,east2462,East Masela,east2462-1
+2,ˈvuru,,FALSE,Taber1993,pp.418-419,,east2462,East Masela,east2462-1
+3,ˈwɔkkɛl,,FALSE,Taber1993,pp.418-419,,east2462,East Masela,east2462-1
+4,ˈwua,,FALSE,Taber1993,pp.418-419,,east2462,East Masela,east2462-1
+5,ˈwulim,,FALSE,Taber1993,pp.418-419,,east2462,East Masela,east2462-1
+6,ˈwolɛm,,FALSE,Taber1993,pp.418-419,,east2462,East Masela,east2462-1
+7,ˈwoik,,FALSE,Taber1993,pp.418-419,,east2462,East Masela,east2462-1
+8,ˈwoka,,FALSE,Taber1993,pp.418-419,,east2462,East Masela,east2462-1
+9,ˈwusi,,FALSE,Taber1993,pp.418-419,,east2462,East Masela,east2462-1
+10,ˈwuki,,FALSE,Taber1993,pp.418-419,,east2462,East Masela,east2462-1
+100,ˈraiː,,FALSE,Taber1993,pp.418-419,,east2462,East Masela,east2462-1
+1000,riˈvili,,FALSE,Taber1993,pp.418-419,,east2462,East Masela,east2462-1
+1,ˈmɛtən,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
+2,ˈʋuru,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
+3,ˈwɔkɛl,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
+4,ˈfiak,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
+5,wuˈlim,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
+6,wɔˈnɛm,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
+7,ˈwɔie,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
+8,ˈwɔa,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
+9,wɔˈsɛm,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
+10,wuˈki,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
+100,ˈraiː,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
+1000,ˈrivni,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
+1,ˈmɛt,,FALSE,Taber1993,pp.418-419,,empl1237,Emplawas,empl1237-1
+2,ˈwuru,,FALSE,Taber1993,pp.418-419,,empl1237,Emplawas,empl1237-1
+3,ˈwokɛl,,FALSE,Taber1993,pp.418-419,,empl1237,Emplawas,empl1237-1
+4,ˈβiɛk,,FALSE,Taber1993,pp.418-419,,empl1237,Emplawas,empl1237-1
+5,woˈlim,[cf. p.124 <ˈlipe> ‘hand’],FALSE,Taber1993,pp.418-419,,empl1237,Emplawas,empl1237-1
+6,woˈlsm,[typo for <woˈlɛm>?],FALSE,Taber1993,pp.418-419,,empl1237,Emplawas,empl1237-1
+7,woˈik,,FALSE,Taber1993,pp.418-419,,empl1237,Emplawas,empl1237-1
+8,woˈauw,,FALSE,Taber1993,pp.418-419,,empl1237,Emplawas,empl1237-1
+9,reˈɛr,,FALSE,Taber1993,pp.418-419,,empl1237,Emplawas,empl1237-1
+10,ˈwuki,,FALSE,Taber1993,pp.418-419,,empl1237,Emplawas,empl1237-1
+100,ˈraiː,,FALSE,Taber1993,pp.418-419,,empl1237,Emplawas,empl1237-1
+1000,ˈrivale,,FALSE,Taber1993,pp.418-419,,empl1237,Emplawas,empl1237-1
+1,ˈmetnu,,FALSE,Taber1993,pp.418-419,,tela1241,Tela-Masbuar,tela1241-1
+2,woˈru,,FALSE,Taber1993,pp.418-419,,tela1241,Tela-Masbuar,tela1241-1
+3,woˈken,,FALSE,Taber1993,pp.418-419,,tela1241,Tela-Masbuar,tela1241-1
+4,viˈɛkʰ,,FALSE,Taber1993,pp.418-419,,tela1241,Tela-Masbuar,tela1241-1
+5,wuˈlim,,FALSE,Taber1993,pp.418-419,,tela1241,Tela-Masbuar,tela1241-1
+6,woˈlɛm,,FALSE,Taber1993,pp.418-419,,tela1241,Tela-Masbuar,tela1241-1
+7,woˈikʰ,,FALSE,Taber1993,pp.418-419,,tela1241,Tela-Masbuar,tela1241-1
+8,woˈaβu,,FALSE,Taber1993,pp.418-419,,tela1241,Tela-Masbuar,tela1241-1
+9,rɛˈiri,,FALSE,Taber1993,pp.418-419,,tela1241,Tela-Masbuar,tela1241-1
+10,ˈwukki,,FALSE,Taber1993,pp.418-419,,tela1241,Tela-Masbuar,tela1241-1
+100,ˈrait,,FALSE,Taber1993,pp.418-419,,tela1241,Tela-Masbuar,tela1241-1
+1000,ˈriveni,,FALSE,Taber1993,pp.418-419,,tela1241,Tela-Masbuar,tela1241-1
+1,ˈmɛtle,,FALSE,Taber1993,pp.418-419,,imro1237,Imroing,imro1237-1
+2,woˈru,,FALSE,Taber1993,pp.418-419,,imro1237,Imroing,imro1237-1
+3,woˈkeli,,FALSE,Taber1993,pp.418-419,,imro1237,Imroing,imro1237-1
+4,woˈjate,,FALSE,Taber1993,pp.418-419,,imro1237,Imroing,imro1237-1
+5,woˈlim,,FALSE,Taber1993,pp.418-419,,imro1237,Imroing,imro1237-1
+6,woˈlemu,,FALSE,Taber1993,pp.418-419,,imro1237,Imroing,imro1237-1
+7,woˈiki,,FALSE,Taber1993,pp.418-419,,imro1237,Imroing,imro1237-1
+8,woˈaka,,FALSE,Taber1993,pp.418-419,,imro1237,Imroing,imro1237-1
+9,ˈreri,,FALSE,Taber1993,pp.418-419,,imro1237,Imroing,imro1237-1
+10,ˈwuki,,FALSE,Taber1993,pp.418-419,,imro1237,Imroing,imro1237-1
+100,ˈrai,,FALSE,Taber1993,pp.418-419,,imro1237,Imroing,imro1237-1
+1000,ˈriuuli,,FALSE,Taber1993,pp.418-419,,imro1237,Imroing,imro1237-1
+2,ruo,,FALSE,Collins1986,pp.132-133,,band1355,Banda,band1355-1
+3,telu,,FALSE,Collins1986,pp.132-133,,band1355,Banda,band1355-1
+5,limo,,FALSE,Collins1986,pp.132-133,,band1355,Banda,band1355-1
+6,nemu,The Banda form is an exception.,FALSE,Collins1986,pp.132-133,,band1355,Banda,band1355-1
+2,lua,,FALSE,Collins1986,"pp.127-128, 130",,bobo1254,Bobot,bobo1254-1
+3,tolu̥,,FALSE,Collins1986,"pp.127-128, 130",,bobo1254,Bobot,bobo1254-1
+3,tol,,FALSE,Collins1986,"pp.127-128, 130",,bobo1254,Bobot,bobo1254-1
+5,lima,,FALSE,Collins1986,"pp.127-128, 130",,bobo1254,Bobot,bobo1254-1
+8,walu̥,,FALSE,Collins1986,"pp.127-128, 130",,bobo1254,Bobot,bobo1254-1
+2,ro-ti,,FALSE,Collins1986,pp.132-133,,gese1240,Geser,gese1240-4
+3,tolu,,FALSE,Collins1986,pp.132-133,,gese1240,Geser,gese1240-4
+5,lim,,FALSE,Collins1986,pp.132-133,,gese1240,Geser,gese1240-4
+6,onan,,FALSE,Collins1986,pp.132-133,,gese1240,Geser,gese1240-4
+2,lua,,FALSE,Collins1986,"pp.127-128, 130",,masi1266,Masiwang,masi1266-2
+3,toli,,FALSE,Collins1986,"pp.127-128, 130",,masi1266,Masiwang,masi1266-2
+5,lima,,FALSE,Collins1986,"pp.127-128, 130",,masi1266,Masiwang,masi1266-2
+8,wali,,FALSE,Collins1986,"pp.127-128, 130",,masi1266,Masiwang,masi1266-2
+2,lua,,FALSE,Collins1986,pp.127-128,,lian1255,Seti,lian1255-1
+3,tol,,FALSE,Collins1986,pp.127-128,,lian1255,Seti,lian1255-1
+5,lima,,FALSE,Collins1986,pp.127-128,,lian1255,Seti,lian1255-1
+8,wal,,FALSE,Collins1986,pp.127-128,,lian1255,Seti,lian1255-1
+2,lua,,FALSE,Collins1986,pp.132-133,,watu1247,Watubela,watu1247-2
+3,tolu,,FALSE,Collins1986,pp.132-133,,watu1247,Watubela,watu1247-2
+5,lima,,FALSE,Collins1986,pp.132-133,,watu1247,Watubela,watu1247-2
+6,onon,,FALSE,Collins1986,pp.132-133,,watu1247,Watubela,watu1247-2
+1,tei,,FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
+2,lu,,FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
+3,tol,,FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
+4,hat,,FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
+5,hateipin,"[cf. p.5 <he> ‘hand, forearm’; cf. p.22 <pIpin> ‘suffice, be enough’]",FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
+5,lim,,FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
+10,hexalu,"[cf. p.5 <he> ‘hand, forearm’; cf. p.42 <xa> ‘that, which, who’]",FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
+20,hanutap,"[cf. p.4 <hanu> ‘person’; cf. p.30 <tap> ‘whole, entire’. Apparently obsolete; elicited only in hanutap twenty, and : da tap. It’s more than necessary; It’s more than was expected.]",FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
+20,hanu tap,"[cf. p.4 <hanu> ‘person’; cf. p.30 <tap> ‘whole, entire’. Apparently obsolete; elicited only in hanutap twenty, and : da tap. It’s more than necessary; It’s more than was expected.]",FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
+1,ti,,FALSE,Adams1985,p.19,,pate1247,Patep,pate1247-3
+2,yu·,,FALSE,Adams1985,p.19,,pate1247,Patep,pate1247-3
+3,yɔn,,FALSE,Adams1985,p.19,,pate1247,Patep,pate1247-3
+4,ˈyu·ndəˈyu·,,FALSE,Adams1985,p.19,,pate1247,Patep,pate1247-3
+5,ƀəˈŋɡe ƀəˈlu,[cf. p.18 <ƀəˈŋɡe> ‘hand’],FALSE,Adams1985,p.19,,pate1247,Patep,pate1247-3
+10,ƀəˈŋɡe ˈyu·,,FALSE,Adams1985,p.19,,pate1247,Patep,pate1247-3
+1,tibɛnd,,FALSE,Adams1985,p.19,,gora1262,Gorakor,gora1262-2
+2,u·,,FALSE,Adams1985,p.19,,gora1262,Gorakor,gora1262-2
+3,ˈⁱan,,FALSE,Adams1985,p.19,,gora1262,Gorakor,gora1262-2
+4,ˈundu,,FALSE,Adams1985,p.19,,gora1262,Gorakor,gora1262-2
+5,ƀəˈŋɡi ƀəˈlu,[cf. p.18 <ƀəˈŋɡi> ‘hand’],FALSE,Adams1985,p.19,,gora1262,Gorakor,gora1262-2
+10,ƀəˈŋɡi u·,,FALSE,Adams1985,p.19,,gora1262,Gorakor,gora1262-2
+1,ti,,FALSE,Adams1985,p.19,,gora1262,Bupu,gora1262-3
+2,oˆ·,,FALSE,Adams1985,p.19,,gora1262,Bupu,gora1262-3
+2,u·,,FALSE,Adams1985,p.19,,gora1262,Bupu,gora1262-3
+3,yan,,FALSE,Adams1985,p.19,,gora1262,Bupu,gora1262-3
+4,ˈundəˈu,,FALSE,Adams1985,p.19,,gora1262,Bupu,gora1262-3
+5,ƀəˈŋɡi ƀəˈlu,[cf. p.18 <ƀɛˈŋɡi> ‘hand’],FALSE,Adams1985,p.19,,gora1262,Bupu,gora1262-3
+10,ƀəˈŋɡi u·,,FALSE,Adams1985,p.19,,gora1262,Bupu,gora1262-3
+1,tibɛnt,,FALSE,Adams1985,p.19,,gora1262,Perakles,gora1262-4
+2,ioˆᵘ,,FALSE,Adams1985,p.19,,gora1262,Perakles,gora1262-4
+3,ˈᵉan,,FALSE,Adams1985,p.19,,gora1262,Perakles,gora1262-4
+4,ˈyundˈyu,,FALSE,Adams1985,p.19,,gora1262,Perakles,gora1262-4
+5,ƀəˈŋɡi ƀəˈlu,[cf. p.18 <ƀɛˈŋɡi> ‘hand’],FALSE,Adams1985,p.19,,gora1262,Perakles,gora1262-4
+10,ƀəˈŋɡi yu·,,FALSE,Adams1985,p.19,,gora1262,Perakles,gora1262-4
+1,ti,,FALSE,Adams1985,p.19,,zena1237,Zenag,zena1237-1
+2,yu·,,FALSE,Adams1985,p.19,,zena1237,Zenag,zena1237-1
+3,yan,,FALSE,Adams1985,p.19,,zena1237,Zenag,zena1237-1
+4,ˈyu·ndəˈyu·,,FALSE,Adams1985,p.19,,zena1237,Zenag,zena1237-1
+5,nəˈma ƀəˈlu,[cf. p.18 <naˈma > ~ <nəˈma> ‘hand’],FALSE,Adams1985,p.19,,zena1237,Zenag,zena1237-1
+10,nəˈma yu·,,FALSE,Adams1985,p.19,,zena1237,Zenag,zena1237-1
+1,ti,,FALSE,Adams1985,p.19,,zena1237,Latep,zena1237-2
+2,yoᵘ,,FALSE,Adams1985,p.19,,zena1237,Latep,zena1237-2
+3,yan,,FALSE,Adams1985,p.19,,zena1237,Latep,zena1237-2
+4,ˈmɛndəˈno,,FALSE,Adams1985,p.19,,zena1237,Latep,zena1237-2
+4,ˈmɛntəˈno,,FALSE,Adams1985,p.19,,zena1237,Latep,zena1237-2
+5,nəˈma ƀəˈlo,[cf. p.18 <nɛˈma > ‘hand’],FALSE,Adams1985,p.19,,zena1237,Latep,zena1237-2
+10,ˈnɛma yu,,FALSE,Adams1985,p.19,,zena1237,Latep,zena1237-2
+1,ti,,FALSE,Adams1985,p.19,,damb1246,Dambi,damb1246-2
+2,yu·,,FALSE,Adams1985,p.19,,damb1246,Dambi,damb1246-2
+3,yon,,FALSE,Adams1985,p.19,,damb1246,Dambi,damb1246-2
+4,ˈmɛntəˈnau,,FALSE,Adams1985,p.19,,damb1246,Dambi,damb1246-2
+5,ƀaˈlu,,FALSE,Adams1985,p.19,,damb1246,Dambi,damb1246-2
+10,nɛmaˈlu,[cf. p.18 <nəˈma > ‘hand’],FALSE,Adams1985,p.19,,damb1246,Dambi,damb1246-2
+10,ˈǥɔməŋ,,FALSE,Adams1985,p.19,,damb1246,Dambi,damb1246-2
+1,ˈtika,,FALSE,Adams1985,p.19,,kuma1278,Kumalu,kuma1278-1
+2,yu,,FALSE,Adams1985,p.19,,kuma1278,Kumalu,kuma1278-1
+3,yɔn,,FALSE,Adams1985,p.19,,kuma1278,Kumalu,kuma1278-1
+4,ˈmɛndeŋ,,FALSE,Adams1985,p.19,,kuma1278,Kumalu,kuma1278-1
+5,ˈƀalu,,FALSE,Adams1985,p.19,,kuma1278,Kumalu,kuma1278-1
+10,ˈnemalu,[cf. p.18 <neˈma > ‘hand’],FALSE,Adams1985,p.19,,kuma1278,Kumalu,kuma1278-1
+1,ˈtika,,FALSE,Adams1985,p.19,,kuma1278,Mumengtein,kuma1278-2
+2,yuʰ,,FALSE,Adams1985,p.19,,kuma1278,Mumengtein,kuma1278-2
+3,yɔn,,FALSE,Adams1985,p.19,,kuma1278,Mumengtein,kuma1278-2
+4,ˈmɛndəˈnau,,FALSE,Adams1985,p.19,,kuma1278,Mumengtein,kuma1278-2
+5,ˈƀalu,,FALSE,Adams1985,p.19,,kuma1278,Mumengtein,kuma1278-2
+10,ˈǥɔməŋ,,FALSE,Adams1985,p.19,,kuma1278,Mumengtein,kuma1278-2
+1,ˈtika·,,FALSE,Adams1985,p.19,,kuma1278,Pelenkwa,kuma1278-3
+2,yaˈyu·,,FALSE,Adams1985,p.19,,kuma1278,Pelenkwa,kuma1278-3
+3,yaˈyɔn,,FALSE,Adams1985,p.19,,kuma1278,Pelenkwa,kuma1278-3
+4,ˈmɛntəˈnau,,FALSE,Adams1985,p.19,,kuma1278,Pelenkwa,kuma1278-3
+5,ƀaˈlu,,FALSE,Adams1985,p.19,,kuma1278,Pelenkwa,kuma1278-3
+10,ˈǥɔmaŋ,,FALSE,Adams1985,p.19,,kuma1278,Pelenkwa,kuma1278-3
+10,ˈǥɔməŋ,,FALSE,Adams1985,p.19,,kuma1278,Pelenkwa,kuma1278-3
+1,ti(·),,FALSE,Adams1985,p.19,,kapi1250,Kapin,kapi1250-3
+2,yu(·),,FALSE,Adams1985,p.19,,kapi1250,Kapin,kapi1250-3
+3,yal,,FALSE,Adams1985,p.19,,kapi1250,Kapin,kapi1250-3
+4,ƀɛy,,FALSE,Adams1985,p.19,,kapi1250,Kapin,kapi1250-3
+5,lim,,FALSE,Adams1985,p.19,,kapi1250,Kapin,kapi1250-3
+10,ˈǥɔmiŋ,,FALSE,Adams1985,p.19,,kapi1250,Kapin,kapi1250-3
+1,ti,,FALSE,Adams1985,p.19,,kapi1250,Taiak,kapi1250-4
+2,yu,,FALSE,Adams1985,p.19,,kapi1250,Taiak,kapi1250-4
+3,yal,,FALSE,Adams1985,p.19,,kapi1250,Taiak,kapi1250-4
+4,ƀɛy₊,,FALSE,Adams1985,p.19,,kapi1250,Taiak,kapi1250-4
+5,lim,,FALSE,Adams1985,p.19,,kapi1250,Taiak,kapi1250-4
+10,ˈǥɔməŋ,,FALSE,Adams1985,p.19,,kapi1250,Taiak,kapi1250-4
+1,tyaˈti,,FALSE,Adams1985,p.19,,kapi1250,Garawa,kapi1250-5
+2,yuʰ,,FALSE,Adams1985,p.19,,kapi1250,Garawa,kapi1250-5
+3,yan,,FALSE,Adams1985,p.19,,kapi1250,Garawa,kapi1250-5
+4,ƀaˈluʰ,,FALSE,Adams1985,p.19,,kapi1250,Garawa,kapi1250-5
+5,mbuta,,FALSE,Adams1985,p.19,,kapi1250,Garawa,kapi1250-5
+5,mbaˈlu məˈsekⁱti,,FALSE,Adams1985,p.19,,kapi1250,Garawa,kapi1250-5
+10,ˈǥɔməŋəˈpu,,FALSE,Adams1985,p.19,,kapi1250,Garawa,kapi1250-5
+1,ti,,FALSE,Hooley1970,pp.170-171,,mapo1242,Mapos Buang,mapo1242-4
+2,luu,,FALSE,Hooley1970,pp.170-171,,mapo1242,Mapos Buang,mapo1242-4
+3,löö,,FALSE,Hooley1970,pp.170-171,,mapo1242,Mapos Buang,mapo1242-4
+4,luub.luu,(two and two),FALSE,Hooley1970,pp.170-171,,mapo1242,Mapos Buang,mapo1242-4
+5,n.mad.vahi,"(half our hands) [cf. <vahi> ‘half, part’]",FALSE,Hooley1970,pp.170-171,,mapo1242,Mapos Buang,mapo1242-4
+6,n.mad.vahi-vid.k-ti,(five and one),FALSE,Hooley1970,pp.170-171,,mapo1242,Mapos Buang,mapo1242-4
+7,n.mad.vahi-vid.k-luu,(five and two),FALSE,Hooley1970,pp.170-171,,mapo1242,Mapos Buang,mapo1242-4
+10,n.mad.luuho,(our two hands),FALSE,Hooley1970,pp.170-171,,mapo1242,Mapos Buang,mapo1242-4
+19,n.mad.luuho-n.mad.vahi-vid.k-luub.luu,"(ten, five and four)",FALSE,Hooley1970,pp.170-171,,mapo1242,Mapos Buang,mapo1242-4
+20,m.hödahis,"(a complete person - from meho ‘person’ and ‘dahis’ ‘complete, closed off’)",FALSE,Hooley1970,pp.170-171,,mapo1242,Mapos Buang,mapo1242-4
+40,m.hödahis luu,(two people),FALSE,Hooley1970,pp.170-171,,mapo1242,Mapos Buang,mapo1242-4
+100,m.hödahis n.mad.vahi,(five people),FALSE,Hooley1970,pp.170-171,,mapo1242,Mapos Buang,mapo1242-4
+1,-caa,,FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+1,caa-,,FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+1,caapwi,,FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+1,jè,,FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+2,e̊re̊ilu,,FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+3,e̊re̊cié,,FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+4,-pëpé,,FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+4,(e̊re̊-pëpé),,FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+4,e̊re̊pëpé,,FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+5,caa-kärä-î-jè,"[cf. p.133 <kärä> ‘to, of’; cf. p.118 <î> ‘hand, arm’; cf. p.125 <jè> ‘1pl.incl’]",FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+6,caa-kärä-î-jè-görö-caapwi,"“five on one” [cf. p.110 <görö> ‘on, above’]",FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+10,du-î-jè,"(two hands) [cf. p. 89 <du> ‘both, pair’]",FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+20,caapwi åboro,"“a man” [cf. p.26 <åboro> ‘individual, living being, person, man’]",FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+20,caapwi-åboro,"“a man” [cf. p.26 <åboro> ‘individual, living being, person, man’]",FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+40,e̊re̊ilu-åboro,“two men”,FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
