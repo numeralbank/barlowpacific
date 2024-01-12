@@ -1,10 +1,10 @@
 {
     "id": "barlowpacific",
-    "title": "CLDF dataset derived from Barlow's \"Numerals of the Pacific\" from 2022",
+    "title": "CLDF dataset derived from Barlow's \"Numerals of the Pacific\" from 2024",
     "description": null,
     "license": "CC-BY-4.0",
     "url": null,
-    "citation": "Barlow, Russell (ed.). 2022. Numerals of the Pacific: A collection of numeral terms in Austronesian and Papuan languages.",
+    "citation": "Barlow, Russell (ed.). 2024. Numerals of the Pacific: A collection of numeral terms in Austronesian and Papuan languages.",
     "aboutUrl": null,
     "conceptlist": [],
     "lingpy_schema": null,
