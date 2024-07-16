@@ -36750,3 +36750,58 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
+1,?essá,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+2,?adwá,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+3,tallú,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+4,?appát,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+5,limá,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+6,?annám,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+7,pitú,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+8,walú,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+9,siyám,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+10,ta:puló,/?essá/ becomes /ta:/,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+11,ta:pulwayessá,"The formation of teens is done with the ligature /ay/ ... [W]hen /ay/ is used, the /o/ in /pulo/ becomes /w/.",FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+12,ta:puwayadwá,"The formation of teens is done with the ligature /ay/ ... [W]hen /ay/ is used, the /o/ in /pulo/ becomes /w/.",FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+13,ta:pulway tallú,"The formation of teens is done with the ligature /ay/ ... [W]hen /ay/ is used, the /o/ in /pulo/ becomes /w/.",FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+14,ta:pulwayappát,"The formation of teens is done with the ligature /ay/ ... [W]hen /ay/ is used, the /o/ in /pulo/ becomes /w/.",FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+15,ta:pulway limá,"The formation of teens is done with the ligature /ay/ ... [W]hen /ay/ is used, the /o/ in /pulo/ becomes /w/.",FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+16,ta:pulwayannám,"The formation of teens is done with the ligature /ay/ ... [W]hen /ay/ is used, the /o/ in /pulo/ becomes /w/.",FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+17,ta:pulway pitú,"The formation of teens is done with the ligature /ay/ ... [W]hen /ay/ is used, the /o/ in /pulo/ becomes /w/.",FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+18,ta:pulway waló,"The formation of teens is done with the ligature /ay/ ... [W]hen /ay/ is used, the /o/ in /pulo/ becomes /w/.",FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+19,ta:pulway siyám,"The formation of teens is done with the ligature /ay/ ... [W]hen /ay/ is used, the /o/ in /pulo/ becomes /w/.",FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+20,?adwa:puló,ligature /a/ ... ,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+30,tallu:puló,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+40,?appata:puló,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+50,lima:puló,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+60,?annama:puló,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+70,pitu:puló,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+80,walu:puló,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+90,siyamapuló,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+100,?essá + a + gatút,[[?essá:gatút]?] The modification marker /a/ is replaced by length when the number ends in a vowel.,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+200,?adwá + a + gatút,[[?adwá:gatút]?] The modification marker /a/ is replaced by length when the number ends in a vowel.,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+1000,?essá + a + hi:bo,[[?essá:hi:bo]?] The modification marker /a/ is replaced by length when the number ends in a vowel.,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+2000,?adwá + a + hi:bo,[[?adwá:hi:bo]?] The modification marker /a/ is replaced by length when the number ends in a vowel.,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+1,saˀ,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+1,satu,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+1,sə-,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+2,dua,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+3,tiga,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+5,lima,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+6,enam,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+6,ənam,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+6,nam,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+7,tuhuh,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+8,delapan,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+9,sembilan,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+10,puluh,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+10,bəlas,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+17,tujuh bəlas,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+20,dua-puloh,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+26,dua puluh ənam,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+35,tiga puluh lima,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+90,sembilan puluh,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+100,ratus,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+100,ratos,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+100,sə-ratos,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+300,tiga ratus,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
+500,lima ratos,,,Rafferty1982,passim,,pera1256,Chindo,pera1256-2
