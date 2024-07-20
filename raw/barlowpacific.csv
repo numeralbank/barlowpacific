@@ -19872,14 +19872,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,luwɑdi luwɑdi hiliɑdinɡɑ,,FALSE,Carter2012,p.60,,mato1252,Mato,mato1252-1
 10,hɑtɑiŋ hɑtɑinɑ,,FALSE,Carter2012,p.60,,mato1252,Mato,mato1252-1
 1,taininau,,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
-2,Iua,,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
-3,Iua hiliana,,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
-4,Iua di Iua di,,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
-5,Iua di Iua di hiliandina,,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
-6,Iua di Iua di lua di,,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
-6,Iua hiliana Iua hiliana,alternative: ‘two one two one’,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
-7,Iua hiIiandi Iua hiliandi taininau,,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
-10,laingtela Iaingtela suplo,half half finished (2 hands),FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
+2,lua,,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
+3,lua hiliana,,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
+4,lua di lua di,,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
+5,lua di lua di hiliandina,,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
+6,lua di lua di lua di,,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
+6,lua hiliana lua hiliana,alternative: ‘two one two one’,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
+7,lua hiliandi lua hiliandi taininau,,FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
+10,laingtela laingtela suplo,half half finished (2 hands),FALSE,Smith1988,p.61,,mato1252,Nengaya,mato1252-2
 1,tainina,,FALSE,Smith1988,p.61,,mato1252,Nengaya: another informant,mato1252-3
 2,lua,,FALSE,Smith1988,p.61,,mato1252,Nengaya: another informant,mato1252-3
 3,tua,,FALSE,Smith1988,p.61,,mato1252,Nengaya: another informant,mato1252-3
@@ -28230,7 +28230,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,botnombot,hand side or half,FALSE,Smith1988,p.84,,sele1250,Selepet,sele1250-1
 5,numburok,also used for five,FALSE,Smith1988,p.84,,sele1250,Selepet,sele1250-1
 5,mome,northern dialect: ‘thumb’,FALSE,Smith1988,p.84,,sele1250,Selepet,sele1250-1
-6,botnombot Ion konok,,FALSE,Smith1988,p.84,,sele1250,Selepet,sele1250-1
+6,botnombot lon konok,,FALSE,Smith1988,p.84,,sele1250,Selepet,sele1250-1
 10,botnombot nombot nierek,hand half half finished,FALSE,Smith1988,p.84,,sele1250,Selepet,sele1250-1
 10,bot numburok harok,other informants: seems to mean ‘hands together’,FALSE,Smith1988,p.84,,sele1250,Selepet,sele1250-1
 11,koi yon konok,one on the foot,FALSE,Smith1988,p.84,,sele1250,Selepet,sele1250-1
@@ -31900,7 +31900,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,bot bip bip harok,hand side side all,FALSE,Smith1988,p.85,,timb1251,Timbe,timb1251-1
 11,keion konok,one on the foot,FALSE,Smith1988,p.85,,timb1251,Timbe,timb1251-1
 15,keion momerok,foot five,FALSE,Smith1988,p.85,,timb1251,Timbe,timb1251-1
-20,Iuak konok harok,man one whole,FALSE,Smith1988,p.85,,timb1251,Timbe,timb1251-1
+20,luak konok harok,man one whole,FALSE,Smith1988,p.85,,timb1251,Timbe,timb1251-1
 1,konok,,FALSE,LeanMorobe,p.15,"4 CSQs. Villages: Derim (2), Yakop village. Central dialect region.",timb1251,Timbe (Central dialect),timb1251-2
 2,lauwa,,FALSE,LeanMorobe,p.15,"4 CSQs. Villages: Derim (2), Yakop village. Central dialect region.",timb1251,Timbe (Central dialect),timb1251-2
 3,alawu,,FALSE,LeanMorobe,p.15,"4 CSQs. Villages: Derim (2), Yakop village. Central dialect region.",timb1251,Timbe (Central dialect),timb1251-2
