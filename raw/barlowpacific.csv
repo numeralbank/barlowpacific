@@ -521,7 +521,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 17,ta:pulway pitú,"The formation of teens is done with the ligature /ay/ ... [W]hen /ay/ is used, the /o/ in /pulo/ becomes /w/.",FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
 18,ta:pulway waló,"The formation of teens is done with the ligature /ay/ ... [W]hen /ay/ is used, the /o/ in /pulo/ becomes /w/.",FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
 19,ta:pulway siyám,"The formation of teens is done with the ligature /ay/ ... [W]hen /ay/ is used, the /o/ in /pulo/ becomes /w/.",FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
-20,?adwa:puló,ligature /a/ ... ,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
+20,?adwa:puló,ligature /a/ ...,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
 30,tallu:puló,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
 40,?appata:puló,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
 50,lima:puló,,FALSE,Alviar-Calinawagan1995,pp.74-75,,agta1234,Kalinga,agta1234-3
@@ -14251,7 +14251,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 6,kaɡoł (jiŋ),wrist [jiŋ = ‘upstream’],FALSE,Davies1981,p.207,,kobo1249,Kobon,kobo1249-2
 7,mudun (jiŋ),forearm,FALSE,Davies1981,p.207,,kobo1249,Kobon,kobo1249-2
 8,raleb (jiŋ),inside elbow joint,FALSE,Davies1981,p.207,,kobo1249,Kobon,kobo1249-2
-9,ajɨp (laŋ),biceps [laŋ =  ‘above’],FALSE,Davies1981,p.207,,kobo1249,Kobon,kobo1249-2
+9,ajɨp (laŋ),biceps [laŋ = ‘above’],FALSE,Davies1981,p.207,,kobo1249,Kobon,kobo1249-2
 10,siduŋ (laŋ),shoulder,FALSE,Davies1981,p.207,,kobo1249,Kobon,kobo1249-2
 11,aɡɨp (laŋ),collarbone [böŋ = ‘one side of’],FALSE,Davies1981,p.207,,kobo1249,Kobon,kobo1249-2
 12,möɡan (laŋ),hole (above breastbone),FALSE,Davies1981,p.207,,kobo1249,Kobon,kobo1249-2
@@ -16586,7 +16586,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1000000,mola,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
 1000000000,maua,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
 1000000000000,vuthia,,FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
-1000000000000000,uki,[also <lega>  ‘countless’],FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
+1000000000000000,uki,[also <lega> ‘countless’],FALSE,Unger2008,pp.56-57,,leng1259,Lengo - ‘Kastom’ cardinal numbers,leng1259-2
 1,sip,,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
 2,huep,,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
 3,tilip,,FALSE,LeanManus,p.4,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,lenk1247,Lenkau,lenk1247-1
@@ -25469,16 +25469,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,moga-tele-tatalu,,FALSE,Johnston1980,p.121,,pele1245,Ata,pele1245-4
 9,moga-tele-tamiˀa,,FALSE,Johnston1980,p.121,,pele1245,Ata,pele1245-4
 10,moga-tele-taˀuƀe,,FALSE,Johnston1980,p.121,,pele1245,Ata,pele1245-4
-1,siw,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
-2,lup,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
-3,tulup,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
-4,talip,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
-5,rurin,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
-6,unup,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
-7,karutulup,10–3,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
-8,karulup,10–2,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
-9,karusiw,10–1,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
-10,sangahul,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in  Lorengau.,penc1239,Penchal,penc1239-1
+1,siw,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in Lorengau.,penc1239,Penchal,penc1239-1
+2,lup,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in Lorengau.,penc1239,Penchal,penc1239-1
+3,tulup,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in Lorengau.,penc1239,Penchal,penc1239-1
+4,talip,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in Lorengau.,penc1239,Penchal,penc1239-1
+5,rurin,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in Lorengau.,penc1239,Penchal,penc1239-1
+6,unup,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in Lorengau.,penc1239,Penchal,penc1239-1
+7,karutulup,10–3,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in Lorengau.,penc1239,Penchal,penc1239-1
+8,karulup,10–2,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in Lorengau.,penc1239,Penchal,penc1239-1
+9,karusiw,10–1,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in Lorengau.,penc1239,Penchal,penc1239-1
+10,sangahul,,FALSE,LeanManus,pp.3-4,Lean’s Field Notes (1987) from a Penchal-speaking informant in Lorengau.,penc1239,Penchal,penc1239-1
 1,sǝw ,,FALSE,Blust2021,"pp.25, 30, 32, 38",,penc1239,Penchal ,penc1239-2
 2,lup ,,FALSE,Blust2021,"pp.25, 30, 32, 38",,penc1239,Penchal ,penc1239-2
 3,tulup ,,FALSE,Blust2021,"pp.25, 30, 32, 38",,penc1239,Penchal ,penc1239-2
