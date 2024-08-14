@@ -6102,20 +6102,32 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 50,Païpoufoulou,,FALSE,Gevrey1870,p.117,,bush1250,Antalote,bush1250-1
 100,Satou,,FALSE,Gevrey1870,p.117,,bush1250,Antalote,bush1250-1
 1000,Arivou,,FALSE,Gevrey1870,p.117,,bush1250,Antalote,bush1250-1
-1,raky,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
-2,roy,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
-3,mamoko,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
-4,efatsy,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
-5,paipo,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
-6,tŝota,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
-7,fito,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
-8,valo,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
-9,sivy,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
-10,folo,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
-30,telompolo,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
-50,dimiampolo,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
-100,zato,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
-1000,arivo,,FALSE,Gueunier1986,pp.334-358,,bush1250,Kiantalaotsy,bush1250-2
+1,raky,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+1,RÀKY,/ˈraki/,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+2,roy,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+2,RÔY,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+3,mamoko,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+3,MAMÒKO,/maˈmuku/,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+4,efatsy,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+4,ÈFATSY,/ˈefat͜si/,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+5,paipo,,TRUE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+5,PAÌPO,/paˈipu/; etymology from English five (Lex. Dial. N.).,TRUE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+6,tŝota,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+6,TŜÒTA,/ˈt͜ʃuta/,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+7,fito,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+7,FÌTO,/ˈfitu/,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+8,valo,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+8,VÀLO,/ˈvalu/,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+9,sivy,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+9,SÌVY,/ˈsivi/,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+10,folo,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+10,FÒLO,/ˈfulu/,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+30,telompolo,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+33,telompolo mamoko amby,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+50,dimiampolo,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+55,dimiampolo paipo amby,,TRUE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+100,zato,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
+1000,arivo,,FALSE,Gueunier1986,"pp.334-358, passim",,bush1250,Kiantalaotsy,bush1250-2
 1,ise,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
 2,jua,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
 3,tolu,free,FALSE,vandenBerg2020,pp.95-96,,buso1238,Busoa,buso1238-1
