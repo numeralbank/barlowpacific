@@ -8658,7 +8658,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,mange mendai wakitao,10–1,FALSE,Lean1986Vol09,p.27,9 CSQs. (Wapenamanda area).,enga1252,Enga (Layapo dialect),enga1252-2
 10,akalita,‘akali’ = ‘man’,FALSE,Lean1986Vol09,p.27,9 CSQs. (Wapenamanda area).,enga1252,Enga (Layapo dialect),enga1252-2
 11,akalita kisa mendai,,FALSE,Lean1986Vol09,p.27,9 CSQs. (Wapenamanda area).,enga1252,Enga (Layapo dialect),enga1252-2
-12,akalita kisa kondape,,FALSE,Lean1986Vol09,p.27,9 CSQs. (Wapenamanda area).,enga1252,Enga (Layapo dialect),enga1252-2
+15,akalita kisa kondape,,FALSE,Lean1986Vol09,p.27,9 CSQs. (Wapenamanda area).,enga1252,Enga (Layapo dialect),enga1252-2
 20,akalita lapo,‘two tens’,FALSE,Lean1986Vol09,p.27,9 CSQs. (Wapenamanda area).,enga1252,Enga (Layapo dialect),enga1252-2
 30,akalita tepo,‘three tens’,FALSE,Lean1986Vol09,p.27,9 CSQs. (Wapenamanda area).,enga1252,Enga (Layapo dialect),enga1252-2
 1,me(n)dai,‘one’ (numeral),FALSE,Lean1986Vol09,pp.24-25,Author’s notes take from Mai dialect informants.,enga1252,Enga (Mai dialect),enga1252-3
@@ -8667,7 +8667,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,kitome(n)de,‘four’ (numeral),FALSE,Lean1986Vol09,pp.24-25,Author’s notes take from Mai dialect informants.,enga1252,Enga (Mai dialect),enga1252-3
 5,yungi,‘time’,FALSE,Lean1986Vol09,pp.24-25,Author’s notes take from Mai dialect informants.,enga1252,Enga (Mai dialect),enga1252-3
 5,yugi,‘time’,FALSE,Lean1986Vol09,pp.24-25,Author’s notes take from Mai dialect informants.,enga1252,Enga (Mai dialect),enga1252-3
-6,tokage,"‘her is the flat object, e.g. bridge’",FALSE,Lean1986Vol09,pp.24-25,Author’s notes take from Mai dialect informants.,enga1252,Enga (Mai dialect),enga1252-3
+6,tokage,"‘here is the flat object, e.g. bridge’",FALSE,Lean1986Vol09,pp.24-25,Author’s notes take from Mai dialect informants.,enga1252,Enga (Mai dialect),enga1252-3
 7,kalage,‘seven’ (numeral),FALSE,Lean1986Vol09,pp.24-25,Author’s notes take from Mai dialect informants.,enga1252,Enga (Mai dialect),enga1252-3
 8,tukulapo,‘two arrows’ (‘tuku’ = ‘arrow’) or ‘core’,FALSE,Lean1986Vol09,pp.24-25,Author’s notes take from Mai dialect informants.,enga1252,Enga (Mai dialect),enga1252-3
 9,tukutepon(ya) me(n)dai,‘three arrows’ + 1,FALSE,Lean1986Vol09,pp.24-25,Author’s notes take from Mai dialect informants.,enga1252,Enga (Mai dialect),enga1252-3
@@ -15680,7 +15680,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,mange mendaki,10–1,FALSE,Lean1986Vol09,p.27,9 CSQs. (Baiyer River area).,kyak1244,Enga (Kyaka Enga),kyak1244-1
 10,akalisa,‘akali’ = ‘man’,FALSE,Lean1986Vol09,p.27,9 CSQs. (Baiyer River area).,kyak1244,Enga (Kyaka Enga),kyak1244-1
 11,akalisa ipisu mendaki,,FALSE,Lean1986Vol09,p.27,9 CSQs. (Baiyer River area).,kyak1244,Enga (Kyaka Enga),kyak1244-1
-12,akalisa ipisu kingipaki,,FALSE,Lean1986Vol09,p.27,9 CSQs. (Baiyer River area).,kyak1244,Enga (Kyaka Enga),kyak1244-1
+15,akalisa ipisu kingipaki,,FALSE,Lean1986Vol09,p.27,9 CSQs. (Baiyer River area).,kyak1244,Enga (Kyaka Enga),kyak1244-1
 20,akalisa lama,,FALSE,Lean1986Vol09,p.27,9 CSQs. (Baiyer River area).,kyak1244,Enga (Kyaka Enga),kyak1244-1
 30,akalisa tema,,FALSE,Lean1986Vol09,p.27,9 CSQs. (Baiyer River area).,kyak1244,Enga (Kyaka Enga),kyak1244-1
 1,menda-ki ,,FALSE,Franklin2012,pp.35-37,,kyak1244,Kyaka,kyak1244-2
@@ -20686,9 +20686,9 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,dawira ará̤bam,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
 10,wabota,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
 11,tuburomóro utúa,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
-12,tuburomóro utúa,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
-13,tuburomóro na̤r,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
-14,tuburomóro aro̱p,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
+12,tuburomóro na̤r,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
+13,tuburomóro aro̱p,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
+14,tuburomóro ará̤bam,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
 15,tuburomóro uná pakák,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
 16,tuburomóro dawira utúa,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
 17,tuburomóro dawira na̤r,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
