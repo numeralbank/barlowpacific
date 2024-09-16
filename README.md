@@ -22,10 +22,10 @@ This dataset is licensed under a CC-BY-4.0 license
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 2,757
-- **Concepts:** 212
-- **Lexemes:** 36,751
-- **Sources:** 441
+- **Varieties:** 2,783 (linked to 1,401 different Glottocodes)
+- **Concepts:** 212 (linked to 123 different Concepticon concept sets)
+- **Lexemes:** 37,092
+- **Sources:** 444
 - **Synonymy:** 1.09
 
 ## Possible Improvements:
