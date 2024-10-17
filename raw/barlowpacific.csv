@@ -1173,6 +1173,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,wititik,,FALSE,LeanEastSepik,p.36,SIL Word List (1976). Village: Stapigum. (Wosera d.),ambu1247,Abelem (Wosera dialect: Stapigum village),ambu1247-6
 5,nak tamba,,FALSE,LeanEastSepik,p.36,SIL Word List (1976). Village: Stapigum. (Wosera d.),ambu1247,Abelem (Wosera dialect: Stapigum village),ambu1247-6
 10,tamba witik,,FALSE,LeanEastSepik,p.36,SIL Word List (1976). Village: Stapigum. (Wosera d.),ambu1247,Abelem (Wosera dialect: Stapigum village),ambu1247-6
+1,nakwuřek,,FALSE,Staalsen1975,p.14,,ambu1247,Wosera,ambu1247-7
+3,kupuk,,FALSE,Staalsen1975,p.14,,ambu1247,Wosera,ambu1247-7
 1,osol,,FALSE,LeanMadang,p.54,"2 CSQs. Villages: Amele, Sein.",amel1241,Amele,amel1241-1
 2,leis,,FALSE,LeanMadang,p.54,"2 CSQs. Villages: Amele, Sein.",amel1241,Amele,amel1241-1
 3,iyet,,FALSE,LeanMadang,p.54,"2 CSQs. Villages: Amele, Sein.",amel1241,Amele,amel1241-1
@@ -1511,6 +1513,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,sohowen,inggik soho = upper arm,FALSE,Zoellner2017,"pp.15, 78, 89, 124, 133, 152, 161, 172, 191",,angg1239,Yali (Angguruk),angg1239-1
 10,nûmen lahabeg,the shoulders counted upwards,FALSE,Zoellner2017,"pp.15, 78, 89, 124, 133, 152, 161, 172, 191",,angg1239,Yali (Angguruk),angg1239-1
 18,nûm fûmag,"[fûmag = other side, other half]",FALSE,Zoellner2017,"pp.15, 78, 89, 124, 133, 152, 161, 172, 191",,angg1239,Yali (Angguruk),angg1239-1
+1,mysyk,,FALSE,Fahner1979,p.157,,angg1239,Angguruk,angg1239-2
+2,biten,,FALSE,Fahner1979,p.157,,angg1239,Angguruk,angg1239-2
 1,mam,(little finger),FALSE,LeanSandaun,p.19,1 CSQ. Angor Community School.,ango1254,Anggor (Angor Community School),ango1254-1
 2,yumbo,(ring finger),FALSE,LeanSandaun,p.19,1 CSQ. Angor Community School.,ango1254,Anggor (Angor Community School),ango1254-1
 3,ngem,(middle finger),FALSE,LeanSandaun,p.19,1 CSQ. Angor Community School.,ango1254,Anggor (Angor Community School),ango1254-1
@@ -2170,8 +2174,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,siti soŋi siti soŋi,,FALSE,Carter2012,p.59,,asar1240,Asaro'o (Bagen village),asar1240-1
 1,orfətɛm,,FALSE,Carter2012,p.50,,asar1240,Molet Kasu (Kasu village),asar1240-2
 2,jɛrijɛr,,FALSE,Carter2012,p.50,,asar1240,Molet Kasu (Kasu village),asar1240-2
+1,orfətɛm,,FALSE,Carter2012,p.50,,asar1240,Molet Kasu (Kasu village),asar1240-2
+2,jɛrijɛr,,FALSE,Carter2012,p.50,,asar1240,Molet Kasu (Kasu village),asar1240-2
 1,orfatem,,FALSE,Carter2012,p.50,,asar1240,Molet Mur (Mur village),asar1240-3
 2,jerijer,,FALSE,Carter2012,p.50,,asar1240,Molet Mur (Mur village),asar1240-3
+1,orfatem,,FALSE,Carter2012,p.50,,asar1240,Molet Mur (Mur village),asar1240-3
+2,jerijer,,FALSE,Carter2012,p.50,,asar1240,Molet Mur (Mur village),asar1240-3
+1,oɸtam,,FALSE,Carter2012,p.50,,asar1240,Asaro'o (Bagen village) (from Mike Sweeney),asar1240-4
+2,jirjir,,FALSE,Carter2012,p.50,,asar1240,Asaro'o (Bagen village) (from Mike Sweeney),asar1240-4
 1,oɸtam,,FALSE,Carter2012,p.50,,asar1240,Asaro'o (Bagen village) (from Mike Sweeney),asar1240-4
 2,jirjir,,FALSE,Carter2012,p.50,,asar1240,Asaro'o (Bagen village) (from Mike Sweeney),asar1240-4
 1,lesae,,FALSE,Stokhof1981Vol3.1,pp.173-174,,asil1242,"Lima (Rumahsosal, Nuwetetu) Seram",asil1242-1
@@ -2240,6 +2250,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 15,makotatuano akamoko,,FALSE,LeanBougainville,p.36,1 CSQ. Village: Aniovi.,asko1238,Eivo (Aniovi village),asko1238-2
 20,makotatuare besatuare,,FALSE,LeanBougainville,p.36,1 CSQ. Village: Aniovi.,asko1238,Eivo (Aniovi village),asko1238-2
 30,penuma makotan,,FALSE,LeanBougainville,p.36,1 CSQ. Village: Aniovi.,asko1238,Eivo (Aniovi village),asko1238-2
+1,katɛpato,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
+2,besiatoaɾɛ,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
+3,pɛnuma,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
+4,nɛsiuna,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
+5,akamoko,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
 1,sa,,FALSE,Grace1955pdf50,p.156,,asss1237,As,asss1237-1
 1,tɛm,,FALSE,Grace1955pdf50,p.156,,asss1237,As,asss1237-1
 2,lu,,FALSE,Grace1955pdf50,p.156,,asss1237,As,asss1237-1
@@ -2394,6 +2409,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,sɑmpəlɑ mʊŋɡɔ,,FALSE,Laycock1970D12,p.1672,,auwe1239,Simog,auwe1239-1
 4,sɑmpəlɑ sɑmpəlɑ,,FALSE,Laycock1970D12,p.1672,,auwe1239,Simog,auwe1239-1
 5,sɑmpəlɑ sɑmpəlɑ mʊŋɡwɔ,,FALSE,Laycock1970D12,p.1672,,auwe1239,Simog,auwe1239-1
+1,naɾea,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+2,keɾkaaɾa,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+3,been,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+4,kaɾen,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+5,panoko,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+6,panoko ita naɾea,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+7,panoko ita keɾkaaɾa,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+10,kiboɾa,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
 1,kelenga suk,,FALSE,Lean1985Vol04,p.61,"2 CSQs. Villages: Akam, Aringring.",avau1237,Gasmata (near Gasmata Government Station),avau1237-1
 2,su,,FALSE,Lean1985Vol04,p.61,"2 CSQs. Villages: Akam, Aringring.",avau1237,Gasmata (near Gasmata Government Station),avau1237-1
 3,moiuk,,FALSE,Lean1985Vol04,p.61,"2 CSQs. Villages: Akam, Aringring.",avau1237,Gasmata (near Gasmata Government Station),avau1237-1
@@ -3183,6 +3206,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,ma·noɣa,,FALSE,Grace1955pdf47,p.103,,bann1247,Banoni (SW Bougainville),bann1247-3
 20,ma·noɣa to·m,etc.,FALSE,Grace1955pdf47,p.103,,bann1247,Banoni (SW Bougainville),bann1247-3
 100,raus kadakem,,FALSE,Grace1955pdf47,p.103,,bann1247,Banoni (SW Bougainville),bann1247-3
+1,kadaken,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+2,toom,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+3,dapisa,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+4,tovatsi,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+5,ɣinima,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+6,bena,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+7,bena tom,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+10,manoɣa,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
 1,Ísà,,FALSE,Stokhof1983Vol7.2,pp.300-301,,bant1286,Bantik (mentioned in JB 1939),bant1286-1
 2,Doewa,,FALSE,Stokhof1983Vol7.2,pp.300-301,,bant1286,Bantik (mentioned in JB 1939),bant1286-1
 3,Toeroe,,FALSE,Stokhof1983Vol7.2,pp.300-301,,bant1286,Bantik (mentioned in JB 1939),bant1286-1
@@ -4776,6 +4807,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,wataiti,,FALSE,Grace1955pdf42,p.3,,boik1241,Walis,boik1241-10
 9,hi fa·s wataiti hi fas,,FALSE,Grace1955pdf42,p.3,,boik1241,Walis,boik1241-10
 10,hi fʷaeti,"(= six, sic!!)",FALSE,Grace1955pdf42,p.3,,boik1241,Walis,boik1241-10
+1,yəgwəře?,,FALSE,Staalsen1975,p.14,,boik1241,Boiken,boik1241-11
+3,nungulī?,,FALSE,Staalsen1975,p.14,,boik1241,Boiken,boik1241-11
 1,nava,,FALSE,LeanEastSepik,p.31,6 CSQs. Coastal d. region.,boik1241,Boiken (Coastal dialect: from CSQs),boik1241-2
 2,kirik,,FALSE,LeanEastSepik,p.31,6 CSQs. Coastal d. region.,boik1241,Boiken (Coastal dialect: from CSQs),boik1241-2
 3,mungluk,,FALSE,LeanEastSepik,p.31,6 CSQs. Coastal d. region.,boik1241,Boiken (Coastal dialect: from CSQs),boik1241-2
@@ -6047,6 +6080,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,tambanak,‘hand-one’,FALSE,LeanEastSepik,p.42,"4 CSQs. Villages: Wereman, Kampupu, Tinboli, Jiginimbu.",buru1309,Sawos,buru1309-1
 6,tambanak sera,,FALSE,LeanEastSepik,p.42,"4 CSQs. Villages: Wereman, Kampupu, Tinboli, Jiginimbu.",buru1309,Sawos,buru1309-1
 10,tamba vitik,‘hand two’,FALSE,LeanEastSepik,p.42,"4 CSQs. Villages: Wereman, Kampupu, Tinboli, Jiginimbu.",buru1309,Sawos,buru1309-1
+1,kitək,,FALSE,Staalsen1975,p.14,,buru1309,Burui,buru1309-2
+3,kubuk,,FALSE,Staalsen1975,p.14,,buru1309,Burui,buru1309-2
 1,dj’,,FALSE,Barth1910,pp.234-279,,busa1255,Boesangsch,busa1255-1
 2,doea’,,FALSE,Barth1910,pp.234-279,,busa1255,Boesangsch,busa1255-1
 3,tĕlò’,,FALSE,Barth1910,pp.234-279,,busa1255,Boesangsch,busa1255-1
@@ -7454,6 +7489,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,alpəŋ,,FALSE,Lincoln1976,p.121,,dege1247,Sel,dege1247-2
 4,taltal,,FALSE,Lincoln1976,p.121,,dege1247,Sel,dege1247-2
 5,taltal-ərə-desənəŋ,,FALSE,Lincoln1976,p.121,,dege1247,Sel,dege1247-2
+1,dɛsɛnʌŋ,,FALSE,Carter2012,p.50,,dege1247,Degenan (Sel village),dege1247-3
+2,yak,,FALSE,Carter2012,p.50,,dege1247,Degenan (Sel village),dege1247-3
 1,dɛsɛnʌŋ,,FALSE,Carter2012,p.50,,dege1247,Degenan (Sel village),dege1247-3
 2,yak,,FALSE,Carter2012,p.50,,dege1247,Degenan (Sel village),dege1247-3
 1,ca,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
@@ -9390,6 +9427,12 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 6,kai kusani kobelak,,FALSE,Smith1988,p.87,,fino1238,Finungwa,fino1238-1
 7,kai kusani yalambok,,FALSE,Smith1988,p.87,,fino1238,Finungwa,fino1238-1
 10,kai kusani fengec,hand halves together,FALSE,Smith1988,p.87,,fino1238,Finungwa,fino1238-1
+1,kieke,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
+2,taʔ,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
+3,bitaːke,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
+4,bieta,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
+5,bieta ke,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
+6,bieta,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
 1,menage,little finger (left),FALSE,Lean1986Vol10,p.25,"3 CSQs. Villages: Yo'obo, Ifigi, Tugiri.",foii1241,Foe,foii1241-1
 2,hage,ring finger,FALSE,Lean1986Vol10,p.25,"3 CSQs. Villages: Yo'obo, Ifigi, Tugiri.",foii1241,Foe,foii1241-1
 3,igi,middle finger,FALSE,Lean1986Vol10,p.25,"3 CSQs. Villages: Yo'obo, Ifigi, Tugiri.",foii1241,Foe,foii1241-1
@@ -9447,6 +9490,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,debadadamu hyabe,,FALSE,Lean1986Vol11,p.30,SIL Word List (1966). Village: Gena.,folo1238,Podopa,folo1238-2
 4,debadadamu bo,,FALSE,Lean1986Vol11,p.30,SIL Word List (1966). Village: Gena.,folo1238,Podopa,folo1238-2
 5,debadadamu soro,,FALSE,Lean1986Vol11,p.30,SIL Word List (1966). Village: Gena.,folo1238,Podopa,folo1238-2
+1,sɪkai,,FALSE,Carter2012,p.50,,fora1245,Forak (Mamgak/Sariŋ village),fora1245-1
+2,yam,,FALSE,Carter2012,p.50,,fora1245,Forak (Mamgak/Sariŋ village),fora1245-1
 1,sɪkai,,FALSE,Carter2012,p.50,,fora1245,Forak (Mamgak/Sariŋ village),fora1245-1
 2,yam,,FALSE,Carter2012,p.50,,fora1245,Forak (Mamgak/Sariŋ village),fora1245-1
 1,isáà,,FALSE,Stokhof1981Vol3.1,p.44,,ford1242,Fordata,ford1242-1
@@ -9585,6 +9630,25 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,eribami,,FALSE,Lean1986Vol08,p.36,S.I.L survey word list (1975?).,gads1258,Gadsup (from SIL word list),gads1258-3
 5,manaa yaa'mani,‘yaa’ = ‘hand’,FALSE,Lean1986Vol08,p.36,S.I.L survey word list (1975?).,gads1258,Gadsup (from SIL word list),gads1258-3
 10,tiyankani,,FALSE,Lean1986Vol08,p.36,S.I.L survey word list (1975?).,gads1258,Gadsup (from SIL word list),gads1258-3
+1,kītək,,FALSE,Staalsen1975,p.14,,gaik1242,Gaikwundi,gaik1242-1
+3,kupuk,,FALSE,Staalsen1975,p.14,,gaik1242,Gaikwundi,gaik1242-1
+1,kitat,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+1,natan,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+1,nak,[p.27],FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+2,vɨtik,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+3,kɨpuk,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+4,orɨnak,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+5,tambanak,[cf. p.32: <tamba> ‘hand’],FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+6,tambanat sɨna kitat,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+7,tambanat sɨra vɨtik,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+8,tambanat sɨra kupuk,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+9,sambanat sɨra arɨnak,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+10,tamba vɨtik,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+20,kitat dumi,[cf. p.20: <du> ‘man’; p.25: <mi> ‘tree’],FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+40,dumi vɨtik,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+60,dumi kupuk,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+80,dumi arɨnak,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+100,dumi tambanat,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
 1,moi,,FALSE,Fortgens1905,p.34,,gale1259,Galela,gale1259-1
 2,sinoto,,FALSE,Fortgens1905,p.34,,gale1259,Galela,gale1259-1
 3,saánge,,FALSE,Fortgens1905,p.34,,gale1259,Galela,gale1259-1
@@ -10576,6 +10640,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,kuman ta,together,FALSE,Smith1988,p.87,,gusa1246,Gusan,gusa1246-1
 1,ungkureng,,FALSE,Carter2012,p.50,,gwah1244,Gwahatike (Umboldi village),gwah1244-1
 2,irau,,FALSE,Carter2012,p.50,,gwah1244,Gwahatike (Umboldi village),gwah1244-1
+1,ungkureng,,FALSE,Carter2012,p.50,,gwah1244,Gwahatike (Umboldi village),gwah1244-1
+2,irau,,FALSE,Carter2012,p.50,,gwah1244,Gwahatike (Umboldi village),gwah1244-1
 1,'paya,,FALSE,Lean1985Vol03,p.33,"Allen and Hurd, SIL Wordlist (1963), Lalum Village.",haho1237,Hahon,haho1237-1
 2,am'baku,,FALSE,Lean1985Vol03,p.33,"Allen and Hurd, SIL Wordlist (1963), Lalum Village.",haho1237,Hahon,haho1237-1
 3,ku'kana,,FALSE,Lean1985Vol03,p.33,"Allen and Hurd, SIL Wordlist (1963), Lalum Village.",haho1237,Hahon,haho1237-1
@@ -11179,6 +11245,10 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,kuvuk,,FALSE,Zgraggen1972,pp.215-219,,iatm1242,Iatmul,iatm1242-1
 4,ɑynoot,,FALSE,Zgraggen1972,pp.215-219,,iatm1242,Iatmul,iatm1242-1
 5,tɑbɑnɑt,[tɑɑbɑ ~ -tɑbɑ = arm],FALSE,Zgraggen1972,pp.215-219,,iatm1242,Iatmul,iatm1242-1
+1,kita,,FALSE,Staalsen1975,p.14,,iatm1242,Torembi,iatm1242-10
+3,kupuk,,FALSE,Staalsen1975,p.14,,iatm1242,Torembi,iatm1242-10
+1,nəři,,FALSE,Staalsen1975,p.14,,iatm1242,Gaikorobi,iatm1242-11
+3,kubuk,,FALSE,Staalsen1975,p.14,,iatm1242,Gaikorobi,iatm1242-11
 1,kita,,FALSE,LeanEastSepik,pp.46-47,IMP/SIL Questionnaire (1978).,iatm1242,Iatmul (from IMP/SIL),iatm1242-2
 2,vililik,,FALSE,LeanEastSepik,pp.46-47,IMP/SIL Questionnaire (1978).,iatm1242,Iatmul (from IMP/SIL),iatm1242-2
 3,kuvuk,,FALSE,LeanEastSepik,pp.46-47,IMP/SIL Questionnaire (1978).,iatm1242,Iatmul (from IMP/SIL),iatm1242-2
@@ -11257,6 +11327,10 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,einak,,FALSE,Ray1919,p.330,,iatm1242,Kaiserin Augusta River (2),iatm1242-7
 5,taambem,,FALSE,Ray1919,p.330,,iatm1242,Kaiserin Augusta River (2),iatm1242-7
 6,čergagelag,,FALSE,Ray1919,p.330,,iatm1242,Kaiserin Augusta River (2),iatm1242-7
+1,kīta,,FALSE,Staalsen1975,p.14,,iatm1242,Iatmul,iatm1242-8
+3,kubuk,,FALSE,Staalsen1975,p.14,,iatm1242,Iatmul,iatm1242-8
+1,kita,,FALSE,Staalsen1975,p.14,,iatm1242,Yamok,iatm1242-9
+3,kupuk,,FALSE,Staalsen1975,p.14,,iatm1242,Yamok,iatm1242-9
 1,sáḳey,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
 2,čuá,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
 3,tadó,,FALSE,Vanoverbergh1937,"pp.115, 121",,ibal1244,Ibaloy,ibal1244-1
@@ -12939,6 +13013,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,mbuta,,FALSE,Adams1985,p.19,,kapi1250,Garawa,kapi1250-5
 5,mbaˈlu məˈsekⁱti,,FALSE,Adams1985,p.19,,kapi1250,Garawa,kapi1250-5
 10,ˈǥɔməŋəˈpu,,FALSE,Adams1985,p.19,,kapi1250,Garawa,kapi1250-5
+1,kakʷitija,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
+2,nafɽina,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
+3,nafasɽutu,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
+4,nafɽina,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
+5,nafɽina sɽutu,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
 1,téi,,FALSE,Laycock1970D08,pp.1040-1044,,kapp1237,Ali,kapp1237-1
 2,rou,,FALSE,Laycock1970D08,pp.1040-1044,,kapp1237,Ali,kapp1237-1
 3,tuəl,,FALSE,Laycock1970D08,pp.1040-1044,,kapp1237,Ali,kapp1237-1
@@ -14391,6 +14470,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,ababu,2 + 2,FALSE,Lean1986Vol07,p.48,S.I.L word list (1974). Village: Papa.,koit1244,Koita (Papa village),koit1244-2
 5,adakasiva,‘ada’ = ‘hand’,FALSE,Lean1986Vol07,p.48,S.I.L word list (1974). Village: Papa.,koit1244,Koita (Papa village),koit1244-2
 10,utube,,FALSE,Lean1986Vol07,p.48,S.I.L word list (1974). Village: Papa.,koit1244,Koita (Papa village),koit1244-2
+1,yapmorik,,FALSE,Staalsen1975,p.14,,koiw1243,Koiwat,koiw1243-1
+3,manŋuruk,,FALSE,Staalsen1975,p.14,,koiw1243,Koiwat,koiw1243-1
 1,natoem,,FALSE,Stokhof1982Vol5.1,p.130,,koke1241,Uwimerah (observation post),koke1241-1
 2,moeroep,,FALSE,Stokhof1982Vol5.1,p.130,,koke1241,Uwimerah (observation post),koke1241-1
 3,sagoep,,FALSE,Stokhof1982Vol5.1,p.130,,koke1241,Uwimerah (observation post),koke1241-1
@@ -14809,6 +14890,28 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 15,panokoe keinta kivora,,FALSE,Rausch1912,p.964,,koro1313,Koromira,koro1313-1
 16,panokoe keinta kivora eta nara,,FALSE,Rausch1912,p.964,,koro1313,Koromira,koro1313-1
 20,keinta kivora,,FALSE,Rausch1912,p.964,,koro1313,Koromira,koro1313-1
+1,kuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+2,tau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+3,taukuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+4,taukəj,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+5,tautau kuɽapɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+6,tautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+7,tautautau kuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+8,tautautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+9,tautautautaukuɽapɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+10,tautautautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+20,anijˈa,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+1,kuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+2,tau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+3,taukuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+4,tautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+5,tautau sroto,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+6,tautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+7,tautautau kuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+8,tautautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+9,tautautautaukuɽapɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+10,tautautautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+20,anijˈa,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
 1,satoe,,FALSE,Stokhof1986Vol8,pp.203-204,,kota1275,Dialect spoken in the West Kutei,kota1275-1
 2,doea,,FALSE,Stokhof1986Vol8,pp.203-204,,kota1275,Dialect spoken in the West Kutei,kota1275-1
 3,teloe,,FALSE,Stokhof1986Vol8,pp.203-204,,kota1275,Dialect spoken in the West Kutei,kota1275-1
@@ -15439,6 +15542,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,tutumbia,,FALSE,Ray1923,p.343,,kunj1246,Sanana,kunj1246-1
 5,purupuru,,FALSE,Ray1923,p.343,,kunj1246,Sanana,kunj1246-1
 6,tumbi-tumbi-tumbi,,FALSE,Ray1923,p.343,,kunj1246,Sanana,kunj1246-1
+1,Nambi,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+1,Gnambi,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+2,Yethombi,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+2,Kethembi,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+3,Yetho,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+4,Asár,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+5,Tambothoi,[cf. p.112: <tambia> ‘hand’],FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+5,Tambothui,[cf. p.112: <tambia> ‘hand’],FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+6,Nimbo,(no other numbers),FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+7,Nib,(no other numbers),FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
 1,an,,FALSE,Lean1985Vol01,p.37,"Field Notes, 1983. Village: Panaras.",kuot1243,Kuot,kuot1243-1
 2,haras,,FALSE,Lean1985Vol01,p.37,"Field Notes, 1983. Village: Panaras.",kuot1243,Kuot,kuot1243-1
 3,naien,,FALSE,Lean1985Vol01,p.37,"Field Notes, 1983. Village: Panaras.",kuot1243,Kuot,kuot1243-1
@@ -16698,6 +16811,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 50,tropol,,FALSE,Blust2021,"pp.25, 30, 32, 38",,lenk1247,Lenkau,lenk1247-2
 100,soŋotr,,FALSE,Blust2021,"pp.25, 30, 32, 38",,lenk1247,Lenkau,lenk1247-2
 200,huŋotr,,FALSE,Blust2021,"pp.25, 30, 32, 38",,lenk1247,Lenkau,lenk1247-2
+1,Ambior,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+2,Twmbi,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+3,Lambi,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+4,Tutumbiar,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+5,Ambotond,"Used not in sequence to the four numbers above, but to indicate a separate substantive quantity. [cf. p.107 <tond> ‘arm’; p.122 <tonda> ‘hand’]",FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+10,Ambutondaambutondanabodand,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+10,Nabodand,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+20,Ebodand,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
 1,kumoli,,FALSE,LeanWestNewBritain,p.12,1 CSQ. Village: Amio. (Lesing d.).,lesi1239,Lesing-Atui (Lesing dialect),lesi1239-1
 2,kaini,,FALSE,LeanWestNewBritain,p.12,1 CSQ. Village: Amio. (Lesing d.).,lesi1239,Lesing-Atui (Lesing dialect),lesi1239-1
 3,mik,,FALSE,LeanWestNewBritain,p.12,1 CSQ. Village: Amio. (Lesing d.).,lesi1239,Lesing-Atui (Lesing dialect),lesi1239-1
@@ -17340,6 +17461,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,bete nen bete nen,,FALSE,vanderStap1966,pp.155-156,,lowe1415,Dani,lowe1415-1
 6,egalim,‘wrist’,FALSE,vanderStap1966,pp.155-156,,lowe1415,Dani,lowe1415-1
 7,bete nen bete nen bete nen sydlak,"two plus, two plus, two plus, one-plus",FALSE,vanderStap1966,pp.155-156,,lowe1415,Dani,lowe1415-1
+1,begy-at,,FALSE,Fahner1979,p.157,,lowe1415,Mid Grand Valley Dani (taken from Bromley 1961: 305-306),lowe1415-2
+2,bete,,FALSE,Fahner1979,p.157,,lowe1415,Mid Grand Valley Dani (taken from Bromley 1961: 305-306),lowe1415-2
 1,mimo,(little finger of left hand),FALSE,Stokhof1982Vol5.1,p.182,,lowl1259,Tanah Merah area [multiple languages of the Lowland Ok family],lowl1259-1
 2,ajob,,FALSE,Stokhof1982Vol5.1,p.182,,lowl1259,Tanah Merah area [multiple languages of the Lowland Ok family],lowl1259-1
 2,arop,,FALSE,Stokhof1982Vol5.1,p.182,,lowl1259,Tanah Merah area [multiple languages of the Lowland Ok family],lowl1259-1
@@ -21856,6 +21979,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,eta,,FALSE,Zgraggen1980Mabuso,p.92,,muni1257,Munit,muni1257-1
 1,ãraɸatak,,FALSE,Carter2012,p.50,,mura1271,Muratayak (Kepoiak village),mura1271-1
 2,yirit,,FALSE,Carter2012,p.50,,mura1271,Muratayak (Kepoiak village),mura1271-1
+1,ãraɸatak,,FALSE,Carter2012,p.50,,mura1271,Muratayak (Kepoiak village),mura1271-1
+2,yirit,,FALSE,Carter2012,p.50,,mura1271,Muratayak (Kepoiak village),mura1271-1
 1,nji,,FALSE,Smith2015,pp.351-353,,muri1259,Ngorek (Murik),muri1259-1
 2,luaʔ,,FALSE,Smith2015,pp.351-353,,muri1259,Ngorek (Murik),muri1259-1
 3,təloʔ,,FALSE,Smith2015,pp.351-353,,muri1259,Ngorek (Murik),muri1259-1
@@ -22269,6 +22394,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,panoko keta karekuri,,FALSE,Lean1985Vol03,p.52,"2 CSQs. Villages: Kovenang, Karuru.",naas1242,Nasioi (Kovenang and Karuru villages),naas1242-3
 10,kivora,,FALSE,Lean1985Vol03,p.52,"2 CSQs. Villages: Kovenang, Karuru.",naas1242,Nasioi (Kovenang and Karuru villages),naas1242-3
 10,(kibora),,FALSE,Lean1985Vol03,p.52,"2 CSQs. Villages: Kovenang, Karuru.",naas1242,Nasioi (Kovenang and Karuru villages),naas1242-3
+1,naɾuŋ,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+2,kenaŋka,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+3,benaumo,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+4,kaɾenaumo,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+5,panoko,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+6,panoko keta nauɾuŋ taa,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+7,panoko keta kenaŋka taa,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+10,naɾuŋ kiβoɾa,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
 1,kwep,,FALSE,Smith1988,p.83,,naba1256,Nabak,naba1256-1
 2,zut,,FALSE,Smith1988,p.83,,naba1256,Nabak,naba1256-1
 3,tuk,,FALSE,Smith1988,p.83,,naba1256,Nabak,naba1256-1
@@ -25260,6 +25393,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,babarɛkʌ,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,para1307,Parawen,para1307-1
 1,oteso,,FALSE,Lean1986Vol12,"pp.29, 95",[unknown],pare1271,Pa,pare1271-1
 2,diyabo,Number words for 1 and 2 available only.,FALSE,Lean1986Vol12,"pp.29, 95",[unknown],pare1271,Pa,pare1271-1
+1,misig,,FALSE,Fahner1979,p.157,,pass1247,Abenaho,pass1247-1
+2,biren,,FALSE,Fahner1979,p.157,,pass1247,Abenaho,pass1247-1
 1,piso,,FALSE,Stokhof1980Vol2,pp.291-292,,pata1260,Patani,pata1260-1
 1,iso,,FALSE,Stokhof1980Vol2,pp.291-292,,pata1260,Patani,pata1260-1
 1,aiso,,FALSE,Stokhof1980Vol2,pp.291-292,,pata1260,Patani,pata1260-1
@@ -26866,6 +27001,15 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 11,katai tau katai,,FALSE,LeanBougainville,p.34,SIL (1975). Village: Togarao.,roto1249,Rotokas (Togarao village),roto1249-2
 30,vopeva tau,,FALSE,LeanBougainville,p.34,SIL (1975). Village: Togarao.,roto1249,Rotokas (Togarao village),roto1249-2
 100,katai vovoto,,FALSE,LeanBougainville,p.34,SIL (1975). Village: Togarao.,roto1249,Rotokas (Togarao village),roto1249-2
+1,katai,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+2,eɾao,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+3,βo peɾuβa,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+4,βo ɾesura,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+5,βaβae,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+5,βo βaβae,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+6,katai βataɾa,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+7,eɾao βatara,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+10,katai tau,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
 1,ta,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
 2,rua,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
 3,folu,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
@@ -28614,6 +28758,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 21,isupmesupta,,FALSE,Throop1980,"pp.231, 238",,seng1281,Asengseng,seng1281-3
 100,isupwono,,FALSE,Throop1980,"pp.231, 238",,seng1281,Asengseng,seng1281-3
 103,isupwono miok,,FALSE,Throop1980,"pp.231, 238",,seng1281,Asengseng,seng1281-3
+1,kītə,,FALSE,Staalsen1975,p.14,,seng1284,Sengo,seng1284-1
+3,kubuk,,FALSE,Staalsen1975,p.14,,seng1284,Sengo,seng1284-1
 1,mònggouw,,FALSE,Galis1955,p.163,,seng1285,Tami-groep Tabu,seng1285-1
 2,tàmbrá,,FALSE,Galis1955,p.163,,seng1285,Tami-groep Tabu,seng1285-1
 3,tàmbrá-monggouw,,FALSE,Galis1955,p.163,,seng1285,Tami-groep Tabu,seng1285-1
@@ -28999,6 +29145,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,kalego,,FALSE,LeanBougainville,p.9,SIL Word List (1975). Village: Turuba.,sibe1248,Nagovisi (Turuba village),sibe1248-2
 5,pa'noko,,FALSE,LeanBougainville,p.9,SIL Word List (1975). Village: Turuba.,sibe1248,Nagovisi (Turuba village),sibe1248-2
 10,noola,,FALSE,LeanBougainville,p.9,SIL Word List (1975). Village: Turuba.,sibe1248,Nagovisi (Turuba village),sibe1248-2
+1,namoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+1,nau,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+2,keuka,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+2,kɛmokɑ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+3,weekangoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+3,bɛkaŋgoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+4,karekangoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+5,paʔnokoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+6,nauke nööra,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+7,keukake nööra,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+10,nööra,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
 1,jah,,FALSE,Ray1913,"pp.58, 61",,sibu1258,Siduan,sibu1258-1
 2,dua,,FALSE,Ray1913,"pp.58, 61",,sibu1258,Siduan,sibu1258-1
 3,tlau,,FALSE,Ray1913,"pp.58, 61",,sibu1258,Siduan,sibu1258-1
@@ -29390,6 +29547,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 15,kibora ita panoko,,FALSE,Lean1985Vol03,p.53,"2 CSQs. Villages: Borumai, Sirobai.",sime1242,Nasioi (Korpei sub-dialect),sime1242-1
 20,nan narea,,FALSE,Lean1985Vol03,p.53,"2 CSQs. Villages: Borumai, Sirobai.",sime1242,Nasioi (Korpei sub-dialect),sime1242-1
 100,narea raku,,FALSE,Lean1985Vol03,p.53,"2 CSQs. Villages: Borumai, Sirobai.",sime1242,Nasioi (Korpei sub-dialect),sime1242-1
+1,naɾeɾ,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+2,ketaɾa,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+3,banakapa,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+4,kaɾen,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+5,panoko,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+6,panoko ke ta naɾeɾ,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+7,panoko ke ta ketaɾa,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+10,naɾetaken,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
 1,sebona,,FALSE,Lean1986Vol07,p.70,4 CSQs.,sina1266,Sinagoro (Balawaia dialect),sina1266-1
 2,lualua,repetition,FALSE,Lean1986Vol07,p.70,4 CSQs.,sina1266,Sinagoro (Balawaia dialect),sina1266-1
 3,toitoi,repetition,FALSE,Lean1986Vol07,p.70,4 CSQs.,sina1266,Sinagoro (Balawaia dialect),sina1266-1
@@ -29812,6 +29977,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,sɪrɑ ɑinɑk,,FALSE,Laycock1971D27,p.3804,,sosk1235,Kwongai (Sawos),sosk1235-1
 10,tɑmbɑ vətɪk,,FALSE,Laycock1971D27,p.3804,,sosk1235,Kwongai (Sawos),sosk1235-1
 20,nɑkwʊrɑk ndu mi,[ndu = man],FALSE,Laycock1971D27,p.3804,,sosk1235,Kwongai (Sawos),sosk1235-1
+1,nəkulək,,FALSE,Staalsen1975,p.14,,sosk1235,Kwaruwi,sosk1235-2
+3,kupuk,,FALSE,Staalsen1975,p.14,,sosk1235,Kwaruwi,sosk1235-2
 1,tei,,FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
 2,lu,,FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
 3,tol,,FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
@@ -31544,6 +31711,24 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 6,nimi-tutu po emosi,,FALSE,Lean1986Vol06,p.59,S.I.L word list (1975). Village Rabe.,tawa1275,Kehelala (Rabe village),tawa1275-2
 10,nimi luwaga hi-tutu,,FALSE,Lean1986Vol06,p.59,S.I.L word list (1975). Village Rabe.,tawa1275,Kehelala (Rabe village),tawa1275-2
 20,oloto emosi,,FALSE,Lean1986Vol06,p.59,S.I.L word list (1975). Village Rabe.,tawa1275,Kehelala (Rabe village),tawa1275-2
+1,kʷaɡasa̚,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+2,taːɪ,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+3,taːɪβiakʷaɡa,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+4,taːɪβia-taːɪβia,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+5,taːɪβia-taːɪβia kʷaɡaβia ,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+6,aɽɪkʷaɡaβiafʷaɽu,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+10,aɽitaɪβɪɔlidʒaja,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+20,aɽɪtaɪawateɪ kʷaɽidʒa,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+1,kɛˈɡiʔ,,FALSE,Menanti2022,p.30,,tawo1244,Dasigo (Beigdari),tawo1244-2
+2,bɽijˈaʔ,,FALSE,Menanti2022,p.30,,tawo1244,Dasigo (Beigdari),tawo1244-2
+3,ˈbɽiyakakɛˈɡiʔ,,FALSE,Menanti2022,p.30,,tawo1244,Dasigo (Beigdari),tawo1244-2
+4,ˈbɽiyakabɽiya,,FALSE,Menanti2022,p.30,,tawo1244,Dasigo (Beigdari),tawo1244-2
+1,kʷaka,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
+2,taʲ,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
+3,tʷˈi,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
+4,biatai,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
+5,biatai koka,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
+6,ˈtʷˈiˈtʷˈi,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
 1,a,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
 2,de,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
 3,trwa,,FALSE,Ehrhart1993,pp.134-135,,tayo1238,Tayo,tayo1238-1
@@ -35704,6 +35889,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 30,ero-vid-ènom,,FALSE,Galis1955,p.165,,west2594,Ndani-groep Timorini,west2594-5
 1,ambuet,,FALSE,Stokhof1983Vol5.2,p.210,,west2594,Timorini (Swart Valley),west2594-6
 2,bere,,FALSE,Stokhof1983Vol5.2,p.210,,west2594,Timorini (Swart Valley),west2594-6
+1,aby,,FALSE,Fahner1979,p.157,,west2594,Pyramid Western Dani (taken from Bromley 1961: 305-306),west2594-7
+2,bete,,FALSE,Fahner1979,p.157,,west2594,Pyramid Western Dani (taken from Bromley 1961: 305-306),west2594-7
 1,eɡata,‘little finger’,FALSE,Franklin1968,p.32,,west2599,Kewa (Western dialect),west2599-1
 2,laapo,‘ring finger’,FALSE,Franklin1968,p.32,,west2599,Kewa (Western dialect),west2599-1
 3,repo,‘middle finger’,FALSE,Franklin1968,p.32,,west2599,Kewa (Western dialect),west2599-1
@@ -37107,190 +37294,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,naɾea,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
-2,keɾkaaɾa,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
-3,been,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
-4,kaɾen,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
-5,panoko,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
-6,panoko ita naɾea,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
-7,panoko ita keɾkaaɾa,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
-10,kiboɾa,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
-1,naɾeɾ,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
-2,ketaɾa,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
-3,banakapa,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
-4,kaɾen,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
-5,panoko,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
-6,panoko ke ta naɾeɾ,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
-7,panoko ke ta ketaɾa,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
-10,naɾetaken,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
-1,naɾuŋ,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
-2,kenaŋka,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
-3,benaumo,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
-4,kaɾenaumo,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
-5,panoko,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
-6,panoko keta nauɾuŋ taa,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
-7,panoko keta kenaŋka taa,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
-10,naɾuŋ kiβoɾa,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
-1,namoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
-1,nau,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
-2,keuka,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
-2,kɛmokɑ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
-3,weekangoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
-3,bɛkaŋgoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
-4,karekangoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
-5,paʔnokoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
-6,nauke nööra,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
-7,keukake nööra,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
-10,nööra,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
-1,katɛpato,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
-2,besiatoaɾɛ,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
-3,pɛnuma,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
-4,nɛsiuna,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
-5,akamoko,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
-1,katai,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
-2,eɾao,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
-3,βo peɾuβa,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
-4,βo ɾesura,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
-5,βaβae,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
-5,βo βaβae,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
-6,katai βataɾa,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
-7,eɾao βatara,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
-10,katai tau,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
-1,kadaken,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
-2,toom,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
-3,dapisa,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
-4,tovatsi,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
-5,ɣinima,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
-6,bena,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
-7,bena tom,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
-10,manoɣa,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
-1,misig,,FALSE,Fahner1979,p.157,,pass1247,Abenaho,pass1247-1
-2,biren,,FALSE,Fahner1979,p.157,,pass1247,Abenaho,pass1247-1
-1,mysyk,,FALSE,Fahner1979,p.157,,angg1239,Angguruk,angg1239-2
-2,biten,,FALSE,Fahner1979,p.157,,angg1239,Angguruk,angg1239-2
-1,begy-at,,FALSE,Fahner1979,p.157,,lowe1415,Mid Grand Valley Dani (taken from Bromley 1961: 305-306),lowe1415-2
-2,bete,,FALSE,Fahner1979,p.157,,lowe1415,Mid Grand Valley Dani (taken from Bromley 1961: 305-306),lowe1415-2
-1,aby,,FALSE,Fahner1979,p.157,,west2594,Pyramid Western Dani (taken from Bromley 1961: 305-306),west2594-7
-2,bete,,FALSE,Fahner1979,p.157,,west2594,Pyramid Western Dani (taken from Bromley 1961: 305-306),west2594-7
-1,orfətɛm,,FALSE,Carter2012,p.50,,asar1240,Molet Kasu (Kasu village),asar1240-2
-2,jɛrijɛr,,FALSE,Carter2012,p.50,,asar1240,Molet Kasu (Kasu village),asar1240-2
-1,orfatem,,FALSE,Carter2012,p.50,,asar1240,Molet Mur (Mur village),asar1240-3
-2,jerijer,,FALSE,Carter2012,p.50,,asar1240,Molet Mur (Mur village),asar1240-3
-1,oɸtam,,FALSE,Carter2012,p.50,,asar1240,Asaro'o (Bagen village) (from Mike Sweeney),asar1240-4
-2,jirjir,,FALSE,Carter2012,p.50,,asar1240,Asaro'o (Bagen village) (from Mike Sweeney),asar1240-4
-1,sɪkai,,FALSE,Carter2012,p.50,,fora1245,Forak (Mamgak/Sariŋ village),fora1245-1
-2,yam,,FALSE,Carter2012,p.50,,fora1245,Forak (Mamgak/Sariŋ village),fora1245-1
-1,ãraɸatak,,FALSE,Carter2012,p.50,,mura1271,Muratayak (Kepoiak village),mura1271-1
-2,yirit,,FALSE,Carter2012,p.50,,mura1271,Muratayak (Kepoiak village),mura1271-1
-1,dɛsɛnʌŋ,,FALSE,Carter2012,p.50,,dege1247,Degenan (Sel village),dege1247-3
-2,yak,,FALSE,Carter2012,p.50,,dege1247,Degenan (Sel village),dege1247-3
-1,ungkureng,,FALSE,Carter2012,p.50,,gwah1244,Gwahatike (Umboldi village),gwah1244-1
-2,irau,,FALSE,Carter2012,p.50,,gwah1244,Gwahatike (Umboldi village),gwah1244-1
-1,kakʷitija,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
-2,nafɽina,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
-3,nafasɽutu,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
-4,nafɽina,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
-5,nafɽina sɽutu,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
-1,kuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
-2,tau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
-3,taukuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
-4,taukəj,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
-5,tautau kuɽapɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
-6,tautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
-7,tautautau kuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
-8,tautautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
-9,tautautautaukuɽapɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
-10,tautautautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
-20,anijˈa,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
-1,kuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
-2,tau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
-3,taukuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
-4,tautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
-5,tautau sroto,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
-6,tautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
-7,tautautau kuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
-8,tautautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
-9,tautautautaukuɽapɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
-10,tautautautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
-20,anijˈa,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
-1,kʷaɡasa̚,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
-2,taːɪ,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
-3,taːɪβiakʷaɡa,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
-4,taːɪβia-taːɪβia,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
-5,taːɪβia-taːɪβia kʷaɡaβia ,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
-6,aɽɪkʷaɡaβiafʷaɽu,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
-10,aɽitaɪβɪɔlidʒaja,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
-20,aɽɪtaɪawateɪ kʷaɽidʒa,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
-1,kɛˈɡiʔ,,FALSE,Menanti2022,p.30,,tawo1244,Dasigo (Beigdari),tawo1244-2
-2,bɽijˈaʔ,,FALSE,Menanti2022,p.30,,tawo1244,Dasigo (Beigdari),tawo1244-2
-3,ˈbɽiyakakɛˈɡiʔ,,FALSE,Menanti2022,p.30,,tawo1244,Dasigo (Beigdari),tawo1244-2
-4,ˈbɽiyakabɽiya,,FALSE,Menanti2022,p.30,,tawo1244,Dasigo (Beigdari),tawo1244-2
-1,kʷaka,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
-2,taʲ,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
-3,tʷˈi,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
-4,biatai,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
-5,biatai koka,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
-6,ˈtʷˈiˈtʷˈi,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
-1,kieke,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
-2,taʔ,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
-3,bitaːke,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
-4,bieta,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
-5,bieta ke,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
-6,bieta,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
-1,kīta,,FALSE,Staalsen1975,p.14,,iatm1242,Iatmul,iatm1242-8
-3,kubuk,,FALSE,Staalsen1975,p.14,,iatm1242,Iatmul,iatm1242-8
-1,kita,,FALSE,Staalsen1975,p.14,,iatm1242,Yamok,iatm1242-9
-3,kupuk,,FALSE,Staalsen1975,p.14,,iatm1242,Yamok,iatm1242-9
-1,kita,,FALSE,Staalsen1975,p.14,,iatm1242,Torembi,iatm1242-10
-3,kupuk,,FALSE,Staalsen1975,p.14,,iatm1242,Torembi,iatm1242-10
-1,nəři,,FALSE,Staalsen1975,p.14,,iatm1242,Gaikorobi,iatm1242-11
-3,kubuk,,FALSE,Staalsen1975,p.14,,iatm1242,Gaikorobi,iatm1242-11
-1,kītə,,FALSE,Staalsen1975,p.14,,seng1284,Sengo,seng1284-1
-3,kubuk,,FALSE,Staalsen1975,p.14,,seng1284,Sengo,seng1284-1
-1,nakwuřek,,FALSE,Staalsen1975,p.14,,ambu1247,Wosera,ambu1247-7
-3,kupuk,,FALSE,Staalsen1975,p.14,,ambu1247,Wosera,ambu1247-7
-1,kitək,,FALSE,Staalsen1975,p.14,,buru1309,Burui,buru1309-2
-3,kubuk,,FALSE,Staalsen1975,p.14,,buru1309,Burui,buru1309-2
-1,kītək,,FALSE,Staalsen1975,p.14,,gaik1242,Gaikwundi,gaik1242-1
-3,kupuk,,FALSE,Staalsen1975,p.14,,gaik1242,Gaikwundi,gaik1242-1
-1,nəkulək,,FALSE,Staalsen1975,p.14,,sosk1235,Kwaruwi,sosk1235-2
-3,kupuk,,FALSE,Staalsen1975,p.14,,sosk1235,Kwaruwi,sosk1235-2
-1,yapmorik,,FALSE,Staalsen1975,p.14,,koiw1243,Koiwat,koiw1243-1
-3,manŋuruk,,FALSE,Staalsen1975,p.14,,koiw1243,Koiwat,koiw1243-1
-1,yəgwəře?,,FALSE,Staalsen1975,p.14,,boik1241,Boiken,boik1241-11
-3,nungulī?,,FALSE,Staalsen1975,p.14,,boik1241,Boiken,boik1241-11
-1,kitat,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-1,natan,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-1,nak,[p.27],FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-2,vɨtik,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-3,kɨpuk,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-4,orɨnak,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-5,tambanak,[cf. p.32: <tamba> ‘hand’],FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-6,tambanat sɨna kitat,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-7,tambanat sɨra vɨtik,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-8,tambanat sɨra kupuk,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-9,sambanat sɨra arɨnak,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-10,tamba vɨtik,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-20,kitat dumi,[cf. p.20: <du> ‘man’; p.25: <mi> ‘tree’],FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-40,dumi vɨtik,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-60,dumi kupuk,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-80,dumi arɨnak,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-100,dumi tambanat,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
-1,Ambior,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
-2,Twmbi,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
-3,Lambi,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
-4,Tutumbiar,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
-5,Ambotond,"Used not in sequence to the four numbers above, but to indicate a separate substantive quantity. [cf. p.107 <tond> ‘arm’; p.122 <tonda> ‘hand’]",FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
-10,Ambutondaambutondanabodand,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
-10,Nabodand,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
-20,Ebodand,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
-1,Nambi,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
-1,Gnambi,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
-2,Yethombi,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
-2,Kethembi,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
-3,Yetho,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
-4,Asár,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
-5,Tambothoi,[cf. p.112: <tambia> ‘hand’],FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
-5,Tambothui,[cf. p.112: <tambia> ‘hand’],FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
-6,Nimbo,(no other numbers),FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
-7,Nib,(no other numbers),FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
