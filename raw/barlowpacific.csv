@@ -12032,36 +12032,30 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 16,bage isgabu vata lu ano dongke,,FALSE,Smith1988,p.55,,iwal1237,Kaiwa,iwal1237-2
 20,buni apmol til,whole man one,FALSE,Smith1988,p.55,,iwal1237,Kaiwa,iwal1237-2
 20,bage isgabu be va isgabu,"alternative: ‘hands complete, legs complete’",FALSE,Smith1988,p.55,,iwal1237,Kaiwa,iwal1237-2
-1,worwa,,FALSE,LeanEastSepik,p.17,SIL Word List (undated). Village: Hauna (Yauenian).,iwam1256,Iwam,iwam1256-1
-2,wis,,FALSE,LeanEastSepik,p.17,SIL Word List (undated). Village: Hauna (Yauenian).,iwam1256,Iwam,iwam1256-1
-3,hwum,,FALSE,LeanEastSepik,p.17,SIL Word List (undated). Village: Hauna (Yauenian).,iwam1256,Iwam,iwam1256-1
-4,hwi,,FALSE,LeanEastSepik,p.17,SIL Word List (undated). Village: Hauna (Yauenian).,iwam1256,Iwam,iwam1256-1
-5,ariar,Laycock’s word list has ‘an’ for ‘arm’ (often identical to ‘hand’) but this does not appear in the number words for 5 and 10.,FALSE,LeanEastSepik,p.17,SIL Word List (undated). Village: Hauna (Yauenian).,iwam1256,Iwam,iwam1256-1
-10,aur,,FALSE,LeanEastSepik,p.17,SIL Word List (undated). Village: Hauna (Yauenian).,iwam1256,Iwam,iwam1256-1
-1,luluwɑ,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-1,lúluwɑ,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-1,ɑluwɑ,(fem),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-1,ɡwʊl,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-1,hwʊl,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-2,lusuwɑ,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-2,ɑsŭ,(fem),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-2,ɡwis,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-2,hwis,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-3,lŭsu nʊl,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-3,ɑsid,(fem),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-3,ɡwɔsŭkur,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-3,hwɔsŭkur,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-4,tuw ɑsɛ,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-4,ɑ ɑsɛ,(fem),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-4,ɡwɑsɛ,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-4,hwɑsɛ,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-5,tuw ɑnɑkwʊr,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-5,ɑ ɑnɑkwʊr,(fem),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-6,tuw ɑnɑkwʊr lul,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-7,tuw ɑnɑkwʊr lis,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-8,tuw ɑnɑkwʊr luwɑ́,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-9,tuw ɑnɑkwʊr bow,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
-10,ɔŋɡwis,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-2
+1,luluwɑ,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+1,lúluwɑ,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+1,ɑluwɑ,(fem),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+1,ɡwʊl,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+1,hwʊl,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+2,lusuwɑ,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+2,ɑsŭ,(fem),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+2,ɡwis,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+2,hwis,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+3,lŭsu nʊl,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+3,ɑsid,(fem),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+3,ɡwɔsŭkur,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+3,hwɔsŭkur,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+4,tuw ɑsɛ,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+4,ɑ ɑsɛ,(fem),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+4,ɡwɑsɛ,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+4,hwɑsɛ,[other classes?],FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+5,tuw ɑnɑkwʊr,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+5,ɑ ɑnɑkwʊr,(fem),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+6,tuw ɑnɑkwʊr lul,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+7,tuw ɑnɑkwʊr lis,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+8,tuw ɑnɑkwʊr luwɑ́,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+9,tuw ɑnɑkwʊr bow,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
+10,ɔŋɡwis,(masc),FALSE,Laycock1971D32,p.4548,,iwam1256,Iwam,iwam1256-1
 3,alop,,FALSE,Stokhof1982Vol5.1,pp.126-127,,iwur1240,Uwimerah Proa Bivouac,iwur1240-1
 5,alop diemnombeng,<diemnosibeng?>,FALSE,Stokhof1982Vol5.1,pp.126-127,,iwur1240,Uwimerah Proa Bivouac,iwur1240-1
 6,ango,,FALSE,Stokhof1982Vol5.1,pp.126-127,,iwur1240,Uwimerah Proa Bivouac,iwur1240-1
@@ -28715,6 +28709,12 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,punini kɛtɑ,,FALSE,Zgraggen1972,pp.215-219,,sepe1240,Sepen,sepe1240-2
 4,puniniŋɑ punini,,FALSE,Zgraggen1972,pp.215-219,,sepe1240,Sepen,sepe1240-2
 5,pʊniniŋɑ puniniŋɑmbə kɛtɑ,,FALSE,Zgraggen1972,pp.215-219,,sepe1240,Sepen,sepe1240-2
+1,worwa,,FALSE,LeanEastSepik,p.17,SIL Word List (undated). Village: Hauna (Yauenian).,sepi1255,Iwam,sepi1255-1
+2,wis,,FALSE,LeanEastSepik,p.17,SIL Word List (undated). Village: Hauna (Yauenian).,sepi1255,Iwam,sepi1255-1
+3,hwum,,FALSE,LeanEastSepik,p.17,SIL Word List (undated). Village: Hauna (Yauenian).,sepi1255,Iwam,sepi1255-1
+4,hwi,,FALSE,LeanEastSepik,p.17,SIL Word List (undated). Village: Hauna (Yauenian).,sepi1255,Iwam,sepi1255-1
+5,ariar,Laycock’s word list has ‘an’ for ‘arm’ (often identical to ‘hand’) but this does not appear in the number words for 5 and 10.,FALSE,LeanEastSepik,p.17,SIL Word List (undated). Village: Hauna (Yauenian).,sepi1255,Iwam,sepi1255-1
+10,aur,,FALSE,LeanEastSepik,p.17,SIL Word List (undated). Village: Hauna (Yauenian).,sepi1255,Iwam,sepi1255-1
 1,ponteneŋ,,FALSE,Laycock1970D01,p.94,,sera1260,Sera,sera1260-1
 2,eltiŋ,,FALSE,Laycock1970D01,p.94,,sera1260,Sera,sera1260-1
 3,eltiŋ pɑl,,FALSE,Laycock1970D01,p.94,,sera1260,Sera,sera1260-1
