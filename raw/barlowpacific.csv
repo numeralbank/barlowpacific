@@ -2168,6 +2168,12 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,siti,,FALSE,Carter2012,p.59,,asar1240,Asaro'o (Bagen village),asar1240-1
 5,siti soŋi,,FALSE,Carter2012,p.59,,asar1240,Asaro'o (Bagen village),asar1240-1
 10,siti soŋi siti soŋi,,FALSE,Carter2012,p.59,,asar1240,Asaro'o (Bagen village),asar1240-1
+1,orfətɛm,,FALSE,Carter2012,p.50,,asar1240,Molet Kasu (Kasu village),asar1240-2
+2,jɛrijɛr,,FALSE,Carter2012,p.50,,asar1240,Molet Kasu (Kasu village),asar1240-2
+1,orfatem,,FALSE,Carter2012,p.50,,asar1240,Molet Mur (Mur village),asar1240-3
+2,jerijer,,FALSE,Carter2012,p.50,,asar1240,Molet Mur (Mur village),asar1240-3
+1,oɸtam,,FALSE,Carter2012,p.50,,asar1240,Asaro'o (Bagen village) (from Mike Sweeney),asar1240-4
+2,jirjir,,FALSE,Carter2012,p.50,,asar1240,Asaro'o (Bagen village) (from Mike Sweeney),asar1240-4
 1,lesae,,FALSE,Stokhof1981Vol3.1,pp.173-174,,asil1242,"Lima (Rumahsosal, Nuwetetu) Seram",asil1242-1
 2,loewa,,FALSE,Stokhof1981Vol3.1,pp.173-174,,asil1242,"Lima (Rumahsosal, Nuwetetu) Seram",asil1242-1
 3,teloe,,FALSE,Stokhof1981Vol3.1,pp.173-174,,asil1242,"Lima (Rumahsosal, Nuwetetu) Seram",asil1242-1
@@ -7448,6 +7454,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,alpəŋ,,FALSE,Lincoln1976,p.121,,dege1247,Sel,dege1247-2
 4,taltal,,FALSE,Lincoln1976,p.121,,dege1247,Sel,dege1247-2
 5,taltal-ərə-desənəŋ,,FALSE,Lincoln1976,p.121,,dege1247,Sel,dege1247-2
+1,dɛsɛnʌŋ,,FALSE,Carter2012,p.50,,dege1247,Degenan (Sel village),dege1247-3
+2,yak,,FALSE,Carter2012,p.50,,dege1247,Degenan (Sel village),dege1247-3
 1,ca,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
 1,cha,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
 2,lue,,FALSE,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Lifu,dehu1237-1
@@ -9439,6 +9447,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,debadadamu hyabe,,FALSE,Lean1986Vol11,p.30,SIL Word List (1966). Village: Gena.,folo1238,Podopa,folo1238-2
 4,debadadamu bo,,FALSE,Lean1986Vol11,p.30,SIL Word List (1966). Village: Gena.,folo1238,Podopa,folo1238-2
 5,debadadamu soro,,FALSE,Lean1986Vol11,p.30,SIL Word List (1966). Village: Gena.,folo1238,Podopa,folo1238-2
+1,sɪkai,,FALSE,Carter2012,p.50,,fora1245,Forak (Mamgak/Sariŋ village),fora1245-1
+2,yam,,FALSE,Carter2012,p.50,,fora1245,Forak (Mamgak/Sariŋ village),fora1245-1
 1,isáà,,FALSE,Stokhof1981Vol3.1,p.44,,ford1242,Fordata,ford1242-1
 2,iroeà,,FALSE,Stokhof1981Vol3.1,p.44,,ford1242,Fordata,ford1242-1
 3,itéloe,,FALSE,Stokhof1981Vol3.1,p.44,,ford1242,Fordata,ford1242-1
@@ -10564,6 +10574,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,iman,"The word iman for five appears to mean ‘hand’, although kairi was given for ‘hand’.",FALSE,Smith1988,p.87,,gusa1246,Gusan,gusa1246-1
 6,kaiwi kuboc,(other) hand one,FALSE,Smith1988,p.87,,gusa1246,Gusan,gusa1246-1
 10,kuman ta,together,FALSE,Smith1988,p.87,,gusa1246,Gusan,gusa1246-1
+1,ungkureng,,FALSE,Carter2012,p.50,,gwah1244,Gwahatike (Umboldi village),gwah1244-1
+2,irau,,FALSE,Carter2012,p.50,,gwah1244,Gwahatike (Umboldi village),gwah1244-1
 1,'paya,,FALSE,Lean1985Vol03,p.33,"Allen and Hurd, SIL Wordlist (1963), Lalum Village.",haho1237,Hahon,haho1237-1
 2,am'baku,,FALSE,Lean1985Vol03,p.33,"Allen and Hurd, SIL Wordlist (1963), Lalum Village.",haho1237,Hahon,haho1237-1
 3,ku'kana,,FALSE,Lean1985Vol03,p.33,"Allen and Hurd, SIL Wordlist (1963), Lalum Village.",haho1237,Hahon,haho1237-1
@@ -21842,6 +21854,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,kadak watarerak,legs finished,FALSE,Smith1988,p.88,,mung1272,Munkip,mung1272-1
 1,tɛtaʔʌt,,FALSE,Zgraggen1980Mabuso,p.92,,muni1257,Munit,muni1257-1
 2,eta,,FALSE,Zgraggen1980Mabuso,p.92,,muni1257,Munit,muni1257-1
+1,ãraɸatak,,FALSE,Carter2012,p.50,,mura1271,Muratayak (Kepoiak village),mura1271-1
+2,yirit,,FALSE,Carter2012,p.50,,mura1271,Muratayak (Kepoiak village),mura1271-1
 1,nji,,FALSE,Smith2015,pp.351-353,,muri1259,Ngorek (Murik),muri1259-1
 2,luaʔ,,FALSE,Smith2015,pp.351-353,,muri1259,Ngorek (Murik),muri1259-1
 3,təloʔ,,FALSE,Smith2015,pp.351-353,,muri1259,Ngorek (Murik),muri1259-1
@@ -37093,17 +37107,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,orfətɛm,,FALSE,Carter2012,p.50,,asar1240,Molet Kasu (Kasu village),asar1240-2
-2,jɛrijɛr,,FALSE,Carter2012,p.50,,asar1240,Molet Kasu (Kasu village),asar1240-2
-1,orfatem,,FALSE,Carter2012,p.50,,asar1240,Molet Mur (Mur village),asar1240-3
-2,jerijer,,FALSE,Carter2012,p.50,,asar1240,Molet Mur (Mur village),asar1240-3
-1,oɸtam,,FALSE,Carter2012,p.50,,asar1240,Asaro'o (Bagen village) (from Mike Sweeney),asar1240-4
-2,jirjir,,FALSE,Carter2012,p.50,,asar1240,Asaro'o (Bagen village) (from Mike Sweeney),asar1240-4
-1,sɪkai,,FALSE,Carter2012,p.50,,fora1245,Forak (Mamgak/Sariŋ village),fora1245-1
-2,yam,,FALSE,Carter2012,p.50,,fora1245,Forak (Mamgak/Sariŋ village),fora1245-1
-1,ãraɸatak,,FALSE,Carter2012,p.50,,mura1271,Muratayak (Kepoiak village),mura1271-1
-2,yirit,,FALSE,Carter2012,p.50,,mura1271,Muratayak (Kepoiak village),mura1271-1
-1,dɛsɛnʌŋ,,FALSE,Carter2012,p.50,,dege1247,Degenan (Sel village),dege1247-3
-2,yak,,FALSE,Carter2012,p.50,,dege1247,Degenan (Sel village),dege1247-3
-1,ungkureng,,FALSE,Carter2012,p.50,,gwah1244,Gwahatike (Umboldi village),gwah1244-1
-2,irau,,FALSE,Carter2012,p.50,,gwah1244,Gwahatike (Umboldi village),gwah1244-1
