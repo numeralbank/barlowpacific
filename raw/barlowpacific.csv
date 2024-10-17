@@ -1190,8 +1190,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 7,lakwombur nas wombur nantiyou,,FALSE,LeanSandaun,p.37,1 CSQ. Village: Sunambu.,amol1235,Aru,amol1235-1
 10,lakwomb-lakwombur,,FALSE,LeanSandaun,p.37,1 CSQ. Village: Sunambu.,amol1235,Aru,amol1235-1
 15,lakwomb-lakwombur nas ang wambur,the number words for 15 and 20 both contain a ‘foot’ or ‘leg’ morpheme ‘ang’,FALSE,LeanSandaun,p.37,1 CSQ. Village: Sunambu.,amol1235,Aru,amol1235-1
-20,lakwomb-lakwombur,the number words for 15 and 20 both contain a ‘foot’ or ‘leg’ morpheme ‘ang’,FALSE,LeanSandaun,p.37,1 CSQ. Village: Sunambu.,amol1235,Aru,amol1235-1
-20,angwamb-angambur,the number words for 15 and 20 both contain a ‘foot’ or ‘leg’ morpheme ‘ang’,FALSE,LeanSandaun,p.37,1 CSQ. Village: Sunambu.,amol1235,Aru,amol1235-1
+20,"lakwomb-lakwombur, angwamb-angambur",the number words for 15 and 20 both contain a ‘foot’ or ‘leg’ morpheme ‘ang’,FALSE,LeanSandaun,p.37,1 CSQ. Village: Sunambu.,amol1235,Aru,amol1235-1
 1,ɑmbɑk,,FALSE,Laycock1967C09,p.60,,amol1235,Aru,amol1235-2
 2,nɑndiyon,,FALSE,Laycock1967C09,p.60,,amol1235,Aru,amol1235-2
 3,wɑniŋ,,FALSE,Laycock1967C09,p.60,,amol1235,Aru,amol1235-2
@@ -1236,7 +1235,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 11,xubugr xubugr (aigri) mza-,lit. hand hand on leg one (aigri = ‘leg/foot-OBL’),FALSE,Ingram2001,pp.83-87,,anam1248,Anamuxra,anam1248-1
 12,xubugr xubugr (aigri) ai-(xai),,FALSE,Ingram2001,pp.83-87,,anam1248,Anamuxra,anam1248-1
 13,xubugr xubugr (aigri) ai-(xai) maxi-,,FALSE,Ingram2001,pp.83-87,,anam1248,Anamuxra,anam1248-1
-14,xubugr xubugr (aigri) ai-(xai),,FALSE,Ingram2001,pp.83-87,,anam1248,Anamuxra,anam1248-1
+14,xubugr xubugr (aigri) ai-(xai) ai-(xai),,FALSE,Ingram2001,pp.83-87,,anam1248,Anamuxra,anam1248-1
 15,xubugr xubugr aigr,,FALSE,Ingram2001,pp.83-87,,anam1248,Anamuxra,anam1248-1
 16,xubugr xubugr aigr (upri) mza-,lit. hand hand leg on one side one,FALSE,Ingram2001,pp.83-87,,anam1248,Anamuxra,anam1248-1
 17,xubugr xubugr aigr (upri) ai-(xai),,FALSE,Ingram2001,pp.83-87,,anam1248,Anamuxra,anam1248-1
@@ -1251,13 +1250,13 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,kɑmin,,FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Imboin-Namata villages),anda1283-1
 3,kɑmɑin,,FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Imboin-Namata villages),anda1283-1
 4,ɛmpisilem,,FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Imboin-Namata villages),anda1283-1
-5,DISQUALIFIED,"No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Imboin-Namata villages),anda1283-1
+5,_,"DISQUALIFIED No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Imboin-Namata villages),anda1283-1
 10,ɛɡumo,,FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Imboin-Namata villages),anda1283-1
 1,kɑndɑndɑ,,FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Kaiyam village),anda1283-2
 2,kɑmin,,FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Kaiyam village),anda1283-2
 3,kɑmɑin,,FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Kaiyam village),anda1283-2
 4,ɛmbisɛlɛmjɑlɑɡiɑ,,FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Kaiyam village),anda1283-2
-5,DISQUALIFIED,"No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Kaiyam village),anda1283-2
+5,_,"DISQUALIFIED No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Kaiyam village),anda1283-2
 10,ɛɡɑmuŋ,,FALSE,Kassell2017,pp.52-53,,anda1283,Andai (Kaiyam village),anda1283-2
 1,nʊɑnɑ,,FALSE,Zgraggen1972,pp.215-219,,anda1284,Andarum,anda1284-1
 2,ɡuñimbɑin,,FALSE,Zgraggen1972,pp.215-219,,anda1284,Andarum,anda1284-1
@@ -1997,7 +1996,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,neswè,,FALSE,Galis1955,p.134,,argu1237,Báham,argu1237-1
 9,naisua,,FALSE,Galis1955,p.134,,argu1237,Báham,argu1237-1
 10,samburé,,FALSE,Galis1955,p.134,,argu1237,Báham,argu1237-1
-11,[illegible],,FALSE,Galis1955,p.134,,argu1237,Báham,argu1237-1
+11,[?],[illegible],FALSE,Galis1955,p.134,,argu1237,Báham,argu1237-1
 20,[?],,FALSE,Galis1955,p.134,,argu1237,Báham,argu1237-1
 30,[?],,FALSE,Galis1955,p.134,,argu1237,Báham,argu1237-1
 40,[?],,FALSE,Galis1955,p.134,,argu1237,Báham,argu1237-1
@@ -5782,8 +5781,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,nəŋɡele,,FALSE,Laycock1971D26,p.3642,,buna1277,Buna,buna1277-2
 3,ndʒɑŋkələ,,FALSE,Laycock1971D26,p.3642,,buna1277,Buna,buna1277-2
 3,ndʒɑŋkulə,,FALSE,Laycock1971D26,p.3642,,buna1277,Buna,buna1277-2
-4,tɑ·kə,[sei ~ sɛ- ~ sə- ~ su- ~ se- ~ sou- ~ sɪ- = hand],FALSE,Laycock1971D26,p.3642,,buna1277,Buna,buna1277-2
-5,sou,,FALSE,Laycock1971D26,p.3642,,buna1277,Buna,buna1277-2
+4,tɑ·kə,,FALSE,Laycock1971D26,p.3642,,buna1277,Buna,buna1277-2
+5,sou,[sei ~ sɛ- ~ sə- ~ su- ~ se- ~ sou- ~ sɪ- = hand],FALSE,Laycock1971D26,p.3642,,buna1277,Buna,buna1277-2
 6,soukwo nɑŋə,,FALSE,Laycock1971D26,p.3642,,buna1277,Buna,buna1277-2
 7,soukwo nəŋɡəle,,FALSE,Laycock1971D26,p.3642,,buna1277,Buna,buna1277-2
 8,soukwo ndʒɑŋkurə,,FALSE,Laycock1971D26,p.3642,,buna1277,Buna,buna1277-2
@@ -10793,71 +10792,71 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,haŋgauk mʌs,(twice),FALSE,Tonson1976,pp.100-103,,haru1245,Waibuk,haru1245-1
 5,mamənt,,FALSE,Tonson1976,pp.100-103,,haru1245,Waibuk,haru1245-1
 10,ȟakᵊᵽətʰ,,FALSE,Tonson1976,pp.100-103,,haru1245,Waibuk,haru1245-1
-1,paŋ,(indigenous abstract system),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-2,mos,(indigenous abstract system),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-3,mos paŋ,‘two one’ (indigenous abstract system),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-4,mos mos,‘two two’ (indigenous abstract system),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-5,mos mos paŋ,"“although Haruai speakers were prepared to accept that one might express ‘five’ as mos mos paŋ, I never encountered such forms in actual use, and speakers clearly reacted to them as to artificial forms.” (indigenous abstract system)",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-1,aglŋ,little finger,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-1,agñöbö,little finger,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-2,agñöbö rol-yöbö,ring finger (little finger above-ADJ),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-2,agñöbö rbñaŋ-yöbö,ring finger (little finger second-ADJ),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-2,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-3,wölöml,middle finger (perhaps cf. ml ‘long’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-3,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-4,köñö ng-b,forefinger (paint put-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-4,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-5,mömd,thumb (Kobon mamɨd),TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-6,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-6,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-7,mj,inside of forearm (also: egg),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-8,amñab,inside of elbow,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-9,mac,"biceps, biceps bracelet",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-10,möyb,front of shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-10,ragpd,shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-11,gadlöy,collar bone,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-11,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-12,möl,hole (sc. above breastbone),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-12,mgan,Kobon mögan ‘hole’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-13,gadlöy,collar bone,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-13,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-14,möyb,front of shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-14,ragpd,shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-15,mac,"biceps, biceps bracelet",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-16,amñab,inside of elbow,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-17,mj,inside of forearm (also: egg),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-18,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-18,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-19,aglŋ,little finger,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-19,agñöbö,little finger,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-20,agñöbö rol-yöbö,ring finger (little finger above-ADJ),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-20,agñöbö rbñaŋ-yöbö,ring finger (little finger second-ADJ),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-20,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-21,wölöml,middle finger (perhaps cf. ml ‘long’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-21,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-22,köñö ng-b,forefinger (paint put-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-22,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-23,mömd,thumb (Kobon mamɨd),TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-24,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-24,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-25,mj,inside of forearm (also: egg),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-26,amñab,inside of elbow,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-27,mac,"biceps, biceps bracelet",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-28,möyb,front of shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-28,ragpd,shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-29,gadlöy,collar bone,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-29,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-30,möl,hole (sc. above breastbone),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-30,mgan,Kobon mögan ‘hole’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-31,gadlöy,collar bone,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-31,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-32,möyb,front of shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-32,ragpd,shoulder,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-33,mac,"biceps, biceps bracelet",FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-34,amñab,inside of elbow,FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-35,mj,inside of forearm (also: egg),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-36,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
-36,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,pp.81-91,,haru1245,Haruai,haru1245-2
+1,paŋ,,FALSE,Comrie1999,pp.81-82,,haru1245,Haruai (indigenous abstract system),haru1245-2
+2,mos,,FALSE,Comrie1999,pp.81-82,,haru1245,Haruai (indigenous abstract system),haru1245-2
+3,mos paŋ,‘two one’,FALSE,Comrie1999,pp.81-82,,haru1245,Haruai (indigenous abstract system),haru1245-2
+4,mos mos,‘two two’,FALSE,Comrie1999,pp.81-82,,haru1245,Haruai (indigenous abstract system),haru1245-2
+5,mos mos paŋ,"“although Haruai speakers were prepared to accept that one might express ‘five’ as mos mos paŋ, I never encountered such forms in actual use, and speakers clearly reacted to them as to artificial forms.”",FALSE,Comrie1999,pp.81-82,,haru1245,Haruai (indigenous abstract system),haru1245-2
+1,aglŋ,little finger,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+1,agñöbö,little finger,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+2,agñöbö rol-yöbö,ring finger (little finger above-ADJ),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+2,agñöbö rbñaŋ-yöbö,ring finger (little finger second-ADJ),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+2,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+3,wölöml,middle finger (perhaps cf. ml ‘long’),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+3,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+4,köñö ng-b,forefinger (paint put-NMZR),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+4,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+5,mömd,thumb (Kobon mamɨd),TRUE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+6,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+6,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+7,mj,inside of forearm (also: egg),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+8,amñab,inside of elbow,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+9,mac,"biceps, biceps bracelet",FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+10,möyb,front of shoulder,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+10,ragpd,shoulder,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+11,gadlöy,collar bone,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+11,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+12,möl,hole (sc. above breastbone),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+12,mgan,Kobon mögan ‘hole’,TRUE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+13,gadlöy,collar bone,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+13,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+14,möyb,front of shoulder,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+14,ragpd,shoulder,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+15,mac,"biceps, biceps bracelet",FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+16,amñab,inside of elbow,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+17,mj,inside of forearm (also: egg),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+18,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+18,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+19,aglŋ,little finger,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+19,agñöbö,little finger,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+20,agñöbö rol-yöbö,ring finger (little finger above-ADJ),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+20,agñöbö rbñaŋ-yöbö,ring finger (little finger second-ADJ),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+20,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+21,wölöml,middle finger (perhaps cf. ml ‘long’),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+21,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+22,köñö ng-b,forefinger (paint put-NMZR),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+22,ygʷwö,"Kobon igwo ‘ring, middle, index finger’",TRUE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+23,mömd,thumb (Kobon mamɨd),TRUE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+24,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+24,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+25,mj,inside of forearm (also: egg),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+26,amñab,inside of elbow,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+27,mac,"biceps, biceps bracelet",FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+28,möyb,front of shoulder,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+28,ragpd,shoulder,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+29,gadlöy,collar bone,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+29,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+30,möl,hole (sc. above breastbone),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+30,mgan,Kobon mögan ‘hole’,TRUE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+31,gadlöy,collar bone,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+31,agp,Kobon agɨp ‘collar bone’,TRUE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+32,möyb,front of shoulder,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+32,ragpd,shoulder,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+33,mac,"biceps, biceps bracelet",FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+34,amñab,inside of elbow,FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+35,mj,inside of forearm (also: egg),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+36,wrap ck-g-b,wrist bracelet (game animal hang-CMPL-NMZR),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
+36,yŋösw,wrist bracelet (yŋ ‘hand’),FALSE,Comrie1999,p.91,,haru1245,Haruai (body-part counting system),haru1245-3
 1,kóm,,FALSE,Galis1955,p.138,,hata1243,Hattam,hata1243-1
 2,tjai,,FALSE,Galis1955,p.138,,hata1243,Hattam,hata1243-1
 2,tjan,,FALSE,Galis1955,p.138,,hata1243,Hattam,hata1243-1
@@ -11538,7 +11537,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,ki talo,,FALSE,Stefaniw1987,p.28,,imbo1238,Imbongu,imbo1238-1
 9,ki talo tendeku pakera,,FALSE,Stefaniw1987,p.28,,imbo1238,Imbongu,imbo1238-1
 10,ki talo talo pakera,,FALSE,Stefaniw1987,p.28,,imbo1238,Imbongu,imbo1238-1
-11,ki talo ypoko pakera,,FALSE,Stefaniw1987,p.28,,imbo1238,Imbongu,imbo1238-1
+11,ki talo yupoko pakera,,FALSE,Stefaniw1987,p.28,,imbo1238,Imbongu,imbo1238-1
 12,ki yupoko,,FALSE,Stefaniw1987,p.28,,imbo1238,Imbongu,imbo1238-1
 1,mʊŋɡwɑsəl,,FALSE,Laycock1970D13,p.1772,,imon1245,Imonda,imon1245-1
 2,sɑmpəlɑ,,FALSE,Laycock1970D13,p.1772,,imon1245,Imonda,imon1245-1
@@ -13711,7 +13710,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 11,dònsòrafatan,,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
 15,dònsòr fasber,dònsòr is given as ‘ten’; fasber is given as ‘five’,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
 16,dònsòr fasber afatan,,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
-20,nawò dònsòrò,nawò is given as ‘two’; dònsòrò as,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
+20,nawò dònsòrò,nawò is given as ‘two’; dònsòrò as ‘ten’,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
 30,nowyèngkindònsòrò,,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
 40,nawanawa dònsòrò,nawanawa is given as ‘four’; dònsòrò as ‘ten’,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
 60,fasberafatan dònsòrò,dònsòrò is given as ‘ten’,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
@@ -14167,7 +14166,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,kàvé,,FALSE,Galis1955,p.169,,kima1246,Kimaghama,kima1246-1
 2,kawe,,FALSE,Galis1955,p.169,,kima1246,Kimaghama,kima1246-1
 3,péndji,,FALSE,Galis1955,p.169,,kima1246,Kimaghama,kima1246-1
-4,jòndo,,FALSE,Galis1955,p.169,,kima1246,Kimaghama,kima1246-1
+4,jàndo,,FALSE,Galis1955,p.169,,kima1246,Kimaghama,kima1246-1
 5,màdo,,FALSE,Galis1955,p.169,,kima1246,Kimaghama,kima1246-1
 6,turo,,FALSE,Galis1955,p.169,,kima1246,Kimaghama,kima1246-1
 6,ibolo-nubella,,FALSE,Galis1955,p.169,,kima1246,Kimaghama,kima1246-1
@@ -17688,7 +17687,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,Pumopumo,,FALSE,Cridland1924,p.58,,mahi1249,Mahigi,mahi1249-1
 9,Apoho,,FALSE,Cridland1924,p.58,,mahi1249,Mahigi,mahi1249-1
 10,Batokime,,FALSE,Cridland1924,p.58,,mahi1249,Mahigi,mahi1249-1
-20,[illegible],,FALSE,Cridland1924,p.58,,mahi1249,Mahigi,mahi1249-1
+20,[?],[illegible],FALSE,Cridland1924,p.58,,mahi1249,Mahigi,mahi1249-1
 1,udia,,FALSE,LeanMadang,p.15,SIL Word List (1975). Village: Alisuab.,maia1253,Tani (Alisuab village),maia1253-1
 2,ner,,FALSE,LeanMadang,p.15,SIL Word List (1975). Village: Alisuab.,maia1253,Tani (Alisuab village),maia1253-1
 3,arop,,FALSE,LeanMadang,p.15,SIL Word List (1975). Village: Alisuab.,maia1253,Tani (Alisuab village),maia1253-1
@@ -20599,23 +20598,23 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 27,eip ke,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
 28,kebi ke,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
 29,kebi ke nerute,little finger another,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-1,kebi ke,“Jimmy Rice counted differently: ...”,FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-2,kebi eipke,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-3,eip ke,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-4,baur ke,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-5,au ke,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-6,kebi kokne,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-7,au kokne,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-8,kenani,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-9,tuɡar,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-10,ɡilid,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-11,nerkep,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-12,nano,[Jimmy Rice’s counting],FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-13,kopor,"“... then passing to right nipple and so on in reverse order, making a total of twenty-five.” [Jimmy Rice’s counting]. “It appears probable that the method varies with different individuals. Jukes and Rev. S. Macfarlane both refer to a method of counting by means of bundles of sticks, which we have confirmed.”",FALSE,Ray1907,pp.86-87,,meri1244,Miriam,meri1244-1
-1,netat,,FALSE,Codrington1885,p.222,,meri1244,Erub,meri1244-2
-2,neisi,,FALSE,Codrington1885,p.222,,meri1244,Erub,meri1244-2
-3,neisi-netat,,FALSE,Codrington1885,p.222,,meri1244,Erub,meri1244-2
-4,neisi-neisi,,FALSE,Codrington1885,p.222,,meri1244,Erub,meri1244-2
+1,kebi ke,“Jimmy Rice counted differently: ...”,FALSE,Ray1907,pp.86-87,,meri1244,Miriam (Jimmy Rice’s counting),meri1244-2
+2,kebi eipke,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam (Jimmy Rice’s counting),meri1244-2
+3,eip ke,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam (Jimmy Rice’s counting),meri1244-2
+4,baur ke,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam (Jimmy Rice’s counting),meri1244-2
+5,au ke,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam (Jimmy Rice’s counting),meri1244-2
+6,kebi kokne,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam (Jimmy Rice’s counting),meri1244-2
+7,au kokne,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam (Jimmy Rice’s counting),meri1244-2
+8,kenani,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam (Jimmy Rice’s counting),meri1244-2
+9,tuɡar,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam (Jimmy Rice’s counting),meri1244-2
+10,ɡilid,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam (Jimmy Rice’s counting),meri1244-2
+11,nerkep,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam (Jimmy Rice’s counting),meri1244-2
+12,nano,,FALSE,Ray1907,pp.86-87,,meri1244,Miriam (Jimmy Rice’s counting),meri1244-2
+13,kopor,"“... then passing to right nipple and so on in reverse order, making a total of twenty-five.” [Jimmy Rice’s counting]. “It appears probable that the method varies with different individuals. Jukes and Rev. S. Macfarlane both refer to a method of counting by means of bundles of sticks, which we have confirmed.”",FALSE,Ray1907,pp.86-87,,meri1244,Miriam (Jimmy Rice’s counting),meri1244-2
+1,netat,,FALSE,Codrington1885,p.222,,meri1244,Erub,meri1244-3
+2,neisi,,FALSE,Codrington1885,p.222,,meri1244,Erub,meri1244-3
+3,neisi-netat,,FALSE,Codrington1885,p.222,,meri1244,Erub,meri1244-3
+4,neisi-neisi,,FALSE,Codrington1885,p.222,,meri1244,Erub,meri1244-3
 1,tuwale,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
 2,i rua,,FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
 2,irua,"The Verbal Particle i is prefixed to rua, tol, vat, being, as is commonly the case, one not used except with Numerals.",FALSE,Codrington1885,"pp.233, 235, 366",,merl1237,"Star Island, Merlav",merl1237-1
@@ -21925,17 +21924,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,kais,,FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Milki village),murk1238-1
 3,kaisɾum,,FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Milki village),murk1238-1
 4,kasikais,,FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Milki village),murk1238-1
-5,juwuten,,FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Milki village),murk1238-1
-6,idiris,,FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Milki village),murk1238-1
-7,uktuneɡe,,FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Milki village),murk1238-1
-10,baitikʷar,,FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Milki village),murk1238-1
+5,juwuten,[cf. <juwuten> ‘many’],FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Milki village),murk1238-1
+6,idiris,[cf. <halɪtrɪs> ‘ten’ in Mot dialect],FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Milki village),murk1238-1
+7,uktuneɡe,[cf. p.22 <tener> ‘finger’],FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Milki village),murk1238-1
+10,baitikʷar,[cf. p.23 <bait> ‘wing’ in Mot dialect],FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Milki village),murk1238-1
 1,hel,,FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Mot village),murk1238-2
 2,kaɪs,,FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Mot village),murk1238-2
 3,kais klum,,FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Mot village),murk1238-2
 4,ɪkaɪsɪ ɪkaɪs,,FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Mot village),murk1238-2
 5,ɪkaɪsɪ ɪkaɪsɪ klum,,FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Mot village),murk1238-2
-10,halɪtrɪs,,FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Mot village),murk1238-2
-20,juwuten,,FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Mot village),murk1238-2
+10,halɪtrɪs,[cf. <idiris> ‘six’ in Mot dialect],FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Mot village),murk1238-2
+20,juwuten,[cf. <juwuten> ‘many’ in Milki dialect],FALSE,Wambaliau2004,p.25,,murk1238,Murkim (Mot village),murk1238-2
 1,kɑsɪbu,,FALSE,Carter2012,p.59,,murp1234,Dawang (Dawang village),murp1234-1
 2,lʊwə,,FALSE,Carter2012,p.59,,murp1234,Dawang (Dawang village),murp1234-1
 3,tol,,FALSE,Carter2012,p.59,,murp1234,Dawang (Dawang village),murp1234-1
@@ -22695,20 +22694,20 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,kundɑmɨn,,FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Inanmeri village),nanu1240-2
 3,kumɛiŋ,,FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Inanmeri village),nanu1240-2
 4,ɑndɑkondmwiŋ,,FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Inanmeri village),nanu1240-2
-5,DISQUALIFIED,"No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Inanmeri village),nanu1240-2
+5,_,"DISQUALIFIED No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Inanmeri village),nanu1240-2
 10,noŋɑpundiɑ,,FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Inanmeri village),nanu1240-2
 1,kɨndɨbɑm,,FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Wambrumas village),nanu1240-3
 2,kɨndɑmin,,FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Wambrumas village),nanu1240-3
 3,kumɑin,,FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Wambrumas village),nanu1240-3
-4,NO ENTRY,"No word, or ‘two two’",FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Wambrumas village),nanu1240-3
-5,DISQUALIFIED,"No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Wambrumas village),nanu1240-3
-10,NO ENTRY,No word,FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Wambrumas village),nanu1240-3
+4,_,"NO ENTRY No word, or ‘two two’",FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Wambrumas village),nanu1240-3
+5,_,"DISQUALIFIED No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Wambrumas village),nanu1240-3
+10,_,NO ENTRY No word,FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Wambrumas village),nanu1240-3
 1,kɑndupɑm,,FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Yamandim village),nanu1240-4
 2,kɑndɑmwɨn,,FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Yamandim village),nanu1240-4
 3,kɨmɑin,,FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Yamandim village),nanu1240-4
-4,NO ENTRY,"No word, or ‘two two’",FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Yamandim village),nanu1240-4
-5,DISQUALIFIED,"No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Yamandim village),nanu1240-4
-10,NO ENTRY,No word,FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Yamandim village),nanu1240-4
+4,_,"NO ENTRY No word, or ‘two two’",FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Yamandim village),nanu1240-4
+5,_,"DISQUALIFIED No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Yamandim village),nanu1240-4
+10,_,NO ENTRY No word,FALSE,Kassell2017,pp.52-53,,nanu1240,Nanubae (Yamandim village),nanu1240-4
 1,isa,,FALSE,Arnaud1998,pp.863-879 [word list item numbers],,napu1241,Napu,napu1241-1
 2,dua,,FALSE,Arnaud1998,pp.863-879 [word list item numbers],,napu1241,Napu,napu1241-1
 3,talu,,FALSE,Arnaud1998,pp.863-879 [word list item numbers],,napu1241,Napu,napu1241-1
@@ -23797,7 +23796,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,talwa talwa,,FALSE,Lean1986Vol09,p.54,25 CSQs.,nort2921,Wahgi (Banz and northern Wahgi region),nort2921-1
 5,angel mong yemto,,FALSE,Lean1986Vol09,p.54,25 CSQs.,nort2921,Wahgi (Banz and northern Wahgi region),nort2921-1
 10,angel mong yem yem poro,,FALSE,Lean1986Vol09,p.54,25 CSQs.,nort2921,Wahgi (Banz and northern Wahgi region),nort2921-1
-10,simb angel mong poro,,FALSE,Lean1986Vol09,p.54,25 CSQs.,nort2921,Wahgi (Banz and northern Wahgi region),nort2921-1
+20,simb angel mong poro,,FALSE,Lean1986Vol09,p.54,25 CSQs.,nort2921,Wahgi (Banz and northern Wahgi region),nort2921-1
 1,kaʔubuo,,FALSE,Lean1986Vol11,p.26,SIL Word List (1971). Village: Gogori.,nort2930,North-Eastern Kiwai (Gibaio dialect),nort2930-1
 2,netoati,,FALSE,Lean1986Vol11,p.26,SIL Word List (1971). Village: Gogori.,nort2930,North-Eastern Kiwai (Gibaio dialect),nort2930-1
 3,netoati kaʔo,,FALSE,Lean1986Vol11,p.26,SIL Word List (1971). Village: Gogori.,nort2930,North-Eastern Kiwai (Gibaio dialect),nort2930-1
@@ -28255,7 +28254,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,sji,,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
 10,pude,,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
 10,(put-ètu ?),,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
-11,[illegible],,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
+11,[?],[illegible],FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
 20,[?],,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
 30,[?],,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
 40,[?],,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
@@ -31416,15 +31415,15 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1,kɑpundɑ,,FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Awim village),tape1242-1
 2,kɑmin,,FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Awim village),tape1242-1
 3,kɑmɑindɑ,,FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Awim village),tape1242-1
-4,NO ENTRY,"No word, or ‘two two’",FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Awim village),tape1242-1
-5,DISQUALIFIED,"No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Awim village),tape1242-1
-10,NO ENTRY,No word,FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Awim village),tape1242-1
+4,_,"NO ENTRY No word, or ‘two two’",FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Awim village),tape1242-1
+5,_,"DISQUALIFIED No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Awim village),tape1242-1
+10,_,NO ENTRY No word,FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Awim village),tape1242-1
 1,kɑpundɑ,,FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Imboin-Awim villages),tape1242-2
 2,kɑmɪn,,FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Imboin-Awim villages),tape1242-2
 3,kɑmɑŋ,,FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Imboin-Awim villages),tape1242-2
-4,NO ENTRY,"No word, or ‘two two’",FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Imboin-Awim villages),tape1242-2
-5,DISQUALIFIED,"No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Imboin-Awim villages),tape1242-2
-10,NO ENTRY,No word,FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Imboin-Awim villages),tape1242-2
+4,_,"NO ENTRY No word, or ‘two two’",FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Imboin-Awim villages),tape1242-2
+5,_,"DISQUALIFIED No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Imboin-Awim villages),tape1242-2
+10,_,NO ENTRY No word,FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Imboin-Awim villages),tape1242-2
 1,suksè,,FALSE,Galis1955,p.161,,tarp1240,Sufrai,tarp1240-1
 2,arko,,FALSE,Galis1955,p.161,,tarp1240,Sufrai,tarp1240-1
 3,tor,,FALSE,Galis1955,p.161,,tarp1240,Sufrai,tarp1240-1
@@ -35072,24 +35071,28 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,asar,,FALSE,Ray1912,pp.340-341,,wara1294,Bangu,wara1294-1
 5,tambothoi,,FALSE,Ray1912,pp.340-341,,wara1294,Bangu,wara1294-1
 6,nimbo,,FALSE,Ray1912,pp.340-341,,wara1294,Bangu,wara1294-1
-1,näbi,"(restricted, ritualised)",FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-2,eda,(restricted),FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-2,yda,(ritualised),FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-3,etha,(restricted),FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-3,ytho,(ritualised),FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-4,asar,"(restricted, ritualised)",FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-5,tabuthui,"(restricted, ritualised)",FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-5,tabru,(restricted),FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-6,tabuthui nibo,(restricted),FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-6,nibo,"(restricted, ritualised)",FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-36,fta,6² (ritualised),FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-50,näbi fta a eda nibo a eda,‘1 times 36 and 2 times 6 and 2’,FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-72,eda fta,‘2 36’ (or ‘2 6²’),FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-73,eda fta a näbi,‘2 36 and 1’,FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-216,taruba,6³ (ritualised),FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-1296,damno,6⁴ (ritualised),FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-7776,wärämäkä,6⁵ (ritualised),FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
-46656,wi,6⁶ (ritualised),FALSE,Doehler2018,p.94,,wara1294,Komnzo,wara1294-2
+1,näbi,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (ritualised),wara1294-2
+2,yda,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (ritualised),wara1294-2
+3,ytho,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (ritualised),wara1294-2
+4,asar,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (ritualised),wara1294-2
+5,tabuthui,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (ritualised),wara1294-2
+6,nibo,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (ritualised),wara1294-2
+36,fta,6²,FALSE,Doehler2018,p.94,,wara1294,Komnzo (ritualised),wara1294-2
+50,näbi fta a eda nibo a eda,‘1 times 36 and 2 times 6 and 2’,FALSE,Doehler2018,p.94,,wara1294,Komnzo (ritualised),wara1294-2
+72,eda fta,‘2 36’ (or ‘2 6²’),FALSE,Doehler2018,p.94,,wara1294,Komnzo (ritualised),wara1294-2
+73,eda fta a näbi,‘2 36 and 1’,FALSE,Doehler2018,p.94,,wara1294,Komnzo (ritualised),wara1294-2
+216,taruba,6³,FALSE,Doehler2018,p.94,,wara1294,Komnzo (ritualised),wara1294-2
+1296,damno,6⁴,FALSE,Doehler2018,p.94,,wara1294,Komnzo (ritualised),wara1294-2
+7776,wärämäkä,6⁵,FALSE,Doehler2018,p.94,,wara1294,Komnzo (ritualised),wara1294-2
+46656,wi,6⁶,FALSE,Doehler2018,p.94,,wara1294,Komnzo (ritualised),wara1294-2
+1,näbi,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (restricted),wara1294-2
+2,eda,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (restricted),wara1294-3
+3,etha,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (restricted),wara1294-3
+4,asar,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (restricted),wara1294-3
+5,tabuthui,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (restricted),wara1294-3
+5,tabru,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (restricted),wara1294-3
+6,tabuthui nibo,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (restricted),wara1294-3
+6,nibo,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (restricted),wara1294-3
 1,sɑróʔ,,FALSE,Nickell1978,pp.3-7,,wara1299,Bicolano - Bulan,wara1299-1
 2,dúwɑ,,FALSE,Nickell1978,pp.3-7,,wara1299,Bicolano - Bulan,wara1299-1
 3,túlo,,FALSE,Nickell1978,pp.3-7,,wara1299,Bicolano - Bulan,wara1299-1
@@ -35854,8 +35857,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,neyani,,FALSE,Lean1986Vol12,p.74,"3 CSQs. Villages: Wonie, Gamaewe, Kapal.",wipi1242,Gidra,wipi1242-1
 5,yepa yem undwati,‘one hand finished’,FALSE,Lean1986Vol12,p.74,"3 CSQs. Villages: Wonie, Gamaewe, Kapal.",wipi1242,Gidra,wipi1242-1
 10,nemog yem undwati,‘two hands finished’,FALSE,Lean1986Vol12,p.74,"3 CSQs. Villages: Wonie, Gamaewe, Kapal.",wipi1242,Gidra,wipi1242-1
-15,nemog yem undwati,"‘two hands finished, one foot finished’",FALSE,Lean1986Vol12,p.74,"3 CSQs. Villages: Wonie, Gamaewe, Kapal.",wipi1242,Gidra,wipi1242-1
-15,yep pes undwati,"‘two hands finished, one foot finished’",FALSE,Lean1986Vol12,p.74,"3 CSQs. Villages: Wonie, Gamaewe, Kapal.",wipi1242,Gidra,wipi1242-1
+15,"nemog yem undwati, yep pes undwati","‘two hands finished, one foot finished’",FALSE,Lean1986Vol12,p.74,"3 CSQs. Villages: Wonie, Gamaewe, Kapal.",wipi1242,Gidra,wipi1242-1
 20,yepa rega je,‘one whole man (or person)’,FALSE,Lean1986Vol12,p.74,"3 CSQs. Villages: Wonie, Gamaewe, Kapal.",wipi1242,Gidra,wipi1242-1
 1,yepa,,FALSE,Ray1912,pp.340-341,,wipi1242,Jibu,wipi1242-2
 2,kuraiepa,(finger),FALSE,Ray1912,pp.340-341,,wipi1242,Jibu,wipi1242-2
