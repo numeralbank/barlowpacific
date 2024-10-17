@@ -37107,3 +37107,190 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
+1,naɾea,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+2,keɾkaaɾa,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+3,been,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+4,kaɾen,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+5,panoko,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+6,panoko ita naɾea,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+7,panoko ita keɾkaaɾa,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+10,kiboɾa,,FALSE,Brown2021,p.31,,avai1234,Avaipa,avai1234-1
+1,naɾeɾ,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+2,ketaɾa,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+3,banakapa,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+4,kaɾen,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+5,panoko,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+6,panoko ke ta naɾeɾ,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+7,panoko ke ta ketaɾa,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+10,naɾetaken,,FALSE,Brown2021,p.31,,sime1242,Simeku,sime1242-2
+1,naɾuŋ,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+2,kenaŋka,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+3,benaumo,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+4,kaɾenaumo,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+5,panoko,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+6,panoko keta nauɾuŋ taa,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+7,panoko keta kenaŋka taa,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+10,naɾuŋ kiβoɾa,,FALSE,Brown2021,p.31,,naas1242,Naasioi,naas1242-4
+1,namoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+1,nau,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+2,keuka,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+2,kɛmokɑ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+3,weekangoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+3,bɛkaŋgoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+4,karekangoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+5,paʔnokoʔ,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+6,nauke nööra,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+7,keukake nööra,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+10,nööra,,FALSE,Brown2021,p.31,,sibe1248,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248-3
+1,katɛpato,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
+2,besiatoaɾɛ,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
+3,pɛnuma,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
+4,nɛsiuna,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
+5,akamoko,,FALSE,Brown2021,p.31,,asko1238,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238-3
+1,katai,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+2,eɾao,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+3,βo peɾuβa,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+4,βo ɾesura,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+5,βaβae,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+5,βo βaβae,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+6,katai βataɾa,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+7,eɾao βatara,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+10,katai tau,,FALSE,Brown2021,p.31,,roto1249,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249-3
+1,kadaken,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+2,toom,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+3,dapisa,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+4,tovatsi,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+5,ɣinima,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+6,bena,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+7,bena tom,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+10,manoɣa,,FALSE,Brown2021,p.31,,bann1247,"Banoni (based on Lincoln 1976a,b)",bann1247-4
+1,misig,,FALSE,Fahner1979,p.157,,pass1247,Abenaho,pass1247-1
+2,biren,,FALSE,Fahner1979,p.157,,pass1247,Abenaho,pass1247-1
+1,mysyk,,FALSE,Fahner1979,p.157,,angg1239,Angguruk,angg1239-2
+2,biten,,FALSE,Fahner1979,p.157,,angg1239,Angguruk,angg1239-2
+1,begy-at,,FALSE,Fahner1979,p.157,,lowe1415,Mid Grand Valley Dani (taken from Bromley 1961: 305-306),lowe1415-2
+2,bete,,FALSE,Fahner1979,p.157,,lowe1415,Mid Grand Valley Dani (taken from Bromley 1961: 305-306),lowe1415-2
+1,aby,,FALSE,Fahner1979,p.157,,west2594,Pyramid Western Dani (taken from Bromley 1961: 305-306),west2594-7
+2,bete,,FALSE,Fahner1979,p.157,,west2594,Pyramid Western Dani (taken from Bromley 1961: 305-306),west2594-7
+1,orfətɛm,,FALSE,Carter2012,p.50,,asar1240,Molet Kasu (Kasu village),asar1240-2
+2,jɛrijɛr,,FALSE,Carter2012,p.50,,asar1240,Molet Kasu (Kasu village),asar1240-2
+1,orfatem,,FALSE,Carter2012,p.50,,asar1240,Molet Mur (Mur village),asar1240-3
+2,jerijer,,FALSE,Carter2012,p.50,,asar1240,Molet Mur (Mur village),asar1240-3
+1,oɸtam,,FALSE,Carter2012,p.50,,asar1240,Asaro'o (Bagen village) (from Mike Sweeney),asar1240-4
+2,jirjir,,FALSE,Carter2012,p.50,,asar1240,Asaro'o (Bagen village) (from Mike Sweeney),asar1240-4
+1,sɪkai,,FALSE,Carter2012,p.50,,fora1245,Forak (Mamgak/Sariŋ village),fora1245-1
+2,yam,,FALSE,Carter2012,p.50,,fora1245,Forak (Mamgak/Sariŋ village),fora1245-1
+1,ãraɸatak,,FALSE,Carter2012,p.50,,mura1271,Muratayak (Kepoiak village),mura1271-1
+2,yirit,,FALSE,Carter2012,p.50,,mura1271,Muratayak (Kepoiak village),mura1271-1
+1,dɛsɛnʌŋ,,FALSE,Carter2012,p.50,,dege1247,Degenan (Sel village),dege1247-3
+2,yak,,FALSE,Carter2012,p.50,,dege1247,Degenan (Sel village),dege1247-3
+1,ungkureng,,FALSE,Carter2012,p.50,,gwah1244,Gwahatike (Umboldi village),gwah1244-1
+2,irau,,FALSE,Carter2012,p.50,,gwah1244,Gwahatike (Umboldi village),gwah1244-1
+1,kakʷitija,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
+2,nafɽina,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
+3,nafasɽutu,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
+4,nafɽina,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
+5,nafɽina sɽutu,,FALSE,Menanti2022,p.30,,kapo1250,Kapauri (Pagai),kapo1250-1
+1,kuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+2,tau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+3,taukuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+4,taukəj,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+5,tautau kuɽapɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+6,tautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+7,tautautau kuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+8,tautautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+9,tautautautaukuɽapɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+10,tautautautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+20,anijˈa,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Muara Nawa),kosa1251-1
+1,kuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+2,tau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+3,taukuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+4,tautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+5,tautau sroto,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+6,tautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+7,tautautau kuɽaˈpɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+8,tautautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+9,tautautautaukuɽapɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+10,tautautautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+20,anijˈa,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+1,kʷaɡasa̚,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+2,taːɪ,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+3,taːɪβiakʷaɡa,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+4,taːɪβia-taːɪβia,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+5,taːɪβia-taːɪβia kʷaɡaβia ,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+6,aɽɪkʷaɡaβiafʷaɽu,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+10,aɽitaɪβɪɔlidʒaja,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+20,aɽɪtaɪawateɪ kʷaɽidʒa,,FALSE,Menanti2022,p.30,,tawo1244,Airo (Dabra),tawo1244-1
+1,kɛˈɡiʔ,,FALSE,Menanti2022,p.30,,tawo1244,Dasigo (Beigdari),tawo1244-2
+2,bɽijˈaʔ,,FALSE,Menanti2022,p.30,,tawo1244,Dasigo (Beigdari),tawo1244-2
+3,ˈbɽiyakakɛˈɡiʔ,,FALSE,Menanti2022,p.30,,tawo1244,Dasigo (Beigdari),tawo1244-2
+4,ˈbɽiyakabɽiya,,FALSE,Menanti2022,p.30,,tawo1244,Dasigo (Beigdari),tawo1244-2
+1,kʷaka,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
+2,taʲ,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
+3,tʷˈi,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
+4,biatai,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
+5,biatai koka,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
+6,ˈtʷˈiˈtʷˈi,,FALSE,Menanti2022,p.30,,tawo1244,Dibroud (Dabra),tawo1244-3
+1,kieke,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
+2,taʔ,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
+3,bitaːke,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
+4,bieta,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
+5,bieta ke,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
+6,bieta,,FALSE,Menanti2022,p.30,,foau1240,Foau (Barr 1978),foau1240-1
+1,kīta,,FALSE,Staalsen1975,p.14,,iatm1242,Iatmul,iatm1242-8
+3,kubuk,,FALSE,Staalsen1975,p.14,,iatm1242,Iatmul,iatm1242-8
+1,kita,,FALSE,Staalsen1975,p.14,,iatm1242,Yamok,iatm1242-9
+3,kupuk,,FALSE,Staalsen1975,p.14,,iatm1242,Yamok,iatm1242-9
+1,kita,,FALSE,Staalsen1975,p.14,,iatm1242,Torembi,iatm1242-10
+3,kupuk,,FALSE,Staalsen1975,p.14,,iatm1242,Torembi,iatm1242-10
+1,nəři,,FALSE,Staalsen1975,p.14,,iatm1242,Gaikorobi,iatm1242-11
+3,kubuk,,FALSE,Staalsen1975,p.14,,iatm1242,Gaikorobi,iatm1242-11
+1,kītə,,FALSE,Staalsen1975,p.14,,seng1284,Sengo,seng1284-1
+3,kubuk,,FALSE,Staalsen1975,p.14,,seng1284,Sengo,seng1284-1
+1,nakwuřek,,FALSE,Staalsen1975,p.14,,ambu1247,Wosera,ambu1247-7
+3,kupuk,,FALSE,Staalsen1975,p.14,,ambu1247,Wosera,ambu1247-7
+1,kitək,,FALSE,Staalsen1975,p.14,,buru1309,Burui,buru1309-2
+3,kubuk,,FALSE,Staalsen1975,p.14,,buru1309,Burui,buru1309-2
+1,kītək,,FALSE,Staalsen1975,p.14,,gaik1242,Gaikwundi,gaik1242-1
+3,kupuk,,FALSE,Staalsen1975,p.14,,gaik1242,Gaikwundi,gaik1242-1
+1,nəkulək,,FALSE,Staalsen1975,p.14,,sosk1235,Kwaruwi,sosk1235-2
+3,kupuk,,FALSE,Staalsen1975,p.14,,sosk1235,Kwaruwi,sosk1235-2
+1,yapmorik,,FALSE,Staalsen1975,p.14,,koiw1243,Koiwat,koiw1243-1
+3,manŋuruk,,FALSE,Staalsen1975,p.14,,koiw1243,Koiwat,koiw1243-1
+1,yəgwəře?,,FALSE,Staalsen1975,p.14,,boik1241,Boiken,boik1241-11
+3,nungulī?,,FALSE,Staalsen1975,p.14,,boik1241,Boiken,boik1241-11
+1,kitat,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+1,natan,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+1,nak,[p.27],FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+2,vɨtik,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+3,kɨpuk,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+4,orɨnak,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+5,tambanak,[cf. p.32: <tamba> ‘hand’],FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+6,tambanat sɨna kitat,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+7,tambanat sɨra vɨtik,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+8,tambanat sɨra kupuk,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+9,sambanat sɨra arɨnak,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+10,tamba vɨtik,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+20,kitat dumi,[cf. p.20: <du> ‘man’; p.25: <mi> ‘tree’],FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+40,dumi vɨtik,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+60,dumi kupuk,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+80,dumi arɨnak,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+100,dumi tambanat,,FALSE,Ambuwat1976,pp.42-43,,gaik1242,Gaikundi,gaik1242-2
+1,Ambior,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+2,Twmbi,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+3,Lambi,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+4,Tutumbiar,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+5,Ambotond,"Used not in sequence to the four numbers above, but to indicate a separate substantive quantity. [cf. p.107 <tond> ‘arm’; p.122 <tonda> ‘hand’]",FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+10,Ambutondaambutondanabodand,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+10,Nabodand,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+20,Ebodand,,FALSE,MacGregor1897,p.106,,lenn1234,Dungerwab (Wasi),lenn1234-1
+1,Nambi,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+1,Gnambi,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+2,Yethombi,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+2,Kethembi,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+3,Yetho,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+4,Asár,,FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+5,Tambothoi,[cf. p.112: <tambia> ‘hand’],FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+5,Tambothui,[cf. p.112: <tambia> ‘hand’],FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+6,Nimbo,(no other numbers),FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+7,Nib,(no other numbers),FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
