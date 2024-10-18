@@ -2944,6 +2944,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,netewa didi,an impled ‘2 + 1’ construction,FALSE,Lean1986Vol12,p.91,SIL Word List (1976). Village: Torobina.,bamu1257,Bamu Kiwai,bamu1257-1
 4,netewa netewa,2 + 2,FALSE,Lean1986Vol12,p.91,SIL Word List (1976). Village: Torobina.,bamu1257,Bamu Kiwai,bamu1257-1
 5,netewa netewa didi,2 + 2 + 1,FALSE,Lean1986Vol12,p.91,SIL Word List (1976). Village: Torobina.,bamu1257,Bamu Kiwai,bamu1257-1
+1,siya,,FALSE,Ramos1970,"pp.6, 19",,bana1288,Bhanaw Tinggian,bana1288-1
+3,tu.Yú,,FALSE,Ramos1970,"pp.6, 19",,bana1288,Bhanaw Tinggian,bana1288-1
 1,wunen,,FALSE,LeanEastSepik,p.62,1 CSQ. Village: Yar.,bana1292,Banaro,bana1292-1
 2,nining,,FALSE,LeanEastSepik,p.62,1 CSQ. Village: Yar.,bana1292,Banaro,bana1292-1
 3,nining wo,2 + 1,FALSE,LeanEastSepik,p.62,1 CSQ. Village: Yar.,bana1292,Banaro,bana1292-1
@@ -11970,6 +11972,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1000,sanɡˈribo,,FALSE,Anonymous1984Bicol,pp.2-5,,irig1242,Iriga Bicol,irig1242-1
 1,mɛŋɡɛnɛ,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,isab1240,Isabi,isab1240-1
 2,tɛri,,FALSE,Zgraggen1980SouthernAdelbert,p.46,,isab1240,Isabi,isab1240-1
+1,Usát,,FALSE,Blumentritt1896,p.436,,isar1235,Atás des Berges Isaro,isar1235-1
 1,orofan,,FALSE,Zgraggen1980Mabuso,p.92,,iseb1246,Isebe,iseb1246-1
 2,ɛris,,FALSE,Zgraggen1980Mabuso,p.92,,iseb1246,Isebe,iseb1246-1
 1,mĕrè,,FALSE,Galis1955,p.143,,isir1237,Sabéri,isir1237-1
@@ -15412,6 +15415,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,hatus,,FALSE,Lobel2016,pp.234-239,,kuij1237,Kujau,kuij1237-1
 200,duvə nə hatus,,FALSE,Lobel2016,pp.234-239,,kuij1237,Kujau,kuij1237-1
 1000,səribu,,FALSE,Lobel2016,pp.234-239,,kuij1237,Kujau,kuij1237-1
+1,huha,,FALSE,Tsuchida1985,p.58,,kulo1238,Kulon by Ogawa,kulo1238-1
+2,lusa,,FALSE,Tsuchida1985,p.58,,kulo1238,Kulon by Ogawa,kulo1238-1
 1,ˈtika,,FALSE,Adams1985,p.19,,kuma1278,Kumalu,kuma1278-1
 2,yu,,FALSE,Adams1985,p.19,,kuma1278,Kumalu,kuma1278-1
 3,yɔn,,FALSE,Adams1985,p.19,,kuma1278,Kumalu,kuma1278-1
@@ -37294,8 +37299,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,huha,,FALSE,Tsuchida1985,p.58,,kulo1238,Kulon by Ogawa,kulo1238-1
-2,lusa,,FALSE,Tsuchida1985,p.58,,kulo1238,Kulon by Ogawa,kulo1238-1
-1,siya,,FALSE,Ramos1970,"pp.6, 19",,bana1288,Bhanaw Tinggian,bana1288-1
-3,tu.Yú,,FALSE,Ramos1970,"pp.6, 19",,bana1288,Bhanaw Tinggian,bana1288-1
-1,Usát,,FALSE,Blumentritt1896,p.436,,isar1235,Atás des Berges Isaro,isar1235-1
