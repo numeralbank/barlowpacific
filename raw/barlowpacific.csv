@@ -28401,6 +28401,10 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 12,dijap-dua-sama,,FALSE,Ray1913,"pp.60, 62",,sebo1238,Sibop,sebo1238-5
 20,dua-jap,,FALSE,Ray1913,"pp.60, 62",,sebo1238,Sibop,sebo1238-5
 100,ja-to,,FALSE,Ray1913,"pp.60, 62",,sebo1238,Sibop,sebo1238-5
+1,sadua,,FALSE,Barr1979,p.96,sedo1237,,Sedoa,sedo1237-1
+1,sambua?,,FALSE,Barr1979,p.96,sedo1237,,Sedoa,sedo1237-1
+2,rodua,,FALSE,Barr1979,p.96,sedo1237,,Sedoa,sedo1237-1
+2,rombua?,,FALSE,Barr1979,p.96,sedo1237,,Sedoa,sedo1237-1
 1,ètu,,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
 2,eli,,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
 3,klu,,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
@@ -34309,6 +34313,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,taunggé,,FALSE,Galis1955,p.167,,unaa1239,Oranjegebergte,unaa1239-1
 11,koklomjé,,FALSE,Galis1955,p.167,,unaa1239,Oranjegebergte,unaa1239-1
 20,ton-tupnanggé,,FALSE,Galis1955,p.167,,unaa1239,Oranjegebergte,unaa1239-1
+1,soŋu,,FALSE,Barr1979,p.93,unde1235,,Banava,unde1235-1
+2,huoŋu,,FALSE,Barr1979,p.93,unde1235,,Banava,unde1235-1
 1,katiku,,FALSE,Lean1985Vol04,p.82,"1 IMP, 4 CSQs. Villages: Tamangone, Penata Ketinerave, Kumburi, Malangae, Makiri.",unea1237,Bali-Vitu (‘Unea’),unea1237-1
 1,(katchiku),,FALSE,Lean1985Vol04,p.82,"1 IMP, 4 CSQs. Villages: Tamangone, Penata Ketinerave, Kumburi, Malangae, Makiri.",unea1237,Bali-Vitu (‘Unea’),unea1237-1
 2,kirua,prefix ‘ki-’,FALSE,Lean1985Vol04,p.82,"1 IMP, 4 CSQs. Villages: Tamangone, Penata Ketinerave, Kumburi, Malangae, Makiri.",unea1237,Bali-Vitu (‘Unea’),unea1237-1
