@@ -34288,6 +34288,21 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,duampulo,,FALSE,Grimes1987,pp.128-134,,ulum1237,Tappalang,ulum1237-2
 100,saŋŋatuʔ,,FALSE,Grimes1987,pp.128-134,,ulum1237,Tappalang,ulum1237-2
 1000,salessořaŋ,,FALSE,Grimes1987,pp.128-134,,ulum1237,Tappalang,ulum1237-2
+1,có,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
+2,devó,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
+3,tele,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
+4,pèj,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
+5,lemó,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
+6,nem,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
+7,tuju,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
+8,azó,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
+9,fè’en,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
+10,fulu,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
+11,có sui fulu,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
+12,devó dui fulu,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
+20,devó fulu,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
+100,có ató,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
+1000,có ribu,,FALSE,Soriente2006,pp.107-157,,umal1238,Òma Lóngh,umal1238-1
 1,cha,,FALSE,Ray1913,"pp.60, 62",,umal1239,Kinjin,umal1239-1
 2,dua,,FALSE,Ray1913,"pp.60, 62",,umal1239,Kinjin,umal1239-1
 3,talu,,FALSE,Ray1913,"pp.60, 62",,umal1239,Kinjin,umal1239-1
@@ -34985,6 +35000,21 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,piʔən,,FALSE,Smith2015,pp.351-353,,waha1238,Uma’ Pawe,waha1238-1
 10,puluʔ,,FALSE,Smith2015,pp.351-353,,waha1238,Uma’ Pawe,waha1238-1
 100,ato,,FALSE,Smith2015,pp.351-353,,waha1238,Uma’ Pawe,waha1238-1
+1,sé,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
+2,dué,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
+3,telang,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
+4,pat,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
+5,lemé,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
+6,nem,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
+7,tuseu,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
+8,ayé,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
+9,pi’en,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
+10,pulu’,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
+11,sé sui’ pulu’,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
+12,dué sui’ pulu,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
+20,dué pulu,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
+100,sé ato,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
+1000,sé ribu,,FALSE,Soriente2006,pp.273-312,,waha1238,Lebu’ Kulit,waha1238-2
 1,kitem,,FALSE,Remijsen2001,"pp.147, 152",,waig1244,Ambel,waig1244-1
 2,low,,FALSE,Remijsen2001,"pp.147, 152",,waig1244,Ambel,waig1244-1
 3,tul,,FALSE,Remijsen2001,"pp.147, 152",,waig1244,Ambel,waig1244-1
