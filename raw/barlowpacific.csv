@@ -1714,6 +1714,27 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1000,arivŏ,,FALSE,Jully1901,passim,,anta1255,Tankarana,anta1255-2
 10000,iraý alínă,,FALSE,Jully1901,passim,,anta1255,Tankarana,anta1255-2
 100000,iraý hetrý,,FALSE,Jully1901,passim,,anta1255,Tankarana,anta1255-2
+1,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,tsim1257,"Antômboka, N.",anta1255-3
+2,roy,,FALSE,Sibree1897,pp.108-109,,tsim1257,"Antômboka, N.",anta1255-3
+4,efatsa,,FALSE,Sibree1897,pp.108-109,,tsim1257,"Antômboka, N.",anta1255-3
+6,tsiota,,FALSE,Sibree1897,pp.108-109,,tsim1257,"Antômboka, N.",anta1255-3
+20,roampolo,,FALSE,Sibree1897,pp.108-109,,tsim1257,"Antômboka, N.",anta1255-3
+60,tsiotampolo,,FALSE,Sibree1897,pp.108-109,,tsim1257,"Antômboka, N.",anta1255-3
+1,raika,,FALSE,Sibree1897,pp.108-109,,anta1255,"Ihàrana, N.E. Co.",anta1255-4
+2,aroy,,FALSE,Sibree1897,pp.108-109,,anta1255,"Ihàrana, N.E. Co.",anta1255-4
+4,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,anta1255,"Ihàrana, N.E. Co.",anta1255-4
+6,eny,,FALSE,Sibree1897,pp.108-109,,anta1255,"Ihàrana, N.E. Co.",anta1255-4
+1,iraika,,FALSE,Sibree1897,pp.108-109,,anta1255,"Anòrontsànga, N. W. Co.",anta1255-5
+2,roy,,FALSE,Sibree1897,pp.108-109,,anta1255,"Anòrontsànga, N. W. Co.",anta1255-5
+3,mamoko,,FALSE,Sibree1897,pp.108-109,,anta1255,"Anòrontsànga, N. W. Co.",anta1255-5
+6,tsiota,,FALSE,Sibree1897,pp.108-109,,anta1255,"Anòrontsànga, N. W. Co.",anta1255-5
+1,tokana,,FALSE,Sibree1897,pp.108-109,,anta1255,Ankoàla; N. W. Co.,anta1255-6
+1,iraika,,FALSE,Sibree1897,pp.108-109,,anta1255,Ankoàla; N. W. Co.,anta1255-6
+2,roy,,FALSE,Sibree1897,pp.108-109,,anta1255,Ankoàla; N. W. Co.,anta1255-6
+3,sempo,,FALSE,Sibree1897,pp.108-109,,anta1255,Ankoàla; N. W. Co.,anta1255-6
+6,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,anta1255,Ankoàla; N. W. Co.,anta1255-6
+7,paipo,,FALSE,Sibree1897,pp.108-109,,anta1255,Ankoàla; N. W. Co.,anta1255-6
+60,tsota ambinifolo,,FALSE,Sibree1897,pp.108-109,,anta1255,Ankoàla; N. W. Co.,anta1255-6
 1,tana,,FALSE,Lean1986Vol06,p.29,S.I.L word list (1975). Village: Pem.,anuk1239,Anuki,anuk1239-1
 2,bata,,FALSE,Lean1986Vol06,p.29,S.I.L word list (1975). Village: Pem.,anuk1239,Anuki,anuk1239-1
 3,aroba,,FALSE,Lean1986Vol06,p.29,S.I.L word list (1975). Village: Pem.,anuk1239,Anuki,anuk1239-1
@@ -3326,6 +3347,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5000,dimy arívo,,FALSE,Rabenilaina1974,p.323,,bara1369,Bara,bara1369-1
 10000,àly,,FALSE,Rabenilaina1974,p.323,,bara1369,Bara,bara1369-1
 30000,télo àly,,FALSE,Rabenilaina1974,p.323,,bara1369,Bara,bara1369-1
+4,efatsa,,FALSE,Sibree1897,pp.108-109,,bara1369,"Bara, Ihòsy, S. Cent.",bara1369-2
+5,manaraka ny limy,,FALSE,Sibree1897,pp.108-109,,bara1369,"Bara, Ihòsy, S. Cent.",bara1369-2
+6,eny,,FALSE,Sibree1897,pp.108-109,,bara1369,"Bara, Ihòsy, S. Cent.",bara1369-2
+7,manarabalo,,FALSE,Sibree1897,pp.108-109,,bara1369,"Bara, Ihòsy, S. Cent.",bara1369-2
+7,feito,,FALSE,Sibree1897,pp.108-109,,bara1369,"Bara, Ihòsy, S. Cent.",bara1369-2
 1,ji,,FALSE,Urquhart1955,p.195,,bara1370,Kayan,bara1370-1
 2,dua,,FALSE,Urquhart1955,p.195,,bara1370,Kayan,bara1370-1
 3,tela,,FALSE,Urquhart1955,p.195,,bara1370,Kayan,bara1370-1
@@ -23872,6 +23898,9 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1000,arivŏ,,FALSE,Jully1901,passim,,nort2890,Betsimisaraka,nort2890-1
 10000,iraý alínă,,FALSE,Jully1901,passim,,nort2890,Betsimisaraka,nort2890-1
 100000,iraý hetsý,,FALSE,Jully1901,passim,,nort2890,Betsimisaraka,nort2890-1
+1,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,nort2890,"Vòhidótra, E. Co.",nort2890-2
+2,roy,,FALSE,Sibree1897,pp.108-109,,nort2890,"Vòhidótra, E. Co.",nort2890-2
+4,efatry,,FALSE,Sibree1897,pp.108-109,,nort2890,"Vòhidótra, E. Co.",nort2890-2
 1,mimò’,,FALSE,Galis1960,p.135,,nort2916,Kati,nort2916-1
 2,aróp,,FALSE,Galis1960,p.135,,nort2916,Kati,nort2916-1
 2,ajóp,,FALSE,Galis1960,p.135,,nort2916,Kati,nort2916-1
@@ -26146,6 +26175,13 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100000,iraý hetsė,,FALSE,Jully1901,passim,,plat1254,Hova,plat1254-1
 1000000,tapítrisă,,FALSE,Jully1901,passim,,plat1254,Hova,plat1254-1
 1000000,tapítrisă,,FALSE,Jully1901,passim,,plat1254,Hova,plat1254-1
+1,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,plat1254,"Betsiléo, Ambòhimàhasòa (S.C.)",plat1254-10
+2,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,plat1254,"Betsiléo, Ambòhimàhasòa (S.C.)",plat1254-10
+1,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,plat1254,do. Ambàlavao do. [= “doubtful” ?],plat1254-11
+2,roy,,FALSE,Sibree1897,pp.108-109,,plat1254,do. Ambàlavao do. [= “doubtful” ?],plat1254-11
+4,efatse,,FALSE,Sibree1897,pp.108-109,,plat1254,do. Ambòhimandròso do. [= “doubtful” ?],plat1254-12
+6,ene,,FALSE,Sibree1897,pp.108-109,,plat1254,do. Ambòhimandròso do. [= “doubtful” ?],plat1254-12
+20,roepolo,,FALSE,Sibree1897,pp.108-109,,plat1254,do. Ambòhimandròso do. [= “doubtful” ?],plat1254-12
 1,raikĕ,,FALSE,Jully1901,passim,,plat1254,Taimorona,plat1254-2
 2,roý,,FALSE,Jully1901,passim,,plat1254,Taimorona,plat1254-2
 3,telŏ,,FALSE,Jully1901,passim,,plat1254,Taimorona,plat1254-2
@@ -26181,6 +26217,38 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,folo,,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
 12,roa amby ny folo,‘two above the ten’,FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
 10000,alina [?],"If the Malagasy alina means ten thousand, the meaning of the word is still ‘night,’ and there is a certain absurdity in saying alina roa ‘two nights,’ for twenty thousand, using a word for a certain number which denies the possibility of counting.",FALSE,Codrington1885,"pp.237-239, 243, 250",,plat1254,Malagasy,plat1254-3
+1,raiky,,FALSE,Sibree1897,pp.108-109,,plat1254,Ambàlanjànkòmby. N. W. Co.,plat1254-4
+3,tetelo,,FALSE,Sibree1897,pp.108-109,,plat1254,Ambàlanjànkòmby. N. W. Co.,plat1254-4
+4,efatsefatsa,,FALSE,Sibree1897,pp.108-109,,plat1254,Ambàlanjànkòmby. N. W. Co.,plat1254-4
+5,paipo,,FALSE,Sibree1897,pp.108-109,,plat1254,Ambàlanjànkòmby. N. W. Co.,plat1254-4
+6,tsota,,FALSE,Sibree1897,pp.108-109,,plat1254,Ambàlanjànkòmby. N. W. Co.,plat1254-4
+50,paipo ambinifolo,,FALSE,Sibree1897,pp.108-109,,plat1254,Ambàlanjànkòmby. N. W. Co.,plat1254-4
+1,raika,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
+5,limilimy,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
+6,tsota,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
+6,eninenina,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
+6,dobo,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
+7,fitofito,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
+8,valovalo,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
+9,sivisivy,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
+1,iraika,,FALSE,Sibree1897,pp.108-109,,plat1254,"Mèvatanàna, N. W. Cent.",plat1254-6
+2,raika roy,,FALSE,Sibree1897,pp.108-109,,plat1254,"Mèvatanàna, N. W. Cent.",plat1254-6
+5,faifo,,FALSE,Sibree1897,pp.108-109,,plat1254,"Mèvatanàna, N. W. Cent.",plat1254-6
+6,tsiota,,FALSE,Sibree1897,pp.108-109,,plat1254,"Mèvatanàna, N. W. Cent.",plat1254-6
+1,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (E.); N.E. Cent.",plat1254-7
+2,tsilalako,,FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (E.); N.E. Cent.",plat1254-7
+3,tielo,,FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (E.); N.E. Cent.",plat1254-7
+1,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (W.), do. [= “doubtful” ?]",plat1254-8
+2,roy,,FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (W.), do. [= “doubtful” ?]",plat1254-8
+3,mamoko,,FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (W.), do. [= “doubtful” ?]",plat1254-8
+4,efatsa,,FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (W.), do. [= “doubtful” ?]",plat1254-8
+5,paipo,,FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (W.), do. [= “doubtful” ?]",plat1254-8
+6,tsiota,,FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (W.), do. [= “doubtful” ?]",plat1254-8
+5,limy,,FALSE,Sibree1897,pp.108-109,,plat1254,"Vàkinankàratra, Cent.",plat1254-9
+6,tsiota,,FALSE,Sibree1897,pp.108-109,,plat1254,"Vàkinankàratra, Cent.",plat1254-9
+6,eni,,FALSE,Sibree1897,pp.108-109,,plat1254,"Vàkinankàratra, Cent.",plat1254-9
+100,zato iraika,,FALSE,Sibree1897,pp.108-109,,plat1254,"Vàkinankàratra, Cent.",plat1254-9
+1000,arivo iraiky,,FALSE,Sibree1897,pp.108-109,,plat1254,"Vàkinankàratra, Cent.",plat1254-9
 1,korisi,,FALSE,Galis1955,p.140,,pomm1237,Pom,pomm1237-1
 2,koïru,,FALSE,Galis1955,p.140,,pomm1237,Pom,pomm1237-1
 3,toru,,FALSE,Galis1955,p.140,,pomm1237,Pom,pomm1237-1
@@ -27328,6 +27396,12 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,asava asava'ana,,FALSE,LeanMorobe,p.62,SIL Word List (1972).,safe1240,Safeyoka (from SIL word list),safe1240-3
 6,aha gupn'nena,,FALSE,LeanMorobe,p.62,SIL Word List (1972).,safe1240,Safeyoka (from SIL word list),safe1240-3
 10,aha me'wa pukuma,,FALSE,LeanMorobe,p.62,SIL Word List (1972).,safe1240,Safeyoka (from SIL word list),safe1240-3
+3,tilo,,FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
+4,efatsy,,FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
+6,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
+8,dovy,,FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
+10,da,,FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
+20,folo roy,,FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
 1,kuwaran,,FALSE,Smith1988,pp.96-97,,saka1292,Sakam,saka1292-1
 2,danggan,,FALSE,Smith1988,pp.96-97,,saka1292,Sakam,saka1292-1
 3,kailpu,,FALSE,Smith1988,pp.96-97,,saka1292,Sakam,saka1292-1
@@ -30171,6 +30245,26 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 22,roapólo roá ámbe,,FALSE,Ruud1955,pp.47-48,,sout2920,Betsimisaraka du Sud,sout2920-1
 356,telonzáto se dimampólo énin-ámbe,,FALSE,Ruud1955,pp.47-48,,sout2920,Betsimisaraka du Sud,sout2920-1
 1498,arivo se efa-zato se sivi folo valo ambe,,FALSE,Ruud1955,pp.47-48,,sout2920,Betsimisaraka du Sud,sout2920-1
+1,iraika,,FALSE,Sibree1897,pp.108-109,,sout2920,"Mòramànga, E. Cent.",sout2920-2
+2,roy,,FALSE,Sibree1897,pp.108-109,,sout2920,"Mòramànga, E. Cent.",sout2920-2
+2,roika,,FALSE,Sibree1897,pp.108-109,,sout2920,"Mòramànga, E. Cent.",sout2920-2
+6,tsiotsa,,FALSE,Sibree1897,pp.108-109,,sout2920,"Mòramànga, E. Cent.",sout2920-2
+1,raiky,,FALSE,Sibree1897,pp.108-109,,sout2920,"Vàtomàndry, E. Co.",sout2920-3
+2,roy,,FALSE,Sibree1897,pp.108-109,,sout2920,"Vàtomàndry, E. Co.",sout2920-3
+3,tilo,,FALSE,Sibree1897,pp.108-109,,sout2920,"Vàtomàndry, E. Co.",sout2920-3
+6,inina,,FALSE,Sibree1897,pp.108-109,,sout2920,"Vàtomàndry, E. Co.",sout2920-3
+1,raika,,FALSE,Sibree1897,pp.108-109,,sout2920,"Tànimàndry, E. Co.",sout2920-4
+2,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,sout2920,"Tànimàndry, E. Co.",sout2920-4
+6,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,sout2920,"Tànimàndry, E. Co.",sout2920-4
+10,folo taka,,FALSE,Sibree1897,pp.108-109,,sout2920,"Tànimàndry, E. Co.",sout2920-4
+20,roapolo taka,,FALSE,Sibree1897,pp.108-109,,sout2920,"Tànimàndry, E. Co.",sout2920-4
+1,iraika,,FALSE,Sibree1897,pp.108-109,,sout2920,"Màhanóro, E. Co.",sout2920-5
+2,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,sout2920,"Màhanóro, E. Co.",sout2920-5
+1,raika,,FALSE,Sibree1897,pp.108-109,,sout2920,"Mahèla, E. Co.",sout2920-6
+2,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,sout2920,"Mahèla, E. Co.",sout2920-6
+20,roipolo,,FALSE,Sibree1897,pp.108-109,,sout2920,"Mahèla, E. Co.",sout2920-6
+1,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,sout2920,"Vóhipèno, S. E. Co.",sout2920-7
+3,paipo,,FALSE,Sibree1897,pp.108-109,,sout2920,"Vóhipèno, S. E. Co.",sout2920-7
 1,mimò,,FALSE,Stokhof1982Vol5.1,pp.157-158,,sout2940,Kaôh,sout2940-1
 2,aròb,,FALSE,Stokhof1982Vol5.1,pp.157-158,,sout2940,Kaôh,sout2940-1
 3,aròbmim,,FALSE,Stokhof1982Vol5.1,pp.157-158,,sout2940,Kaôh,sout2940-1
@@ -31603,6 +31697,12 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,zató,,FALSE,Jully1901,passim,,tano1246,Tanosy,tano1246-1
 1000,arivŏ,,FALSE,Jully1901,passim,,tano1246,Tanosy,tano1246-1
 10000,alínă iraý,,FALSE,Jully1901,passim,,tano1246,Tanosy,tano1246-1
+1,raika,,FALSE,Sibree1897,pp.108-109,,tano1246,"Anòsibè, Bèlànona, S.E.",tano1246-2
+2,roe,,FALSE,Sibree1897,pp.108-109,,tano1246,"Anòsibè, Bèlànona, S.E.",tano1246-2
+5,dimey,,FALSE,Sibree1897,pp.108-109,,tano1246,"Anòsibè, Bèlànona, S.E.",tano1246-2
+6,enỳ,,FALSE,Sibree1897,pp.108-109,,tano1246,"Anòsibè, Bèlànona, S.E.",tano1246-2
+9,sivey,,FALSE,Sibree1897,pp.108-109,,tano1246,"Anòsibè, Bèlànona, S.E.",tano1246-2
+100,jato,,FALSE,Sibree1897,pp.108-109,,tano1246,"Anòsibè, Bèlànona, S.E.",tano1246-2
 1,kɑpundɑ,,FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Awim village),tape1242-1
 2,kɑmin,,FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Awim village),tape1242-1
 3,kɑmɑindɑ,,FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Awim village),tape1242-1
@@ -33643,6 +33743,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 12,pulo-duwa,,FALSE,Ray1913,"pp.60, 62",,trin1273,Balait,trin1273-1
 20,duong-pulo,,FALSE,Ray1913,"pp.60, 62",,trin1273,Balait,trin1273-1
 100,che-rato,,FALSE,Ray1913,"pp.60, 62",,trin1273,Balait,trin1273-1
+2,roaroa,,FALSE,Sibree1897,pp.108-109,,tsim1257,"Màhamànina, S. E.",tsim1257-1
+4,mamoko,,FALSE,Sibree1897,pp.108-109,,tsim1257,"Màhamànina, S. E.",tsim1257-1
 1,ho’ē,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
 2,rua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
 3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
@@ -37306,105 +37408,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,iraika,,FALSE,Sibree1897,pp.108-109,,sout2920,"Mòramànga, E. Cent.",sout2920-2
-2,roy,,FALSE,Sibree1897,pp.108-109,,sout2920,"Mòramànga, E. Cent.",sout2920-2
-2,roika,,FALSE,Sibree1897,pp.108-109,,sout2920,"Mòramànga, E. Cent.",sout2920-2
-6,tsiotsa,,FALSE,Sibree1897,pp.108-109,,sout2920,"Mòramànga, E. Cent.",sout2920-2
-1,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,tsim1257,"Antômboka, N.",anta1255-3
-2,roy,,FALSE,Sibree1897,pp.108-109,,tsim1257,"Antômboka, N.",anta1255-3
-4,efatsa,,FALSE,Sibree1897,pp.108-109,,tsim1257,"Antômboka, N.",anta1255-3
-6,tsiota,,FALSE,Sibree1897,pp.108-109,,tsim1257,"Antômboka, N.",anta1255-3
-20,roampolo,,FALSE,Sibree1897,pp.108-109,,tsim1257,"Antômboka, N.",anta1255-3
-60,tsiotampolo,,FALSE,Sibree1897,pp.108-109,,tsim1257,"Antômboka, N.",anta1255-3
-1,raika,,FALSE,Sibree1897,pp.108-109,,anta1255,"Ihàrana, N.E. Co.",anta1255-4
-2,aroy,,FALSE,Sibree1897,pp.108-109,,anta1255,"Ihàrana, N.E. Co.",anta1255-4
-4,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,anta1255,"Ihàrana, N.E. Co.",anta1255-4
-6,eny,,FALSE,Sibree1897,pp.108-109,,anta1255,"Ihàrana, N.E. Co.",anta1255-4
-1,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,nort2890,"Vòhidótra, E. Co.",nort2890-2
-2,roy,,FALSE,Sibree1897,pp.108-109,,nort2890,"Vòhidótra, E. Co.",nort2890-2
-4,efatry,,FALSE,Sibree1897,pp.108-109,,nort2890,"Vòhidótra, E. Co.",nort2890-2
-1,raiky,,FALSE,Sibree1897,pp.108-109,,sout2920,"Vàtomàndry, E. Co.",sout2920-3
-2,roy,,FALSE,Sibree1897,pp.108-109,,sout2920,"Vàtomàndry, E. Co.",sout2920-3
-3,tilo,,FALSE,Sibree1897,pp.108-109,,sout2920,"Vàtomàndry, E. Co.",sout2920-3
-6,inina,,FALSE,Sibree1897,pp.108-109,,sout2920,"Vàtomàndry, E. Co.",sout2920-3
-1,raika,,FALSE,Sibree1897,pp.108-109,,sout2920,"Tànimàndry, E. Co.",sout2920-4
-2,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,sout2920,"Tànimàndry, E. Co.",sout2920-4
-6,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,sout2920,"Tànimàndry, E. Co.",sout2920-4
-10,folo taka,,FALSE,Sibree1897,pp.108-109,,sout2920,"Tànimàndry, E. Co.",sout2920-4
-20,roapolo taka,,FALSE,Sibree1897,pp.108-109,,sout2920,"Tànimàndry, E. Co.",sout2920-4
-1,iraika,,FALSE,Sibree1897,pp.108-109,,sout2920,"Màhanóro, E. Co.",sout2920-5
-2,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,sout2920,"Màhanóro, E. Co.",sout2920-5
-1,raika,,FALSE,Sibree1897,pp.108-109,,sout2920,"Mahèla, E. Co.",sout2920-6
-2,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,sout2920,"Mahèla, E. Co.",sout2920-6
-20,roipolo,,FALSE,Sibree1897,pp.108-109,,sout2920,"Mahèla, E. Co.",sout2920-6
-1,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,sout2920,"Vóhipèno, S. E. Co.",sout2920-7
-3,paipo,,FALSE,Sibree1897,pp.108-109,,sout2920,"Vóhipèno, S. E. Co.",sout2920-7
-2,roaroa,,FALSE,Sibree1897,pp.108-109,,tsim1257,"Màhamànina, S. E.",tsim1257-1
-4,mamoko,,FALSE,Sibree1897,pp.108-109,,tsim1257,"Màhamànina, S. E.",tsim1257-1
-1,iraika,,FALSE,Sibree1897,pp.108-109,,anta1255,"Anòrontsànga, N. W. Co.",anta1255-5
-2,roy,,FALSE,Sibree1897,pp.108-109,,anta1255,"Anòrontsànga, N. W. Co.",anta1255-5
-3,mamoko,,FALSE,Sibree1897,pp.108-109,,anta1255,"Anòrontsànga, N. W. Co.",anta1255-5
-6,tsiota,,FALSE,Sibree1897,pp.108-109,,anta1255,"Anòrontsànga, N. W. Co.",anta1255-5
-1,raiky,,FALSE,Sibree1897,pp.108-109,,plat1254,Ambàlanjànkòmby. N. W. Co.,plat1254-4
-3,tetelo,,FALSE,Sibree1897,pp.108-109,,plat1254,Ambàlanjànkòmby. N. W. Co.,plat1254-4
-4,efatsefatsa,,FALSE,Sibree1897,pp.108-109,,plat1254,Ambàlanjànkòmby. N. W. Co.,plat1254-4
-5,paipo,,FALSE,Sibree1897,pp.108-109,,plat1254,Ambàlanjànkòmby. N. W. Co.,plat1254-4
-6,tsota,,FALSE,Sibree1897,pp.108-109,,plat1254,Ambàlanjànkòmby. N. W. Co.,plat1254-4
-50,paipo ambinifolo,,FALSE,Sibree1897,pp.108-109,,plat1254,Ambàlanjànkòmby. N. W. Co.,plat1254-4
-1,tokana,,FALSE,Sibree1897,pp.108-109,,anta1255,Ankoàla; N. W. Co.,anta1255-6
-1,iraika,,FALSE,Sibree1897,pp.108-109,,anta1255,Ankoàla; N. W. Co.,anta1255-6
-2,roy,,FALSE,Sibree1897,pp.108-109,,anta1255,Ankoàla; N. W. Co.,anta1255-6
-3,sempo,,FALSE,Sibree1897,pp.108-109,,anta1255,Ankoàla; N. W. Co.,anta1255-6
-6,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,anta1255,Ankoàla; N. W. Co.,anta1255-6
-7,paipo,,FALSE,Sibree1897,pp.108-109,,anta1255,Ankoàla; N. W. Co.,anta1255-6
-60,tsota ambinifolo,,FALSE,Sibree1897,pp.108-109,,anta1255,Ankoàla; N. W. Co.,anta1255-6
-1,raika,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
-5,limilimy,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
-6,tsota,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
-6,eninenina,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
-6,dobo,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
-7,fitofito,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
-8,valovalo,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
-9,sivisivy,,FALSE,Sibree1897,pp.108-109,,plat1254,"Fierènana, S. W. Co.",plat1254-5
-1,iraika,,FALSE,Sibree1897,pp.108-109,,plat1254,"Mèvatanàna, N. W. Cent.",plat1254-6
-2,raika roy,,FALSE,Sibree1897,pp.108-109,,plat1254,"Mèvatanàna, N. W. Cent.",plat1254-6
-5,faifo,,FALSE,Sibree1897,pp.108-109,,plat1254,"Mèvatanàna, N. W. Cent.",plat1254-6
-6,tsiota,,FALSE,Sibree1897,pp.108-109,,plat1254,"Mèvatanàna, N. W. Cent.",plat1254-6
-1,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (E.); N.E. Cent.",plat1254-7
-2,tsilalako,,FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (E.); N.E. Cent.",plat1254-7
-3,tielo,,FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (E.); N.E. Cent.",plat1254-7
-1,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (W.), do. [= “doubtful” ?]",plat1254-8
-2,roy,,FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (W.), do. [= “doubtful” ?]",plat1254-8
-3,mamoko,,FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (W.), do. [= “doubtful” ?]",plat1254-8
-4,efatsa,,FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (W.), do. [= “doubtful” ?]",plat1254-8
-5,paipo,,FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (W.), do. [= “doubtful” ?]",plat1254-8
-6,tsiota,,FALSE,Sibree1897,pp.108-109,,plat1254,"Antsihànaka, (W.), do. [= “doubtful” ?]",plat1254-8
-3,tilo,,FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
-4,efatsy,,FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
-6,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
-8,dovy,,FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
-10,da,,FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
-20,folo roy,,FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
-5,limy,,FALSE,Sibree1897,pp.108-109,,plat1254,"Vàkinankàratra, Cent.",plat1254-9
-6,tsiota,,FALSE,Sibree1897,pp.108-109,,plat1254,"Vàkinankàratra, Cent.",plat1254-9
-6,eni,,FALSE,Sibree1897,pp.108-109,,plat1254,"Vàkinankàratra, Cent.",plat1254-9
-100,zato iraika,,FALSE,Sibree1897,pp.108-109,,plat1254,"Vàkinankàratra, Cent.",plat1254-9
-1000,arivo iraiky,,FALSE,Sibree1897,pp.108-109,,plat1254,"Vàkinankàratra, Cent.",plat1254-9
-1,raika,,FALSE,Sibree1897,pp.108-109,,tano1246,"Anòsibè, Bèlànona, S.E.",tano1246-2
-2,roe,,FALSE,Sibree1897,pp.108-109,,tano1246,"Anòsibè, Bèlànona, S.E.",tano1246-2
-5,dimey,,FALSE,Sibree1897,pp.108-109,,tano1246,"Anòsibè, Bèlànona, S.E.",tano1246-2
-6,enỳ,,FALSE,Sibree1897,pp.108-109,,tano1246,"Anòsibè, Bèlànona, S.E.",tano1246-2
-9,sivey,,FALSE,Sibree1897,pp.108-109,,tano1246,"Anòsibè, Bèlànona, S.E.",tano1246-2
-100,jato,,FALSE,Sibree1897,pp.108-109,,tano1246,"Anòsibè, Bèlànona, S.E.",tano1246-2
-1,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,plat1254,"Betsiléo, Ambòhimàhasòa (S.C.)",plat1254-10
-2,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,plat1254,"Betsiléo, Ambòhimàhasòa (S.C.)",plat1254-10
-1,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,plat1254,do. Ambàlavao do. [= “doubtful” ?],plat1254-11
-2,roy,,FALSE,Sibree1897,pp.108-109,,plat1254,do. Ambàlavao do. [= “doubtful” ?],plat1254-11
-4,efatse,,FALSE,Sibree1897,pp.108-109,,plat1254,do. Ambòhimandròso do. [= “doubtful” ?],plat1254-12
-6,ene,,FALSE,Sibree1897,pp.108-109,,plat1254,do. Ambòhimandròso do. [= “doubtful” ?],plat1254-12
-20,roepolo,,FALSE,Sibree1897,pp.108-109,,plat1254,do. Ambòhimandròso do. [= “doubtful” ?],plat1254-12
-4,efatsa,,FALSE,Sibree1897,pp.108-109,,bara1369,"Bara, Ihòsy, S. Cent.",bara1369-2
-5,manaraka ny limy,,FALSE,Sibree1897,pp.108-109,,bara1369,"Bara, Ihòsy, S. Cent.",bara1369-2
-6,eny,,FALSE,Sibree1897,pp.108-109,,bara1369,"Bara, Ihòsy, S. Cent.",bara1369-2
-7,manarabalo,,FALSE,Sibree1897,pp.108-109,,bara1369,"Bara, Ihòsy, S. Cent.",bara1369-2
-7,feito,,FALSE,Sibree1897,pp.108-109,,bara1369,"Bara, Ihòsy, S. Cent.",bara1369-2
