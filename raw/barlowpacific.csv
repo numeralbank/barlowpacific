@@ -13683,6 +13683,18 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 800,hian atoe,,FALSE,Barth1910,pp.234-279,,kaya1324,Kajansch,kaya1324-1
 1000,tji’ liboe’,,FALSE,Barth1910,pp.234-279,,kaya1324,Kajansch,kaya1324-1
 3000,kĕlou liboe’,,FALSE,Barth1910,pp.234-279,,kaya1324,Kajansch,kaya1324-1
+1,jiːʔ,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
+2,duaʔ,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
+3,təloʔ,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
+4,paːt,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
+5,limaʔ,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
+6,nam,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
+7,tusuʔ,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
+8,sayaʔ,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
+9,pitan,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
+10,puluʔ,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
+100,jiatuh,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
+1000,jilibu,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
 1,Silei,,FALSE,Wallace1869,pp.622-625,,kaye1241,Cajeli,kaye1241-1
 2,Lua,,FALSE,Wallace1869,pp.622-625,,kaye1241,Cajeli,kaye1241-1
 3,Tello,,FALSE,Wallace1869,pp.622-625,,kaye1241,Cajeli,kaye1241-1
@@ -13808,6 +13820,13 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,inavuna,,FALSE,Lean1986Vol07,p.74,"4 CSQs. Villages: Karawa (3), Keapara (1).",keap1239,Keapara (Keapara dialect),keap1239-4
 200,ina vu lualua,‘inavu’ is the ‘hundred’ morpheme,FALSE,Lean1986Vol07,p.74,"4 CSQs. Villages: Karawa (3), Keapara (1).",keap1239,Keapara (Keapara dialect),keap1239-4
 1000,rana,,FALSE,Lean1986Vol07,p.74,"4 CSQs. Villages: Karawa (3), Keapara (1).",keap1239,Keapara (Keapara dialect),keap1239-4
+1,satu,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
+2,dua,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
+3,tiga,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
+4,empat,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
+5,lima,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
+9,sembilan,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
+50,lima puloh,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
 1,afatan,,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
 2,nawa,,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
 2,nawapna,,FALSE,Smits1994,pp.211-221,,kede1239,Kwesten (Keder),kede1239-1
@@ -18669,6 +18688,15 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2345678,dua juta tiga ratus ampa p’lima ribu anam ratus tuju p’lapang,,FALSE,Lasut2008,p.40,,mala1481,Manadonais,mala1481-3
 2500000,dua sténga juta,,FALSE,Lasut2008,p.40,,mala1481,Manadonais,mala1481-3
 3500000,tiga sténga juta,,FALSE,Lasut2008,p.40,,mala1481,Manadonais,mala1481-3
+4,əmpat̚,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
+5,limã,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
+5,lima,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
+6,anãm,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
+9,semĩlan,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
+9,semilan,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
+10,səpulo,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
+40,ampat pulu,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
+1000,ribu,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
 1,ta,,FALSE,Smith1988,p.60,,mala1487,Malasanga,mala1487-1
 2,rua,,FALSE,Smith1988,p.60,,mala1487,Malasanga,mala1487-1
 3,tol,,FALSE,Smith1988,p.60,,mala1487,Malasanga,mala1487-1
@@ -20541,6 +20569,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 16,ki ragl,two “hands”,FALSE,Strauss,pp.19-20,,melp1238,Melpa,melp1238-2
 24,ki raltika,three “hands”,FALSE,Strauss,pp.19-20,,melp1238,Melpa,melp1238-2
 32,ki tempokak,four hands,FALSE,Strauss,pp.19-20,,melp1238,Melpa,melp1238-2
+2,dua',,FALSE,Guerreiro1996,p.226,,mend1267,Kaya:n Menda:lam,mend1267-1
 1,namt̮ar,,FALSE,Laycock1967C11,p.34,,mend1268,Mende,mend1268-1
 2,frɪšɪp,,FALSE,Laycock1967C11,p.34,,mend1268,Mende,mend1268-1
 3,nalmɪkrip,,FALSE,Laycock1967C11,p.34,,mend1268,Mende,mend1268-1
@@ -20673,6 +20702,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1000,sangariboe,,FALSE,Stokhof1987Vol10.3,pp.166-167,,ment1249,"Mentawai, southern dialect, called Ngangan Sakalagan",ment1249-2
 1000,poeloengotos,,FALSE,Stokhof1987Vol10.3,pp.166-167,,ment1249,"Mentawai, southern dialect, called Ngangan Sakalagan",ment1249-2
 10000,poeloengariboe,,FALSE,Stokhof1987Vol10.3,pp.166-167,,ment1249,"Mentawai, southern dialect, called Ngangan Sakalagan",ment1249-2
+1000,abiw,,FALSE,Winarno2013,p.16,,ment1251,Dayak Menterap Kabut,ment1251-1
 1,hankwona,,FALSE,Smith1988,p.101,,meny1245,Menya,meny1245-1
 2,hankwakwu,,FALSE,Smith1988,p.101,,meny1245,Menya,meny1245-1
 3,hankwakwu hankwe,two one,FALSE,Smith1988,p.101,,meny1245,Menya,meny1245-1
@@ -27396,6 +27426,21 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,asava asava'ana,,FALSE,LeanMorobe,p.62,SIL Word List (1972).,safe1240,Safeyoka (from SIL word list),safe1240-3
 6,aha gupn'nena,,FALSE,LeanMorobe,p.62,SIL Word List (1972).,safe1240,Safeyoka (from SIL word list),safe1240-3
 10,aha me'wa pukuma,,FALSE,LeanMorobe,p.62,SIL Word List (1972).,safe1240,Safeyoka (from SIL word list),safe1240-3
+1,gilam,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
+2,djí,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
+3,dóewå,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
+4,tólloe,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
+5,apat,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
+6,limå,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
+7,ánam,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
+8,tóesoe,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
+9,wáloe,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
+10,síam,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
+11,sĕpóeloe,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
+12,sěbelás,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
+20,dóewå póeloe,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
+100,njératoes,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
+1000,njériboe,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
 3,tilo,,FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
 4,efatsy,,FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
 6,_,do. [= “doubtful”?],FALSE,Sibree1897,pp.108-109,,saka1291,"Ankavàndra, W. Cent.",saka1291-1
@@ -31969,6 +32014,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,oetoen,,FALSE,Stokhof1981Vol3.1,p.142,,telu1263,Laimu (Taluti) Seram,telu1263-1
 1000,lihoen,,FALSE,Stokhof1981Vol3.1,p.142,,telu1263,Laimu (Taluti) Seram,telu1263-1
 10000,lalan,,FALSE,Stokhof1981Vol3.1,p.142,,telu1263,Laimu (Taluti) Seram,telu1263-1
+1,satu,"one, in a definite sense",FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
+2,dua,,FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
+3,tiga,,FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
+4,empat,,FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
+7,tujuh,,FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
+10,puluh,,FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
+10,sepuluh,,FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
+20,duapuluh,,FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
 1,se-,prefix,FALSE,Suryadikara1984,passim,,teng1267,Kutai,teng1267-1
 2,dua,,FALSE,Suryadikara1984,passim,,teng1267,Kutai,teng1267-1
 3,tiga,,FALSE,Suryadikara1984,passim,,teng1267,Kutai,teng1267-1
@@ -33730,6 +33783,39 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,mɑnɑ mɑrin,,FALSE,DeVries1985,"pp.1, 4",,trim1239,Napuk (Bagusa) (Trimurus village),trim1239-1
 9,mɑn mɑrin,,FALSE,DeVries1985,"pp.1, 4",,trim1239,Napuk (Bagusa) (Trimurus village),trim1239-1
 10,bɑromɑwe,,FALSE,DeVries1985,"pp.1, 4",,trim1239,Napuk (Bagusa) (Trimurus village),trim1239-1
+1,ndiʔ,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
+2,duəh,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
+3,tāruh,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
+4,pat,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
+5,rīmoh,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
+6,nom,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
+7,juʔ,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
+8,mihi,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
+8,māi,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
+9,piʔi,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
+10,mǎhoŋ,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
+10,smoːŋ,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
+1,ndiʔ,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
+2,duəh,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
+3,tāruh,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
+4,pat,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
+5,rīməh,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
+6,nəm,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
+7,juʔ,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
+8,mǎhi,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
+9,prǐʔi,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
+10,siməhəŋ,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
+1,ndiʔ,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
+2,duəh,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
+3,tāruh,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
+4,pat,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
+5,īməh,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
+6,nəːm,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
+7,juːʔ,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
+8,mǎi,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
+8,māi,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
+9,pǐʔi,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
+10,sə̆məːŋ,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
 1,çha,,FALSE,Ray1913,"pp.60, 62",,trin1273,Balait,trin1273-1
 2,duă,,FALSE,Ray1913,"pp.60, 62",,trin1273,Balait,trin1273-1
 3,telo,,FALSE,Ray1913,"pp.60, 62",,trin1273,Balait,trin1273-1
@@ -37438,89 +37524,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,gilam,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-2,djí,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-3,dóewå,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-4,tólloe,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-5,apat,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-6,limå,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-7,ánam,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-8,tóesoe,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-9,wáloe,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-10,síam,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-11,sĕpóeloe,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-12,sěbelás,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-20,dóewå póeloe,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-100,njératoes,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-1000,njériboe,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassaps (Boelongan),saja1241-1
-1,jiːʔ,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
-2,duaʔ,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
-3,təloʔ,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
-4,paːt,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
-5,limaʔ,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
-6,nam,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
-7,tusuʔ,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
-8,sayaʔ,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
-9,pitan,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
-10,puluʔ,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
-100,jiatuh,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
-1000,jilibu,,FALSE,Smith2017,pp.451-472,,kaya1325,Data Dian,kaya1325-1
-2,dua',,FALSE,Guerreiro1996,p.226,,mend1267,Kaya:n Menda:lam,mend1267-1
-1000,abiw,,FALSE,Winarno2013,p.16,,ment1251,Dayak Menterap Kabut,ment1251-1
-1,satu,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
-2,dua,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
-3,tiga,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
-4,empat,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
-5,lima,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
-9,sembilan,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
-50,lima puloh,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
-1,satu,"one, in a definite sense",FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
-2,dua,,FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
-3,tiga,,FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
-4,empat,,FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
-7,tujuh,,FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
-10,puluh,,FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
-10,sepuluh,,FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
-20,duapuluh,,FALSE,Looi2018,passim,,temu1239,Temuan,temu1239-1
-4,əmpat̚,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
-5,limã,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
-5,lima,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
-6,anãm,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
-9,semĩlan,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
-9,semilan,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
-10,səpulo,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
-40,ampat pulu,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
-1000,ribu,,FALSE,Mohamed2006,passim,,mala1482,Kreol Melayu Chitty Melaka,mala1482-1
-1,ndiʔ,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
-2,duəh,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
-3,tāruh,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
-4,pat,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
-5,rīmoh,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
-6,nom,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
-7,juʔ,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
-8,mihi,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
-8,māi,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
-9,piʔi,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
-10,mǎhoŋ,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
-10,smoːŋ,,FALSE,Rensch2012,pp.313-396,,trin1271,Sembaan,trin1271-1
-1,ndiʔ,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
-2,duəh,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
-3,tāruh,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
-4,pat,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
-5,rīməh,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
-6,nəm,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
-7,juʔ,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
-8,mǎhi,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
-9,prǐʔi,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
-10,siməhəŋ,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Raya,trin1271-2
-1,ndiʔ,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
-2,duəh,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
-3,tāruh,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
-4,pat,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
-5,īməh,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
-6,nəːm,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
-7,juːʔ,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
-8,mǎi,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
-8,māi,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
-9,pǐʔi,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
-10,sə̆məːŋ,,FALSE,Rensch2012,pp.313-396,,trin1271,Tringgus Bireng,trin1271-3
