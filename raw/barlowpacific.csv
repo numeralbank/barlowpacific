@@ -477,6 +477,25 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,kumi-reriga,,FALSE,Ray1912,pp.340-341,,agob1244,Dabu,agob1244-3
 4,kumi-rivi-kumi-rivi,,FALSE,Ray1912,pp.340-341,,agob1244,Dabu,agob1244-3
 5,tumu,,FALSE,Ray1912,pp.340-341,,agob1244,Dabu,agob1244-3
+1,thupthi bi,/ʈupʈi bi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
+2,kumbɭi bi,/kumbɭi bi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
+3,kumbɭe bi thupthibi,/kumbɭe bi ʈupʈibi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
+4,tope,/tope/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
+5,mnda,/mʌnda/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
+7,thäng kum,/ʈæŋ kum/ [cf. <thäng> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
+9,nono,/nɔno/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
+10,dor kup,/dɔr kup/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
+1,ʈ͡ʂoɳdɑ͡i,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
+2,komɽɑ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
+3,kumuɖ͡ʐəgɑ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
+4,po,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
+5,pɑ͡ib,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
+6,siks,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
+7,sɛbɛn,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
+8,et,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
+9,nɑ͡in,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
+10,tɛn,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
+12,twɛlb,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
 1,esɑ,,FALSE,Headland1979,pp.3-7,,agta1234,Agta of Dikaméy,agta1234-1
 2,əduwɑ,,FALSE,Headland1979,pp.3-7,,agta1234,Agta of Dikaméy,agta1234-1
 3,étélo,,FALSE,Headland1979,pp.3-7,,agta1234,Agta of Dikaméy,agta1234-1
@@ -1963,6 +1982,18 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,lambi,,FALSE,Ray1912,pp.340-341,,aram1253,Parb,aram1253-2
 4,tutubiar,,FALSE,Ray1912,pp.340-341,,aram1253,Parb,aram1253-2
 5,tumbi-tumbi-yambia,,FALSE,Ray1912,pp.340-341,,aram1253,Parb,aram1253-2
+1,ngambi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
+2,yanmbáro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
+3,yenówe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
+4,asar,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
+5,tambnoy,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
+6,nimbo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
+7,sefen,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
+8,eit,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
+9,nain,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
+10,ten,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
+12,twelf,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
+18,eitin,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
 1,onati,,FALSE,Galis1955,p.135,,aran1237,Jaban-Arandai,aran1237-1
 2,ogi,,FALSE,Galis1955,p.135,,aran1237,Jaban-Arandai,aran1237-1
 2,ougé,,FALSE,Galis1955,p.135,,aran1237,Jaban-Arandai,aran1237-1
@@ -2827,6 +2858,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1000,hasabu,,FALSE,Arnaud1998,pp.863-879 [word list item numbers],,bada1261,Badaʔ,bada1261-1
 1000,hariwu,,FALSE,Arnaud1998,pp.863-879 [word list item numbers],,bada1261,Badaʔ,bada1261-1
 1000000,haduta,,FALSE,Arnaud1998,pp.863-879 [word list item numbers],,bada1261,Badaʔ,bada1261-1
+1,næmbar,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,badi1247,Bedi (Onggaya village),badi1247-1
+2,jɛmbɔka,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,badi1247,Bedi (Onggaya village),badi1247-1
+3,juow,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,badi1247,Bedi (Onggaya village),badi1247-1
+4,næmba jɛmboka,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,badi1247,Bedi (Onggaya village),badi1247-1
+5,næmba tʃwæ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,badi1247,Bedi (Onggaya village),badi1247-1
 1,tanabar,,FALSE,Galis1955,p.142,,bagu1251,Kamboi-ramboi,bagu1251-1
 2,murinam,,FALSE,Galis1955,p.142,,bagu1251,Kamboi-ramboi,bagu1251-1
 3,didaràsobe,,FALSE,Galis1955,p.142,,bagu1251,Kamboi-ramboi,bagu1251-1
@@ -4781,6 +4817,29 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 6,trawa,,FALSE,Lean1986Vol12,p.49,1 CSQ. Weam Community School.,blaf1238,Tonda,blaf1238-1
 12,yalmbe trawa,2 x 6,FALSE,Lean1986Vol12,p.49,1 CSQ. Weam Community School.,blaf1238,Tonda,blaf1238-1
 18,yala trawa,3 x 6,FALSE,Lean1986Vol12,p.49,1 CSQ. Weam Community School.,blaf1238,Tonda,blaf1238-1
+1,ŋæmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
+2,jelmbe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
+3,jela,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
+4,æsær,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
+5,tamblui,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
+6,trawa,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
+7,ŋæmbi trawa ŋæmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
+8,ŋæmbi trawa jelmbe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
+9,ŋæmbi trawa jela,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
+10,ŋæmbi trawa æsær,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
+12,jelmbe trawa,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
+1,ŋæmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Ranmo (Yéndorodoro village),blaf1238-3
+2,jəlmbæ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Ranmo (Yéndorodoro village),blaf1238-3
+3,jəlo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Ranmo (Yéndorodoro village),blaf1238-3
+4,æsær,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Ranmo (Yéndorodoro village),blaf1238-3
+5,tɐmblui,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Ranmo (Yéndorodoro village),blaf1238-3
+6,tɐmblui nimbo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Ranmo (Yéndorodoro village),blaf1238-3
+1,næmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Were (Indorodoro village),blaf1238-4
+2,jənda,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Were (Indorodoro village),blaf1238-4
+3,jəðɔ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Were (Indorodoro village),blaf1238-4
+4,ɐsɐr,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Were (Indorodoro village),blaf1238-4
+5,tɐmbuðui,[cf. <tæmbijə> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Were (Indorodoro village),blaf1238-4
+6,tɐmbuðui nimbo,[cf. <tæmbijə> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Were (Indorodoro village),blaf1238-4
 1,insa' toou,,FALSE,Himmelmann2001,pp.101-104,,boan1243,Boano,boan1243-1
 1,toolu,,FALSE,Himmelmann2001,pp.101-104,,boan1243,Boano,boan1243-1
 2,dóua',,FALSE,Himmelmann2001,pp.101-104,,boan1243,Boano,boan1243-1
@@ -7841,6 +7900,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,wanararo,the presence of the word for ‘hand’ suggests a subtractive or ‘one less’ process is involved,FALSE,Lean1986Vol07,p.60,S.I.L word list (1973). Village: Dorumu.,doro1266,Doromu,doro1266-1
 5,wanaberoto,‘vana’ = ‘hand’; ‘bero’ = ‘side’,FALSE,Lean1986Vol07,p.60,S.I.L word list (1973). Village: Dorumu.,doro1266,Doromu,doro1266-1
 10,taututora,,FALSE,Lean1986Vol07,p.60,S.I.L word list (1973). Village: Dorumu.,doro1266,Doromu,doro1266-1
+2,rómbi,/rømbio/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,dree1234,Ndre,dree1234-1
+3,nambiyo,/nambio/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,dree1234,Ndre,dree1234-1
+4,asar,/asar/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,dree1234,Ndre,dree1234-1
+5,tambnoy,/tabrʉ/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,dree1234,Ndre,dree1234-1
+6,nimbo,/ŋimbio/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,dree1234,Ndre,dree1234-1
 1,su,,FALSE,Arnaud1998,pp.863-877 [word list item numbers],,duan1242,Duano,duan1242-1
 1,sikuʔ,(Transcription made by Collings at Sialu),FALSE,Arnaud1998,pp.863-877 [word list item numbers],,duan1242,Duano,duan1242-1
 1,satu,(Transcription made by H. Kâhler at Sendaur),FALSE,Arnaud1998,pp.863-877 [word list item numbers],,duan1242,Duano,duan1242-1
@@ -10649,6 +10713,9 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,bodo eseri,,FALSE,Chinnery1915,p.163,,guhu1244,Tahari,guhu1244-4
 1,olaʔie,,FALSE,Zgraggen1980Mabuso,p.92,,guma1255,Gumalu,guma1255-1
 2,ɛrit,,FALSE,Zgraggen1980Mabuso,p.92,,guma1255,Gumalu,guma1255-1
+2,yethambi,[jɛðambɪ],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,gunt1241,Wartha Thuntai (Wando village),gunt1241-1
+6,trawa,[trawa],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,gunt1241,Wartha Thuntai (Wando village),gunt1241-1
+12,yethambi ngathari,[jɛðambɪ ŋaðaraɪ],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,gunt1241,Wartha Thuntai (Wando village),gunt1241-1
 1,mitene,“The CSQ informant indeed does indicate that a decimal system operates (i.e. a 10-cycle system with no sub-ordinate cycles) but at the same time says that the system is a body-part tally one that utilizes tally parts on the body as well as the fingers of both hands.”,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School.,guri1248,Kwomtari (Guriaso Community School),guri1248-1
 2,aser,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School.,guri1248,Kwomtari (Guriaso Community School),guri1248-1
 3,amdir,,FALSE,LeanSandaun,p.22,1 CSQ. Guriaso Community School.,guri1248,Kwomtari (Guriaso Community School),guri1248-1
@@ -11487,6 +11554,44 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,komlla ttang,‘two hands’,FALSE,Lean1986Vol12,p.62,1 CSQ. Village: Malam.,idii1243,Idi (Malam village),idii1243-2
 15,[komlla ttang?] apte tt'le,‘tt'le’ = ‘foot’,FALSE,Lean1986Vol12,p.62,1 CSQ. Village: Malam.,idii1243,Idi (Malam village),idii1243-2
 20,komlla ttang komlla tt'le,‘two hands two feet’,FALSE,Lean1986Vol12,p.62,1 CSQ. Village: Malam.,idii1243,Idi (Malam village),idii1243-2
+2,komblabe,/kɔmblabe/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
+3,kombla dzin,/kɔmbla dzin/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
+4,komblabe komblabe,/kɔmblabe kɔmblabe/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
+5,mnda,/mʌnda/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
+6,käpn,/kæpn/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
+7,qémb,/kpwɪmb/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
+8,podär,/podær/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
+9,ngm,/ŋm/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
+12,snedhkal,/snɛɖkal/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
+1,dzin dabe,/dzin dabe/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Sibidiri village),idii1243-4
+2,kumble,/kumble/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Sibidiri village),idii1243-4
+3,kumble dzin,/kumblε dzin/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Sibidiri village),idii1243-4
+4,kumble kumbluk,/kumblε kumbluk/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Sibidiri village),idii1243-4
+10,dhl,/ɖl/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Sibidiri village),idii1243-4
+12,dhamana podär,/ɖamana podær/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Sibidiri village),idii1243-4
+1,dzin dabe,/dʒin dabe/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
+2,kombla be,/kɔmbla be/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
+3,kumzim,/kumzim/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
+4,tope,/tope/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
+5,mnda,/mʌnda/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
+6,kombla be kombla be kombla be,/kɔmbla be kɔmbla be kɔmbla be/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
+7,kombla be kombla be kombla be dzin dabe,/kɔmbla be kɔmbla be kɔmbla be dʒin dabe/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
+8,kombla be kombla be kombla be kombla be,/kɔmbla be kɔmbla be kɔmbla be kɔmbla be/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
+9,kombla be kombla be kombla be kombla be dzin dabe,/kɔmbla be kɔmbla be kɔmbla be kɔmbla be dʒin dabe/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
+10,dhl kwép,/ɖʌl kwɪp/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
+12,kombla be kombla be kombla be kombla be kombla be,/kɔmbla be kɔmbla be kɔmbla be kɔmbla be kɔmbla be kɔmbla be/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
+1,zindɑbe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
+2,komlɑ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
+3,komlɛzin,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
+4,komlɑbe komlɑbe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
+5,məndɑ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
+6,kɑpən,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
+7,ʈ͡ʂæŋ kwɪm,[cf. <ʈ͡ʂæŋ> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
+8,mɑʈ͡ʂɑ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
+9,ŋæm,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
+10,ɖ͡ʐəl,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
+12,komlɑbe puʈ͡ʂ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
+18,ɖ͡ʐɑmɪnɑ tope,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
 1,sa'eyana,,FALSE,Lean1986Vol06,p.69,S.I.L word list (1964?). Village: Wakonai.,idun1242,Iduna,idun1242-1
 2,luhei,,FALSE,Lean1986Vol06,p.69,S.I.L word list (1964?). Village: Wakonai.,idun1242,Iduna,idun1242-1
 3,tohiye,,FALSE,Lean1986Vol06,p.69,S.I.L word list (1964?). Village: Wakonai.,idun1242,Iduna,idun1242-1
@@ -15603,6 +15708,12 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,Tambothui,[cf. p.112: <tambia> ‘hand’],FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
 6,Nimbo,(no other numbers),FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
 7,Nib,(no other numbers),FALSE,MacGregor1897,p.106,,kunj1246,Bangu (Morehead),kunj1246-2
+1,ŋæmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,kunj1246,Kancha (Bondobol village),kunj1246-3
+2,ɛndæ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,kunj1246,Kancha (Bondobol village),kunj1246-3
+3,ɛðɔ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,kunj1246,Kancha (Bondobol village),kunj1246-3
+4,ɐsær,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,kunj1246,Kancha (Bondobol village),kunj1246-3
+5,t̪ɐmbru,[cf. <tæmbijə> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,kunj1246,Kancha (Bondobol village),kunj1246-3
+6,t̪ɐm nɪmbɔ,[cf. <tæmbijə> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,kunj1246,Kancha (Bondobol village),kunj1246-3
 1,an,,FALSE,Lean1985Vol01,p.37,"Field Notes, 1983. Village: Panaras.",kuot1243,Kuot,kuot1243-1
 2,haras,,FALSE,Lean1985Vol01,p.37,"Field Notes, 1983. Village: Panaras.",kuot1243,Kuot,kuot1243-1
 3,naien,,FALSE,Lean1985Vol01,p.37,"Field Notes, 1983. Village: Panaras.",kuot1243,Kuot,kuot1243-1
@@ -18256,6 +18367,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,inage inage,reduplicates the numeral 2,FALSE,Gregor2021,p.27,,makl1246,Welbuti,makl1246-3
 5,bəlmepola,bəl ‘hand’ and mepola ‘one’,FALSE,Gregor2021,p.27,,makl1246,Welbuti,makl1246-3
 10,bəlŋuka bəlŋuka,a reduplicated form of a combination including the word for ‘hand’,FALSE,Gregor2021,p.27,,makl1246,Welbuti,makl1246-3
+1,mepola,[mɛpɔla],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
+2,inage,[inagɛ],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
+3,inagɛ mɛpɔla,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
+4,inagɛ inagɛ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
+5,inagɛ inagɛ mɛpɔla,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
+6,bɛlŋuka mɛpɔla,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
+7,bɛlŋuka inagɛ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
+8,bɛlŋuka inagɛ mɛpɔla,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
+9,bɛlŋuka inagɛ inagɛ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
+10,bɛlŋuka ŋuka,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
+12,bɛlŋuka ŋuka wɔdɔ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
 1,ɑŋɡək,,FALSE,Rosensteel1987,"pp.3, 8",,mako1250,məkolkol - Gunapeo village (MAKOLKOL),mako1250-1
 2,ɑundium,,FALSE,Rosensteel1987,"pp.3, 8",,mako1250,məkolkol - Gunapeo village (MAKOLKOL),mako1250-1
 3,biəmdəƀɑk,[cf. <iɑƀɑk> ‘that’],FALSE,Rosensteel1987,"pp.3, 8",,mako1250,məkolkol - Gunapeo village (MAKOLKOL),mako1250-1
@@ -21649,6 +21771,13 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1,jènadu,,FALSE,Galis1955,p.168,,moro1289,Moraori,moro1289-1
 2,pènèr,,FALSE,Galis1955,p.168,,moro1289,Moraori,moro1289-1
 3,ndènadu,,FALSE,Galis1955,p.168,,moro1289,Moraori,moro1289-1
+1,sɔkɔdʊ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,moro1289,Marori,moro1289-2
+2,jænadʊ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,moro1289,Marori,moro1289-2
+3,pnar,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,moro1289,Marori,moro1289-2
+4,andajænadʊandajænadʊ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,moro1289,Marori,moro1289-2
+5,ᵐbia ᵐbarɛn kɔrɔw,[cf. <kɔrɔw> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,moro1289,Marori,moro1289-2
+6,kɔrɔw sɔnɔw ᵐbarɛn sɔkɔdʊ,[cf. <kɔrɔw> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,moro1289,Marori,moro1289-2
+10,kɔrɔw sɔnɔw,[cf. <kɔrɔw> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,moro1289,Marori,moro1289-2
 1,nonotʌ,,FALSE,Zgraggen1980Mabuso,p.92,,mosi1248,Mosimo,mosi1248-1
 2,alita,,FALSE,Zgraggen1980Mabuso,p.92,,mosi1248,Mosimo,mosi1248-1
 1,tuwale,,FALSE,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304",,mota1237,"Sugarloaf Island, Mota",mota1237-1
@@ -22803,6 +22932,27 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,mahahu-u,,FALSE,LeanManus,p.22,SIL Word List (1976). Village: N'dranou.,nali1245,Nali (N'dranou village),nali1245-3
 5,mayimah,,FALSE,LeanManus,p.22,SIL Word List (1976). Village: N'dranou.,nali1245,Nali (N'dranou village),nali1245-3
 10,masungui,,FALSE,LeanManus,p.22,SIL Word List (1976). Village: N'dranou.,nali1245,Nali (N'dranou village),nali1245-3
+1,ámbiro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
+2,sómbyo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
+3,nambyo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
+4,sómbyo sómbyo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
+5,ngángè brubru,[cf. <ngangè> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
+6,nambyo nambyo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
+6,ñámbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
+12,yèndè,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
+18,yèro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
+1,ambro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
+2,ʈʰombio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
+3,nambio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
+4,ʈʰombio ʈʰombio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
+5,brubru,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
+6,ambro brubru ambro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
+7,ambro brubru ʈʰombio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
+8,ambro brubru nambio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
+9,ambro brubru ʈʰombio ʈʰombio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
+10,ʈʰombio brubru ʈʰombio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
+12,ʈʰombio brubru,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
+18,nambio brubru nambio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
 10,drualima,,FALSE,Codrington1885,p.471,,nama1268,Tonoa [toŋoa],nama1268-1
 1,ämbru,,FALSE,Kashima2020,p.141,,namb1293,Nmbo: Kerake,namb1293-1
 2,sombwi,,FALSE,Kashima2020,p.141,,namb1293,Nmbo: Kerake,namb1293-1
@@ -22832,6 +22982,28 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,ämbro fur ämbro nambio,6+3,FALSE,Kashima2020,p.141,,namb1293,Nmbo: Yarne,namb1293-2
 10,ämbro fur ämbro sombio-sombio,6+4,FALSE,Kashima2020,p.141,,namb1293,Nmbo: Yarne,namb1293-2
 12,sombio furvur,6X2,FALSE,Kashima2020,p.141,,namb1293,Nmbo: Yarne,namb1293-2
+1,æm.bro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
+2,sɤm.bi.o,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
+3,nɑm.bi.o,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
+4,sɤm.bi.o sɤm.bi.o,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
+5,wid.ma.tan.dro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
+6,æm.bro ɸur,[cf. <ɸor.βor> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
+7,æm.bro fɯr æm.brom.bwe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
+8,æmbro fɯr sɤmbiombwe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
+9,æm.bro ɸu nam.biom.bwe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
+12,sɤm.bio ɸur.βur,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
+1,ämbrü,/æmbrü/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
+2,sombwi,/sombwi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
+3,nambi,/nambi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
+4,somba sombwi,/somba sombwi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
+5,widmatndro,/widmatəndro/ [cf. <tnd> ‘hand],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
+6,ämbru for,/æmbru for/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
+7,ämbru for me ämbru,/æmbru for æmbru/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
+8,ämbru for sombwi,/æmbru for sombwi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
+9,ämbru for nambi,/æmbru for nambi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
+10,sombwi tand brobro,/sombwi tand brobro/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
+12,sombwi for,/sombwi for/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
+18,nambi for,/nambi for/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
 1,tipia,,FALSE,Laycock1967C06,p.44,,nami1256,Namie (Namia),nami1256-1
 2,pəli,,FALSE,Laycock1967C06,p.44,,nami1256,Namie (Namia),nami1256-1
 3,məni,,FALSE,Laycock1967C06,p.44,,nami1256,Namie (Namia),nami1256-1
@@ -22874,6 +23046,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nambio,,FALSE,Ray1923,p.343,,namo1246,Potoia,namo1246-1
 4,tuambi-tuambio,,FALSE,Ray1923,p.343,,namo1246,Potoia,namo1246-1
 5,iambia,,FALSE,Ray1923,p.343,,namo1246,Potoia,namo1246-1
+1,æmbro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namo1246,Namo (Mari village),namo1246-2
+2,ʈəmbio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namo1246,Namo (Mari village),namo1246-2
+3,nambio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namo1246,Namo (Mari village),namo1246-2
+4,ʈəmbio ʈəmbio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namo1246,Namo (Mari village),namo1246-2
+5,æmbro brubru,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namo1246,Namo (Mari village),namo1246-2
 1,sa,,FALSE,Sugono2002,"pp.140, 142, 172, 190, 203",,namu1249,Ngina Manu,namu1249-1
 2,rua,,FALSE,Sugono2002,"pp.140, 142, 172, 190, 203",,namu1249,Ngina Manu,namu1249-1
 3,telu,,FALSE,Sugono2002,"pp.140, 142, 172, 190, 203",,namu1249,Ngina Manu,namu1249-1
@@ -23302,6 +23479,12 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,rombai-aboto,,FALSE,Ray1923,p.343,,neme1244,Karigari,neme1244-1
 4,taba,,FALSE,Ray1923,p.343,,neme1244,Karigari,neme1244-1
 5,dukop,,FALSE,Ray1923,p.343,,neme1244,Karigari,neme1244-1
+1,nambimi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,neme1244,Neme (Keru village),neme1244-2
+2,rumbiyo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,neme1244,Neme (Keru village),neme1244-2
+3,nambiyo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,neme1244,Neme (Keru village),neme1244-2
+4,asar,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,neme1244,Neme (Keru village),neme1244-2
+5,tambnoy,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,neme1244,Neme (Keru village),neme1244-2
+6,nimbànoy,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,neme1244,Neme (Keru village),neme1244-2
 1,pamoh,‘one’,FALSE,Harris1990,p.91,,nend1239,Nend,nend1239-1
 2,undamaj,‘two’,FALSE,Harris1990,p.91,,nend1239,Nend,nend1239-1
 3,undama=pam,‘two=one’,FALSE,Harris1990,p.91,,nend1239,Nend,nend1239-1
@@ -23331,6 +23514,18 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,se dongo re ngome,"five twenties, men",FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
 240,rewe dongo rewe re ngome,"five twenties, men",FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
 1000,e dongo,"In Nengone to count a thousand was to go as far as could be reached, e dongo, finish ... Beyond two hundred they did not go; e dongo! finished",FALSE,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485",,neng1238,"Britannia Island, Nengone",neng1238-1
+1,ämbs,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
+2,sombes,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
+3,nambis,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
+4,sombes a sombes,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
+5,widmatands,[cf. <tnd> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
+6,pus ämbs pus,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
+7,ämbs pus ämbs,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
+8,ämbs pus sombes,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
+9,ämbs pus nambis,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
+10,widmatnd a widmatnd,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
+12,sombes pus,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
+18,nambis pus,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
 1,mendai,PE *menda,FALSE,Franklin2012,p.51,,nete1240,Nete,nete1240-1
 2,rapo,PE *lyambo,FALSE,Franklin2012,p.51,,nete1240,Nete,nete1240-1
 3,tepo,PE *tsembo,FALSE,Franklin2012,p.51,,nete1240,Nete,nete1240-1
@@ -23451,6 +23646,12 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,pèsmeri-jèla,,FALSE,Galis1955,p.167,,ngka1235,Kanum,ngka1235-1
 10,pèsmeri-èsèr,,FALSE,Galis1955,p.167,,ngka1235,Kanum,ngka1235-1
 11,pèsmeri-tampui,,FALSE,Galis1955,p.167,,ngka1235,Kanum,ngka1235-1
+1,naempr,/ˈnæmpə̆rtĕ/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,ngka1235,Ngkolmpu (Yanggandur village),ngka1235-2
+2,yempoka,/ˈyempŏˌka/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,ngka1235,Ngkolmpu (Yanggandur village),ngka1235-2
+3,yuow,/yʷou/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,ngka1235,Ngkolmpu (Yanggandur village),ngka1235-2
+4,aeser,/ˈæsɛr/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,ngka1235,Ngkolmpu (Yanggandur village),ngka1235-2
+5,tampui,/ˈtampui/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,ngka1235,Ngkolmpu (Yanggandur village),ngka1235-2
+6,trowo,/ˈtə̆rowo/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,ngka1235,Ngkolmpu (Yanggandur village),ngka1235-2
 1,sara,,FALSE,Stokhof1987Vol10.3,pp.147-148,,nias1242,Nias (from H. Lagemann),nias1242-1
 2,doea,,FALSE,Stokhof1987Vol10.3,pp.147-148,,nias1242,Nias (from H. Lagemann),nias1242-1
 3,tôloe,,FALSE,Stokhof1987Vol10.3,pp.147-148,,nias1242,Nias (from H. Lagemann),nias1242-1
@@ -24230,6 +24431,12 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,inea-zakod,,FALSE,Ray1912,pp.340-341,,nucl1622,Merauke,nucl1622-2
 4,iena-iena,,FALSE,Ray1912,pp.340-341,,nucl1622,Merauke,nucl1622-2
 5,iena-iena-zakod,,FALSE,Ray1912,pp.340-341,,nucl1622,Merauke,nucl1622-2
+1,hyakod,[ʰjaˈkod],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nucl1622,western Coastal Marind (Wambi village),nucl1622-3
+2,inah,[iˈnah],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nucl1622,western Coastal Marind (Wambi village),nucl1622-3
+3,inhyakod,[ˈinʰjakod],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nucl1622,western Coastal Marind (Wambi village),nucl1622-3
+4,inahinah,[iˈnahinah],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nucl1622,western Coastal Marind (Wambi village),nucl1622-3
+5,mbya-laɣ-sangga,[ˈm͜bja-laɣ-saŋ͜ga] [cf. <sangga> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nucl1622,western Coastal Marind (Wambi village),nucl1622-3
+10,sangga-balen,[saˈŋ͜ga baˈlen] [cf. <sangga> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nucl1622,western Coastal Marind (Wambi village),nucl1622-3
 1,ugonu,,FALSE,Lean1986Vol07,p.53,S.I.L word list (undated). Village: Abaro (Barai d.).,nucl1630,Barai (Abaro village),nucl1630-1
 2,inoi,,FALSE,Lean1986Vol07,p.53,S.I.L word list (undated). Village: Abaro (Barai d.).,nucl1630,Barai (Abaro village),nucl1630-1
 3,inoi ugonu,2 + 1,FALSE,Lean1986Vol07,p.53,S.I.L word list (undated). Village: Abaro (Barai d.).,nucl1630,Barai (Abaro village),nucl1630-1
@@ -26912,6 +27119,18 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,kilɑkɑy,,FALSE,Laycock1970D04,p.538,,rawo1244,Rawo,rawo1244-1
 4,klɛ́kliɛ,,FALSE,Laycock1970D04,p.538,,rawo1244,Rawo,rawo1244-1
 5,bɛna,[bɛn = fingers],FALSE,Laycock1970D04,p.538,,rawo1244,Rawo,rawo1244-1
+1,ngambi teye,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
+2,yànambi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
+3,yàlo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
+4,asar,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
+5,tambnoi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
+6,nimbé,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
+7,sefen,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
+8,eit,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
+9,nain,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
+10,ten,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
+12,twelf,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
+18,eitin,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
 1,átel,,FALSE,Kasprus1942,pp.746-747,,remp1241,Garus (Pap.) A'é̱-Dialect,remp1241-1
 2,aíl,,FALSE,Kasprus1942,pp.746-747,,remp1241,Garus (Pap.) A'é̱-Dialect,remp1241-1
 3,ábu,,FALSE,Kasprus1942,pp.746-747,,remp1241,Garus (Pap.) A'é̱-Dialect,remp1241-1
@@ -29874,6 +30093,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 70,kiranne pore,‘twenty towards one hundred’,FALSE,Lean1985Vol03,p.67,"15 CSQs. Villages: Kunu, Naronai, Maisua, Kaparo, Usokoli, Kumuki, Kakatokori, Maisua, Haisi, Koropo, Purikon.",siwa1245,Siwai,siwa1245-1
 100,pore,,FALSE,Lean1985Vol03,p.67,"15 CSQs. Villages: Kunu, Naronai, Maisua, Kaparo, Usokoli, Kumuki, Kakatokori, Maisua, Haisi, Koropo, Purikon.",siwa1245,Siwai,siwa1245-1
 1000,kukuraku noweri muh tugah,‘kukuraku’ = ‘domest fowl’,FALSE,Lean1985Vol03,p.67,"15 CSQs. Villages: Kunu, Naronai, Maisua, Kaparo, Usokoli, Kumuki, Kakatokori, Maisua, Haisi, Koropo, Purikon.",siwa1245,Siwai,siwa1245-1
+1,æmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
+2,jælmbə̆,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
+3,jɛla,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
+4,ɛsɛr,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
+5,tambui,[cf. <ʈa> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
+6,trowow,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
+7,pəsimɛri æmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
+8,pəsimɛri jalmpo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
+9,pəsimɛri jɛla,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
+10,pəsimɛri ɛsɛr,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
 1,tēs,,FALSE,Stokhof1983Vol5.2,p.64,,sobe1238,Sarmi,sobe1238-1
 2,daíhdo͞eh,,FALSE,Stokhof1983Vol5.2,p.64,,sobe1238,Sarmi,sobe1238-1
 3,to͞uw,,FALSE,Stokhof1983Vol5.2,p.64,,sobe1238,Sarmi,sobe1238-1
@@ -30108,6 +30337,24 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,nɑkwʊrɑk ndu mi,[ndu = man],FALSE,Laycock1971D27,p.3804,,sosk1235,Kwongai (Sawos),sosk1235-1
 1,nəkulək,,FALSE,Staalsen1975,p.14,,sosk1235,Kwaruwi,sosk1235-2
 3,kupuk,,FALSE,Staalsen1975,p.14,,sosk1235,Kwaruwi,sosk1235-2
+1,émbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
+2,yènámbe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
+3,yàlwau,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
+4,asar,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
+5,tambnoi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
+6,nimbé,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
+7,sefen,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
+8,eit,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
+9,nain,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
+10,ten,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
+12,twelf,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
+18,eitin,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
+1,æmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Nggarna (Sota village),sota1242-2
+2,jənæmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Nggarna (Sota village),sota1242-2
+3,jəlwow,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Nggarna (Sota village),sota1242-2
+4,æsær,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Nggarna (Sota village),sota1242-2
+5,tuwapu,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Nggarna (Sota village),sota1242-2
+6,mawrɛi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Nggarna (Sota village),sota1242-2
 1,tei,,FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
 2,lu,,FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
 3,tol,,FALSE,Parker1970,passim,,sout2859,Southeast Ambrym,sout2859-1
@@ -30695,6 +30942,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,menes nimap,2 + 1,FALSE,Lean1986Vol12,p.36,1 CSQ. Village: Aewe (Ewe).,suki1245,Suki,suki1245-1
 4,menes menes,2 + 2,FALSE,Lean1986Vol12,p.36,1 CSQ. Village: Aewe (Ewe).,suki1245,Suki,suki1245-1
 5,menes menes nimap,2 + 2 + 1,FALSE,Lean1986Vol12,p.36,1 CSQ. Village: Aewe (Ewe).,suki1245,Suki,suki1245-1
+1,nimap,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
+2,menes,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
+3,menes nimap,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
+4,menes menes,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
+5,damtiyap,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
+6,damti kapse nimap,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
+7,damti kapse menes,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
+10,damti damti,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
 1,bisan,,FALSE,Smith1988,p.67,,suku1264,Sukurum,suku1264-1
 2,leluk,,FALSE,Smith1988,p.67,,suku1264,Sukurum,suku1264-1
 3,leluk anga bisan,2 + 1,FALSE,Smith1988,p.67,,suku1264,Sukurum,suku1264-1
@@ -35335,6 +35590,15 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 22,ina alpo toi ina,,FALSE,Gregor2021,pp.91-92,,wana1273,Yelmek,wana1273-3
 23,ina alpo toi mʉdem,,FALSE,Gregor2021,pp.91-92,,wana1273,Yelmek,wana1273-3
 30,mʉdem alpo toi,,FALSE,Gregor2021,pp.91-92,,wana1273,Yelmek,wana1273-3
+1,ŋklala,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,"Yelmek, from Drabbe (1954)",wana1273-4
+2,ina,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,"Yelmek, from Drabbe (1954)",wana1273-4
+3,mudém,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,"Yelmek, from Drabbe (1954)",wana1273-4
+4,ébédina,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,"Yelmek, from Drabbe (1954)",wana1273-4
+1,hengklala,[ŋə'klala],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,Yelmek (Wanam village),wana1273-5
+2,ina,[ina],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,Yelmek (Wanam village),wana1273-5
+3,mudem,[mu'dɛm],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,Yelmek (Wanam village),wana1273-5
+4,ebedina,[ɛ'bəd ina],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,Yelmek (Wanam village),wana1273-5
+5,kereng kapak,[kɛrɛŋ kampak],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,Yelmek (Wanam village),wana1273-5
 1,siri,,FALSE,Galis1955,p.140,,wand1267,Wandáma,wand1267-1
 2,monu,,FALSE,Galis1955,p.140,,wand1267,Wandáma,wand1267-1
 2,muandu,,FALSE,Galis1955,p.140,,wand1267,Wandáma,wand1267-1
@@ -35522,6 +35786,22 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,tabru,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (restricted),wara1294-3
 6,tabuthui nibo,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (restricted),wara1294-3
 6,nibo,,FALSE,Doehler2018,p.94,,wara1294,Komnzo (restricted),wara1294-3
+1,ŋæmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
+2,jəðəmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
+3,jəðo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
+4,æsær,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
+5,tɐbru,[cf. <t̪ɐmbijə> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
+6,tɐm nimbo,[cf. <t̪ɐmbijə> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
+7,tɐm nimbo ŋæmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
+8,tɐm nimbo jəðəmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
+9,tɐm nimbo jəðɔ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
+12,jəðəmbi trɐwɐ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
+18,jəðo trɐwɐ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
+1,nämbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Komnzo (Masu village),wara1294-5
+2,änta,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Komnzo (Masu village),wara1294-5
+3,etha,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Komnzo (Masu village),wara1294-5
+4,asér,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Komnzo (Masu village),wara1294-5
+5,tambuthui,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Komnzo (Masu village),wara1294-5
 1,sɑróʔ,,FALSE,Nickell1978,pp.3-7,,wara1299,Bicolano - Bulan,wara1299-1
 2,dúwɑ,,FALSE,Nickell1978,pp.3-7,,wara1299,Bicolano - Bulan,wara1299-1
 3,túlo,,FALSE,Nickell1978,pp.3-7,,wara1299,Bicolano - Bulan,wara1299-1
@@ -37140,6 +37420,9 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1,nampèi,,FALSE,Galis1955,p.167,,yeii1239,Jéi,yeii1239-1
 2,jètapaé,,FALSE,Galis1955,p.167,,yeii1239,Jéi,yeii1239-1
 3,jètapaé-nampèi,,FALSE,Galis1955,p.167,,yeii1239,Jéi,yeii1239-1
+1,næmpəi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,yeii1239,Yei (Po village),yeii1239-2
+2,yətapəi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,yeii1239,Yei (Po village),yeii1239-2
+3,yətapəi næmpəi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,yeii1239,Yei (Po village),yeii1239-2
 1,dembaka,,FALSE,LeanMorobe,p.72,1 CSQ. Village: Sapa.,yeko1240,Yekora,yeko1240-1
 1,zo,,FALSE,LeanMorobe,p.72,1 CSQ. Village: Sapa.,yeko1240,Yekora,yeko1240-1
 2,eto,,FALSE,LeanMorobe,p.72,1 CSQ. Village: Sapa.,yeko1240,Yekora,yeko1240-1
@@ -37524,286 +37807,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,thupthi bi,/ʈupʈi bi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
-2,kumbɭi bi,/kumbɭi bi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
-3,kumbɭe bi thupthibi,/kumbɭe bi ʈupʈibi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
-4,tope,/tope/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
-5,mnda,/mʌnda/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
-7,thäng kum,/ʈæŋ kum/ [cf. <thäng> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
-9,nono,/nɔno/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
-10,dor kup,/dɔr kup/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Agöb (Dimsisi village),agob1244-4
-1,ʈ͡ʂoɳdɑ͡i,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
-2,komɽɑ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
-3,kumuɖ͡ʐəgɑ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
-4,po,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
-5,pɑ͡ib,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
-6,siks,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
-7,sɛbɛn,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
-8,et,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
-9,nɑ͡in,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
-10,tɛn,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
-12,twɛlb,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,agob1244,Ende (Limol village),agob1244-5
-1,ngambi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
-2,yanmbáro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
-3,yenówe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
-4,asar,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
-5,tambnoy,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
-6,nimbo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
-7,sefen,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
-8,eit,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
-9,nain,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
-10,ten,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
-12,twelf,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
-18,eitin,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,aram1253,Arammba (Kiriwa village),aram1253-3
-1,næmbar,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,badi1247,Bedi (Onggaya village),badi1247-1
-2,jɛmbɔka,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,badi1247,Bedi (Onggaya village),badi1247-1
-3,juow,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,badi1247,Bedi (Onggaya village),badi1247-1
-4,næmba jɛmboka,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,badi1247,Bedi (Onggaya village),badi1247-1
-5,næmba tʃwæ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,badi1247,Bedi (Onggaya village),badi1247-1
-1,ŋæmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
-2,jelmbe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
-3,jela,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
-4,æsær,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
-5,tamblui,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
-6,trawa,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
-7,ŋæmbi trawa ŋæmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
-8,ŋæmbi trawa jelmbe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
-9,ŋæmbi trawa jela,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
-10,ŋæmbi trawa æsær,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
-12,jelmbe trawa,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Blafe (Weam village),blaf1238-2
-1,ŋæmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Ranmo (Yéndorodoro village),blaf1238-3
-2,jəlmbæ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Ranmo (Yéndorodoro village),blaf1238-3
-3,jəlo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Ranmo (Yéndorodoro village),blaf1238-3
-4,æsær,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Ranmo (Yéndorodoro village),blaf1238-3
-5,tɐmblui,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Ranmo (Yéndorodoro village),blaf1238-3
-6,tɐmblui nimbo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Ranmo (Yéndorodoro village),blaf1238-3
-1,næmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Were (Indorodoro village),blaf1238-4
-2,jənda,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Were (Indorodoro village),blaf1238-4
-3,jəðɔ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Were (Indorodoro village),blaf1238-4
-4,ɐsɐr,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Were (Indorodoro village),blaf1238-4
-5,tɐmbuðui,[cf. <tæmbijə> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Were (Indorodoro village),blaf1238-4
-6,tɐmbuðui nimbo,[cf. <tæmbijə> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,blaf1238,Were (Indorodoro village),blaf1238-4
-2,rómbi,/rømbio/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,dree1234,Ndre,dree1234-1
-3,nambiyo,/nambio/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,dree1234,Ndre,dree1234-1
-4,asar,/asar/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,dree1234,Ndre,dree1234-1
-5,tambnoy,/tabrʉ/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,dree1234,Ndre,dree1234-1
-6,nimbo,/ŋimbio/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,dree1234,Ndre,dree1234-1
-2,yethambi,[jɛðambɪ],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,gunt1241,Wartha Thuntai (Wando village),gunt1241-1
-6,trawa,[trawa],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,gunt1241,Wartha Thuntai (Wando village),gunt1241-1
-12,yethambi ngathari,[jɛðambɪ ŋaðaraɪ],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,gunt1241,Wartha Thuntai (Wando village),gunt1241-1
-2,komblabe,/kɔmblabe/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
-3,kombla dzin,/kɔmbla dzin/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
-4,komblabe komblabe,/kɔmblabe kɔmblabe/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
-5,mnda,/mʌnda/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
-6,käpn,/kæpn/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
-7,qémb,/kpwɪmb/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
-8,podär,/podær/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
-9,ngm,/ŋm/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
-12,snedhkal,/snɛɖkal/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Dimsisi village),idii1243-3
-1,dzin dabe,/dzin dabe/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Sibidiri village),idii1243-4
-2,kumble,/kumble/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Sibidiri village),idii1243-4
-3,kumble dzin,/kumblε dzin/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Sibidiri village),idii1243-4
-4,kumble kumbluk,/kumblε kumbluk/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Sibidiri village),idii1243-4
-10,dhl,/ɖl/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Sibidiri village),idii1243-4
-12,dhamana podär,/ɖamana podær/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Idi (Sibidiri village),idii1243-4
-1,dzin dabe,/dʒin dabe/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
-2,kombla be,/kɔmbla be/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
-3,kumzim,/kumzim/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
-4,tope,/tope/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
-5,mnda,/mʌnda/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
-6,kombla be kombla be kombla be,/kɔmbla be kɔmbla be kɔmbla be/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
-7,kombla be kombla be kombla be dzin dabe,/kɔmbla be kɔmbla be kɔmbla be dʒin dabe/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
-8,kombla be kombla be kombla be kombla be,/kɔmbla be kɔmbla be kɔmbla be kɔmbla be/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
-9,kombla be kombla be kombla be kombla be dzin dabe,/kɔmbla be kɔmbla be kɔmbla be kɔmbla be dʒin dabe/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
-10,dhl kwép,/ɖʌl kwɪp/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
-12,kombla be kombla be kombla be kombla be kombla be,/kɔmbla be kɔmbla be kɔmbla be kɔmbla be kɔmbla be kɔmbla be/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Täme (Dimsisi village),idii1243-5
-1,zindɑbe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
-2,komlɑ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
-3,komlɛzin,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
-4,komlɑbe komlɑbe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
-5,məndɑ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
-6,kɑpən,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
-7,ʈ͡ʂæŋ kwɪm,[cf. <ʈ͡ʂæŋ> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
-8,mɑʈ͡ʂɑ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
-9,ŋæm,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
-10,ɖ͡ʐəl,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
-12,komlɑbe puʈ͡ʂ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
-18,ɖ͡ʐɑmɪnɑ tope,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,idii1243,Taeme (Kinkin village),idii1243-6
-1,ŋæmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,kunj1246,Kancha (Bondobol village),kunj1246-3
-2,ɛndæ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,kunj1246,Kancha (Bondobol village),kunj1246-3
-3,ɛðɔ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,kunj1246,Kancha (Bondobol village),kunj1246-3
-4,ɐsær,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,kunj1246,Kancha (Bondobol village),kunj1246-3
-5,t̪ɐmbru,[cf. <tæmbijə> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,kunj1246,Kancha (Bondobol village),kunj1246-3
-6,t̪ɐm nɪmbɔ,[cf. <tæmbijə> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,kunj1246,Kancha (Bondobol village),kunj1246-3
-1,mepola,[mɛpɔla],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
-2,inage,[inagɛ],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
-3,inagɛ mɛpɔla,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
-4,inagɛ inagɛ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
-5,inagɛ inagɛ mɛpɔla,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
-6,bɛlŋuka mɛpɔla,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
-7,bɛlŋuka inagɛ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
-8,bɛlŋuka inagɛ mɛpɔla,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
-9,bɛlŋuka inagɛ inagɛ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
-10,bɛlŋuka ŋuka,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
-12,bɛlŋuka ŋuka wɔdɔ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,makl1246,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246-4
-1,sɔkɔdʊ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,moro1289,Marori,moro1289-2
-2,jænadʊ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,moro1289,Marori,moro1289-2
-3,pnar,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,moro1289,Marori,moro1289-2
-4,andajænadʊandajænadʊ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,moro1289,Marori,moro1289-2
-5,ᵐbia ᵐbarɛn kɔrɔw,[cf. <kɔrɔw> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,moro1289,Marori,moro1289-2
-6,kɔrɔw sɔnɔw ᵐbarɛn sɔkɔdʊ,[cf. <kɔrɔw> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,moro1289,Marori,moro1289-2
-10,kɔrɔw sɔnɔw,[cf. <kɔrɔw> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,moro1289,Marori,moro1289-2
-1,ámbiro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
-2,sómbyo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
-3,nambyo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
-4,sómbyo sómbyo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
-5,ngángè brubru,[cf. <ngangè> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
-6,nambyo nambyo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
-6,ñámbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
-12,yèndè,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
-18,yèro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1266,Nama (Daraia village),nama1266-1
-1,ambro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
-2,ʈʰombio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
-3,nambio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
-4,ʈʰombio ʈʰombio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
-5,brubru,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
-6,ambro brubru ambro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
-7,ambro brubru ʈʰombio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
-8,ambro brubru nambio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
-9,ambro brubru ʈʰombio ʈʰombio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
-10,ʈʰombio brubru ʈʰombio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
-12,ʈʰombio brubru,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
-18,nambio brubru nambio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nama1267,Namat (Mibini village),nama1267-1
-1,æm.bro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
-2,sɤm.bi.o,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
-3,nɑm.bi.o,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
-4,sɤm.bi.o sɤm.bi.o,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
-5,wid.ma.tan.dro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
-6,æm.bro ɸur,[cf. <ɸor.βor> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
-7,æm.bro fɯr æm.brom.bwe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
-8,æmbro fɯr sɤmbiombwe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
-9,æm.bro ɸu nam.biom.bwe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
-12,sɤm.bio ɸur.βur,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nambo (Drdr village),namb1293-3
-1,ämbrü,/æmbrü/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
-2,sombwi,/sombwi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
-3,nambi,/nambi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
-4,somba sombwi,/somba sombwi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
-5,widmatndro,/widmatəndro/ [cf. <tnd> ‘hand],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
-6,ämbru for,/æmbru for/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
-7,ämbru for me ämbru,/æmbru for æmbru/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
-8,ämbru for sombwi,/æmbru for sombwi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
-9,ämbru for nambi,/æmbru for nambi/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
-10,sombwi tand brobro,/sombwi tand brobro/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
-12,sombwi for,/sombwi for/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
-18,nambi for,/nambi for/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namb1293,Nmbo,namb1293-4
-1,æmbro,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namo1246,Namo (Mari village),namo1246-2
-2,ʈəmbio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namo1246,Namo (Mari village),namo1246-2
-3,nambio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namo1246,Namo (Mari village),namo1246-2
-4,ʈəmbio ʈəmbio,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namo1246,Namo (Mari village),namo1246-2
-5,æmbro brubru,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,namo1246,Namo (Mari village),namo1246-2
-1,nambimi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,neme1244,Neme (Keru village),neme1244-2
-2,rumbiyo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,neme1244,Neme (Keru village),neme1244-2
-3,nambiyo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,neme1244,Neme (Keru village),neme1244-2
-4,asar,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,neme1244,Neme (Keru village),neme1244-2
-5,tambnoy,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,neme1244,Neme (Keru village),neme1244-2
-6,nimbànoy,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,neme1244,Neme (Keru village),neme1244-2
-1,ämbs,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
-2,sombes,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
-3,nambis,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
-4,sombes a sombes,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
-5,widmatands,[cf. <tnd> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
-6,pus ämbs pus,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
-7,ämbs pus ämbs,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
-8,ämbs pus sombes,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
-9,ämbs pus nambis,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
-10,widmatnd a widmatnd,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
-12,sombes pus,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
-18,nambis pus,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nenn1238,Nen (Bimadbn village),nenn1238-1
-1,naempr,/ˈnæmpə̆rtĕ/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,ngka1235,Ngkolmpu (Yanggandur village),ngka1235-2
-2,yempoka,/ˈyempŏˌka/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,ngka1235,Ngkolmpu (Yanggandur village),ngka1235-2
-3,yuow,/yʷou/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,ngka1235,Ngkolmpu (Yanggandur village),ngka1235-2
-4,aeser,/ˈæsɛr/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,ngka1235,Ngkolmpu (Yanggandur village),ngka1235-2
-5,tampui,/ˈtampui/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,ngka1235,Ngkolmpu (Yanggandur village),ngka1235-2
-6,trowo,/ˈtə̆rowo/,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,ngka1235,Ngkolmpu (Yanggandur village),ngka1235-2
-1,hyakod,[ʰjaˈkod],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nucl1622,western Coastal Marind (Wambi village),nucl1622-3
-2,inah,[iˈnah],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nucl1622,western Coastal Marind (Wambi village),nucl1622-3
-3,inhyakod,[ˈinʰjakod],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nucl1622,western Coastal Marind (Wambi village),nucl1622-3
-4,inahinah,[iˈnahinah],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nucl1622,western Coastal Marind (Wambi village),nucl1622-3
-5,mbya-laɣ-sangga,[ˈm͜bja-laɣ-saŋ͜ga] [cf. <sangga> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nucl1622,western Coastal Marind (Wambi village),nucl1622-3
-10,sangga-balen,[saˈŋ͜ga baˈlen] [cf. <sangga> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,nucl1622,western Coastal Marind (Wambi village),nucl1622-3
-1,ngambi teye,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
-2,yànambi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
-3,yàlo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
-4,asar,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
-5,tambnoi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
-6,nimbé,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
-7,sefen,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
-8,eit,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
-9,nain,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
-10,ten,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
-12,twelf,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
-18,eitin,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,rema1238,Rema (Wereave village),rema1238-1
-1,æmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
-2,jælmbə̆,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
-3,jɛla,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
-4,ɛsɛr,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
-5,tambui,[cf. <ʈa> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
-6,trowow,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
-7,pəsimɛri æmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
-8,pəsimɛri jalmpo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
-9,pəsimɛri jɛla,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
-10,pəsimɛri ɛsɛr,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,smar1235,Smerki (Rawa Biru village),smar1235-1
-1,émbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
-2,yènámbe,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
-3,yàlwau,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
-4,asar,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
-5,tambnoi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
-6,nimbé,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
-7,sefen,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
-8,eit,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
-9,nain,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
-10,ten,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
-12,twelf,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
-18,eitin,[Apparently borrowed from English],TRUE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Ngarna (Sota village),sota1242-1
-1,æmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Nggarna (Sota village),sota1242-2
-2,jənæmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Nggarna (Sota village),sota1242-2
-3,jəlwow,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Nggarna (Sota village),sota1242-2
-4,æsær,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Nggarna (Sota village),sota1242-2
-5,tuwapu,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Nggarna (Sota village),sota1242-2
-6,mawrɛi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Nggarna (Sota village),sota1242-2
-1,nimap,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
-2,menes,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
-3,menes nimap,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
-4,menes menes,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
-5,damtiyap,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
-6,damti kapse nimap,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
-7,damti kapse menes,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
-10,damti damti,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,suki1245,Suki (Aewe village),suki1245-2
-1,ŋklala,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,"Yelmek, from Drabbe (1954)",wana1273-4
-2,ina,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,"Yelmek, from Drabbe (1954)",wana1273-4
-3,mudém,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,"Yelmek, from Drabbe (1954)",wana1273-4
-4,ébédina,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,"Yelmek, from Drabbe (1954)",wana1273-4
-1,hengklala,[ŋə'klala],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,Yelmek (Wanam village),wana1273-5
-2,ina,[ina],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,Yelmek (Wanam village),wana1273-5
-3,mudem,[mu'dɛm],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,Yelmek (Wanam village),wana1273-5
-4,ebedina,[ɛ'bəd ina],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,Yelmek (Wanam village),wana1273-5
-5,kereng kapak,[kɛrɛŋ kampak],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wana1273,Yelmek (Wanam village),wana1273-5
-1,ŋæmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
-2,jəðəmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
-3,jəðo,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
-4,æsær,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
-5,tɐbru,[cf. <t̪ɐmbijə> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
-6,tɐm nimbo,[cf. <t̪ɐmbijə> ‘hand’],FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
-7,tɐm nimbo ŋæmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
-8,tɐm nimbo jəðəmbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
-9,tɐm nimbo jəðɔ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
-12,jəðəmbi trɐwɐ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
-18,jəðo trɐwɐ,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Kema (Wäménefér village),wara1294-4
-1,nämbi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Komnzo (Masu village),wara1294-5
-2,änta,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Komnzo (Masu village),wara1294-5
-3,etha,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Komnzo (Masu village),wara1294-5
-4,asér,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Komnzo (Masu village),wara1294-5
-5,tambuthui,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,wara1294,Komnzo (Masu village),wara1294-5
-1,næmpəi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,yeii1239,Yei (Po village),yeii1239-2
-2,yətapəi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,yeii1239,Yei (Po village),yeii1239-2
-3,yətapəi næmpəi,,FALSE,Carroll2024,txt file downloaded on 23 October 2024,,yeii1239,Yei (Po village),yeii1239-2
