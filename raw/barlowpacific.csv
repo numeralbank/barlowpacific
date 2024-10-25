@@ -37808,3 +37808,51 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
+1,abɪ,,FALSE,Bromley1967,pp.306-307,,uppe1430,Upper Pyramid,uppe1430-1
+2,bete,[mbeře],FALSE,Bromley1967,pp.306-307,,uppe1430,Upper Pyramid,uppe1430-1
+1,omagi-at,,FALSE,Bromley1967,pp.306-307,,wala1269,Pyramid-Wodo,wala1269-1
+2,bete,,FALSE,Bromley1967,pp.306-307,,wala1269,Pyramid-Wodo,wala1269-1
+1,bagɪ-at,,FALSE,Bromley1967,pp.306-307,,midg1235,Mid-Grand Valley,midg1235-2
+2,bete,[peře],FALSE,Bromley1967,pp.306-307,,midg1235,Mid-Grand Valley,midg1235-2
+1,pakke-at,,FALSE,Bromley1967,pp.306-307,,lowe1415,Lower Valley Hitigima,lowe1415-3
+1,makke-at,,FALSE,Bromley1967,pp.306-307,,lowe1415,Lower Valley Hitigima,lowe1415-3
+2,pɪte,,FALSE,Bromley1967,pp.306-307,,lowe1415,Lower Valley Hitigima,lowe1415-3
+2,pete,,FALSE,Bromley1967,pp.306-307,,lowe1415,Lower Valley Hitigima,lowe1415-3
+1,oppakke,,FALSE,Bromley1967,pp.306-307,,lowe1415,Lower Valley Tangma,lowe1415-4
+2,pɪte,,FALSE,Bromley1967,pp.306-307,,lowe1415,Lower Valley Tangma,lowe1415-4
+1,mesik,,FALSE,Bromley1967,pp.306-307,,sili1249,Kiniageima Amo,sili1249-1
+2,biten,,FALSE,Bromley1967,pp.306-307,,sili1249,Kiniageima Amo,sili1249-1
+1,mɪsɪk,,FALSE,Bromley1967,pp.306-307,,angg1239,Jalimo Angguruk,angg1239-3
+2,biten,,FALSE,Bromley1967,pp.306-307,,angg1239,Jalimo Angguruk,angg1239-3
+2,nwis,,FALSE,Laycock1968,p.63,,woga1249,Wogamusin,woga1249-1
+1,moʲ.hi,,FALSE,Miller2017,p.19,,wara1302,Bauni 1 (in Pou),wara1302-4
+2,ri.a.ˈpin,,FALSE,Miller2017,p.19,,wara1302,Bauni 1 (in Pou),wara1302-4
+1,ˈmoʲ.ke,,FALSE,Miller2017,p.19,,wara1302,Bauni (in Barapu),wara1302-5
+2,ri.je.ˈpín,,FALSE,Miller2017,p.19,,wara1302,Bauni (in Barapu),wara1302-5
+1,ˈmaʲ.tan,,FALSE,Miller2017,p.19,,unii1234,Uni 1,unii1234-1
+2,bi.a.ˈpin,,FALSE,Miller2017,p.19,,unii1234,Uni 1,unii1234-1
+1,mɵʲ,,FALSE,Miller2017,p.19,,unii1234,Uni 2,unii1234-2
+1,ʔa.ˈɾú.ta,,FALSE,Miller2017,p.19,,boun1246,Bouni 1,boun1246-2
+2,te.pin,,FALSE,Miller2017,p.19,,boun1246,Bouni 1,boun1246-2
+1,ʔa.ru.ta,,FALSE,Miller2017,p.19,,boun1246,Bouni 2,boun1246-3
+2,peˈpín,,FALSE,Miller2017,p.19,,boun1246,Bouni 2,boun1246-3
+2,sabla,,FALSE,Seiler1985,p.213,,imon1245,Imonda,imon1245-2
+2,sabla,,FALSE,Seiler1985,p.213,,daon1243,Daonda,daon1243-2
+2,sabla,,FALSE,Seiler1985,p.213,,wari1266,Waris,wari1266-6
+2,sabra,,FALSE,Seiler1985,p.213,,auwe1239,Simog,auwe1239-2
+2,sabia,,FALSE,Seiler1985,p.213,,sowa1245,Sowanda,sowa1245-2
+2,sabra,,FALSE,Seiler1985,p.213,,umed1238,Punda,umed1238-1
+1,itidi,,FALSE,Shaw1986,p.66,,soni1260,Sunia,soni1260-1
+2,ani,,FALSE,Shaw1986,p.66,,soni1260,Sunia,soni1260-1
+1,daba,,FALSE,Smallhorn2011,"pp.306, 366, 377",,gain1243,Gaena,gain1243-1
+2,etoto,,FALSE,Smallhorn2011,"pp.306, 366, 377",,gain1243,Gaena,gain1243-1
+3,bako[de],,FALSE,Smallhorn2011,"pp.306, 366, 377",,gain1243,Gaena,gain1243-1
+1,daba[ka],,FALSE,Smallhorn2011,"pp.306, 367, 377",,gain1243,Gena,gain1243-2
+2,etoto,,FALSE,Smallhorn2011,"pp.306, 367, 377",,gain1243,Gena,gain1243-2
+3,tamonde,,FALSE,Smallhorn2011,"pp.306, 367, 377",,gain1243,Gena,gain1243-2
+1,thoxunok,,FALSE,Voorhoeve1975,p.117,,kora1298,Korapun,kora1298-1
+2,bisini,,FALSE,Voorhoeve1975,p.117,,kora1298,Korapun,kora1298-1
+1,adihir,,FALSE,Voorhoeve1971,pp.112-113,,wark1247,Warkaj,wark1247-1
+2,isaˀain,,FALSE,Voorhoeve1971,pp.112-113,,wark1247,Warkaj,wark1247-1
+1,tak,,FALSE,Voorhoeve1980,"pp.102, 118",,casu1237,Casuarina Coast Asmat,casu1237-1
+2,amini,,FALSE,Voorhoeve1980,"pp.102, 118",,casu1237,Casuarina Coast Asmat,casu1237-1
