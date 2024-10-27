@@ -1,7 +1,7 @@
 ID,Name,Source,Pages,UltimateSource,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
 abad1241-1,Gabadi,Lean1986Vol07,p.31,7 CSQs. Village: Pinu (7).,abad1241,Abadi,kbt,Papunesia,-9.03389,146.992,Austronesian
 abag1245-1,Abaga,Lean1986Vol08,p.29,S.I.L. Survey word list (1976).,abag1245,Abaga,abg,Papunesia,-6.12028,145.665,Nuclear Trans New Guinea
-abai1241-1,Abai Sembuak,Lobel2016,pp.234-239,,abai1241,Abai Tubu-Abai Sembuak,,Papunesia,3.524226,116.162455,Austronesian
+abai1241-1,Abai Sembuak,Lobel2016,pp.234-239,f,abai1241,Abai Tubu-Abai Sembuak,,Papunesia,3.524226,116.162455,Austronesian
 abai1241-2,Abai Tubu,Lobel2016,pp.234-239,,abai1241,Abai Tubu-Abai Sembuak,,Papunesia,3.524226,116.162455,Austronesian
 abau1245-1,Abau,Laycock1971D32,pp.4664-4666,,abau1245,Abau,aau,Papunesia,-3.97222,141.324,Sepik
 abau1245-2,Abau (Bisiabru village),LeanSandaun,p.26,SIL Word List (1980). Village: Bisiabru.,abau1245,Abau,aau,Papunesia,-3.97222,141.324,Sepik
@@ -2928,3 +2928,49 @@ ziaa1250-3,Zia,Smith1988,p.106,,ziaa1250,Zia,zia,Papunesia,-7.95814,147.579,Nucl
 ziaa1250-4,Zia (Dona village),LeanMorobe,p.73,SIL Word List (1975). Village: Dona.,ziaa1250,Zia,zia,Papunesia,-7.95814,147.579,Nuclear Trans New Guinea
 ziaa1250-5,Zia (Siu village),LeanMorobe,pp.73-74,2 CSQs. Village: Siu.,ziaa1250,Zia,zia,Papunesia,-7.95814,147.579,Nuclear Trans New Guinea
 zima1244-1,Zimakani (Begua dialect),Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani,zik,Papunesia,-7.3701,141.452,Anim
+abun1252-3,Karôn,Cowan1953,p.14,,abun1252,Abun,kgr,Papunesia,-0.57073,132.416,Abun
+abun1252-4,Madik,Cowan1953,p.14,,abun1252,Abun,kgr,Papunesia,-0.57073,132.416,Abun
+argu1237-3,Arguni K,Cowan1953,p.31,,argu1237,Arguni,agf,Papunesia,-2.645798,132.5556,Austronesian
+baha1258-2,Patimuni,Cowan1953,p.33,,baha1258,Baham,bdw,Papunesia,-3.10628,132.637,West Bomberai
+bata1295-1,Batanta,Cowan1953,p.40,,bata1295,Batanta,,Papunesia,-0.862394,130.646,Austronesian
+beng1287-1,Banggoi,Erniati2021,pp.246-252,,beng1287,Benggoi,bgy,Papunesia,-3.13924,130.091,Austronesian
+cent2072-2,Ilmas,vanDijk2021,pp.158-167,,cent2072,Central Masela,mxz,Papunesia,-8.15414,129.865,Austronesian
+hoti1237-1,Hoti,Erniati2021,pp.246-252,,hoti1237,Hoti of East Seram,hti,Papunesia,-3.0083,130.168,Austronesian
+ihaa1241-4,Kapaur,Cowan1953,p.33,,ihaa1241,Iha,ihp,Papunesia,-2.81013,132.271,West Bomberai
+irar1238-4,Kaitero,Cowan1953,p.30,,irar1238,Irarutu,irh,Papunesia,-2.94438,133.586,Austronesian
+irar1238-5,Arguni B,Cowan1953,p.30,,irar1238,Irarutu,irh,Papunesia,-2.94438,133.586,Austronesian
+kais1235-2,Kampong Baru,Cowan1953,p.22,,kais1235,Kais,kzm,Papunesia,-1.78077,132.312,South Bird's Head Family
+kala1256-2,Kalabra,Cowan1953,p.17,,kala1256,Kalabra,kzz,Papunesia,-1.43074,131.617,West Bird's Head
+kara1499-2,Karas,Cowan1953,p.35,,kara1499,Kalamang,kgv,Papunesia,-3.47037,132.678,West Bomberai
+kond1303-2,Konda,Cowan1953,p.18,,kond1303,Yaben (Konda),knd,Papunesia,-1.82635,132.06,Konda-Yahadian
+kowi1239-9,Namatote,Cowan1953,p.36,,kowi1239,Kowiai,kwh,Papunesia,-4.21954,133.468,Austronesian
+latu1237-1,Latu,Collins1983,"pp.66, 117",,latu1237,Latu,ltu,Papunesia,-3.41302,128.667,Austronesian
+lege1241-4,Laganjau,Cowan1953,p.44,,lege1241,Legenyem,lcc,Papunesia,-0.3592,130.749,Austronesian
+made1253-2,Kawit,Cowan1953,p.40,,made1253,Salawati,xmx,Papunesia,-1.05325,130.833,Austronesian
+maib1239-3,Ajamaru,Cowan1953,p.20,,maib1239,Maybrat-Karon,ayz,Papunesia,-1.3679,132.591,Maybrat-Karon
+mani1235-3,Mantion,Cowan1953,"pp.11, 13",,mani1235,Sougb,mnx,Papunesia,-1.49611,133.95,East Bird's Head
+mani1235-4,Manikion,Cowan1953,"pp.11, 13",,mani1235,Sougb,mnx,Papunesia,-1.49611,133.95,East Bird's Head
+maya1282-6,Maja,Cowan1953,p.40,,maya1282,Misool-Salawati Ma'ya,slz,Papunesia,-1.22329,130.909,Austronesian
+maya1282-7,Banlol,Cowan1953,p.40,,maya1282,Misool-Salawati Ma'ya,slz,Papunesia,-1.22329,130.909,Austronesian
+meya1236-2,Mansibabêr,Cowan1953,p.10,,meya1236,Meyah,mej,Papunesia,-1.18016,133.618,East Bird's Head
+moii1235-3,Moi,Cowan1953,p.16,,moii1235,Moi (Indonesia),mxn,Papunesia,-0.96532,131.52,West Bird's Head
+moii1235-4,Waipu,Cowan1953,p.41,,moii1235,Moi (Indonesia),mxn,Papunesia,-0.96532,131.52,West Bird's Head
+mora1239-2,Moraid,Cowan1953,p.17,,mora1239,Moraid,msg,Papunesia,-1.04083,131.965,West Bird's Head
+morm1235-4,Môr,Cowan1953,p.6,,morm1235,Mor (Mor Islands),mhz,Papunesia,-2.87055,135.95,Austronesian
+mpur1239-2,Amberbaken,Cowan1953,p.13,,mpur1239,Mpur,akc,Papunesia,-0.7489,133.166,Mpur
+nucl1454-2,Midden-Japen,Cowan1953,p.7,,nucl1454,Yawa,yva,Papunesia,-1.77196,136.263,Yawa-Saweru
+nucl1594-4,Faranjao,Cowan1953,p.37,,nucl1594,Mairasi,zrs,Papunesia,-3.4511,134.071,Mairasic
+poll1238-1,Pollapese,Crippen2009,p.11,,poll1238,Pollapese,,Papunesia,7.638875,149.428723,Austronesian
+pura1253-2,Puragi,Cowan1953,p.22,,pura1253,Puragi,pru,Papunesia,-2.05779,132.304,South Bird's Head Family
+sege1235-3,Mosana,Cowan1953,p.41,,sege1235,Seget,sbg,Papunesia,-1.36931,131.218,West Bird's Head
+seka1247-2,Sekar,Cowan1953,p.31,,seka1247,Sekar,skz,Papunesia,-2.65849,132.469,Austronesian
+seri1255-2,Serili,vanDijk2021,pp.158-167,,seri1255,Serili,sve,Papunesia,-8.11241,129.901,Austronesian
+waig1244-4,Amber van Worem,Cowan1953,p.44,,waig1244,Waigeo,wgo,Papunesia,-0.17957,130.917,Austronesian
+waig1244-5,Amber van Noord-Waigeo,Cowan1953,p.44,,waig1244,Waigeo,wgo,Papunesia,-0.17957,130.917,Austronesian
+wand1267-10,Wandamens,Cowan1953,"pp.23, 28",,wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian
+wand1267-11,Wamessa,Cowan1953,p.28,,wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian
+wand1267-8,Bintuni,Cowan1953,p.23,,wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian
+wand1267-9,Windesisch,Cowan1953,"pp.23, 28",,wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian
+west2535-1,Iblatmunta,vanDijk2021,pp.158-167,,west2535,West Masela,mss,Papunesia,-8.1804,129.833,Austronesian
+yaha1248-2,Jahadian,Cowan1953,p.18,,yaha1248,Yahadian,ner,Papunesia,-1.94317,132.096,Konda-Yahadian
+yaur1239-4,Jaur,Cowan1953,p.5,,yaur1239,Yaur,jau,Papunesia,-3.32519,134.879,Austronesian
