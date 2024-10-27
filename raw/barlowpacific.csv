@@ -267,6 +267,26 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,moro,,FALSE,Galis1955,p.139,,abun1252,Mádik,abun1252-2
 30,moro-motu-tongal,,FALSE,Galis1955,p.139,,abun1252,Mádik,abun1252-2
 40,moro-uwi,,FALSE,Galis1955,p.139,,abun1252,Mádik,abun1252-2
+1,dik,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
+2,we,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
+3,gri,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
+4,at,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
+5,mek,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
+6,mat,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
+7,fit,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
+8,mgwo,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
+9,mesi,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
+10,mesu,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
+1,dit,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
+2,uwí,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
+3,dílí,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
+4,at,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
+5,mĕk,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
+6,mohĕmat,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
+7,momit,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
+8,mosĕmbu,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
+9,mosí,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
+10,mutu,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
 1,kus,,FALSE,Zgraggen1972,pp.215-219,,abuu1241,Adjora,abuu1241-1
 2,píːndí,,FALSE,Zgraggen1972,pp.215-219,,abuu1241,Adjora,abuu1241-1
 3,bur̃kʌr̃,,FALSE,Zgraggen1972,pp.215-219,,abuu1241,Adjora,abuu1241-1
@@ -2073,6 +2093,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 30,sinonsia samˈbure,,FALSE,Grace1955pdf50,p.111,,argu1237,P. Arguni,argu1237-2
 40,sinonru,etc.,FALSE,Grace1955pdf50,p.111,,argu1237,P. Arguni,argu1237-2
 100,ratisi̯a,,FALSE,Grace1955pdf50,p.111,,argu1237,P. Arguni,argu1237-2
+1,se,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
+2,ru,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
+3,taor,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
+4,fat,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
+5,rim,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
+6,anem,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
+7,mambatu,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
+8,narwu,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
+9,naisua,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
+10,sambure,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
 1,uruts,,FALSE,Smith1988,p.70,,arib1240,Yalu,arib1240-1
 2,siruc,,FALSE,Smith1988,p.70,,arib1240,Yalu,arib1240-1
 3,siruc aruts,,FALSE,Smith1988,p.70,,arib1240,Yalu,arib1240-1
@@ -2889,6 +2919,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,kendi-ogono,,FALSE,Galis1955,p.135,,baha1258,Patimuni,baha1258-1
 30,kendi-ogono kuwara,,FALSE,Galis1955,p.135,,baha1258,Patimuni,baha1258-1
 40,kendi n wareik,,FALSE,Galis1955,p.135,,baha1258,Patimuni,baha1258-1
+1,kujegono,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
+2,kwareik,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
+3,kwundik,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
+4,kurianggra,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
+5,kutumbu,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
+6,kutumbu kujogono,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
+7,kutumbu koreik,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
+8,kutumbu koiwendik,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
+9,kutumbu kurianggora,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
+10,kukora,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
 1,debata,,FALSE,LeanEastSepik,p.22,IMP/SIL Questionnaire (1978).,bahi1254,Bahinemo,bahi1254-1
 2,husi,,FALSE,LeanEastSepik,p.22,IMP/SIL Questionnaire (1978).,bahi1254,Bahinemo,bahi1254-1
 3,humeli,,FALSE,LeanEastSepik,p.22,IMP/SIL Questionnaire (1978).,bahi1254,Bahinemo,bahi1254-1
@@ -3952,6 +3992,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,siratoes,,FALSE,Stokhof1986Vol9,p.245,,bata1294,"Pakpak, Batak (from J. C. Ligvoet)",bata1294-2
 1000,siriboe,,FALSE,Stokhof1986Vol9,p.245,,bata1294,"Pakpak, Batak (from J. C. Ligvoet)",bata1294-2
 10000,silaksa,,FALSE,Stokhof1986Vol9,p.245,,bata1294,"Pakpak, Batak (from J. C. Ligvoet)",bata1294-2
+1,sa,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
+2,luw,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
+3,tol,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
+4,fat,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
+5,lim,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
+6,wonom,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
+7,fit,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
+8,wal,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
+9,sjiu,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
+10,laf,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
 1,mayha,,FALSE,Storck1982,pp.3-7,,bata1297,"Magbikin (Ayta near Mariveles, Bataan)",bata1297-1
 2,dalwa,,FALSE,Storck1982,pp.3-7,,bata1297,"Magbikin (Ayta near Mariveles, Bataan)",bata1297-1
 3,tatlo,,FALSE,Storck1982,pp.3-7,,bata1297,"Magbikin (Ayta near Mariveles, Bataan)",bata1297-1
@@ -4163,6 +4213,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,loe gi loe gi,,FALSE,Lean1986Vol08,p.24,S.I.L survey word list (1975).,bena1264,Benabena (from SIL word list),bena1264-4
 5,nayahi luga'a suhago,,FALSE,Lean1986Vol08,p.24,S.I.L survey word list (1975).,bena1264,Benabena (from SIL word list),bena1264-4
 10,nayahi luga luga suhago,,FALSE,Lean1986Vol08,p.24,S.I.L survey word list (1975).,bena1264,Benabena (from SIL word list),bena1264-4
+1,ehne,,FALSE,Erniati2021,pp.246-252,,beng1287,Banggoi,beng1287-1
+2,enlo,,FALSE,Erniati2021,pp.246-252,,beng1287,Banggoi,beng1287-1
+3,entOl,,FALSE,Erniati2021,pp.246-252,,beng1287,Banggoi,beng1287-1
+4,enhat,,FALSE,Erniati2021,pp.246-252,,beng1287,Banggoi,beng1287-1
+5,enlim,,FALSE,Erniati2021,pp.246-252,,beng1287,Banggoi,beng1287-1
 1,umaruma,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,bepo1240,Bepour,bepo1240-1
 2,ɛruʔa,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,bepo1240,Bepour,bepo1240-1
 1,sa-,prefix,FALSE,Collins1994,"pp.303, 304, 306, 309",,bera1262,Berau Malay,bera1262-1
@@ -6644,6 +6699,23 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,wuˈki,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
 100,ˈraiː,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
 1000,ˈrivni,,FALSE,Taber1993,pp.418-419,,cent2072,Central Masela,cent2072-1
+1,met,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+2,wuru,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+3,wokkel,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+4,fyek,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+5,wulim,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+6,wonen,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+7,woii,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+8,woa,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+9,wossem,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+10,wukki,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+11,wukki rini met,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+20,wuwuru,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+21,wuwuru rini met,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+30,wuwokkel,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+100,raii,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+1000,riwni,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
+10000,riwen wukki,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
 1,isá,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
 2,duá,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
 3,talló,,FALSE,Vanoverbergh1937,"pp.112, 118",,cent2084,Cagayan Negrito,cent2084-1
@@ -11187,6 +11259,11 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 12,laumin balahava zu,,FALSE,Smith1988,p.75,,hote1245,Misim,hote1245-4
 15,laumin bala bahemvi,,FALSE,Smith1988,p.75,,hote1245,Misim,hote1245-4
 20,bongte,‘one whole person’,FALSE,Smith1988,p.75,,hote1245,Misim,hote1245-4
+1,esa,,FALSE,Erniati2021,pp.246-252,,hoti1237,Hoti,hoti1237-1
+2,d+a,,FALSE,Erniati2021,pp.246-252,,hoti1237,Hoti,hoti1237-1
+3,ento,,FALSE,Erniati2021,pp.246-252,,hoti1237,Hoti,hoti1237-1
+4,ampa,,FALSE,Erniati2021,pp.246-252,,hoti1237,Hoti,hoti1237-1
+5,lim,,FALSE,Erniati2021,pp.246-252,,hoti1237,Hoti,hoti1237-1
 1,Hīa,,FALSE,Stokhof1982Vol3.4,pp.73-74,,huku1237,"Hukumina, Buru",huku1237-1
 2,Ègroe,,FALSE,Stokhof1982Vol3.4,pp.73-74,,huku1237,"Hukumina, Buru",huku1237-1
 3,Ěktelo,,FALSE,Stokhof1982Vol3.4,pp.73-74,,huku1237,"Hukumina, Buru",huku1237-1
@@ -11659,6 +11736,21 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,(heˈre) təmˈbu,,FALSE,Grace1955pdf50,p.55 [of pdf],,ihaa1241,ʔiha or kapaur,ihaa1241-3
 6,tumbu heˈrewo,etc.,FALSE,Grace1955pdf50,p.55 [of pdf],,ihaa1241,ʔiha or kapaur,ihaa1241-3
 10,pəˈra,,FALSE,Grace1955pdf50,p.55 [of pdf],,ihaa1241,ʔiha or kapaur,ihaa1241-3
+1,heréwo,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
+2,hererik,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
+3,heretéri,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
+3,hereterie,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
+4,herenggara,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
+4,herengara,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
+5,heretembu,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
+6,heretembu herewo,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
+7,heretembu hererik,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
+8,heretembu heretéri,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
+9,heretembu hereng(g)ara,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
+10,herékpra,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
+10,pra’a,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
+100,ratiwo,certainly Austronesian,TRUE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
+1000,ripiwo,certainly Austronesian,TRUE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
 1,sán,,FALSE,Bullock2015,p.47,,ikob1240,Baina,ikob1240-1
 2,hã̂ẽ,,FALSE,Bullock2015,p.47,,ikob1240,Baina,ikob1240-1
 3,sîr,,FALSE,Bullock2015,p.47,,ikob1240,Baina,ikob1240-1
@@ -12062,6 +12154,26 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,treˈtorɔ,,FALSE,Grace1955pdf50,p.55 [of pdf],,irar1238,kaˈsira (Babo),irar1238-3
 9,tre·gite,,FALSE,Grace1955pdf50,p.55 [of pdf],,irar1238,kaˈsira (Babo),irar1238-3
 10,fradru,,FALSE,Grace1955pdf50,p.55 [of pdf],,irar1238,kaˈsira (Babo),irar1238-3
+1,eso,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
+2,rivu,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
+3,toru,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
+4,gegete,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
+5,frada vida,Apparently composed of <fra> ‘hand’,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
+6,teresu,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
+7,tereru,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
+8,tereturu,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
+9,teregite,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
+10,fradaru,Apparently composed of <fra> ‘hand’,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
+1,esu wëma,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
+2,ruw,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
+3,töra,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
+4,gegete,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
+5,refide,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
+6,trëso,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
+7,trëru,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
+8,trëtöre,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
+9,tregegete,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
+10,frädu,Apparently composed of <fra> ‘hand’,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
 1,keta,,FALSE,Stokhof1987Vol11,p.250,,ires1239,"Humuku – Irege, Irisami tribe, south Cinderawasih Bay (Irian Jay)",ires1239-1
 2,roehi,,FALSE,Stokhof1987Vol11,p.250,,ires1239,"Humuku – Irege, Irisami tribe, south Cinderawasih Bay (Irian Jay)",ires1239-1
 3,korihe,,FALSE,Stokhof1987Vol11,p.250,,ires1239,"Humuku – Irege, Irisami tribe, south Cinderawasih Bay (Irian Jay)",ires1239-1
@@ -12555,6 +12667,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 30,ramame-keba-rèmbutètè,,FALSE,Galis1955,p.137,,kais1235,Mintámáni,kais1235-1
 40,rèmbutètè-kaisifá,,FALSE,Galis1955,p.137,,kais1235,Mintámáni,kais1235-1
 40,ramame-ugè,,FALSE,Galis1955,p.137,,kais1235,Mintámáni,kais1235-1
+1,onate,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
+2,uge,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
+3,ugosona,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
+4,kaisifa,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
+5,rembikaisine,May contain the word <embiko> ‘hand’,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
+6,rafaro onate,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
+7,rafaro uge,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
+8,rafaro ugosona,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
+9,rafaro kaisifa,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
+10,rembotete,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
 1,jia,,FALSE,Urquhart1955,pp.195-196,,kaja1250,Kejaman,kaja1250-1
 2,degua,,FALSE,Urquhart1955,pp.195-196,,kaja1250,Kejaman,kaja1250-1
 3,telau,,FALSE,Urquhart1955,pp.195-196,,kaja1250,Kejaman,kaja1250-1
@@ -12584,6 +12706,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,ihàr,,FALSE,Galis1955,p.136,,kala1256,Kálábrá,kala1256-1
 11,ihàr-meré,,FALSE,Galis1955,p.136,,kala1256,Kálábrá,kala1256-1
 20,nómeré widji,,FALSE,Galis1955,p.136,,kala1256,Kálábrá,kala1256-1
+1,meré,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
+2,lok,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
+3,teluk,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
+4,hat,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
+5,mohot,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
+6,antameré,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
+7,antalok,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
+8,mahanteluk,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
+9,mahantahat,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
+10,ihar,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
 1,wara,,FALSE,Ray1912,pp.340-341,,kala1377,Saibai,kala1377-1
 1,urapon,,FALSE,Ray1912,pp.340-341,,kala1377,Saibai,kala1377-1
 2,uka,,FALSE,Ray1912,pp.340-341,,kala1377,Saibai,kala1377-1
@@ -13414,6 +13546,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,put-ri,,FALSE,Galis1955,p.135,,kara1499,Karas,kara1499-1
 30,put-karu,,FALSE,Galis1955,p.135,,kara1499,Karas,kara1499-1
 40,put-kansjor,,FALSE,Galis1955,p.135,,kara1499,Karas,kara1499-1
+1,kon,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
+2,ir,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
+3,karuwok,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
+4,kansjor,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
+5,ap,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
+6,raman,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
+7,ramandali,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
+8,irie,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
+9,kaninggoni,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
+10,patkon,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
 1,sumbrʌmba,,FALSE,Zgraggen1980Mabuso,p.92,,kare1341,Kare,kare1341-1
 2,iridiɡi,,FALSE,Zgraggen1980Mabuso,p.92,,kare1341,Kare,kare1341-1
 1,ɑŋɡənɑŋ,,FALSE,Laycock1970D13,p.1810,,kark1258,Yuri,kark1258-1
@@ -14834,6 +14976,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 11,dèrèburège-debejenta,,FALSE,Galis1955,p.137,,kond1303,Kòndó,kond1303-1
 20,digi-mutju-djua,,FALSE,Galis1955,p.137,,kond1303,Kòndó,kond1303-1
 40,digi-irege-djua,,FALSE,Galis1955,p.137,,kond1303,Kòndó,kond1303-1
+1,mutju,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
+2,irege,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
+3,oruege,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
+4,adenggosi,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
+5,derebujeni,Perhaps compounded with the word <rebu> ‘hand’,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
+6,adenamutju,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
+7,adenamirege,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
+8,adenamuoruege,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
+9,adenamuadenggosi,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
+10,dereburege,Perhaps compounded with the word <rebu> ‘hand’,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
 1,tikei,,FALSE,Lean1985Vol01,p.55,2 CSQs. Village: Weilo.,kono1269,Konomala (Konomala dialect),kono1269-1
 2,dau,,FALSE,Lean1985Vol01,p.55,2 CSQs. Village: Weilo.,kono1269,Konomala (Konomala dialect),kono1269-1
 3,tul,,FALSE,Lean1985Vol01,p.55,2 CSQs. Village: Weilo.,kono1269,Konomala (Konomala dialect),kono1269-1
@@ -15280,6 +15432,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,rim,,FALSE,Grace1955pdf50,p.55 [of pdf],,kowi1239,"Kuiwai, Kilimala I.",kowi1239-8
 6,rim simu·s,,FALSE,Grace1955pdf50,p.55 [of pdf],,kowi1239,"Kuiwai, Kilimala I.",kowi1239-8
 10,seˈʔumbusa,,FALSE,Grace1955pdf50,p.55 [of pdf],,kowi1239,"Kuiwai, Kilimala I.",kowi1239-8
+1,ismus,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
+2,ruwet,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
+3,tor,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
+4,fat,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
+5,rim,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
+6,rim ismus,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
+7,rim wet,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
+8,rim tor,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
+9,rim bat,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
+10,futtja,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
 1,kaipa,,FALSE,Donohue2004Isaka,p.113,,kris1246,I'saka,kris1246-1
 2,sie,,FALSE,Donohue2004Isaka,p.113,,kris1246,I'saka,kris1246-1
 3,sie kaipa,,FALSE,Donohue2004Isaka,p.113,,kris1246,I'saka,kris1246-1
@@ -16522,6 +16684,9 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 200,dua rato,,FALSE,Paauw2009,p.190,,lara1260,Larantuka Malay,lara1260-1
 2000,dua ribu,,FALSE,Paauw2009,p.190,,lara1260,Larantuka Malay,lara1260-1
 2000000,dua juta,,FALSE,Paauw2009,p.190,,lara1260,Larantuka Malay,lara1260-1
+3,todu,,FALSE,Collins1983,"pp.66, 117",,latu1237,Latu,latu1237-1
+4,haˀa,,FALSE,Collins1983,"pp.66, 117",,latu1237,Latu,latu1237-1
+7,hitu,,FALSE,Collins1983,"pp.66, 117",,latu1237,Latu,latu1237-1
 1,una,,FALSE,Ray1938EasternPapua,p.184,,laua1245,Lauwa,laua1245-1
 2,yiahi,,FALSE,Ray1938EasternPapua,p.184,,laua1245,Lauwa,laua1245-1
 3,aiseli,,FALSE,Ray1938EasternPapua,p.184,,laua1245,Lauwa,laua1245-1
@@ -16711,6 +16876,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,laf-lu,,FALSE,Galis1955,p.138,,lege1241,Sakabu,lege1241-3
 30,laf-tol,,FALSE,Galis1955,p.138,,lege1241,Sakabu,lege1241-3
 40,laf-fat,,FALSE,Galis1955,p.138,,lege1241,Sakabu,lege1241-3
+1,katem,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
+2,lu,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
+3,tul,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
+4,fat,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
+5,lim,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
+6,wonom,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
+7,fit,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
+8,wal,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
+9,si,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
+10,lafa,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
 1,vo towa,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
 1,votowa,vo = Verbal Particle,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
 2,vo ro,,FALSE,Codrington1885,"pp.233, 236, 390",,leha1244,"Bligh Island, Ureparapara (Norbarbar)",leha1244-1
@@ -17887,6 +18062,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,laf-lu,,FALSE,Galis1955,p.138,,made1253,Radja-Ampat Saparan,made1253-1
 30,laf-tol,,FALSE,Galis1955,p.138,,made1253,Radja-Ampat Saparan,made1253-1
 40,laf-fat,,FALSE,Galis1955,p.138,,made1253,Radja-Ampat Saparan,made1253-1
+1,aden,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
+2,lu,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
+3,tol,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
+4,fat,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
+5,lim,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
+6,wonom,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
+7,tjibin,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
+8,wal,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
+9,sjiu,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
+10,laf,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
 1,sɑʔʔɑ́n,,FALSE,Gieser1973,pp.5-9,,madu1248,Madukayang Kalinga,madu1248-1
 2,ruwɑ́,,FALSE,Gieser1973,pp.5-9,,madu1248,Madukayang Kalinga,madu1248-1
 3,turú,,FALSE,Gieser1973,pp.5-9,,madu1248,Madukayang Kalinga,madu1248-1
@@ -18054,6 +18239,18 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,rá-sait-mahai,,FALSE,Galis1955,p.138,,maib1239,Maibrat,maib1239-2
 30,ra-sait-mahai-mésjè-sitetem,,FALSE,Galis1955,p.138,,maib1239,Maibrat,maib1239-2
 40,ra-wòk-mahai,,FALSE,Galis1955,p.138,,maib1239,Maibrat,maib1239-2
+1,sau,,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
+1,sawu,,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
+2,ewok,,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
+3,tuf,,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
+4,djid,,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
+5,mat,,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
+6,daman,,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
+7,gremma,"Apparently derived from <grem> or <gren> ‘finger, toe’",FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
+8,grentuf,"Apparently derived from <grem> or <gren> ‘finger, toe’",FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
+8,grenduf,"Apparently derived from <grem> or <gren> ‘finger, toe’",FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
+9,grendjid,"Apparently derived from <grem> or <gren> ‘finger, toe’",FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
+10,masa (sitatem),,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
 1,omu,,FALSE,Lean1986Vol07,p.85,"3 CSQs. Villages: Mailu Is., Domara, Pediri.",mail1248,Magi,mail1248-1
 1,(omuna),,FALSE,Lean1986Vol07,p.85,"3 CSQs. Villages: Mailu Is., Domara, Pediri.",mail1248,Magi,mail1248-1
 2,ava,,FALSE,Lean1986Vol07,p.85,"3 CSQs. Villages: Mailu Is., Domara, Pediri.",mail1248,Magi,mail1248-1
@@ -19823,6 +20020,27 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,situ-hòm,,FALSE,Galis1955,p.138,,mani1235,Manikion,mani1235-2
 30,situ-hòm-sisa,,FALSE,Galis1955,p.138,,mani1235,Manikion,mani1235-2
 40,situ-huai,,FALSE,Galis1955,p.138,,mani1235,Manikion,mani1235-2
+1,hòm,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
+2,hwài,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
+3,hòmoi,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
+4,hoùku,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
+5,sèrikem,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
+6,sèrikem hòm,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
+7,hoùku hwài,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
+8,hoùku hòmoi,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
+9,hoùku hoùku,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
+10,sìsa,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
+1,hom,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
+2,huài,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
+3,homoi,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
+4,hoku,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
+5,sèrkèm,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
+6,sèrkèm homi,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
+6,sèngam,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
+7,sèrkèm huai,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
+8,sèrkèm homoi,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
+9,sèrkèm hoku,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
+10,sĕsà,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
 1,uwam,"[or: uwan, uwon, ngwom (Galis 1960)]",FALSE,Galis1955,p.139,,mans1260,Mansim,mans1260-1
 1,uwon,"[or: uwan, uwon, ngwom (Galis 1960)]",FALSE,Galis1955,p.139,,mans1260,Mansim,mans1260-1
 2,ján,[also: nján (Galis 1960)],FALSE,Galis1955,p.139,,mans1260,Mansim,mans1260-1
@@ -20479,6 +20697,26 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,wal,,FALSE,Grace1956pdf35,p.2 [of pdf],,maya1282,Sailolof,maya1282-5
 9,ši,,FALSE,Grace1956pdf35,p.2 [of pdf],,maya1282,Sailolof,maya1282-5
 10,laˈfɛ,Radja Ampat: {laˈfa},FALSE,Grace1956pdf35,p.2 [of pdf],,maya1282,Sailolof,maya1282-5
+1,katem,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
+2,lu,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
+3,tol,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
+4,fat,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
+5,lim,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
+6,wonom,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
+7,fit,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
+8,wal,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
+9,sji,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
+10,lafa,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
+1,atem,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
+2,lu,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
+3,tol,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
+4,fat,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
+5,lim,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
+6,wonom,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
+7,fit,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
+8,wal,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
+9,sji,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
+10,laf,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
 1,ta,,FALSE,Chinnery1928,pp.99-100,,mbul1263,Iangla-Rook Island,mbul1263-1
 2,ru,,FALSE,Chinnery1928,pp.99-100,,mbul1263,Iangla-Rook Island,mbul1263-1
 3,tel,,FALSE,Chinnery1928,pp.99-100,,mbul1263,Iangla-Rook Island,mbul1263-1
@@ -21013,6 +21251,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,sjètk(a),,FALSE,Galis1955,p.139,,meya1236,Méjàch,meya1236-1
 11,sètk-ergèns,,FALSE,Galis1955,p.139,,meya1236,Méjàch,meya1236-1
 20,snok,,FALSE,Galis1955,p.139,,meya1236,Méjàch,meya1236-1
+1,ervêns,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
+2,ervêk,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
+3,orvômu,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
+4,tochkôru,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
+5,tsjintsia,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
+6,tsjintsjervens,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
+7,tsjintsjervek,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
+8,tsjintsjervomu,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
+9,tsjintsjerdachkoru,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
+10,sêtk,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
 1,utúa,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
 2,na̤r,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
 3,aró̱p,,FALSE,Tranel1952,p.469,,mian1254,Moándo (inland dialect: Kúkubar village),mian1254-1
@@ -21392,6 +21640,26 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 40,ut-fàt,,FALSE,Galis1955,p.137,,moii1235,Mói,moii1235-2
 40,fé-fàt,,FALSE,Galis1955,p.137,,moii1235,Mói,moii1235-2
 40,najali-igi,,FALSE,Galis1955,p.137,,moii1235,Mói,moii1235-2
+1,mele,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
+2,ali,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
+3,tolu,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
+4,faat,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
+5,mafut,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
+6,mafut-tanim,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
+7,futuh,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
+8,walu,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
+9,walu-si,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
+10,fee,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
+1,mele,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
+2,ali,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
+3,toluk,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
+4,fat,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
+5,mafut,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
+6,maftanin,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
+7,futu,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
+8,walu,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
+9,walutji,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
+10,fé,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
 1,demudi,,FALSE,Ray1938EasternPapua,p.183,,moik1239,Moikoidi,moik1239-1
 2,ialauki,,FALSE,Ray1938EasternPapua,p.183,,moik1239,Moikoidi,moik1239-1
 3,bubate,,FALSE,Ray1938EasternPapua,p.183,,moik1239,Moikoidi,moik1239-1
@@ -21688,6 +21956,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,nómèrĕ-widi,,FALSE,Galis1955,p.136,,mora1239,Móraid,mora1239-1
 30,nómèrĕ-widi-okto-djĕhèr,,FALSE,Galis1955,p.136,,mora1239,Móraid,mora1239-1
 40,nótĕlok-widi,,FALSE,Galis1955,p.136,,mora1239,Móraid,mora1239-1
+1,mĕrèh,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
+2,tĕlòk,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
+3,tĕluk,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
+4,hat,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
+5,mahat,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
+6,untamĕrèh,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
+7,untĕlòk,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
+8,untĕluk,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
+9,untamĕhat,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
+10,djĕhèr,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
 1,obu-mi,,FALSE,Lean1986Vol07,p.83,"3 CSQs. Villages: Si-ini, Gebea, Badubadu.",mora1273,Morawa,mora1273-1
 1,(gogo o'bu),,FALSE,Lean1986Vol07,p.83,"3 CSQs. Villages: Si-ini, Gebea, Badubadu.",mora1273,Morawa,mora1273-1
 2,hauna,,FALSE,Lean1986Vol07,p.83,"3 CSQs. Villages: Si-ini, Gebea, Badubadu.",mora1273,Morawa,mora1273-1
@@ -21796,6 +22074,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,ˈnaʔu taˈta,,FALSE,Grace1956pdf30,p.6 [of pdf],,morm1235,Mor,morm1235-3
 30,ˈnaʔu taˈta maʔa taˈta,,FALSE,Grace1956pdf30,p.6 [of pdf],,morm1235,Mor,morm1235-3
 40,ˈnaʔu ˈruro,etc.,FALSE,Grace1956pdf30,p.6 [of pdf],,morm1235,Mor,morm1235-3
+1,tata,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
+2,ruro,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
+3,oro,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
+4,ao,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
+5,rimo,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
+6,rimo maa tata,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
+7,rimo maa ruro,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
+8,rimo maa oro,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
+9,rimo maa ao,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
+10,ta’ura,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
 1,jènadu,,FALSE,Galis1955,p.168,,moro1289,Moraori,moro1289-1
 2,pènèr,,FALSE,Galis1955,p.168,,moro1289,Moraori,moro1289-1
 3,ndènadu,,FALSE,Galis1955,p.168,,moro1289,Moraori,moro1289-1
@@ -22026,6 +22314,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,ongki-(ro)ki,,FALSE,Galis1955,p.139,,mpur1239,Amberbaken,mpur1239-1
 30,ongki-nur,,FALSE,Galis1955,p.139,,mpur1239,Amberbaken,mpur1239-1
 40,ongki-buàt,,FALSE,Galis1955,p.139,,mpur1239,Amberbaken,mpur1239-1
+1,tu,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
+2,dokir,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
+3,nur,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
+4,buàt,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
+5,mè,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
+6,membetu,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
+7,membekir,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
+8,membenur,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
+9,membebuàt,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
+10,onggir,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
 1,sɑróʔ,,FALSE,Nickell1979,pp.3-7,,mtir1235,Inagta - Sta Niño/Sta Cruz + Ipil,mtir1235-1
 2,duwɑ,,FALSE,Nickell1979,pp.3-7,,mtir1235,Inagta - Sta Niño/Sta Cruz + Ipil,mtir1235-1
 3,tulu,,FALSE,Nickell1979,pp.3-7,,mtir1235,Inagta - Sta Niño/Sta Cruz + Ipil,mtir1235-1
@@ -24341,6 +24639,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 11,sabuï-e anentabo,,FALSE,Galis1955,p.141,,nucl1454,Turu,nucl1454-1
 20,batan-intabé,,FALSE,Galis1955,p.141,,nucl1454,Turu,nucl1454-1
 20,ténam(bé),,FALSE,Galis1955,p.141,,nucl1454,Turu,nucl1454-1
+1,entabo,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
+2,djiru,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
+3,mandei,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
+4,mambi,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
+5,radani,"[not] the word for ‘hand’, which here reads <manèn>",FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
+5,nai,"[not] the word for ‘hand’, which here reads <manèn>",FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
+6,kaudjentabo,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
+7,kaudjiru,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
+8,kaumandei,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
+9,kaumambi,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
+10,sabui,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
 1,dɑkɑ́lɑ,,FALSE,Zgraggen1972,pp.215-219,,nucl1458,Monumbo,nucl1458-1
 2,sɑmbɑre,,FALSE,Zgraggen1972,pp.215-219,,nucl1458,Monumbo,nucl1458-1
 3,dɑmbetɑkɑ,,FALSE,Zgraggen1972,pp.215-219,,nucl1458,Monumbo,nucl1458-1
@@ -24428,6 +24737,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,_,etc.,FALSE,Grace1955pdf50,p.55 [of pdf],,nucl1594,"mai̯ˈrasi (villages: sisir, murano, mai̯mai̯, lobo)",nucl1594-3
 9,_,etc.,FALSE,Grace1955pdf50,p.55 [of pdf],,nucl1594,"mai̯ˈrasi (villages: sisir, murano, mai̯mai̯, lobo)",nucl1594-3
 10,or pamo·i,,FALSE,Grace1955pdf50,p.55 [of pdf],,nucl1594,"mai̯ˈrasi (villages: sisir, murano, mai̯mai̯, lobo)",nucl1594-3
+1,tanggau,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
+2,amoi,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
+3,aria,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
+4,ai,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
+5,iboro,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
+6,itana,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
+7,iboramoi,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
+8,iboraria,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
+9,iborai,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
+10,orfamoi,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
 1,[ou'ri'as],the same as the names of the fingers,FALSE,Stokhof1983Vol5.2,p.82,,nucl1595,Armatti,nucl1595-1
 2,[nen'no'manna],the same as the names of the fingers,FALSE,Stokhof1983Vol5.2,p.82,,nucl1595,Armatti,nucl1595-1
 3,[ě'si'ni],the same as the names of the fingers,FALSE,Stokhof1983Vol5.2,p.82,,nucl1595,Armatti,nucl1595-1
@@ -26519,6 +26838,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 6,eni,,FALSE,Sibree1897,pp.108-109,,plat1254,"Vàkinankàratra, Cent.",plat1254-9
 100,zato iraika,,FALSE,Sibree1897,pp.108-109,,plat1254,"Vàkinankàratra, Cent.",plat1254-9
 1000,arivo iraiky,,FALSE,Sibree1897,pp.108-109,,plat1254,"Vàkinankàratra, Cent.",plat1254-9
+9,tiwow,,FALSE,Crippen2009,p.11,,poll1238,Pollapese,poll1238-1
 1,korisi,,FALSE,Galis1955,p.140,,pomm1237,Pom,pomm1237-1
 2,koïru,,FALSE,Galis1955,p.140,,pomm1237,Pom,pomm1237-1
 3,toru,,FALSE,Galis1955,p.140,,pomm1237,Pom,pomm1237-1
@@ -26648,6 +26968,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,neboru-ouge neoraida-ouge,,FALSE,Galis1955,p.136,,pura1253,Mogao,pura1253-1
 20,dansiü-monaida,,FALSE,Galis1955,p.136,,pura1253,Mogao,pura1253-1
 40,dansiü-ouge-isiro,,FALSE,Galis1955,p.136,,pura1253,Mogao,pura1253-1
+1,moonada,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
+2,ouge,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
+3,arué,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
+4,ouge-ouge,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
+5,neboraida,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
+6,neboraida moonada,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
+7,neboraida ouge,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
+8,neboraida arué,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
+9,neboraida ouge-ouge,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
+10,neboru ouge,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
 1,monou,"If the native begins with the little finger of the left hand he will call it monou, one",FALSE,Holmes1913,p.131,,pura1257,Purari,pura1257-1
 2,rere,"but he may add to it the next finger and call them morere, two or he may say they are “two.”",FALSE,Holmes1913,p.131,,pura1257,Purari,pura1257-1
 3,rere kaiane,"The third finger he naims kai; ane is the conjunction “and,” hence rere kaiane means little finger and the fourth are two fingers and kai added to them they become three fingers.",FALSE,Holmes1913,p.131,,pura1257,Purari,pura1257-1
@@ -28811,6 +29141,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 80,putˈwal,,FALSE,Grace1956pdf37,p.2 [of pdf],,sege1235,Kamuˈn̥a (= mɔsaˈna),sege1235-2
 90,putiˈsi,,FALSE,Grace1956pdf37,p.2 [of pdf],,sege1235,Kamuˈn̥a (= mɔsaˈna),sege1235-2
 100,cun,,FALSE,Grace1956pdf37,p.2 [of pdf],,sege1235,Kamuˈn̥a (= mɔsaˈna),sege1235-2
+1,ettu,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
+2,eli,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
+3,klu,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
+4,fat,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
+5,mafot,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
+6,njim,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
+7,uttja,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
+8,wolu,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
+9,sji,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
+10,pude,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
 1,tel,,FALSE,LeanManus,p.46,SIL Word List (undated). Similam Island.,seim1238,Seimat,seim1238-1
 1,tehu,,FALSE,LeanManus,p.46,SIL Word List (undated). Similam Island.,seim1238,Seimat,seim1238-1
 2,huhua,,FALSE,LeanManus,p.46,SIL Word List (undated). Similam Island.,seim1238,Seimat,seim1238-1
@@ -28883,6 +29223,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,ˈratisa,,FALSE,Grace1955pdf50,p.126,,seka1247,"səˈkar (ugar, kokas)",seka1247-1
 1000,ˈripisa,seribu,FALSE,Grace1955pdf50,p.126,,seka1247,"səˈkar (ugar, kokas)",seka1247-1
 10000,ˈsalakisa,sepuluh ribu,FALSE,Grace1955pdf50,p.126,,seka1247,"səˈkar (ugar, kokas)",seka1247-1
+1,sa,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
+2,nua,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
+3,teni,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
+4,fat,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
+5,nima,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
+6,nem,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
+7,buteres,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
+8,butorua,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
+9,masbuti,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
+10,busuwa,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
 1,ja,,FALSE,Urquhart1955,p.195,,seka1248,Sekapan,seka1248-1
 2,degua,,FALSE,Urquhart1955,p.195,,seka1248,Sekapan,seka1248-1
 3,tilau,,FALSE,Urquhart1955,p.195,,seka1248,Sekapan,seka1248-1
@@ -29279,6 +29629,23 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,buˈki,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
 100,raˈi,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
 1000,niˈbɛl,,FALSE,Taber1993,pp.418-419,,seri1255,Serili,seri1255-1
+1,metel,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+2,buru,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+3,bokkel,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+4,boaa,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+5,bulim,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+6,bolem,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+7,boiy,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+8,boa',,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+9,bussi,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+10,bukki,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+11,bukki rihillye metel,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+20,muuburu,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+21,muuburu rhillye,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+30,muubokkel,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+100,rhai,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+1000,rhibli,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
+10000,rhibel bukki,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
 1,bóïri,[also: mansiri (Galis 1960)],FALSE,Galis1955,p.141,,seru1244,Serui-Laut,seru1244-1
 2,bóru,,FALSE,Galis1955,p.141,,seru1244,Serui-Laut,seru1244-1
 3,bòtòru,,FALSE,Galis1955,p.141,,seru1244,Serui-Laut,seru1244-1
@@ -35436,6 +35803,26 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 11,lafɛ maikitim,,FALSE,Grace1956pdf34,p.8 [of pdf],,waig1244,Amber,waig1244-3
 20,lafɛ lou,,FALSE,Grace1956pdf34,p.8 [of pdf],,waig1244,Amber,waig1244-3
 100,wuˈtun,,FALSE,Grace1956pdf34,p.8 [of pdf],,waig1244,Amber,waig1244-3
+1,kitem,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
+2,low,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
+3,tul,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
+4,fat,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
+5,lim,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
+6,wanom,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
+7,fit,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
+8,wal,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
+9,siso,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
+10,lahe,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
+1,kitem,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
+2,lou,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
+3,tul,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
+4,fat,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
+5,lim,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
+6,wanom,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
+7,fit,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
+8,wal,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
+9,tiu,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
+10,lahe,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
 1,hamomo,,FALSE,Lean1986Vol07,p.22,20 CSQ. Village lying in four dialect areas.,waim1251,Roro,waim1251-1
 2,rua,,FALSE,Lean1986Vol07,p.22,20 CSQ. Village lying in four dialect areas.,waim1251,Roro,waim1251-1
 3,aihau,,FALSE,Lean1986Vol07,p.22,20 CSQ. Village lying in four dialect areas.,waim1251,Roro,waim1251-1
@@ -35660,6 +36047,26 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,sinjontusiri,,FALSE,Galis1955,p.140,,wand1267,Wandáma,wand1267-1
 30,sinjontusiri bĕmandu surà,,FALSE,Galis1955,p.140,,wand1267,Wandáma,wand1267-1
 40,sinjontu monu,,FALSE,Galis1955,p.140,,wand1267,Wandáma,wand1267-1
+1,siri,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
+2,muandu,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
+3,toru,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
+4,atè,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
+5,rim,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
+6,rim e siri,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
+7,rim e munadu,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
+8,rim e toru,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
+9,rim e at,[Should this be <rim e atè> ?],FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
+10,sura,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
+1,siri,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
+2,monu,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
+3,toru,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
+4,ate,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
+5,rime,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
+6,rime siri,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
+7,rime monu,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
+8,rime toru,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
+9,rime at,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
+10,sura,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
 1,siri,,FALSE,Ray1912,pp.340-341,,wand1267,Wandammen,wand1267-2
 2,mondu,,FALSE,Ray1912,pp.340-341,,wand1267,Wandammen,wand1267-2
 3,tŏru,,FALSE,Ray1912,pp.340-341,,wand1267,Wandammen,wand1267-2
@@ -35763,6 +36170,26 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 6,rimesiri,,FALSE,Grace1955pdf50,p.55 [of pdf],,wand1267,wandamen - yakati (village),wand1267-7
 7,rimemo·ndu,etc.,FALSE,Grace1955pdf50,p.55 [of pdf],,wand1267,wandamen - yakati (village),wand1267-7
 10,sura,,FALSE,Grace1955pdf50,p.55 [of pdf],,wand1267,wandamen - yakati (village),wand1267-7
+1,siri,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
+2,mondu,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
+3,toru,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
+4,at,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
+5,rim,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
+6,rimi siri,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
+7,rimi mondu,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
+8,rimi toru,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
+9,rimi at,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
+10,sura,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
+1,siri,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
+2,monu,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
+3,toru,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
+4,at,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
+5,rim,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
+6,rim e siri,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
+7,rim e monu,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
+8,rim e toru,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
+9,rim e at,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
+10,sura,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
 1,bat,,FALSE,Smith1988,p.93,,want1252,Bam,want1252-1
 2,yara,,FALSE,Smith1988,p.93,,want1252,Bam,want1252-1
 3,yara bat,2 + 1,FALSE,Smith1988,p.93,,want1252,Bam,want1252-1
@@ -36273,6 +36700,18 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 11,morar en ingesian nao,,FALSE,LeanMorobe,pp.67-68,1 CSQ. Waria dialect.,weri1253,Weri (Waria dialect),weri1253-3
 15,morar ing nas,,FALSE,LeanMorobe,pp.67-68,1 CSQ. Waria dialect.,weri1253,Weri (Waria dialect),weri1253-3
 20,omen namp ulpeen,‘man one shirt (or clothing)’ with the sense of ‘one complete man’,FALSE,LeanMorobe,pp.67-68,1 CSQ. Waria dialect.,weri1253,Weri (Waria dialect),weri1253-3
+1,metn,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
+2,wuru,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
+3,wokely,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
+4,wyek,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
+5,wulim,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
+6,wonem,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
+7,woik,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
+8,waaw,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
+10,wuki,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
+20,wukwuro,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
+30,wukwokely,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
+100,kre,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
 1,ˈmɛhno,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
 2,viɛˈru,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
 3,viɛˈteli,,FALSE,Taber1993,pp.418-419,,west2548,West Damar,west2548-1
@@ -37089,6 +37528,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,digi-mutu,,FALSE,Galis1955,p.137,,yaha1248,Neriga,yaha1248-1
 30,digi-muta-dèrèbia-irège,,FALSE,Galis1955,p.137,,yaha1248,Neriga,yaha1248-1
 40,digi-irge,,FALSE,Galis1955,p.137,,yaha1248,Neriga,yaha1248-1
+1,mutu,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
+2,irège,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
+3,oriège,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
+4,dèhèrihi,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
+5,dèrèbia mutu,Perhaps compounded with the word <rè> ‘hand’,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
+6,danam mutu,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
+7,danam irege,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
+8,danam oriège,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
+9,danam dèhèrihi,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
+10,dèrèbirège,Perhaps compounded with the word <rè> ‘hand’,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
 1,tago,,FALSE,Budita1997,"pp.7, 18 [of pdf]",,yaka1275,Yakaikeke - Diruna village,yaka1275-1
 2,ruwa,,FALSE,Budita1997,"pp.7, 18 [of pdf]",,yaka1275,Yakaikeke - Diruna village,yaka1275-1
 3,tonu,,FALSE,Budita1997,"pp.7, 18 [of pdf]",,yaka1275,Yakaikeke - Diruna village,yaka1275-1
@@ -37427,6 +37876,18 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,radja riedarauha,,FALSE,Stokhof1987Vol11,p.204,,yaur1239,Yaur A (Irian Jaya),yaur1239-3
 9,radja riedariaha,,FALSE,Stokhof1987Vol11,p.204,,yaur1239,Yaur A (Irian Jaya),yaur1239-3
 10,'e'raé̱'re,,FALSE,Stokhof1987Vol11,p.204,,yaur1239,Yaur A (Irian Jaya),yaur1239-3
+1,rebe,,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
+2,reduh(e),,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
+3,rauh(e),,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
+4,liahe,,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
+4,riaha,,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
+5,wradjaria,The numerals 5 through 9 are compounded with <wra> ‘hand’,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
+5,beradji,,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
+6,wradjariadarèbè,The numerals 5 through 9 are compounded with <wra> ‘hand’,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
+7,wradjariadareduh,The numerals 5 through 9 are compounded with <wra> ‘hand’,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
+8,wradjariadarauh,The numerals 5 through 9 are compounded with <wra> ‘hand’,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
+9,wradjariadaria,The numerals 5 through 9 are compounded with <wra> ‘hand’,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
+10,eráèerè,,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
 1,pɑnboki,(masc),FALSE,Laycock1967C02,p.50,,yaus1235,Yau [West Sepik],yaus1235-1
 1,pɑmɡeɡi,(fem),FALSE,Laycock1967C02,p.50,,yaus1235,Yau [West Sepik],yaus1235-1
 2,wiyəm,(masc),FALSE,Laycock1967C02,p.50,,yaus1235,Yau [West Sepik],yaus1235-1
@@ -37861,464 +38322,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-3,todu,,FALSE,Collins1983,"pp.66, 117",,latu1237,Latu,latu1237-1
-4,haˀa,,FALSE,Collins1983,"pp.66, 117",,latu1237,Latu,latu1237-1
-7,hitu,,FALSE,Collins1983,"pp.66, 117",,latu1237,Latu,latu1237-1
-1,rebe,,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
-2,reduh(e),,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
-3,rauh(e),,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
-4,liahe,,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
-4,riaha,,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
-5,wradjaria,The numerals 5 through 9 are compounded with <wra> ‘hand’,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
-5,beradji,,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
-6,wradjariadarèbè,The numerals 5 through 9 are compounded with <wra> ‘hand’,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
-7,wradjariadareduh,The numerals 5 through 9 are compounded with <wra> ‘hand’,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
-8,wradjariadarauh,The numerals 5 through 9 are compounded with <wra> ‘hand’,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
-9,wradjariadaria,The numerals 5 through 9 are compounded with <wra> ‘hand’,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
-10,eráèerè,,FALSE,Cowan1953,p.5,,yaur1239,Jaur,yaur1239-4
-1,tata,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
-2,ruro,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
-3,oro,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
-4,ao,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
-5,rimo,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
-6,rimo maa tata,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
-7,rimo maa ruro,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
-8,rimo maa oro,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
-9,rimo maa ao,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
-10,ta’ura,,FALSE,Cowan1953,p.6,,morm1235,Môr,morm1235-4
-1,entabo,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
-2,djiru,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
-3,mandei,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
-4,mambi,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
-5,radani,"[not] the word for ‘hand’, which here reads <manèn>",FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
-5,nai,"[not] the word for ‘hand’, which here reads <manèn>",FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
-6,kaudjentabo,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
-7,kaudjiru,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
-8,kaumandei,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
-9,kaumambi,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
-10,sabui,,FALSE,Cowan1953,p.7,,nucl1454,Midden-Japen,nucl1454-2
-1,ervêns,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
-2,ervêk,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
-3,orvômu,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
-4,tochkôru,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
-5,tsjintsia,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
-6,tsjintsjervens,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
-7,tsjintsjervek,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
-8,tsjintsjervomu,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
-9,tsjintsjerdachkoru,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
-10,sêtk,,FALSE,Cowan1953,p.10,,meya1236,Mansibabêr,meya1236-2
-1,hòm,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
-2,hwài,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
-3,hòmoi,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
-4,hoùku,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
-5,sèrikem,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
-6,sèrikem hòm,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
-7,hoùku hwài,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
-8,hoùku hòmoi,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
-9,hoùku hoùku,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
-10,sìsa,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Mantion,mani1235-3
-1,hom,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
-2,huài,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
-3,homoi,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
-4,hoku,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
-5,sèrkèm,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
-6,sèrkèm homi,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
-6,sèngam,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
-7,sèrkèm huai,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
-8,sèrkèm homoi,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
-9,sèrkèm hoku,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
-10,sĕsà,,FALSE,Cowan1953,"pp.11, 13",,mani1235,Manikion,mani1235-4
-1,tu,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
-2,dokir,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
-3,nur,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
-4,buàt,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
-5,mè,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
-6,membetu,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
-7,membekir,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
-8,membenur,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
-9,membebuàt,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
-10,onggir,,FALSE,Cowan1953,p.13,,mpur1239,Amberbaken,mpur1239-2
-1,dik,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
-2,we,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
-3,gri,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
-4,at,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
-5,mek,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
-6,mat,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
-7,fit,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
-8,mgwo,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
-9,mesi,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
-10,mesu,,FALSE,Cowan1953,p.14,,abun1252,Karôn,abun1252-3
-1,dit,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
-2,uwí,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
-3,dílí,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
-4,at,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
-5,mĕk,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
-6,mohĕmat,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
-7,momit,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
-8,mosĕmbu,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
-9,mosí,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
-10,mutu,,FALSE,Cowan1953,p.14,,abun1252,Madik,abun1252-4
-1,mele,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
-2,ali,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
-3,tolu,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
-4,faat,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
-5,mafut,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
-6,mafut-tanim,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
-7,futuh,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
-8,walu,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
-9,walu-si,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
-10,fee,,FALSE,Cowan1953,p.16,,moii1235,Moi,moii1235-3
-1,mĕrèh,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
-2,tĕlòk,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
-3,tĕluk,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
-4,hat,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
-5,mahat,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
-6,untamĕrèh,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
-7,untĕlòk,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
-8,untĕluk,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
-9,untamĕhat,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
-10,djĕhèr,,FALSE,Cowan1953,p.17,,mora1239,Moraid,mora1239-2
-1,meré,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
-2,lok,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
-3,teluk,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
-4,hat,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
-5,mohot,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
-6,antameré,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
-7,antalok,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
-8,mahanteluk,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
-9,mahantahat,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
-10,ihar,,FALSE,Cowan1953,p.17,,kala1256,Kalabra,kala1256-2
-1,mutju,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
-2,irege,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
-3,oruege,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
-4,adenggosi,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
-5,derebujeni,Perhaps compounded with the word <rebu> ‘hand’,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
-6,adenamutju,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
-7,adenamirege,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
-8,adenamuoruege,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
-9,adenamuadenggosi,,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
-10,dereburege,Perhaps compounded with the word <rebu> ‘hand’,FALSE,Cowan1953,p.18,,kond1303,Konda,kond1303-2
-1,mutu,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
-2,irège,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
-3,oriège,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
-4,dèhèrihi,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
-5,dèrèbia mutu,Perhaps compounded with the word <rè> ‘hand’,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
-6,danam mutu,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
-7,danam irege,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
-8,danam oriège,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
-9,danam dèhèrihi,,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
-10,dèrèbirège,Perhaps compounded with the word <rè> ‘hand’,FALSE,Cowan1953,p.18,,yaha1248,Jahadian,yaha1248-2
-1,sau,,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
-1,sawu,,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
-2,ewok,,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
-3,tuf,,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
-4,djid,,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
-5,mat,,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
-6,daman,,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
-7,gremma,"Apparently derived from <grem> or <gren> ‘finger, toe’",FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
-8,grentuf,"Apparently derived from <grem> or <gren> ‘finger, toe’",FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
-8,grenduf,"Apparently derived from <grem> or <gren> ‘finger, toe’",FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
-9,grendjid,"Apparently derived from <grem> or <gren> ‘finger, toe’",FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
-10,masa (sitatem),,FALSE,Cowan1953,p.20,,maib1239,Ajamaru,maib1239-3
-1,onate,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
-2,uge,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
-3,ugosona,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
-4,kaisifa,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
-5,rembikaisine,May contain the word <embiko> ‘hand’,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
-6,rafaro onate,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
-7,rafaro uge,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
-8,rafaro ugosona,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
-9,rafaro kaisifa,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
-10,rembotete,,FALSE,Cowan1953,p.22,,kais1235,Kampong Baru,kais1235-2
-1,moonada,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
-2,ouge,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
-3,arué,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
-4,ouge-ouge,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
-5,neboraida,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
-6,neboraida moonada,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
-7,neboraida ouge,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
-8,neboraida arué,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
-9,neboraida ouge-ouge,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
-10,neboru ouge,,FALSE,Cowan1953,p.22,,pura1253,Puragi,pura1253-2
-1,siri,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
-2,mondu,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
-3,toru,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
-4,at,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
-5,rim,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
-6,rimi siri,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
-7,rimi mondu,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
-8,rimi toru,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
-9,rimi at,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
-10,sura,,FALSE,Cowan1953,p.23,,wand1267,Bintuni,wand1267-8
-1,siri,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
-2,monu,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
-3,toru,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
-4,at,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
-5,rim,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
-6,rim e siri,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
-7,rim e monu,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
-8,rim e toru,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
-9,rim e at,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
-10,sura,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Windesisch,wand1267-9
-1,siri,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
-2,muandu,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
-3,toru,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
-4,atè,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
-5,rim,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
-6,rim e siri,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
-7,rim e munadu,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
-8,rim e toru,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
-9,rim e at,[Should this be <rim e atè> ?],FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
-10,sura,,FALSE,Cowan1953,"pp.23, 28",,wand1267,Wandamens,wand1267-10
-1,siri,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
-2,monu,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
-3,toru,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
-4,ate,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
-5,rime,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
-6,rime siri,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
-7,rime monu,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
-8,rime toru,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
-9,rime at,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
-10,sura,,FALSE,Cowan1953,p.28,,wand1267,Wamessa,wand1267-11
-1,eso,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
-2,rivu,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
-3,toru,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
-4,gegete,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
-5,frada vida,Apparently composed of <fra> ‘hand’,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
-6,teresu,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
-7,tereru,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
-8,tereturu,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
-9,teregite,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
-10,fradaru,Apparently composed of <fra> ‘hand’,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
-1,esu wëma,,FALSE,Cowan1953,p.30,,irar1238,Kaitero,irar1238-4
-2,ruw,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
-3,töra,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
-4,gegete,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
-5,refide,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
-6,trëso,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
-7,trëru,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
-8,trëtöre,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
-9,tregegete,,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
-10,frädu,Apparently composed of <fra> ‘hand’,FALSE,Cowan1953,p.30,,irar1238,Arguni B,irar1238-5
-1,sa,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
-2,nua,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
-3,teni,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
-4,fat,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
-5,nima,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
-6,nem,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
-7,buteres,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
-8,butorua,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
-9,masbuti,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
-10,busuwa,,FALSE,Cowan1953,p.31,,seka1247,Sekar,seka1247-2
-1,se,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
-2,ru,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
-3,taor,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
-4,fat,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
-5,rim,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
-6,anem,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
-7,mambatu,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
-8,narwu,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
-9,naisua,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
-10,sambure,,FALSE,Cowan1953,p.31,,argu1237,Arguni K,argu1237-3
-1,heréwo,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-2,hererik,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-3,heretéri,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-3,hereterie,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-4,herenggara,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-4,herengara,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-5,heretembu,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-6,heretembu herewo,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-7,heretembu hererik,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-8,heretembu heretéri,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-9,heretembu hereng(g)ara,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-10,herékpra,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-10,pra’a,,FALSE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-100,ratiwo,certainly Austronesian,TRUE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-1000,ripiwo,certainly Austronesian,TRUE,Cowan1953,p.33,,ihaa1241,Kapaur,ihaa1241-4
-1,kujegono,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
-2,kwareik,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
-3,kwundik,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
-4,kurianggra,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
-5,kutumbu,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
-6,kutumbu kujogono,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
-7,kutumbu koreik,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
-8,kutumbu koiwendik,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
-9,kutumbu kurianggora,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
-10,kukora,,FALSE,Cowan1953,p.33,,baha1258,Patimuni,baha1258-2
-1,kon,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
-2,ir,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
-3,karuwok,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
-4,kansjor,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
-5,ap,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
-6,raman,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
-7,ramandali,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
-8,irie,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
-9,kaninggoni,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
-10,patkon,,FALSE,Cowan1953,p.35,,kara1499,Karas,kara1499-2
-1,ismus,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
-2,ruwet,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
-3,tor,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
-4,fat,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
-5,rim,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
-6,rim ismus,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
-7,rim wet,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
-8,rim tor,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
-9,rim bat,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
-10,futtja,,FALSE,Cowan1953,p.36,,kowi1239,Namatote,kowi1239-9
-1,tanggau,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
-2,amoi,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
-3,aria,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
-4,ai,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
-5,iboro,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
-6,itana,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
-7,iboramoi,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
-8,iboraria,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
-9,iborai,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
-10,orfamoi,,FALSE,Cowan1953,p.37,,nucl1594,Faranjao,nucl1594-4
-1,katem,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
-2,lu,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
-3,tol,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
-4,fat,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
-5,lim,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
-6,wonom,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
-7,fit,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
-8,wal,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
-9,sji,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
-10,lafa,,FALSE,Cowan1953,p.40,,maya1282,Maja,maya1282-6
-1,aden,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
-2,lu,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
-3,tol,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
-4,fat,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
-5,lim,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
-6,wonom,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
-7,tjibin,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
-8,wal,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
-9,sjiu,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
-10,laf,,FALSE,Cowan1953,p.40,,made1253,Kawit,made1253-2
-1,atem,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
-2,lu,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
-3,tol,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
-4,fat,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
-5,lim,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
-6,wonom,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
-7,fit,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
-8,wal,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
-9,sji,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
-10,laf,,FALSE,Cowan1953,p.40,,maya1282,Banlol,maya1282-7
-1,sa,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
-2,luw,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
-3,tol,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
-4,fat,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
-5,lim,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
-6,wonom,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
-7,fit,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
-8,wal,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
-9,sjiu,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
-10,laf,,FALSE,Cowan1953,p.40,,bata1295,Batanta,bata1295-1
-1,mele,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
-2,ali,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
-3,toluk,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
-4,fat,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
-5,mafut,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
-6,maftanin,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
-7,futu,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
-8,walu,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
-9,walutji,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
-10,fé,,FALSE,Cowan1953,p.41,,moii1235,Waipu,moii1235-4
-1,ettu,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
-2,eli,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
-3,klu,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
-4,fat,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
-5,mafot,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
-6,njim,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
-7,uttja,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
-8,wolu,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
-9,sji,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
-10,pude,,FALSE,Cowan1953,p.41,,sege1235,Mosana,sege1235-3
-1,katem,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
-2,lu,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
-3,tul,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
-4,fat,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
-5,lim,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
-6,wonom,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
-7,fit,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
-8,wal,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
-9,si,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
-10,lafa,,FALSE,Cowan1953,p.44,,lege1241,Laganjau,lege1241-4
-1,kitem,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
-2,low,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
-3,tul,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
-4,fat,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
-5,lim,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
-6,wanom,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
-7,fit,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
-8,wal,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
-9,siso,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
-10,lahe,,FALSE,Cowan1953,p.44,,waig1244,Amber van Worem,waig1244-4
-1,kitem,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
-2,lou,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
-3,tul,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
-4,fat,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
-5,lim,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
-6,wanom,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
-7,fit,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
-8,wal,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
-9,tiu,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
-10,lahe,,FALSE,Cowan1953,p.44,,waig1244,Amber van Noord-Waigeo,waig1244-5
-9,tiwow,,FALSE,Crippen2009,p.11,,poll1238,Pollapese,poll1238-1
-1,ehne,,FALSE,Erniati2021,pp.246-252,,beng1287,Banggoi,beng1287-1
-2,enlo,,FALSE,Erniati2021,pp.246-252,,beng1287,Banggoi,beng1287-1
-3,entOl,,FALSE,Erniati2021,pp.246-252,,beng1287,Banggoi,beng1287-1
-4,enhat,,FALSE,Erniati2021,pp.246-252,,beng1287,Banggoi,beng1287-1
-5,enlim,,FALSE,Erniati2021,pp.246-252,,beng1287,Banggoi,beng1287-1
-1,esa,,FALSE,Erniati2021,pp.246-252,,hoti1237,Hoti,hoti1237-1
-2,d+a,,FALSE,Erniati2021,pp.246-252,,hoti1237,Hoti,hoti1237-1
-3,ento,,FALSE,Erniati2021,pp.246-252,,hoti1237,Hoti,hoti1237-1
-4,ampa,,FALSE,Erniati2021,pp.246-252,,hoti1237,Hoti,hoti1237-1
-5,lim,,FALSE,Erniati2021,pp.246-252,,hoti1237,Hoti,hoti1237-1
-1,met,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-2,wuru,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-3,wokkel,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-4,fyek,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-5,wulim,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-6,wonen,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-7,woii,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-8,woa,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-9,wossem,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-10,wukki,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-11,wukki rini met,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-20,wuwuru,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-21,wuwuru rini met,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-30,wuwokkel,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-100,raii,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-1000,riwni,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-10000,riwen wukki,,FALSE,vanDijk2021,pp.158-167,,cent2072,Ilmas,cent2072-2
-1,metel,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-2,buru,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-3,bokkel,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-4,boaa,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-5,bulim,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-6,bolem,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-7,boiy,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-8,boa',,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-9,bussi,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-10,bukki,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-11,bukki rihillye metel,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-20,muuburu,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-21,muuburu rhillye,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-30,muubokkel,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-100,rhai,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-1000,rhibli,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-10000,rhibel bukki,,FALSE,vanDijk2021,pp.158-167,,seri1255,Serili,seri1255-2
-1,metn,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
-2,wuru,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
-3,wokely,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
-4,wyek,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
-5,wulim,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
-6,wonem,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
-7,woik,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
-8,waaw,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
-10,wuki,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
-20,wukwuro,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
-30,wukwokely,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
-100,kre,,FALSE,vanDijk2021,pp.158-167,,west2535,Iblatmunta,west2535-1
