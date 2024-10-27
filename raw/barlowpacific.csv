@@ -28767,10 +28767,10 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 12,dijap-dua-sama,,FALSE,Ray1913,"pp.60, 62",,sebo1238,Sibop,sebo1238-5
 20,dua-jap,,FALSE,Ray1913,"pp.60, 62",,sebo1238,Sibop,sebo1238-5
 100,ja-to,,FALSE,Ray1913,"pp.60, 62",,sebo1238,Sibop,sebo1238-5
-1,sadua,,FALSE,Barr1979,p.96,sedo1237,,Sedoa,sedo1237-1
-1,sambua?,,FALSE,Barr1979,p.96,sedo1237,,Sedoa,sedo1237-1
-2,rodua,,FALSE,Barr1979,p.96,sedo1237,,Sedoa,sedo1237-1
-2,rombua?,,FALSE,Barr1979,p.96,sedo1237,,Sedoa,sedo1237-1
+1,sadua,,FALSE,Barr1979,p.96,,sedo1237,Sedoa,sedo1237-1
+1,sambua?,,FALSE,Barr1979,p.96,,sedo1237,Sedoa,sedo1237-1
+2,rodua,,FALSE,Barr1979,p.96,,sedo1237,Sedoa,sedo1237-1
+2,rombua?,,FALSE,Barr1979,p.96,,sedo1237,Sedoa,sedo1237-1
 1,ètu,,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
 2,eli,,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
 3,klu,,FALSE,Galis1955,p.137,,sege1235,Waliam,sege1235-1
