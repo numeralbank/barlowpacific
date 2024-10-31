@@ -7026,6 +7026,90 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,čuán púo,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
 22,čuán púo ya čuá,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
 23,čuán púo ya tuló,,FALSE,Vanoverbergh1937,"pp.114, 120",,cent2292,Bontok Igorot,cent2292-1
+1,hacha,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+2,hugua,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+3,tulo,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+3,tulu,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+4,fatfat,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+5,lima,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+6,gunum,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+7,fiti,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+8,gualu,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+9,sigua,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+10,manot,Simple numeral for time; ‘a set’,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+11,manot nga guai hacha,Simple numeral for time; ‘a set which has one’,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+12,manot nga guai hugua,Simple numeral for time; ‘a set which has two’,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+13,manot nga guai tulo,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+20,hugua nga fulu,Simple numeral for time; ‘two tens which have one’,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+21,hugua nga fulu nga guai hacha,Simple numeral for time; ‘two tens which have five’,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+25,hugua nga fulu nga guai lima,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+30,tulu nga fulu,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+33,tulu nga fulu nga guai tulo,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+40,fatfat nga fulu,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+100,gatus,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+301,tulu nga gatus nga guai hacha,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+352,tulu nga gatus nga guai lima nga fulu nga guai hugua,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+1000,chalan,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+1,maisa,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+2,hugua,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+3,tato,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+4,fatfat,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+5,lalima,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+6,guagunum,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+7,fafiti,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+8,guagualu,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+9,sasigua,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+10,maônot,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+11,maonot nga guai maisa,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+13,maonot nga guai tato,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+20,hugua nga fulu,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+30,tato nga fulu,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+33,tato nga fulu nga guai tato,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+40,fatfat nga fulu,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+100,gatus,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+305,tato nga gatus nga guai lalima,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+1000,chalan,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+1,takhachun,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+2,takhuguan,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+3,taktulun,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+4,takfatun,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+5,takliman,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+6,takgunum,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+7,takfitun,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+8,takgualun,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+9,taksiguan,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+10,takmaonton,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+11,takmaonton nga guai takhachun,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+20,takhugua nga fulu,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+22,hugua nga fulu nga guai takhuguan,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+30,taktulu nga fulu,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+40,takfatu nga fulu,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+100,manapo,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+110,gatus nga guai takmaonton,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+1000,takchalan,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+1,hachiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+2,huguiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+3,tolgiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+4,farfatai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+5,limiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+6,gonmiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+7,fetguiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+8,gualgiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+9,siguiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+10,manutai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+11,manutai nga guai hachiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+12,manutai nga guai huguiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+13,manutai nga guai tolgiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+20,huguiyai nga fulu,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+21,huguiyai nga fulu nga guai hachiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+25,huguiyai nga fulu nga guai limiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+30,tolgiyai nga fulu,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+33,tolgiyai nga fulu nga guai tolgiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+40,farfatai nga fulu,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+100,gatus,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+301,tolgiyai nga gatus nga guai hachiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+1000,chalan,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
+10000,manutu,,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
 1,bwiyɑn,"(masc/fem), (dog)",FALSE,Laycock1971D34,"pp.5004-5010, 5018",,cham1313,Chambri,cham1313-1
 1,bwiyɑŋk,(eye),FALSE,Laycock1971D34,"pp.5004-5010, 5018",,cham1313,Chambri,cham1313-1
 1,bwiyɑmp,(ear),FALSE,Laycock1971D34,"pp.5004-5010, 5018",,cham1313,Chambri,cham1313-1
@@ -11151,6 +11235,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 11,umi kuma ma lua,"‘ten, the number in company ... two.’",FALSE,Codrington1885,"pp.227, 231",,hawa1245,Sandwich Islands,hawa1245-1
 20,iva kalua,two nines,FALSE,Codrington1885,"pp.227, 231",,hawa1245,Sandwich Islands,hawa1245-1
 30,kana kolu,three kana,FALSE,Codrington1885,"pp.227, 231",,hawa1245,Sandwich Islands,hawa1245-1
+1,wan,identical with the indefinite article,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
+2,tu,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
+3,tʃɹi,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
+4,fɔ,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
+5,fai(v),,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
+6,siks,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
+7,sɛvɛn,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
+8,eɪʔ,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
+9,naɪn,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
+10,tɛn,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
 1,he̱f,,FALSE,Schnee1901,p.278,,herm1237,Louf,herm1237-1
 2,χuó̱f,,FALSE,Schnee1901,p.278,,herm1237,Louf,herm1237-1
 3,taló̱f,,FALSE,Schnee1901,p.278,,herm1237,Louf,herm1237-1
@@ -35212,6 +35306,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1,ˈmaʲ.tan,,FALSE,Miller2017,p.19,,unii1234,Uni 1,unii1234-1
 2,bi.a.ˈpin,,FALSE,Miller2017,p.19,,unii1234,Uni 1,unii1234-1
 1,mɵʲ,,FALSE,Miller2017,p.19,,unii1234,Uni 2,unii1234-2
+0,nyl,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
+1,ein,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
+2,tswaɪ,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
+2,zwei,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
+3,drei,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
+5,finf,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
+11,ølf,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
+12,twølf,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
+17,sibɛntsn,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
+20,wansi,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
 1,ɑmoʔɑ,,FALSE,Rueck,p.9,,unub1234,Unubahe,unub1234-1
 2,luɡɑ,,FALSE,Rueck,p.9,,unub1234,Unubahe,unub1234-1
 3,fɑihonɑ,,FALSE,Rueck,p.9,,unub1234,Unubahe,unub1234-1
@@ -38147,6 +38251,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,tesʸɛnsaR̃,,FALSE,Conrad1975,pp.26-29,,yetf1238,Biksi,yetf1238-2
 3,ɩndaisar̃,,FALSE,Conrad1975,pp.26-29,,yetf1238,Biksi,yetf1238-2
 4,ɩndai ɩndai,,FALSE,Conrad1975,pp.26-29,,yetf1238,Biksi,yetf1238-2
+1,’ici,Origin: Japanese,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
+1,’utox,Origin: Atayal,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
+2,ni,Origin: Japanese,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
+2,saying,Origin: Atayal,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
+3,sang,Origin: Japanese,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
+3,tugan,Origin: Atayal,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
+3,tugang,Origin: Atayal,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
+4,payat,Origin: Atayal,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
+4,si,Origin: Japanese,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
+5,go,Origin: Japanese,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
 1,anpap,(masc),FALSE,Laycock1967C05,p.31,,yill1241,Yil,yill1241-1
 1,arə pap,(fem),FALSE,Laycock1967C05,p.31,,yill1241,Yil,yill1241-1
 2,wiyɛm,(masc),FALSE,Laycock1967C05,p.31,,yill1241,Yil,yill1241-1
@@ -38322,117 +38436,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,’ici,Origin: Japanese,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
-1,’utox,Origin: Atayal,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
-2,ni,Origin: Japanese,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
-2,saying,Origin: Atayal,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
-3,sang,Origin: Japanese,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
-3,tugan,Origin: Atayal,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
-3,tugang,Origin: Atayal,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
-4,payat,Origin: Atayal,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
-4,si,Origin: Japanese,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
-5,go,Origin: Japanese,FALSE,Tan2023,pp.383-384,,yila1234,Vernacular Atayalic Japanese,yila1234-1
-1,wan,identical with the indefinite article,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
-2,tu,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
-3,tʃɹi,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
-4,fɔ,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
-5,fai(v),,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
-6,siks,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
-7,sɛvɛn,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
-8,eɪʔ,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
-9,naɪn,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
-10,tɛn,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
-0,nyl,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
-1,ein,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
-2,tswaɪ,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
-2,zwei,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
-3,drei,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
-5,finf,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
-11,ølf,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
-12,twølf,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
-17,sibɛntsn,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
-20,wansi,,FALSE,Volker1983,"pp.19, 39, 45, 58, 59",,unse1236,Rabaul Creole German (Unserdeutsch),unse1236-1
-1,hacha,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-2,hugua,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-3,tulo,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-3,tulu,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-4,fatfat,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-5,lima,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-6,gunum,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-7,fiti,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-8,gualu,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-9,sigua,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-10,manot,Simple numeral for time; ‘a set’,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-11,manot nga guai hacha,Simple numeral for time; ‘a set which has one’,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-12,manot nga guai hugua,Simple numeral for time; ‘a set which has two’,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-13,manot nga guai tulo,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-20,hugua nga fulu,Simple numeral for time; ‘two tens which have one’,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-21,hugua nga fulu nga guai hacha,Simple numeral for time; ‘two tens which have five’,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-25,hugua nga fulu nga guai lima,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-30,tulu nga fulu,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-33,tulu nga fulu nga guai tulo,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-40,fatfat nga fulu,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-100,gatus,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-301,tulu nga gatus nga guai hacha,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-352,tulu nga gatus nga guai lima nga fulu nga guai hugua,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-1000,chalan,Simple numeral for time,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-1,maisa,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-2,hugua,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-3,tato,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-4,fatfat,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-5,lalima,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-6,guagunum,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-7,fafiti,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-8,guagualu,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-9,sasigua,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-10,maônot,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-11,maonot nga guai maisa,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-13,maonot nga guai tato,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-20,hugua nga fulu,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-30,tato nga fulu,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-33,tato nga fulu nga guai tato,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-40,fatfat nga fulu,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-100,gatus,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-305,tato nga gatus nga guai lalima,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-1000,chalan,Numeral for living things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-1,takhachun,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-2,takhuguan,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-3,taktulun,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-4,takfatun,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-5,takliman,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-6,takgunum,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-7,takfitun,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-8,takgualun,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-9,taksiguan,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-10,takmaonton,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-11,takmaonton nga guai takhachun,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-20,takhugua nga fulu,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-22,hugua nga fulu nga guai takhuguan,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-30,taktulu nga fulu,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-40,takfatu nga fulu,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-100,manapo,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-110,gatus nga guai takmaonton,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-1000,takchalan,Numeral for measurements,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-1,hachiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-2,huguiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-3,tolgiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-4,farfatai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-5,limiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-6,gonmiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-7,fetguiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-8,gualgiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-9,siguiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-10,manutai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-11,manutai nga guai hachiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-12,manutai nga guai huguiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-13,manutai nga guai tolgiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-20,huguiyai nga fulu,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-21,huguiyai nga fulu nga guai hachiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-25,huguiyai nga fulu nga guai limiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-30,tolgiyai nga fulu,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-33,tolgiyai nga fulu nga guai tolgiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-40,farfatai nga fulu,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-100,gatus,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-301,tolgiyai nga gatus nga guai hachiyai,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-1000,chalan,Numeral for inanimate things,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
-10000,manutu,,FALSE,Safford1903,pp.97-102,,cham1312,Chamorro,cham1312-1
