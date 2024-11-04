@@ -38436,3 +38436,280 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
+1,bo-iri,,FALSE,Anceaux1961,pp.72-76,,amba1265,Ambai,amba1265-3
+1,bo-siri,,FALSE,Anceaux1961,pp.72-76,,amba1265,Ambai,amba1265-3
+2,bo-ru,,FALSE,Anceaux1961,pp.72-76,,amba1265,Ambai,amba1265-3
+3,bo-toru,,FALSE,Anceaux1961,pp.72-76,,amba1265,Ambai,amba1265-3
+4,bo-a,,FALSE,Anceaux1961,pp.72-76,,amba1265,Ambai,amba1265-3
+5,ri,,FALSE,Anceaux1961,pp.72-76,,amba1265,Ambai,amba1265-3
+5,riŋ,,FALSE,Anceaux1961,pp.72-76,,amba1265,Ambai,amba1265-3
+6,wona,,FALSE,Anceaux1961,pp.72-76,,amba1265,Ambai,amba1265-3
+7,itu,,FALSE,Anceaux1961,pp.72-76,,amba1265,Ambai,amba1265-3
+8,_,"[uses a compound,] meaning five plus three",FALSE,Anceaux1961,pp.72-76,,amba1265,Ambai,amba1265-3
+9,_,"[has a compound,] meaning five plus four",FALSE,Anceaux1961,pp.72-76,,amba1265,Ambai,amba1265-3
+10,sura,,FALSE,Anceaux1961,pp.72-76,,amba1265,Ambai,amba1265-3
+20,piarei,,FALSE,Anceaux1961,pp.72-76,,amba1265,Ambai,amba1265-3
+100,_,[employs an expression] meaning 5 times twenty (or 5 people),FALSE,Anceaux1961,pp.72-76,,amba1265,Ambai,amba1265-3
+1,ko-iri,,FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+2,ko-du,,FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+3,toru,,FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+4,man-wa,,FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+5,ri,,FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+5,riŋ,,FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+6,wona,,FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+6,wonaŋ,,FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+7,itu,,FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+8,_,"[uses a compound,] meaning five plus three",FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+9,_,"[has a compound,] meaning five plus four",FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+10,hura,,FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+10,ura,,FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+20,piarei,,FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+100,_,[also employs an expression meaning 5 times twenty (or 5 people)],FALSE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+100,otin,[probably borrowed from Biak],TRUE,Anceaux1961,pp.72-76,,ansu1237,Ansus,ansu1237-3
+1,oser,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+1,sai,in counting,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+2,du,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+2,dui,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+2,suru,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+3,kior,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+4,fiak,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+5,rim,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+6,onəm,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+6,wonəm,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+7,fik,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+8,war,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+9,siw,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+10,samfur,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+20,samfur-di-suru,ten times two,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+100,utin,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+1000,syaran,,FALSE,Anceaux1961,pp.72-76,,biak1248,Biak,biak1248-7
+1,bo-siri,,FALSE,Anceaux1961,pp.72-76,,busa1254,Busami,busa1254-1
+2,bo-ru,,FALSE,Anceaux1961,pp.72-76,,busa1254,Busami,busa1254-1
+3,bo-toru,,FALSE,Anceaux1961,pp.72-76,,busa1254,Busami,busa1254-1
+4,bo-a,,FALSE,Anceaux1961,pp.72-76,,busa1254,Busami,busa1254-1
+5,riŋ,,FALSE,Anceaux1961,pp.72-76,,busa1254,Busami,busa1254-1
+6,_,[a combination] of the words for five and one [is] used,FALSE,Anceaux1961,pp.72-76,,busa1254,Busami,busa1254-1
+7,_,[uses a compound] meaning five plus two,FALSE,Anceaux1961,pp.72-76,,busa1254,Busami,busa1254-1
+8,_,"[uses a compound,] meaning five plus three",FALSE,Anceaux1961,pp.72-76,,busa1254,Busami,busa1254-1
+9,_,"[has a compound,] meaning five plus four",FALSE,Anceaux1961,pp.72-76,,busa1254,Busami,busa1254-1
+10,sura,,FALSE,Anceaux1961,pp.72-76,,busa1254,Busami,busa1254-1
+20,piarei,,FALSE,Anceaux1961,pp.72-76,,busa1254,Busami,busa1254-1
+1,yoser,,FALSE,Anceaux1961,pp.72-76,,dusn1237,Dusner,dusn1237-3
+2,suru,,FALSE,Anceaux1961,pp.72-76,,dusn1237,Dusner,dusn1237-3
+3,tori,,FALSE,Anceaux1961,pp.72-76,,dusn1237,Dusner,dusn1237-3
+3,toru,,FALSE,Anceaux1961,pp.72-76,,dusn1237,Dusner,dusn1237-3
+4,ati,,FALSE,Anceaux1961,pp.72-76,,dusn1237,Dusner,dusn1237-3
+4,pati,,FALSE,Anceaux1961,pp.72-76,,dusn1237,Dusner,dusn1237-3
+5,rim-bi,,FALSE,Anceaux1961,pp.72-76,,dusn1237,Dusner,dusn1237-3
+6,_,[a combination] of the words for five and one [is] used,FALSE,Anceaux1961,pp.72-76,,dusn1237,Dusner,dusn1237-3
+7,_,[uses a compound] meaning five plus two,FALSE,Anceaux1961,pp.72-76,,dusn1237,Dusner,dusn1237-3
+8,_,"[uses a compound,] meaning five plus three",FALSE,Anceaux1961,pp.72-76,,dusn1237,Dusner,dusn1237-3
+9,_,"[has a compound,] meaning five plus four",FALSE,Anceaux1961,pp.72-76,,dusn1237,Dusner,dusn1237-3
+10,sampur,,FALSE,Anceaux1961,pp.72-76,,dusn1237,Dusner,dusn1237-3
+20,ars,,FALSE,Anceaux1961,pp.72-76,,dusn1237,Dusner,dusn1237-3
+100,utin,[probably borrowed from Biak],TRUE,Anceaux1961,pp.72-76,,dusn1237,Dusner,dusn1237-3
+1,eso,,FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+2,rifo,,FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+2,ru,,FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+2,rue,,FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+3,tor,,FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+3,toru,,FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+3,tur,,FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+3,turə,,FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+4,gegete,,FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+4,gegite,,FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+5,refide,,FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+6,_,[a combination] of the words for five and one [is] used,FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+7,_,[uses a compound] meaning five plus two,FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+8,_,"[uses a compound,] meaning five plus three",FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+9,_,"[has a compound,] meaning five plus four",FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+10,fradaru,means two hands,FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+20,_,"[has an expression,] meaning one person",FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+100,_,[employs an expression] meaning 5 times twenty (or 5 people),FALSE,Anceaux1961,pp.72-76,,irar1238,Irarutu,irar1238-6
+1,bo-sandi,,FALSE,Anceaux1961,pp.72-76,,kuru1305,Kurudu,kuru1305-2
+2,bo-ru,,FALSE,Anceaux1961,pp.72-76,,kuru1305,Kurudu,kuru1305-2
+3,bo-toru,,FALSE,Anceaux1961,pp.72-76,,kuru1305,Kurudu,kuru1305-2
+4,bo-at,,FALSE,Anceaux1961,pp.72-76,,kuru1305,Kurudu,kuru1305-2
+5,bo-ve-rim,,FALSE,Anceaux1961,pp.72-76,,kuru1305,Kurudu,kuru1305-2
+6,_,[a combination] of the words for five and one [is] used,FALSE,Anceaux1961,pp.72-76,,kuru1305,Kurudu,kuru1305-2
+7,_,[uses a compound] meaning five plus two,FALSE,Anceaux1961,pp.72-76,,kuru1305,Kurudu,kuru1305-2
+8,_,"[uses a compound,] meaning five plus three",FALSE,Anceaux1961,pp.72-76,,kuru1305,Kurudu,kuru1305-2
+9,_,"[has a compound,] meaning five plus four",FALSE,Anceaux1961,pp.72-76,,kuru1305,Kurudu,kuru1305-2
+10,sur,,FALSE,Anceaux1961,pp.72-76,,kuru1305,Kurudu,kuru1305-2
+20,pasinomansande,,FALSE,Anceaux1961,pp.72-76,,kuru1305,Kurudu,kuru1305-2
+100,_,[employs an expression] meaning 5 times twenty (or 5 people),FALSE,Anceaux1961,pp.72-76,,kuru1305,Kurudu,kuru1305-2
+1,ko-siri,,FALSE,Anceaux1961,pp.72-76,,mara1397,Marau,mara1397-2
+2,ko-iru,,FALSE,Anceaux1961,pp.72-76,,mara1397,Marau,mara1397-2
+3,toru,,FALSE,Anceaux1961,pp.72-76,,mara1397,Marau,mara1397-2
+4,ati,,FALSE,Anceaux1961,pp.72-76,,mara1397,Marau,mara1397-2
+5,ri,,FALSE,Anceaux1961,pp.72-76,,mara1397,Marau,mara1397-2
+5,riŋ,,FALSE,Anceaux1961,pp.72-76,,mara1397,Marau,mara1397-2
+6,wona,,FALSE,Anceaux1961,pp.72-76,,mara1397,Marau,mara1397-2
+6,wonan,,FALSE,Anceaux1961,pp.72-76,,mara1397,Marau,mara1397-2
+7,itu,,FALSE,Anceaux1961,pp.72-76,,mara1397,Marau,mara1397-2
+8,waru,,FALSE,Anceaux1961,pp.72-76,,mara1397,Marau,mara1397-2
+9,siw,,FALSE,Anceaux1961,pp.72-76,,mara1397,Marau,mara1397-2
+10,haura,,FALSE,Anceaux1961,pp.72-76,,mara1397,Marau,mara1397-2
+20,piarei,,FALSE,Anceaux1961,pp.72-76,,mara1397,Marau,mara1397-2
+1,tata,,FALSE,Anceaux1961,pp.72-76,,morm1235,Mor,morm1235-5
+3,oro,,FALSE,Anceaux1961,pp.72-76,,morm1235,Mor,morm1235-5
+4,ءaءo,,FALSE,Anceaux1961,pp.72-76,,morm1235,Mor,morm1235-5
+5,rimo,,FALSE,Anceaux1961,pp.72-76,,morm1235,Mor,morm1235-5
+6,_,[a combination] of the words for five and one [is] used,FALSE,Anceaux1961,pp.72-76,,morm1235,Mor,morm1235-5
+7,_,[uses a compound] meaning five plus two,FALSE,Anceaux1961,pp.72-76,,morm1235,Mor,morm1235-5
+8,_,"[uses a compound,] meaning five plus three",FALSE,Anceaux1961,pp.72-76,,morm1235,Mor,morm1235-5
+9,_,"[has a compound,] meaning five plus four",FALSE,Anceaux1961,pp.72-76,,morm1235,Mor,morm1235-5
+10,taura,,FALSE,Anceaux1961,pp.72-76,,morm1235,Mor,morm1235-5
+20,_,"[has an expression,] meaning one person",FALSE,Anceaux1961,pp.72-76,,morm1235,Mor,morm1235-5
+100,_,[employs an expression] meaning 5 times twenty (or 5 people),FALSE,Anceaux1961,pp.72-76,,morm1235,Mor,morm1235-5
+1,bo-hiri,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+1,bo-iri,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+2,bo-ru,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+3,bo-toru,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+4,bo-ati,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+5,bo-rim,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+5,bo-rin,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+6,bo-wonan,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+6,wonan,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+7,bo-itu,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+7,itu,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+8,bo-waru,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+8,waru,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+9,bo-hiun,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+9,siu,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+10,bo-haura,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+10,saura,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+20,piarei,,FALSE,Anceaux1961,pp.72-76,,mung1269,Munggui,mung1269-1
+1,bo-iri,,FALSE,Anceaux1961,pp.72-76,,papu1251,Papuma,papu1251-1
+2,bo-ru,,FALSE,Anceaux1961,pp.72-76,,papu1251,Papuma,papu1251-1
+3,bo-toru,,FALSE,Anceaux1961,pp.72-76,,papu1251,Papuma,papu1251-1
+4,bo-a,,FALSE,Anceaux1961,pp.72-76,,papu1251,Papuma,papu1251-1
+5,bo-riŋ,,FALSE,Anceaux1961,pp.72-76,,papu1251,Papuma,papu1251-1
+6,bo-ona,,FALSE,Anceaux1961,pp.72-76,,papu1251,Papuma,papu1251-1
+7,bo-itu,,FALSE,Anceaux1961,pp.72-76,,papu1251,Papuma,papu1251-1
+8,_,"[uses a compound,] meaning five plus three",FALSE,Anceaux1961,pp.72-76,,papu1251,Papuma,papu1251-1
+9,_,"[has a compound,] meaning five plus four",FALSE,Anceaux1961,pp.72-76,,papu1251,Papuma,papu1251-1
+10,bo-ura,,FALSE,Anceaux1961,pp.72-76,,papu1251,Papuma,papu1251-1
+20,piarei,,FALSE,Anceaux1961,pp.72-76,,papu1251,Papuma,papu1251-1
+1,ko-risi,,FALSE,Anceaux1961,pp.72-76,,pomm1237,Pom,pomm1237-2
+2,ko-iru,,FALSE,Anceaux1961,pp.72-76,,pomm1237,Pom,pomm1237-2
+3,toru,,FALSE,Anceaux1961,pp.72-76,,pomm1237,Pom,pomm1237-2
+4,at,,FALSE,Anceaux1961,pp.72-76,,pomm1237,Pom,pomm1237-2
+5,rin,,FALSE,Anceaux1961,pp.72-76,,pomm1237,Pom,pomm1237-2
+6,wona,,FALSE,Anceaux1961,pp.72-76,,pomm1237,Pom,pomm1237-2
+7,itu,,FALSE,Anceaux1961,pp.72-76,,pomm1237,Pom,pomm1237-2
+8,waru,,FALSE,Anceaux1961,pp.72-76,,pomm1237,Pom,pomm1237-2
+9,siu,,FALSE,Anceaux1961,pp.72-76,,pomm1237,Pom,pomm1237-2
+10,haura,,FALSE,Anceaux1961,pp.72-76,,pomm1237,Pom,pomm1237-2
+20,piarei,,FALSE,Anceaux1961,pp.72-76,,pomm1237,Pom,pomm1237-2
+1,yoser,,FALSE,Anceaux1961,pp.72-76,,roon1237,Ron,roon1237-3
+3,kor,,FALSE,Anceaux1961,pp.72-76,,roon1237,Ron,roon1237-3
+4,fak,,FALSE,Anceaux1961,pp.72-76,,roon1237,Ron,roon1237-3
+4,fiak,,FALSE,Anceaux1961,pp.72-76,,roon1237,Ron,roon1237-3
+5,rim,,FALSE,Anceaux1961,pp.72-76,,roon1237,Ron,roon1237-3
+6,onem,,FALSE,Anceaux1961,pp.72-76,,roon1237,Ron,roon1237-3
+6,wonem,,FALSE,Anceaux1961,pp.72-76,,roon1237,Ron,roon1237-3
+7,fik,,FALSE,Anceaux1961,pp.72-76,,roon1237,Ron,roon1237-3
+8,war,,FALSE,Anceaux1961,pp.72-76,,roon1237,Ron,roon1237-3
+9,siw,,FALSE,Anceaux1961,pp.72-76,,roon1237,Ron,roon1237-3
+10,safur,,FALSE,Anceaux1961,pp.72-76,,roon1237,Ron,roon1237-3
+20,ares,,FALSE,Anceaux1961,pp.72-76,,roon1237,Ron,roon1237-3
+100,utin,[probably borrowed from Biak],TRUE,Anceaux1961,pp.72-76,,roon1237,Ron,roon1237-3
+1,bo-iri,,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+1,bo-siri,,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+1,man-iri,for persons,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+1,man-siri,for persons,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+2,bo-ru,,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+2,mandu,[for persons],FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+3,bo-toru,,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+3,man-toru,for persons,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+4,bo-a,,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+4,man-a,[for persons],FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+5,ri,,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+5,riŋ,,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+6,_,[a combination] of the words for five and one [is] used,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+7,_,[uses a compound] meaning five plus two,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+8,_,"[uses a compound,] meaning five plus three",FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+9,_,"[has a compound,] meaning five plus four",FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+10,sura,,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+20,piarei,,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+100,_,[employs an expression] meaning 5 times twenty (or 5 people),FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+1000,pia-sura-be-rin,score-ten times five,FALSE,Anceaux1961,pp.72-76,,seru1244,Serui-Laut,seru1244-3
+1,bo-siri,,FALSE,Anceaux1961,pp.72-76,,seru1244,Wadapi-Laut,seru1244-4
+2,bo-ru,,FALSE,Anceaux1961,pp.72-76,,seru1244,Wadapi-Laut,seru1244-4
+3,bo-toru,,FALSE,Anceaux1961,pp.72-76,,seru1244,Wadapi-Laut,seru1244-4
+4,bo-a,,FALSE,Anceaux1961,pp.72-76,,seru1244,Wadapi-Laut,seru1244-4
+5,re,,FALSE,Anceaux1961,pp.72-76,,seru1244,Wadapi-Laut,seru1244-4
+5,rin,,FALSE,Anceaux1961,pp.72-76,,seru1244,Wadapi-Laut,seru1244-4
+6,wona,,FALSE,Anceaux1961,pp.72-76,,seru1244,Wadapi-Laut,seru1244-4
+7,itu,,FALSE,Anceaux1961,pp.72-76,,seru1244,Wadapi-Laut,seru1244-4
+8,_,"[uses a compound,] meaning five plus three",FALSE,Anceaux1961,pp.72-76,,seru1244,Wadapi-Laut,seru1244-4
+9,_,"[has a compound,] meaning five plus four",FALSE,Anceaux1961,pp.72-76,,seru1244,Wadapi-Laut,seru1244-4
+10,sura,,FALSE,Anceaux1961,pp.72-76,,seru1244,Wadapi-Laut,seru1244-4
+1,bo-sandi,,FALSE,Anceaux1961,pp.72-76,,wabo1240,Wabo,wabo1240-2
+2,bo-ru,,FALSE,Anceaux1961,pp.72-76,,wabo1240,Wabo,wabo1240-2
+3,bo-to,,FALSE,Anceaux1961,pp.72-76,,wabo1240,Wabo,wabo1240-2
+4,bo-ate,,FALSE,Anceaux1961,pp.72-76,,wabo1240,Wabo,wabo1240-2
+5,ueriŋ,,FALSE,Anceaux1961,pp.72-76,,wabo1240,Wabo,wabo1240-2
+6,we-one,,FALSE,Anceaux1961,pp.72-76,,wabo1240,Wabo,wabo1240-2
+7,w-itu,,FALSE,Anceaux1961,pp.72-76,,wabo1240,Wabo,wabo1240-2
+8,we-wa,,FALSE,Anceaux1961,pp.72-76,,wabo1240,Wabo,wabo1240-2
+9,we-si,,FALSE,Anceaux1961,pp.72-76,,wabo1240,Wabo,wabo1240-2
+10,sure,,FALSE,Anceaux1961,pp.72-76,,wabo1240,Wabo,wabo1240-2
+20,piasino,,FALSE,Anceaux1961,pp.72-76,,wabo1240,Wabo,wabo1240-2
+100,_,[employs an expression] meaning 5 times twenty (or 5 people),FALSE,Anceaux1961,pp.72-76,,wabo1240,Wabo,wabo1240-2
+1,siri,,FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+2,mondu,,FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+2,monu,,FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+2,muandu,,FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+3,toru,,FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+4,at,,FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+4,ate,,FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+5,rim,,FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+6,_,[a combination] of the words for five and one [is] used,FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+7,_,[uses a compound] meaning five plus two,FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+8,_,"[uses a compound,] meaning five plus three",FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+9,_,"[has a compound,] meaning five plus four",FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+10,sura,,FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+20,_,"[has an expression,] meaning one person",FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+100,utin,[probably borrowed from Biak],TRUE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+100,_,[also employs an expression meaning 5 times twenty (or 5 people)],FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+1000,siaran,,FALSE,Anceaux1961,pp.72-76,,wand1267,Wandamen,wand1267-12
+1,nati,for living beings,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+1,wosi,,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+2,nandu,for living beings,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+2,woru,for inanimate objects,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+3,naŋgoro,for living beings,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+3,oro,,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+4,ako,,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+5,rimo,,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+6,ghono,,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+6,_,[a combination of the words for five and one is also used],FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+6,wono,,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+7,iko,,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+8,gharo,,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+8,waro,,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+8,_,"[also uses a compound, meaning five plus three]",FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+9,sigh,,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+9,_,"[also has a compound, meaning five plus four]",FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+9,siwi,,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+10,saguro,,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+10,saŋguro,,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+10,sauro,,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+20,asatio,<asa> = a score,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+20,natio,"[has an expression,] meaning one person ... in addition to a ‘real’ numeral",FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+20,nuŋgu,"[has an expression,] meaning one person ... in addition to a ‘real’ numeral",FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+100,_,[employs an expression] meaning 5 times twenty (or 5 people),FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+1000,nuŋgu sauro be-rimo,person ten times five,FALSE,Anceaux1961,pp.72-76,,waro1242,Waropen,waro1242-6
+1,ko-risi,,FALSE,Anceaux1961,pp.72-76,,woii1237,Woi,woii1237-1
+2,ko-ru,,FALSE,Anceaux1961,pp.72-76,,woii1237,Woi,woii1237-1
+3,toru,,FALSE,Anceaux1961,pp.72-76,,woii1237,Woi,woii1237-1
+4,muan-a,,FALSE,Anceaux1961,pp.72-76,,woii1237,Woi,woii1237-1
+5,din,,FALSE,Anceaux1961,pp.72-76,,woii1237,Woi,woii1237-1
+6,wona,,FALSE,Anceaux1961,pp.72-76,,woii1237,Woi,woii1237-1
+7,itu,,FALSE,Anceaux1961,pp.72-76,,woii1237,Woi,woii1237-1
+8,waru,,FALSE,Anceaux1961,pp.72-76,,woii1237,Woi,woii1237-1
+9,siu,,FALSE,Anceaux1961,pp.72-76,,woii1237,Woi,woii1237-1
+10,hura,,FALSE,Anceaux1961,pp.72-76,,woii1237,Woi,woii1237-1
+20,piarehi,,FALSE,Anceaux1961,pp.72-76,,woii1237,Woi,woii1237-1
+100,_,[employs an expression] meaning 5 times twenty (or 5 people),FALSE,Anceaux1961,pp.72-76,,woii1237,Woi,woii1237-1
