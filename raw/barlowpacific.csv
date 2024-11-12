@@ -4654,6 +4654,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,aremsal,,FALSE,LeanWestern,p.3,SIL Word List (1979). Village: Kuontigin.,bimi1240,Bimin (Kuontigin village),bimi1240-3
 4,katkete tepenkel,,FALSE,LeanWestern,p.3,SIL Word List (1979). Village: Kuontigin.,bimi1240,Bimin (Kuontigin village),bimi1240-3
 5,teingabi,,FALSE,LeanWestern,p.3,SIL Word List (1979). Village: Kuontigin.,bimi1240,Bimin (Kuontigin village),bimi1240-3
+1,kanakoni,,FALSE,Dutton1976,p.600,The koni part ... probably mean[s] ‘only’.,bina1271,Bina,bina1271-1
+2,buo,,FALSE,Dutton1976,p.600,,bina1271,Bina,bina1271-1
+3,aiteri,,FALSE,Dutton1976,p.600,,bina1271,Bina,bina1271-1
+4,vati,,FALSE,Dutton1976,p.600,,bina1271,Bina,bina1271-1
+5,ima,,FALSE,Dutton1976,p.600,,bina1271,Bina,bina1271-1
+6,ima riria kana,,FALSE,Dutton1976,p.600,,bina1271,Bina,bina1271-1
+7,ima riria buo,,FALSE,Dutton1976,p.600,,bina1271,Bina,bina1271-1
+8,ima riria aiteri,,FALSE,Dutton1976,p.600,,bina1271,Bina,bina1271-1
+9,ima riria vati,,FALSE,Dutton1976,p.600,,bina1271,Bina,bina1271-1
+10,aukana,,FALSE,Dutton1976,p.600,,bina1271,Bina,bina1271-1
 1,nikau,,FALSE,Ray1938EasternPapua,p.184,,bina1274,Binahari,bina1274-1
 2,aula,,FALSE,Ray1938EasternPapua,p.184,,bina1274,Binahari,bina1274-1
 3,aula-mik,,FALSE,Ray1938EasternPapua,p.184,,bina1274,Binahari,bina1274-1
@@ -18319,6 +18329,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,wasi,,FALSE,Lean1986Vol07,p.92,S.I.L word list (1973).,mago1248,Magori,mago1248-1
 5,imana,,FALSE,Lean1986Vol07,p.92,S.I.L word list (1973).,mago1248,Magori,mago1248-1
 10,nanawana,,FALSE,Lean1986Vol07,p.92,S.I.L word list (1973).,mago1248,Magori,mago1248-1
+1,ana'oni,,FALSE,Dutton1976,p.600,The 'oni part ... probably mean[s] ‘only’.,mago1248,Magori,mago1248-2
+2,buau,,FALSE,Dutton1976,p.600,,mago1248,Magori,mago1248-2
+3,aiteri,,FALSE,Dutton1976,p.600,,mago1248,Magori,mago1248-2
+4,vati,,FALSE,Dutton1976,p.600,,mago1248,Magori,mago1248-2
+5,ima,,FALSE,Dutton1976,p.600,,mago1248,Magori,mago1248-2
+6,ima reria 'ana,,FALSE,Dutton1976,p.600,,mago1248,Magori,mago1248-2
+7,ima reria buau,,FALSE,Dutton1976,p.600,,mago1248,Magori,mago1248-2
+8,ima reria aiteri,,FALSE,Dutton1976,p.600,,mago1248,Magori,mago1248-2
+9,ima reria vati,,FALSE,Dutton1976,p.600,,mago1248,Magori,mago1248-2
+10,nanau'ana,,FALSE,Dutton1976,p.600,,mago1248,Magori,mago1248-2
 1,isa,,FALSE,Arnaud1998,pp.863-878 [word list item numbers],,magu1243,Maguindanao,magu1243-1
 2,dua,,FALSE,Arnaud1998,pp.863-878 [word list item numbers],,magu1243,Maguindanao,magu1243-1
 3,telo,,FALSE,Arnaud1998,pp.863-878 [word list item numbers],,magu1243,Maguindanao,magu1243-1
@@ -25940,6 +25960,18 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,sěratoes,,FALSE,Stokhof1986Vol8,p.13,,otda1235,Ot Danum Dayak,otda1235-1
 1000,sěhoedjan,,FALSE,Stokhof1986Vol8,p.13,,otda1235,Ot Danum Dayak,otda1235-1
 10000,sěpoeroek oedjan,,FALSE,Stokhof1986Vol8,p.13,,otda1235,Ot Danum Dayak,otda1235-1
+1,ohabu,,FALSE,Dutton1976,p.600,,ouma1237,Ouma,ouma1237-1
+2,a'i,,FALSE,Dutton1976,p.600,,ouma1237,Ouma,ouma1237-1
+2,hairi,,FALSE,Dutton1976,p.600,,ouma1237,Ouma,ouma1237-1
+3,aheri,,FALSE,Dutton1976,p.600,,ouma1237,Ouma,ouma1237-1
+4,vahi,,FALSE,Dutton1976,p.600,,ouma1237,Ouma,ouma1237-1
+4,rogou,,FALSE,Dutton1976,p.600,,ouma1237,Ouma,ouma1237-1
+5,ima,,FALSE,Dutton1976,p.600,,ouma1237,Ouma,ouma1237-1
+6,ima riria 'una,,FALSE,Dutton1976,p.600,,ouma1237,Ouma,ouma1237-1
+7,ima riria a'i,,FALSE,Dutton1976,p.600,,ouma1237,Ouma,ouma1237-1
+8,ima riria aheri,,FALSE,Dutton1976,p.600,,ouma1237,Ouma,ouma1237-1
+9,ima riria vahi,,FALSE,Dutton1976,p.600,,ouma1237,Ouma,ouma1237-1
+10,rogo'una,,FALSE,Dutton1976,p.600,,ouma1237,Ouma,ouma1237-1
 1,yʌřu,,FALSE,Conrad1975,pp.21-24,,owin1240,Owiniga,owin1240-1
 2,simʌbi,,FALSE,Conrad1975,pp.21-24,,owin1240,Owiniga,owin1240-1
 3,soǥumʌb̶i,,FALSE,Conrad1975,pp.21-24,,owin1240,Owiniga,owin1240-1
@@ -27890,15 +27922,15 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,lua,,FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
 3,lua ma tenina,,FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
 4,luazua luazua,,FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
-5,luazua luazua tenina,[cf. p.5 <*dima-ra-dua> ‘hand’],FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
+5,luazua luazua tenina,,FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
 6,luazua luazua takesi,,FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
 7,luazua luazua luazua tenina,,FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
 8,luazua luazua luazua luazua,,FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
 9,luazua luazua luazua luazua takesi,,FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
-10,nimara lua,,FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
+10,nimara lua,[cf. p.5 <*dima-ra-dua> ‘hand’],FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
 11,--,,FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
 12,--,,FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
-20,limu tenina dimana keena,[cf. p.5 <kee-gua> ‘leg’],FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
+20,limu tenina dimana keena,[cf. p.5 <kee-gua> ‘leg’; p.13 <limu> ‘man’],FALSE,Lincoln1976,pp.2-5,,ronj1237,Roinji (Roinji village),ronj1237-3
 1,jòsis,,FALSE,Galis1955,p.139,,roon1237,Rón,roon1237-1
 1,jòsièdĕ,,FALSE,Galis1955,p.139,,roon1237,Rón,roon1237-1
 2,nuru,,FALSE,Galis1955,p.139,,roon1237,Rón,roon1237-1
@@ -38591,6 +38623,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,kwutu puruf,(masc) [kwʊtɪt = hand],FALSE,Laycock1967C05,p.13,,yiss1240,Yis,yiss1240-1
 5,kwʊtu puruf,"(fem) [kwʊtɪt ~ kwʊtə- = hand, arm]",FALSE,Laycock1967C05,p.13,,yiss1240,Yis,yiss1240-1
 6,kwutuf nɑkɑ,(masc),FALSE,Laycock1967C05,p.13,,yiss1240,Yis,yiss1240-1
+1,kanakoni,,FALSE,Dutton1976,p.600,The koni part ... probably mean[s] ‘only’.,yoba1237,Yoba,yoba1237-1
+2,buau,,FALSE,Dutton1976,p.600,,yoba1237,Yoba,yoba1237-1
+3,aiteri,,FALSE,Dutton1976,p.600,,yoba1237,Yoba,yoba1237-1
+4,vati,,FALSE,Dutton1976,p.600,,yoba1237,Yoba,yoba1237-1
+5,ima kana,,FALSE,Dutton1976,p.600,,yoba1237,Yoba,yoba1237-1
+6,ima reria kana,,FALSE,Dutton1976,p.600,,yoba1237,Yoba,yoba1237-1
+7,ima reria buau,,FALSE,Dutton1976,p.600,,yoba1237,Yoba,yoba1237-1
+8,ima reria aiteri,,FALSE,Dutton1976,p.600,,yoba1237,Yoba,yoba1237-1
+9,ima reria vati,,FALSE,Dutton1976,p.600,,yoba1237,Yoba,yoba1237-1
+10,nanaukana,,FALSE,Dutton1976,p.600,,yoba1237,Yoba,yoba1237-1
 1,yaʔta,,FALSE,Zgraggen1980Mabuso,p.92,,yoid1240,Yoidik,yoid1240-1
 2,yɛl,,FALSE,Zgraggen1980Mabuso,p.92,,yoid1240,Yoidik,yoid1240-1
 2,ail,,FALSE,Zgraggen1980Mabuso,p.92,,yoid1240,Yoidik,yoid1240-1
