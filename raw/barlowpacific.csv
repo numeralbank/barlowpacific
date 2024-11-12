@@ -4654,7 +4654,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,aremsal,,FALSE,LeanWestern,p.3,SIL Word List (1979). Village: Kuontigin.,bimi1240,Bimin (Kuontigin village),bimi1240-3
 4,katkete tepenkel,,FALSE,LeanWestern,p.3,SIL Word List (1979). Village: Kuontigin.,bimi1240,Bimin (Kuontigin village),bimi1240-3
 5,teingabi,,FALSE,LeanWestern,p.3,SIL Word List (1979). Village: Kuontigin.,bimi1240,Bimin (Kuontigin village),bimi1240-3
-1,kanakoni,,FALSE,Dutton1976,p.600,The koni part ... probably mean[s] ‘only’.,bina1271,Bina,bina1271-1
+1,kanakoni,The koni part ... probably mean[s] ‘only’.,FALSE,Dutton1976,p.600,,bina1271,Bina,bina1271-1
 2,buo,,FALSE,Dutton1976,p.600,,bina1271,Bina,bina1271-1
 3,aiteri,,FALSE,Dutton1976,p.600,,bina1271,Bina,bina1271-1
 4,vati,,FALSE,Dutton1976,p.600,,bina1271,Bina,bina1271-1
@@ -18329,7 +18329,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,wasi,,FALSE,Lean1986Vol07,p.92,S.I.L word list (1973).,mago1248,Magori,mago1248-1
 5,imana,,FALSE,Lean1986Vol07,p.92,S.I.L word list (1973).,mago1248,Magori,mago1248-1
 10,nanawana,,FALSE,Lean1986Vol07,p.92,S.I.L word list (1973).,mago1248,Magori,mago1248-1
-1,ana'oni,,FALSE,Dutton1976,p.600,The 'oni part ... probably mean[s] ‘only’.,mago1248,Magori,mago1248-2
+1,ana'oni,The 'oni part ... probably mean[s] ‘only’.,FALSE,Dutton1976,p.600,,mago1248,Magori,mago1248-2
 2,buau,,FALSE,Dutton1976,p.600,,mago1248,Magori,mago1248-2
 3,aiteri,,FALSE,Dutton1976,p.600,,mago1248,Magori,mago1248-2
 4,vati,,FALSE,Dutton1976,p.600,,mago1248,Magori,mago1248-2
@@ -38623,7 +38623,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,kwutu puruf,(masc) [kwʊtɪt = hand],FALSE,Laycock1967C05,p.13,,yiss1240,Yis,yiss1240-1
 5,kwʊtu puruf,"(fem) [kwʊtɪt ~ kwʊtə- = hand, arm]",FALSE,Laycock1967C05,p.13,,yiss1240,Yis,yiss1240-1
 6,kwutuf nɑkɑ,(masc),FALSE,Laycock1967C05,p.13,,yiss1240,Yis,yiss1240-1
-1,kanakoni,,FALSE,Dutton1976,p.600,The koni part ... probably mean[s] ‘only’.,yoba1237,Yoba,yoba1237-1
+1,kanakoni,The koni part ... probably mean[s] ‘only’.,FALSE,Dutton1976,p.600,,yoba1237,Yoba,yoba1237-1
 2,buau,,FALSE,Dutton1976,p.600,,yoba1237,Yoba,yoba1237-1
 3,aiteri,,FALSE,Dutton1976,p.600,,yoba1237,Yoba,yoba1237-1
 4,vati,,FALSE,Dutton1976,p.600,,yoba1237,Yoba,yoba1237-1
