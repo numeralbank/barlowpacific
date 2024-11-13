@@ -11014,8 +11014,8 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 30,kuka savun,,FALSE,LeanBougainville,p.29,1 CSQ. Village: Puto.,haho1237,Hahon (from CSQ),haho1237-2
 40,tana savun,,FALSE,LeanBougainville,p.29,1 CSQ. Village: Puto.,haho1237,Hahon (from CSQ),haho1237-2
 1,toa,,FALSE,Lean1985Vol03,p.19,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",hako1237,Halia (Haku dialect),hako1237-1
-2,tol,,FALSE,Lean1985Vol03,p.19,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",hako1237,Halia (Haku dialect),hako1237-1
-3,topisa,prefix ‘to-’,FALSE,Lean1985Vol03,p.19,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",hako1237,Halia (Haku dialect),hako1237-1
+2,tol,prefix ‘to-’,FALSE,Lean1985Vol03,p.19,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",hako1237,Halia (Haku dialect),hako1237-1
+3,topisa,,FALSE,Lean1985Vol03,p.19,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",hako1237,Halia (Haku dialect),hako1237-1
 4,tohats,,FALSE,Lean1985Vol03,p.19,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",hako1237,Halia (Haku dialect),hako1237-1
 5,tolima,,FALSE,Lean1985Vol03,p.19,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",hako1237,Halia (Haku dialect),hako1237-1
 5,(lim),,FALSE,Lean1985Vol03,p.19,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",hako1237,Halia (Haku dialect),hako1237-1
