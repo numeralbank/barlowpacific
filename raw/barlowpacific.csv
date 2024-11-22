@@ -38789,3 +38789,403 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
+1,dha,"[ɗa]; The numeral set exemplified in (1) is dubbed ‘restricted’ because it is known to have a restricted function. It has been suggested that the numerals of this set were used in a language game in the old days. There may be other functions of this set, but the community elder (Mr. Antonius Gelang) consulted for this study had only a very vague recollection of the counting in a game using this set.",FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+2,dhua,[ɗua],FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+3,demu,,FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+4,dheke,,FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+5,ali,,FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+6,woe,,FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+7,sipi,,FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+8,sapa,,FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+9,nggwo,,FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+10,ngguru,,FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+11,esanggesa,"‘one-LIG-one, eleven’",FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+12,zhuandua,"‘two-LIG-two, twelve’; [given as <zhuadhua> in Arka et al. (2007:100)]",FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+13,telunggetu,< PMP *telu ‘three’,FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+14,wutunggutu,"‘four-LIG-four, fourteen’",FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+15,limakima,< PMP *lima ‘five’; ‘fifteen’ reflects a unique rhyming pattern,FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+16,anggunae,,FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+17,nenggonae,,FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+18,soroila,,FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+19,watupesa,"[given as <watopesa> in Arka et al. (2007:100)]; Subtraction appears to be involved in <watupesa> ‘nineteen’. But <watu> is not ‘twenty’, nor is <watup> an attested morpheme. The word <watu> is attested in Rongga, meaning ‘stone’ — a word whose meaning is unrelated to the numeral.",FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+20,mopla,"Finally, the restricted set has no expressions for numerals higher than ‘twenty’.",FALSE,Arka2010,passim,,rong1269,Rongga - restricted numerals,rong1269-1
+1,(e)sa,,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+1,esa,[əsa],FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+1,sa=,"The numeral <sa=> is the short form of the numeral <esa>. The classifier <esa> in casual speech is often shortened to become <sa>. It is unclear whether the numeral <esa> and the classifier <esa> historically come from the same source. Synchronically, they are homonyms.",FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+2,zhua,[ɹua],FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+3,telu,< PMP *telu ‘three’,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+4,wutu,,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+5,lima,< PMP *lima ‘five’,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+6,limaesa,<lima-esa> ‘six’ is the sum of five and one,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+7,limazhua,<limazhua> ‘seven’ is the sum of five and two,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+8,zhuambutu,"the numeral expression of ‘eight’ (<zhuambutu>) is still analysable as having two morphemes <zhua> and <mbutu> (or perhaps <-ngg-> + <wutu>), which are related to the expressions meaning ‘two’ and ‘four’ — originally involving multiplication of two and four. However, the expression of <zhuambutu> is no longer considered as polymorphemic by native speakers of Rongga, and this is the only example that reflects a base four system.",FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+9,teraesa,"The expression <taraesa> ‘nine’ certainly contains the word <esa> ‘one’. In contemporary Rongga, however, it is not considered bimorphemic, nor is it synchronically analysable as involving a subtraction (i.e. ‘ten minus one’). The available meanings of the word <tara> — ‘toe’, ‘small branch’, ‘reason’ — do not help us to derive the meaning ‘nine’ in its combination with esa. However, <tera> in Lio, a language east of Rongga, means ‘lack of, short of’ (Aron Mbete pers. comm.). Thus, tara-esa once meant ‘one short (of ten)’, that is ten minus one.",FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+10,sambulu,analysable as <sa> ‘one’ and <mbulu> ‘ten’ < PMP *puluq ‘ten’,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+11,sambulu saesa,the word <esa> in <saesa> is a generic classifier meaning ‘piece’; <sambulu saesa> literally means ‘one ten and a piece of one’,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+12,sambulu esazhua,,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+13,sambulu esatelu,,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+14,sambulu esawutu,,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+15,sambulu esalima,,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+16,sambulu esa limaesa,,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+17,sambulu esa limarhua,[typo?],FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+17,sambulu esa limazhua,[given on p.7],FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+18,sambulu esa zhuambutu,,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+19,sambulu esa teraesa,,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+20,mbulu zhua,,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+21,mbulu zhua saesa,(10x2)+(1),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+22,mbulu zhua esazhua,(10x2)+(2),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+30,mbulu telu,(10x3),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+40,mbulu wutu,(10x4),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+50,mbulu lima,(10x5),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+60,mbulu limaesa,(10x(5+1)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+70,mbulu limazhua,(10x(5+2)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+80,mbulu zhuambutu,(10x (8)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+90,mbulu teraesa,(10x(9)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+100,sangasu,(1x100); < PMP *Ratus,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+120,sangasu mbulu zhua,((1x100)+(10 x 2)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+125,sangasu mbulu zhua esa lima,((1x100)+(10x2)+(5)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+150,sangasu mbulu lima,((1x100)+(10x5)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+155,sangasu mbulu lima esa lima,((1x100)+(10x5)+(5)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+180,sangasu mbulu zhuambutu,((1x100)+(10x8)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+190,sangasu mbulu taraesa,((1x100)+(10x9)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+200,ngasu zhua,(100x2),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+250,ngasu zhua mbulu lima,((100x2)+(10x5)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+255,ngasu zhua mbulu lima esalima,((100x2)+(10x5)+(5)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+270,ngasu zhua mbulu limazhua,((100x2)+(10x(5+2)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+280,ngasu zhua mbulu zhuambutu,((100x2)+(10x8)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+290,ngasu zhua mbulu taraesa,((100x2)+(10x9)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+300,ngasu telu,(100x3),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+400,ngasu wutu,(100x4),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+500,ngasu lima,(100x5),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+700,ngasu limazhua,(100x(5+2)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+1000,sariwu,(1x1000); < PMP *ribu ; also means ‘a lot’,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+2005,riwu zhua esalima,((1000x2)+(5)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+1,ca,[tʃa],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+2,sua,[sua],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+3,telu,[təlu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+4,pat,[pat],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+5,lima,[lima],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+6,enem,[ənəm],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+7,pitu,[pitu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+8,alo,[alo],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+9,ciok,[tʃiok],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+10,cempulu,[tʃəmpulu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+10,cepulu,[tʃəpulu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+11,cempulu ca,[tʃəmpulu tʃa]/[tʃəpulu tʃa],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+12,cempulu sua,[tʃəmpulu sua]/[tʃəpulu sua],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+13,cempulu telu,[tʃəmpulu təlu]/[tʃəpulu təlu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+14,cempulu pat,[tʃəmpulu pat]/[tʃəpulu pat],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+15,cempulu lima,[tʃəmpulu lima]/[tʃəpulu lima],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+16,cempulu enem,[tʃəmpulu ənəm]/[tʃəpulu ənəm],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+17,cempulu pitu,[tʃəmpulu pitu]/[tʃəpulu pitu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+18,cempulu alo,[tʃəmpulu alo]/[tʃəpulu alo],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+19,cempulu ciok,[tʃəmpulu tʃiok]/[tʃəpulu tʃiok],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+20,suampulu,[suampulu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+20,suapulu,[given on p.9],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+21,suampulu ca,[suampulu tʃa],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+22,suampulu sua,[suampulu sua],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+23,suampulu telu,[suampulu təlu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+24,suampulu pat,[suampulu pat],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+25,suampulu lima,[suampulu lima],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+26,suampulu enem,[suampulu ənəm],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+27,suampulu pitu,[suampulu pitu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+28,suampulu alo,[suampulu alo],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+29,suampulu ciok,[suampulu tʃiok],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+30,telumpulu,[təlumpulu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+40,patmpulu,[patmpulu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+50,limampulu,[limampulu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+60,enempulu,[ənəmpulu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+70,pitumpulu,[pitumpulu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+80,alompulu,[alompulu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+90,ciokmpulu,[tʃiokmpulu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+100,ceratus,[tʃeratus],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+200,sua ratus,[sua ratus],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+1000,cesebu,[tʃəsebu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+2000,sua sebu,[sua sebu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+1,esa,[əsa],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+2,zua,[dʒua],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+3,telu,[təlu],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+4,wutu,[wutu],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+5,lima,[lima],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+6,lemasa,[lɛmasa],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+7,lima zua,[lima dʒua],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+8,ruabutu,[ruabutu],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+9,terasa,[tɛrasa],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+10,sebulu,[səbulu],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+11,sebulu esa,[səbulu əsa],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+12,sebulu zua,[səbulu dʒua],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+13,sebulu telu,[səbulu təlu],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+14,sebulu wutu,[səbulu wutu],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+15,sebulu lima,[səbulu lima],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+16,sebulu lemasa,[səbulu lɛmasa],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+17,sebulu lima zua,[səbulu lima dʒua],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+18,sebulu ruabutu,[səbulu ruabutu],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+19,sebulu terasa,[səbulu tɛrasa],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+20,bulu zua,[bulu dʒua],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+21,bulu zua esa,[bulu dʒua əsa],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+22,bulu zua zua,[bulu dʒua dʒua],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+23,bulu zua telu,[bulu dʒua təlu],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+24,bulu zua wutu,[bulu dʒua wutu],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+25,bulu zua lima,[bulu dʒua lima],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+26,bulu zua lemasa,[bulu dʒua lɛmasa],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+27,bulu zua lima zua,[bulu dʒua lima dʒua],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+28,bulu zua ruabutu,[bulu dʒua ruabutu],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+29,bulu zua terasa,[bulu dʒua tɛrasa],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+30,bulu telu,[bulu təlu],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+40,bulu wutu,[bulu wutu],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+50,bulu lima,[bulu lima],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+60,bulu lemasa,[bulu lɛmasa],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+70,bulu lima zua,[bulu lima dʒua],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+80,bulu ruabutu,[bulu ruabutu],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+90,bulu terasa,[bulu tɛrasa],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+100,sengasu,[səŋasu],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+200,ngasu zua,[ŋasu dʒua],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+1000,seribu,[səribu] or [riwuəsa],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+2000,ribu zua,[ribu dʒua],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+1,sa əsa,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+2,əsa ɹua,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+3,əsa təɹu,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+4,əsa wutu,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+5,əsa ɹima,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+6,əsa ɹima əsa,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+7,əsa ɹima ɹua,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+8,əsa rambutu,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+9,əsa təra əsa,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+10,səmbuɹu,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+11,səmbuɹu sə əsa,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+12,səmbuɹu əsa ɹua,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+13,səmbuɹu əsa təɹu,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+14,səmbuɹu əsa wutu,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+20,mbuɹu ɹua,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+21,mbuɹu ɹua sə əsa,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+22,mbuɹu ɹua əsa ɹua,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+100,səŋasu,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+200,ŋasu ɹua,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+1000,səribu,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+1,ha ’esa,"The base four system is limited to counting fish, coconuts, betel nut, and small fish less than a cubit in length. In all other situations the base ten system is used. ; The default classifier <’es>a is included with these examples, as numerical expressions cannot occur without a classifier. ; In Udiworowatu Kóo the form for the numeral ‘one’ varies from speaker to speaker between [a] and [ha]. In other areas of the Kéo speaking region it is realised as [a], [ha] or [sa].",FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+2,’esa rua, ‘two of something that can be classified by <’esa>’,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+3,’esa tedu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+4,diwu,Both <diwu> ‘four’ and <’udu> ‘forty’ appear to function as classifiers in the creation of numeral expressions.,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+5,ha diwu ha ’esa,(Lit. ‘one four (plus) one.’); <ha diwu> means ‘one group of four’,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+6,ha diwu ’esa rua,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+7,ha diwu ’esa tedu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+8,diwu rua,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+9,diwu rua ha ’esa,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+10,diwu rua ’esa rua,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+11,diwu rua ’esa tedu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+12,diwu tedu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+13,diwu tedu ha ’esa,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+14,diwu tedu ’esa rua,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+15,diwu tedu ’esa tedu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+16,diwu wutu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+17,diwu wutu ha ’esa,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+18,diwu wutu ’esa rua,(Lit. ‘four fours (plus) two.’),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+19,diwu wutu ’esa tedu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+20,diwu dima,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+40,ha ’udu,literally means ‘one head’; Both <diwu> ‘four’ and <’udu> ‘forty’ appear to function as classifiers in the creation of numeral expressions.,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+70,Ha ’udu diwu dima rua ’esa rua,(Lit. ‘one forty (plus) seven fours (plus) two.’),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+80,’Udu rua,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+120,’Udu tedu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+160,’Udu wutu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base four system,keoo1238-1
+1,ha ’esa,"The base four system is limited to counting fish, coconuts, betel nut, and small fish less than a cubit in length. In all other situations the base ten system is used. ; The default classifier <’es>a is included with these examples, as numerical expressions cannot occur without a classifier. ; In Udiworowatu Kóo the form for the numeral ‘one’ varies from speaker to speaker between [a] and [ha]. In other areas of the Kéo speaking region it is realised as [a], [ha] or [sa].",FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+2,’esa rua,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+3,’esa tedu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+4,’esa wutu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+5,’esa dima,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+6,’esa dima ’esa,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+7,’esa dima rua,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+8,’esa rua mbutu,<mbutu> ... appears to be a combination of <wutu> ‘four’ and <mbudu> ‘ten’.,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+9,’esa téra-’esa,the numeral CL <téra-’esa ‘nine’ doesn’t appear to have any immediately apparent explanation of its form.,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+10,ha mbudu,‘one group of ten’,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+11,ha mbudu ha ’esa,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+12,ha mbudu ’esa rua,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+13,ha mbudu ’esa tedu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+14,ha mbudu ’esa wutu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+15,ha mbudu ’esa dima,(Lit. ‘one ten (plus) five.’),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+16,ha mbudu ’esa dima ’esa,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+17,ha mbudu ’esa dima rua,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+18,ha mbudu ’esa rua mbutu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+19,ha mbudu ’esa téra-’esa,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+20,mbudu rua,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+34,Mbudu tedu ’esa wutu,(Lit. ‘three tens (plus) four.’),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+70,Mbudu dima rua,(Lit. ‘seven tens.’),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+100,ngasu,,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+222,Ngasu rua mbuda rua ’esa rua,"(Lit. ‘two hundreds, (plus) two tens, (plus) two.’)",FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+1000,liwu,also occurs as a quantifying adverb meaning ‘many’,FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+1000,Ha liwu,(Lit. ‘one thousand.’),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+2000,Liwu rua,(Lit. ‘two thousands.’),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+9000,Liwu téra-’esa,(Lit. ‘nine thousands.’),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+10000,Liwu ha mbudu,(Lit. ‘one ten (lots of) thousands.’),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+100000,Liwu ha ngasu,(Lit. ‘one hundred thousands.’),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+300000,Liwu ngasu tedu,(Lit. ‘three hundred thousands.’),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+800000,Liwu ngasu rua-mbutu,(Lit. ‘eight hundred (lots of) thousands.’),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+1000000,juta,"Typically the Indonesian word <juta> ‘million’ would be used whenever numbers of such magnitude were required, as in Kéo there is no ‘word’ as such, meaning ‘million.’",FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+1000000,Liwu ngasu ha mbudu,(Lit. ‘one ten (lots of) hundred thousands),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+1,azaxei,,FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+2,uru,,FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+2,urua,in the Southern East Coast and West Coast dialects,FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+3,orol,,FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+4,orolavaat,,FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+4,urulavaat,for some speakers,FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+5,kavitmit,"<ka> ‘3’, <vit> ‘NEG’, <mit> ‘hand’: This reflects the New Ireland way of counting on one’s hand. To begin counting, the hand is open with the thumb and all fingers extended. For each number, an appropriate of number of fingers is lowered, beginning with the small finger. Thus to indicate ‘one’ the small finger is lowered, while to indicate ‘five’ the hand is closed, i.e., there is ‘no hand’.",FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+5,oplima,in the Southern East Coast dialect,FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+6,ka-vizik-saxei,<ka-vizik> ‘it goes down’ ; (it goes down-one),FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+7,ka-vizik-uru(a),(it goes down-two),FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+8,ka-vizik-tal,(it goes down-PAUcal),FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+9,ka-vizik-faat,(it goes down-four),FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+10,sanaflu,,FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+20,sanaflu vara uru(a),(10 x 2); <va(ra)> ‘reciprocal particle’,FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+30,sanaflu vara orol,(10 x 3),FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+40,(ka-)sanaflu vara lavaat,(10 x 4); <(ka-)> ‘(it is)’,FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+40,dizanaflu vara lavaat,for some speakers,FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+50,kazanaflu va vitmit,(10 x 5),FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+60,kazanaflu va viziksaxei,(10 x (5+1)),FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+70,kazanaflu va vizikuru,(10 x (5+2)),FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+80,kazanaflu va viziktal,(10 x (5+3)),FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+90,kazanaflu va vizikfaat,(10 x (5+4)),FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+100,ka-zanaflu vara zuai,‘ten squared’,FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+200,ka-zanaflu vara zuai uru,‘3-ten REC squared two’,FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+221,ka-zanaflu vara zuai ma ka-zanaflu va ru ma zaxei xa lok,‘3-ten REC squared and 3-ten REC two and one 3 present’,FALSE,Volker1998,pp.118-119,,nali1244,Nalik,nali1244-4
+1,hihep,"Clan elders relate that the ‘true’ Nalik numbers were the numbers listed in Figure 7.6 (‘Original’ Nalik numerals), which originally came from Laefu village. ; It is also interesting that <hihep> ‘one’ has a marked falling intonation on the first syllable and rising intonation on the last syllable, while <lavaatazaar> ‘ten’ also requires a rising intonation on the last syllable. These are the only Nalik words which require specific intonation patterns separate from the intonation of the sentence as a whole. ",FALSE,Volker1998,pp.121-122,,nali1244,Nalik - ‘original’ numerals,nali1244-5
+2,kimbo,,FALSE,Volker1998,pp.121-122,,nali1244,Nalik - ‘original’ numerals,nali1244-5
+3,yaangi,,FALSE,Volker1998,pp.121-122,,nali1244,Nalik - ‘original’ numerals,nali1244-5
+4,kapkap,also the name of a malagan carving used today as a symbol of learning on the Madina High School logo ,FALSE,Volker1998,pp.121-122,,nali1244,Nalik - ‘original’ numerals,nali1244-5
+5,pakaraat,,FALSE,Volker1998,pp.121-122,,nali1244,Nalik - ‘original’ numerals,nali1244-5
+6,dipiran,also ‘the Lord’ (<di> ‘great’ + <piran> ‘big man’),FALSE,Volker1998,pp.121-122,,nali1244,Nalik - ‘original’ numerals,nali1244-5
+7,wira,,FALSE,Volker1998,pp.121-122,,nali1244,Nalik - ‘original’ numerals,nali1244-5
+8,kalangga,,FALSE,Volker1998,pp.121-122,,nali1244,Nalik - ‘original’ numerals,nali1244-5
+9,ikula,,FALSE,Volker1998,pp.121-122,,nali1244,Nalik - ‘original’ numerals,nali1244-5
+10,lavaatazaar,"Clan elders today relate that there were no numbers in this system for numbers above ten. ; It is also interesting that <hihep> ‘one’ has a marked falling intonation on the first syllable and rising intonation on the last syllable, while <lavaatazaar> ‘ten’ also requires a rising intonation on the last syllable. These are the only Nalik words which require specific intonation patterns separate from the intonation of the sentence as a whole. ",FALSE,Volker1998,pp.121-122,,nali1244,Nalik - ‘original’ numerals,nali1244-5
+1,saxe,"A somewhat different system existed traditionally for pure mathematics, i.e., counting in the abstract, as shown in Figure 7.7 (Abstract numerals). ",FALSE,Volker1998,p.122,,nali1244,Nalik - abstract numerals,nali1244-6
+2,marua,,FALSE,Volker1998,p.122,,nali1244,Nalik - abstract numerals,nali1244-6
+3,mangtal,,FALSE,Volker1998,p.122,,nali1244,Nalik - abstract numerals,nali1244-6
+4,mangfaat,,FALSE,Volker1998,p.122,,nali1244,Nalik - abstract numerals,nali1244-6
+5,malima,,FALSE,Volker1998,p.122,,nali1244,Nalik - abstract numerals,nali1244-6
+6,isaxa,,FALSE,Volker1998,p.122,,nali1244,Nalik - abstract numerals,nali1244-6
+7,sigurua,,FALSE,Volker1998,p.122,,nali1244,Nalik - abstract numerals,nali1244-6
+8,singtal,,FALSE,Volker1998,p.122,,nali1244,Nalik - abstract numerals,nali1244-6
+9,singfaat,,FALSE,Volker1998,p.122,,nali1244,Nalik - abstract numerals,nali1244-6
+10,sangaflu,,FALSE,Volker1998,p.122,,nali1244,Nalik - abstract numerals,nali1244-6
+1,azaxei,,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+2,uru,,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+2,urua,in the Southern East Coast and West Coast dialects,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+3,orol,,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+4,orolavaat,,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+4,urulavaat,for some speakers,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+5,kavitmit,‘no hand’,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+5,oplima,in the Southern East Coast dialect,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+6,ka-vizik-saxei,<ka-vizik> ‘it goes down’ ; (it goes down-one),FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+7,ka-vizik-uru(a),(it goes down-two),FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+8,ka-vizik-tal,(it goes down-paucal),FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+8,viu,"In counting, items are often counted in groups of eight, which are called a <viu> literally “dog” ",FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+9,ka-vizik-faat,(it goes down-four),FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+10,sanaflu,,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+10,kavitmit uru,(two fives),FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+10,kavitmit orol,(three fives),FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+16,viu uru,"In counting, items are often counted in groups of eight, which are called a <viu> literally “dog” ",FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+20,sanaflu va(ra) uru(a),(10×2); <va(ra)> ‘reciprocal marker’,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+30,sanaflu va(ra) orol,(10×3),FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+40,(ka) sanaflu va(ra) lavaat,(10×4); <(ka)> ‘(it)’,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+40,dizanaflu vara lavaat,for some speakers,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+50,ka zanaflu va vitmit,(10×5),FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+60,ka zanaflu va viziksaxei,(10×(5+1)),FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+70,ka zanaflu va vizikuru,(10×(5+2)),FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+80,ka zanaflu va viziktal,(10×(5+3)),FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+90,ka zanaflu va vizikfaat,(10×(5+4)),FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+93,ka zanaflu va vizikfaat ma orol,<ma> ‘and’; (literally is is ten made nine and three),FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+100,ka zanaflu vara zuai,<zuai> ‘squared’; ‘it ten REC squared’,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+200,ka zanaflu vara zuai uru,‘it ten REC squared two’,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+221,ka zanaflu vara zuai ma ka zanaflu va ru ma zaxei xa lok uru,"‘it ten REC squared and it ten REC two and one it present two’ (i.e., ((102×2)+(10×2)+1)) [sic]",FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+1000,ka zangaaflu vara zuai ma xa wut pa-lok xangaaflu vara zuai,‘it ten REC squared and it come CAU-be.present ten REC squared’,FALSE,Volker1996,pp.6-9,,nali1244,Nalik - cardinal numbers,nali1244-7
+1,hihep,"In addition to the ordinary system for counting things discussed above, clan leaders in the past used a special system for counting items used in a sacred context such as a malagan (final memorial) ceremony (see Figure 5 (Sacred counting system)). According to Nalik oral history, this sacred counting system was the original Nalik counting system, while the non-sacred counting system already discussed above is a relatively recent innovation that originated in Fissoa and gradually spread to other villages because of events during a time in Nalik history when Fissoa was a dominant force in the area and many Fissoa families settled in other villages. ; <Hihep> “one” is pronounced with a falling intonation on the first syllable, while both <hihep> and <lavaatazaar> “ten” must be pronounced with a rising intonation on the last syllable. These are the only recorded instances of individual words in Nalik requiring obligatory tone.",FALSE,Volker1996,pp.9-10,,nali1244,Nalik - sacred counting system,nali1244-8
+2,kimbo,,FALSE,Volker1996,pp.9-10,,nali1244,Nalik - sacred counting system,nali1244-8
+3,yaangi,,FALSE,Volker1996,pp.9-10,,nali1244,Nalik - sacred counting system,nali1244-8
+4,kapkap,the name of a malagan symbol meaning “knowledge” ,FALSE,Volker1996,pp.9-10,,nali1244,Nalik - sacred counting system,nali1244-8
+5,pakaraat,,FALSE,Volker1996,pp.9-10,,nali1244,Nalik - sacred counting system,nali1244-8
+6,dipiran,means “the Lord” (from <di> “great” and <piran> “leader”),FALSE,Volker1996,pp.9-10,,nali1244,Nalik - sacred counting system,nali1244-8
+7,wira,,FALSE,Volker1996,pp.9-10,,nali1244,Nalik - sacred counting system,nali1244-8
+8,kalangga,,FALSE,Volker1996,pp.9-10,,nali1244,Nalik - sacred counting system,nali1244-8
+9,ikula,,FALSE,Volker1996,pp.9-10,,nali1244,Nalik - sacred counting system,nali1244-8
+10,lavaatazaar,Today this sacred counting system has fallen into disuse and is unknown even to many clan leaders and orators. Those who still recall these numerals are unable to provide details of numbers above ten. ; both <hihep> and <lavaatazaar> “ten” must be pronounced with a rising intonation on the last syllable. These are the only recorded instances of individual words in Nalik requiring obligatory tone.,FALSE,Volker1996,pp.9-10,,nali1244,Nalik - sacred counting system,nali1244-8
+1,saxe,"Another numeral system no longer known by most Nalik speakers is a system once used for pure mathematics, i.e., for counting abstract numbers rather than actual physical items. ",FALSE,Volker1996,pp.10-11,,nali1244,Nalik - ancestral abstract counting system,nali1244-9
+2,marua,,FALSE,Volker1996,pp.10-11,,nali1244,Nalik - ancestral abstract counting system,nali1244-9
+3,mangtal,,FALSE,Volker1996,pp.10-11,,nali1244,Nalik - ancestral abstract counting system,nali1244-9
+4,mangfaat,,FALSE,Volker1996,pp.10-11,,nali1244,Nalik - ancestral abstract counting system,nali1244-9
+5,malima,,FALSE,Volker1996,pp.10-11,,nali1244,Nalik - ancestral abstract counting system,nali1244-9
+6,isaxa,,FALSE,Volker1996,pp.10-11,,nali1244,Nalik - ancestral abstract counting system,nali1244-9
+7,sagurua,,FALSE,Volker1996,pp.10-11,,nali1244,Nalik - ancestral abstract counting system,nali1244-9
+8,singtal,,FALSE,Volker1996,pp.10-11,,nali1244,Nalik - ancestral abstract counting system,nali1244-9
+9,singfaat,,FALSE,Volker1996,pp.10-11,,nali1244,Nalik - ancestral abstract counting system,nali1244-9
+10,sangaflu,"No living speakers seem to have knowledge of these abstract numerals above ten, so it is not possible to ascertain if abstract numbers larger than ten followed a base ten system as the cardinal numbers do.",FALSE,Volker1996,pp.10-11,,nali1244,Nalik - ancestral abstract counting system,nali1244-9
+1,Ukai,"the Nisa numerals that McWilliams mentions seem to be part of a secret code, which Gomes (1972:196) explains as ‘the archaic language’ in Fataluku. ",FALSE,vanEngelenhoven2010,p.11,,fata1247,Nisa [secret code?],fata1247-2
+2,Kai-Rua,kai (< Proto-Austronesian *kayu ‘wood’) and rua (< Proto-Austronesian *DuSa ‘two),FALSE,vanEngelenhoven2010,p.11,,fata1247,Nisa [secret code?],fata1247-2
+3,Rua-Fitu,The composition of the list of Nisa numerals is on the whole suspect in that a clear Austronesian derivative as fitu (< Proto-Austronesian *pitu ‘7’) appears in constructs meaning ‘3’and ‘4’,FALSE,vanEngelenhoven2010,p.11,,fata1247,Nisa [secret code?],fata1247-2
+4,Naka-FItu,The composition of the list of Nisa numerals is on the whole suspect in that a clear Austronesian derivative as fitu (< Proto-Austronesian *pitu ‘7’) appears in constructs meaning ‘3’and ‘4’,FALSE,vanEngelenhoven2010,p.11,,fata1247,Nisa [secret code?],fata1247-2
+5,Oro-Naka,,FALSE,vanEngelenhoven2010,p.11,,fata1247,Nisa [secret code?],fata1247-2
+6,Tau-Naka,,FALSE,vanEngelenhoven2010,p.11,,fata1247,Nisa [secret code?],fata1247-2
+7,Nunu-Muli,Fataluku noun ... referring to ‘banyan’,FALSE,vanEngelenhoven2010,p.11,,fata1247,Nisa [secret code?],fata1247-2
+8,Vata-Muli,Fataluku noun ... referring to ‘coconut tree’,FALSE,vanEngelenhoven2010,p.11,,fata1247,Nisa [secret code?],fata1247-2
+9,Sere-Kai,"Similarly, the combination of Fataluku <sere> ‘beach’ and <kai> in ‘9’ suggests that the Nisa list does not contain ordinary numbers but rather some kind of secretive code. ",FALSE,vanEngelenhoven2010,p.11,,fata1247,Nisa [secret code?],fata1247-2
+10,Kua,,FALSE,vanEngelenhoven2010,p.11,,fata1247,Nisa [secret code?],fata1247-2
+1,Kaiu,"Although the Uruha’a ratu member insisted that they were from ‘another lost language whose name is unknown’, a closer look reveals that with the exception of ‘1’ and possibly ‘2’ they are reversed variants of the Fataluku numerals. ; The aberrant Uruha’a form of ‘1’ <kaiu> can be explained as a metathesized form of Nisa <ukai> rather than Fataluku <ukani>. ",FALSE,vanEngelenhoven2010,p.11,,fata1247,Uruha’a [secret code?],fata1247-3
+2,Coo,unexpected in that displays metathesis of *oco rather than Fataluku: ece: *oco > Uruha’a: coo ,FALSE,vanEngelenhoven2010,p.11,,fata1247,Uruha’a [secret code?],fata1247-3
+3,Etu,Fataluku utu’e > eutu > Uruha’a etu ,FALSE,vanEngelenhoven2010,p.11,,fata1247,Uruha’a [secret code?],fata1247-3
+4,Efa,‘4’ Fataluku: fate > tefa > Uruha’a efa,FALSE,vanEngelenhoven2010,p.11,,fata1247,Uruha’a [secret code?],fata1247-3
+5,Eli,‘5’ Fataluku: lime > meli > Uruha’a eli,FALSE,vanEngelenhoven2010,p.11,,fata1247,Uruha’a [secret code?],fata1247-3
+6,Ene, 6’ Fataluku: neme > mene > Uruha’a ene,FALSE,vanEngelenhoven2010,p.11,,fata1247,Uruha’a [secret code?],fata1247-3
+7,Tufi,both syllables are simply metathesized ,FALSE,vanEngelenhoven2010,p.11,,fata1247,Uruha’a [secret code?],fata1247-3
+8,Faka,both syllables are simply metathesized ,FALSE,vanEngelenhoven2010,p.11,,fata1247,Uruha’a [secret code?],fata1247-3
+9,Vasi,both syllables are simply metathesized ,FALSE,vanEngelenhoven2010,p.11,,fata1247,Uruha’a [secret code?],fata1247-3
+10,Neta,"[metathesized version of Fataluku <ta’ane>, only pronounced without the glottal stop, as in the Central dialect] ; Edegar da Conceição Savio (personal communication on March 5th, 2010) informs that the former guerilla fighters of FRETILIN (Frente Revolucionária de Timor-Leste Independente: Revolutionary Front for an Independent East Timor) in Lautem used a ‘reversed language’ based on Fataluku. Obviously, the numerals provided by the Uruha’a ratu informant originated from this secret code and do not really come from ‘another language’.",FALSE,vanEngelenhoven2010,p.11,,fata1247,Uruha’a [secret code?],fata1247-3
+1,Ukani,,FALSE,vanEngelenhoven2010,p.11,,fata1247,Fataluku,fata1247-4
+2,Ece,,FALSE,vanEngelenhoven2010,p.11,,fata1247,Fataluku,fata1247-4
+3,Utu’e,,FALSE,vanEngelenhoven2010,p.11,,fata1247,Fataluku,fata1247-4
+4,Fate,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,fata1247,Fataluku,fata1247-4
+5,Lime,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,fata1247,Fataluku,fata1247-4
+6,Neme,a derivative of Proto-Austronesian *enem,FALSE,vanEngelenhoven2010,p.11,,fata1247,Fataluku,fata1247-4
+7,Fitu,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,fata1247,Fataluku,fata1247-4
+8,Kafa,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,fata1247,Fataluku,fata1247-4
+9,Siva,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,fata1247,Fataluku,fata1247-4
+10,Ta’ane,,FALSE,vanEngelenhoven2010,p.11,,fata1247,Fataluku,fata1247-4
+1,U,,FALSE,vanEngelenhoven2010,p.11,,maka1316,Makalero,maka1316-2
+1,Uunu,,FALSE,vanEngelenhoven2010,p.11,,maka1316,Makalero,maka1316-2
+2,Loloi,,FALSE,vanEngelenhoven2010,p.11,,maka1316,Makalero,maka1316-2
+3,Lolitu,,FALSE,vanEngelenhoven2010,p.11,,maka1316,Makalero,maka1316-2
+4,Faata,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,maka1316,Makalero,maka1316-2
+5,Lima,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,maka1316,Makalero,maka1316-2
+6,Dou(hu),,FALSE,vanEngelenhoven2010,p.11,,maka1316,Makalero,maka1316-2
+7,Fitu,(< Proto-Austronesian *pitu ‘7’) ,FALSE,vanEngelenhoven2010,p.11,,maka1316,Makalero,maka1316-2
+8,Afo,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,maka1316,Makalero,maka1316-2
+9,Siwa,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,maka1316,Makalero,maka1316-2
+10,Ruru,,FALSE,vanEngelenhoven2010,p.11,,maka1316,Makalero,maka1316-2
+10,Ruu,,FALSE,vanEngelenhoven2010,p.11,,maka1316,Makalero,maka1316-2
+1,U,,FALSE,vanEngelenhoven2010,p.11,,maka1316,Makasai,maka1316-3
+2,Lola’e,,FALSE,vanEngelenhoven2010,p.11,,maka1316,Makasai,maka1316-3
+3,Lolitu,,FALSE,vanEngelenhoven2010,p.11,,maka1316,Makasai,maka1316-3
+4,Loloha,"[implied to be loaned from Austronesian, although this is not readily clear]",FALSE,vanEngelenhoven2010,p.11,,maka1316,Makasai,maka1316-3
+5,Lima,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,maka1316,Makasai,maka1316-3
+6,Daho,,FALSE,vanEngelenhoven2010,p.11,,maka1316,Makasai,maka1316-3
+7,Pitu,(< Proto-Austronesian *pitu ‘7’) ,FALSE,vanEngelenhoven2010,p.11,,maka1316,Makasai,maka1316-3
+8,Apo,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,maka1316,Makasai,maka1316-3
+9,Siwa,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,maka1316,Makasai,maka1316-3
+10,Ruru,,FALSE,vanEngelenhoven2010,p.11,,maka1316,Makasai,maka1316-3
+1,Auni,,FALSE,vanEngelenhoven2010,p.11,,oira1263,Oirata,oira1263-2
+2,Eye,,FALSE,vanEngelenhoven2010,p.11,,oira1263,Oirata,oira1263-2
+3,Utu,,FALSE,vanEngelenhoven2010,p.11,,oira1263,Oirata,oira1263-2
+4,Pata,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,oira1263,Oirata,oira1263-2
+5,Lime,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,oira1263,Oirata,oira1263-2
+6,Neeme,a derivative of Proto-Austronesian *enem,FALSE,vanEngelenhoven2010,p.11,,oira1263,Oirata,oira1263-2
+7,Pitu,(< Proto-Austronesian *pitu ‘7’) ,FALSE,vanEngelenhoven2010,p.11,,oira1263,Oirata,oira1263-2
+8,Kapa,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,oira1263,Oirata,oira1263-2
+9,Siwa,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,oira1263,Oirata,oira1263-2
+10,Ta’an,,FALSE,vanEngelenhoven2010,p.11,,oira1263,Oirata,oira1263-2
+1,Ukai,,FALSE,Gomes1972,p.176,,fata1247,Fataluku - old numbering,fata1247-5
+2,kai-rua,(1+1),FALSE,Gomes1972,p.176,,fata1247,Fataluku - old numbering,fata1247-5
+3,rua-fitu,"(2+1); There were, however, two numerals in which the word “fitu” [‘seven’ in the regular system] entered: three, “rua-fitu”, and four, “naka-fitu”",FALSE,Gomes1972,p.176,,fata1247,Fataluku - old numbering,fata1247-5
+4,naka-fitu,"(3+1); There were, however, two numerals in which the word “fitu” [‘seven’ in the regular system] entered: three, “rua-fitu”, and four, “naka-fitu”",FALSE,Gomes1972,p.176,,fata1247,Fataluku - old numbering,fata1247-5
+5,Oro-naka,(4+1),FALSE,Gomes1972,p.176,,fata1247,Fataluku - old numbering,fata1247-5
+6,Tau-naka,,FALSE,Gomes1972,p.176,,fata1247,Fataluku - old numbering,fata1247-5
+7,nunu-muli,"The ancient numeral “nunu-muli” (seven), for example, is, at least verbally, linked to the ancient grandfather's name Tana-Nunu-Sara, as well as to the names “maarmalaruu” Naija-Nunu-Aku, Nunu-Tei Tchai-Nunu-Tei and Maa-Nunu-Tei.",FALSE,Gomes1972,p.176,,fata1247,Fataluku - old numbering,fata1247-5
+8,vata-muli,,FALSE,Gomes1972,p.176,,fata1247,Fataluku - old numbering,fata1247-5
+9,sere-kai,"(9x1); [cf. p.85: “Sere”, in addition to being an archaic numeral (nine), today replaced by “siva”, also has the meaning of a distant, indeterminate terrestrial zone.] [cf. p.81: “Sere”, now replaced in the numeral scale by “siva”, is also a component of several village names – Serelau (sere, nove+lau, cloth), Serenira (sere+ira, water, spring) . . . and even the names of Sere-Kati ancestors (from the Puu-Lula clan) . . .]",FALSE,Gomes1972,p.176,,fata1247,Fataluku - old numbering,fata1247-5
+10,kua,,FALSE,Gomes1972,p.176,,fata1247,Fataluku - old numbering,fata1247-5
