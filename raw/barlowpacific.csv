@@ -15880,7 +15880,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,ə utul,,FALSE,Barlow2024Makada,pp.15-16,,kuan1248,Makada (absolute cardinal numerals),kuan1248-5
 4,ə iwat,,FALSE,Barlow2024Makada,pp.15-16,,kuan1248,Makada (absolute cardinal numerals),kuan1248-5
 5,ə ilim,,FALSE,Barlow2024Makada,pp.15-16,,kuan1248,Makada (absolute cardinal numerals),kuan1248-5
-6,ləptikai,[ l əp t ʃi k a i ] ,FALSE,Barlow2024Makada,pp.15-16,,kuan1248,Makada (absolute cardinal numerals),kuan1248-5
+6,ləptikai,[ləptʃikai],FALSE,Barlow2024Makada,pp.15-16,,kuan1248,Makada (absolute cardinal numerals),kuan1248-5
 7,ləwuruə,,FALSE,Barlow2024Makada,pp.15-16,,kuan1248,Makada (absolute cardinal numerals),kuan1248-5
 8,ləwutul,,FALSE,Barlow2024Makada,pp.15-16,,kuan1248,Makada (absolute cardinal numerals),kuan1248-5
 9,ləwuwat,,FALSE,Barlow2024Makada,pp.15-16,,kuan1248,Makada (absolute cardinal numerals),kuan1248-5
@@ -15918,7 +15918,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,ə utul,,FALSE,Barlow2024Makada,p.15,,kuan1248,Makada (adnominal cardinal numerals),kuan1248-6
 4,ə iwət,,FALSE,Barlow2024Makada,p.15,,kuan1248,Makada (adnominal cardinal numerals),kuan1248-6
 5,ə ilima,,FALSE,Barlow2024Makada,p.15,,kuan1248,Makada (adnominal cardinal numerals),kuan1248-6
-6,ləptiken,[l əp t ʃi k e n ] ,FALSE,Barlow2024Makada,p.15,,kuan1248,Makada (adnominal cardinal numerals),kuan1248-6
+6,ləptiken,[ləptʃiken],FALSE,Barlow2024Makada,p.15,,kuan1248,Makada (adnominal cardinal numerals),kuan1248-6
 7,ləwuruən,,FALSE,Barlow2024Makada,p.15,,kuan1248,Makada (adnominal cardinal numerals),kuan1248-6
 8,ləwutulun,,FALSE,Barlow2024Makada,p.15,,kuan1248,Makada (adnominal cardinal numerals),kuan1248-6
 9,ləwuwətin,,FALSE,Barlow2024Makada,p.15,,kuan1248,Makada (adnominal cardinal numerals),kuan1248-6
@@ -18195,13 +18195,13 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 7,ratɛle nai,‘[five] plus two’,FALSE,Barlow2024Lote,passim,,lote1237,Lote,lote1237-5
 8,ratɛle mol,‘[five] plus three’,FALSE,Barlow2024Lote,passim,,lote1237,Lote,lote1237-5
 9,ratɛle hɛnɛl,‘[five] plus four’,FALSE,Barlow2024Lote,passim,,lote1237,Lote,lote1237-5
-10,analox,possibly < TOP + /loxlox/ ‘all’,FALSE,Barlow2024Lote,passim,,lote1237,Lote,lote1237-5
+10,analox,possibly < /ana/ TOP + /loxlox/ ‘all’,FALSE,Barlow2024Lote,passim,,lote1237,Lote,lote1237-5
 20,ana non kina ɛllɛ,‘TOP man bone-3SG [times] one’,FALSE,Barlow2024Lote,passim,,lote1237,Lote,lote1237-5
 40,ana non kina nai,‘TOP man bone-3SG [times] two’,FALSE,Barlow2024Lote,passim,,lote1237,Lote,lote1237-5
 50,ana non kina nai pe analox,‘TOP man bone-3SG [times] two and ten’,FALSE,Barlow2024Lote,passim,,lote1237,Lote,lote1237-5
 100,ana non kina limɛ,‘TOP man bone-3SG [times] five’,FALSE,Barlow2024Lote,passim,,lote1237,Lote,lote1237-5
 200,ana non kina iri analox,‘TOP man bone-3SG [times] 3PL ten’,FALSE,Barlow2024Lote,passim,,lote1237,Lote,lote1237-5
-1,ɛllɛ,"used for counting coconuts, breadfruit, pieces of firewood, (not, e.g., stones, bananas, people)",FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
+1,ɛllɛ,"used for counting coconuts, breadfruit, pieces of firewood (not, e.g., stones, bananas, people)",FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
 2,nai,,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
 3,mol,,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
 4,lɛisinɛ,"‘four (counting in fours; only as an absolute numeral, not as an adnominal numeral)’",FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
@@ -18210,14 +18210,14 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 6,lɛisinɛ pe nai,‘group.of.four and two’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
 7,lɛisinɛ pe mol,‘group.of.four and three’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
 8,lɛisinɛ nai,‘group.of.four [times] two’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
-8,lɛisinɛ iri nai,‘group.of.four 3PL two’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
+8,lɛisinɛ iri nai,‘group.of.four [times] 3PL two’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
 9,lɛisinɛ nai pe ɛllɛ,‘group.of.four [times] two and one’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
 10,lɛisinɛ nai pe nai,‘group.of.four [times] two and two’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
 11,lɛisinɛ nai pe mol,‘group.of.four [times] two and three’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
 12,lɛisinɛ mol,‘group.of.four [times] three’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
-12,lɛisinɛ iri mol,‘group.of.four 3PL three’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
+12,lɛisinɛ iri mol,‘group.of.four [times] 3PL three’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
 16,lɛisinɛ hɛnɛl,‘group.of.four [times] four’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
-16,lɛisinɛ iri hɛnɛl,‘group.of.four 3PL four’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
+16,lɛisinɛ iri hɛnɛl,‘group.of.four [times] 3PL four’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
 1,vu jia,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
 1,vujia,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
 1,tuwa,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
