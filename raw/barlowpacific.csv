@@ -18218,6 +18218,41 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 12,lɛisinɛ iri mol,‘group.of.four [times] 3PL three’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
 16,lɛisinɛ hɛnɛl,‘group.of.four [times] four’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
 16,lɛisinɛ iri hɛnɛl,‘group.of.four [times] 3PL four’,FALSE,Barlow2024Lote,passim,,lote1237,Lote (counting in fours),lote1237-6
+1,éllé,,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+2,nai,,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+3,mol,,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+4,hénél,,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+5,limé,,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+6,limé pe ratele éllé,"‘five and hold one’; The word /ratele/ is most likely a shortened form of /ra-hit-hél-é/ ‘hold-block-REC-TR’, meaning ‘hold close, grasp (together with)’.",FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+6,ratele éllé,Often these numbers are abbreviated by simply saying /ratele éllé/ ‘six’; /ratele nai/ ‘seven’ etc.,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+7,limé pe ratele nai,‘f i v e   a n d   h o l d   two ’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+7,ratele nai,Often these numbers are abbreviated by simply saying /ratele éllé/ ‘six’; /ratele nai/ ‘seven’ etc.,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+8,limé pe ratele mol,‘f i v e   a n d   h o l d   three ’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+9,limé pe ratele hénél,‘f i v e   a n d   h o l d   four ’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+10,analoch,‘one whole’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+11,analoch pe éllé,‘one whole and one’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+12,analoch pe nai,‘one whole and two’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+13,analoch pe mol,‘one whole and three’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+14,analoch pe hénél,‘one whole and four’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+15,analoch pe limé,‘one whole and five’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+16,analoch pe limé pe ratele éllé,‘one whole and five and hold one’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+17,analoch pe limé pe ratele nai,‘one whole and five and hold two’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+18,analoch pe limé pe ratele mol,‘one whole and five and hold three’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+19,analoch pe limé pe ratele hénél,‘one whole and five and hold four’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+20,ana non kina éllé,‘the bones of one man’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+21,ana non kina éllé pe éllé,‘the bones of one man and one’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+22,ana non kina éllé pe nai,‘the bones of one man and two’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+23,ana non kina éllé pe mol,‘the bones of one man and three’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+30,ana non kina éllé pe analoch,‘the bones of one man and one whole’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+31,ana non kina éllé pe analoch pe éllé,‘the bones of one man and one whole and one’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+40,ana non kina nai,‘the bones of two men’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+50,ana non kina nai pe analoch,‘the bones of two men and one whole’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+60,ana non kina mol,‘the bones of three men’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+70,ana non kina mol pe analoch,‘the bones of three men and one whole’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+80,ana non kina hénél,‘the bones of four men’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+90,ana non kina hénél pe analoch,‘the bones of four men and one whole’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+100,ana non kina limé,‘the bones of five men’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
+200,ana non kina analoch,‘the bones of ten (whole) men’,FALSE,Pearson2008,pp.29-31,,lote1237,Lote,lote1237-7
 1,vu jia,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
 1,vujia,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
 1,tuwa,,FALSE,Codrington1885,"pp.233, 236, 244, 249-250, 400",,loto1240,"Torres Islands, Lo",loto1240-1
