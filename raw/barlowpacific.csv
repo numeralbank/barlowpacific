@@ -9023,6 +9023,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,səŋasu,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
 200,ŋasu ɹua,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
 1000,səribu,,FALSE,Arka2010,p.12,,ende1246,Ende,ende1246-4
+1,sa ʔəsa,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
+2,rua,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
+3,təɹu,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
+4,wutu,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
+5,ɹima,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
+6,ɹima ʔəsa,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
+7,ɹima rua,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
+8,rua mbutu,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
+9,təra ʔəsa,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
+10,sa mbuɹu,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
 1,mendá-i,,FALSE,Franklin2012,pp.35-36,,enga1252,Enga,enga1252-1
 1,méndé,,FALSE,Franklin2012,pp.35-36,,enga1252,Enga,enga1252-1
 2,lápó,,FALSE,Franklin2012,pp.35-36,,enga1252,Enga,enga1252-1
@@ -14643,6 +14653,49 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 800000,Liwu ngasu rua-mbutu,(Lit. ‘eight hundred (lots of) thousands.’),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
 1000000,juta,"Typically the Indonesian word <juta> ‘million’ would be used whenever numbers of such magnitude were required, as in Kéo there is no ‘word’ as such, meaning ‘million.’",FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
 1000000,Liwu ngasu ha mbudu,(Lit. ‘one ten (lots of) hundred thousands),FALSE,Baird2002,pp.226-237,,keoo1238,Kéo - base ten system,keoo1238-2
+1,ha=[ʔəsa],"Note that the general classifier PCF *əsa is homophonous with the morpheme used to represent the number 1 in the composed numerals 6 and 9 (and may share an etymology in PMP *əsa ‘one’, although they are now clearly separate in Central Flores). In order to help the reader, the instances where PCF *əsa is used as a classifier are placed between square brackets.",FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+2,[ʔəsa] rua,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+3,[ʔəsa] tədu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+4,[ʔəsa] wutu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+5,[ʔəsa] dima,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+6,[ʔəsa] dima ʔəsa,PCF *lima əsa ‘six’ means ‘one five’,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+7,[ʔəsa] dima rua,"PCF *lima dua ‘seven’ means ‘five two’, using an additive strategy",FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+8,[ʔəsa] rua mbutu,PCF *dua mbutu ‘eight’ means ‘two four’ using a multiplicative strategy,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+9,[ʔəsa] təra ʔəsa,"PCF *təra asa ‘nine’ seems to be composed of an initial morpheme meaning ‘to take away, to remove’ followed by ‘one’, so it means something like ‘take away one (from ten)’ using a subtractive strategy",FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+10,ha=mbudu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+11,ha=mbudu ha=[ʔəsa],,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+12,ha=mbudu [ʔəsa] rua,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+13,ha=mbudu [ʔəsa] tədu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+14,ha=mbudu [ʔəsa] wutu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+15,ha=mbudu [ʔəsa] dima,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+16,ha=mbudu [ʔəsa] dima ʔəsa,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+17,ha=mbudu [ʔəsa] dima rua,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+18,ha=mbudu [ʔəsa] rua mbutu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+19,ha=mbudu [ʔəsa] təra ʔəsa,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+20,mbudu rua,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+100,ha=ŋasu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+1000,ha=liwu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
+1,ha=[ʔəsa],This system has a more restricted application,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
+2,[ʔəsa] rua,,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
+3,[ʔəsa] tədu,,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
+4,ha=diwu,,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
+5,ha=diwu ha=[ʔəsa],,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
+6,ha=diwu [ʔəsa] rua,,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
+7,ha=diwu [ʔəsa] tədu,,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
+8,diwu rua,,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
+9,diwu rua ha=[ʔəsa],,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
+10,diwu rua [ʔəsa] rua,,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
+40,ha=ʔudu,"Interestingly, the highest repeating base in this system (40) is reconstructed as PCF *ulu ‘head; 40’.",FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
+1,ha ʔəsa,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
+2,rua,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
+3,tədu,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
+4,wutu,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
+5,dima,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
+6,dima ʔəsa,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
+7,dima rua,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
+8,rua mbutu,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
+9,təra ʔəsa,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
+10,ha mbudu,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
 1,Laria-kore,"“The numbers are represented by the fingers and toes, the latter on one foot only, and there are no numbers above 15.”",FALSE,Baker1915,p.182,,keor1235,Haira,keor1235-1
 2,Lo-ha-ha,,FALSE,Baker1915,p.182,,keor1235,Haira,keor1235-1
 3,La-hi-ha-ha,,FALSE,Baker1915,p.182,,keor1235,Haira,keor1235-1
@@ -17817,6 +17870,49 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 30,mboeloe telloe,,FALSE,Stokhof1983Vol6,p.178,,lioo1240,Lio (Flores),lioo1240-1
 100,sangasoe,,FALSE,Stokhof1983Vol6,p.178,,lioo1240,Lio (Flores),lioo1240-1
 1000,sa riwoe,,FALSE,Stokhof1983Vol6,p.178,,lioo1240,Lio (Flores),lioo1240-1
+1,sa=[əsa],"Note that the general classifier PCF *əsa is homophonous with the morpheme used to represent the number 1 in the composed numerals 6 and 9 (and may share an etymology in PMP *əsa ‘one’, although they are now clearly separate in Central Flores). In order to help the reader, the instances where PCF *əsa is used as a classifier are placed between square brackets.",FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+2,[əsa] rua,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+3,[əsa] təlu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+4,[əsa] sutu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+5,[əsa] lima,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+6,[əsa] lima əsa,PCF *lima əsa ‘six’ means ‘one five’,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+7,[əsa] lima rua,"PCF *lima dua ‘seven’ means ‘five two’, using an additive strategy",FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+8,[əsa] rua mbutu,PCF *dua mbutu ‘eight’ means ‘two four’ using a multiplicative strategy,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+9,[əsa] təra əsa,"PCF *təra asa ‘nine’ seems to be composed of an initial morpheme meaning ‘to take away, to remove’ followed by ‘one’, so it means something like ‘take away one (from ten)’ using a subtractive strategy",FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+10,sa=mbulu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+11,sa=mbulu sa=[əsa],,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+12,sa=mbulu [əsa] rua,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+13,sa=mbulu [əsa] təlu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+14,sa=mbulu [əsa] sutu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+15,sa=mbulu [əsa] lima,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+16,sa=mbulu [əsa] lima əsa,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+17,sa=mbulu [əsa] lima rua,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+18,sa=mbulu [əsa] rua mbutu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+19,sa=mbulu [əsa] təra əsa,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+20,mbulu rua,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+100,sa=ŋasu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+1000,sa=riwu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
+1,sa=[əsa],"This system has a more restricted application, typically being used (by Lio speakers at least) when dealing with small objects which can be stacked into pyramids of 4 such as coconuts, areca nuts, or limes.",FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
+2,[əsa] rua,,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
+3,[əsa] təlu,,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
+4,sa=liwu,,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
+5,sa=liwu sa=[əsa],,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
+6,sa=liwu [əsa] rua,,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
+7,sa=liwu [əsa] təlu,,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
+8,liwu rua,,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
+9,liwu rua sa=[əsa],,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
+10,liwu rua sa=[əsa] rua,,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
+40,sa=ulu,"Interestingly, the highest repeating base in this system (40) is reconstructed as PCF *ulu ‘head; 40’.",FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
+1,sa əsa,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
+2,rua,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
+3,təlu,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
+4,sutu,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
+5,lima,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
+6,lima əsa,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
+7,lima rua,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
+8,rua mbutu,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
+9,təra əsa,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
+10,sa mbulu,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
 1,emsijan,,FALSE,Stokhof1982Vol3.4,p.29,,lise1239,Masarete: Ambon (from the missionary-teacher),lise1239-1
 1,sa,,FALSE,Stokhof1982Vol3.4,p.29,,lise1239,Masarete: Ambon (from the missionary-teacher),lise1239-1
 2,roewa,,FALSE,Stokhof1982Vol3.4,p.29,,lise1239,Masarete: Ambon (from the missionary-teacher),lise1239-1
@@ -20610,6 +20706,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 200,sua ratus,[sua ratus],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
 1000,cesebu,[tʃəsebu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
 2000,sua sebu,[sua sebu],FALSE,Arka2010,p.11,,mang1405,Manggarai,mang1405-1
+1,tʃa,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
+2,sua,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
+3,təlu,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
+4,pat,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
+5,lima,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
+6,ənəm,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
+7,pitu,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
+8,alo,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
+9,tʃiok,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
+10,tʃa mpulu,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
 1,hom,,FALSE,Ray1912,pp.340-341,,mani1235,Manikion,mani1235-1
 2,hŏai,,FALSE,Ray1912,pp.340-341,,mani1235,Manikion,mani1235-1
 3,homoi,,FALSE,Ray1912,pp.340-341,,mani1235,Manikion,mani1235-1
@@ -23652,6 +23758,46 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,saᵐbulu,,FALSE,Pita2016,p.132,,nage1237,Nagekeo,nage1237-1
 11,"sa(b,ᵐb)ulu sa ʡəsa",,FALSE,Pita2016,p.132,,nage1237,Nagekeo,nage1237-1
 12,"sa(b,ᵐb)ulu ʡəsa z(r,ɗ)ua",,FALSE,Pita2016,p.132,,nage1237,Nagekeo,nage1237-1
+1,sa əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
+2,yua,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
+3,təɮu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
+4,wutu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
+5,ɮima,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
+6,ɮima əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
+7,ɮima ɹua,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
+8,ɹua butu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
+9,təra əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
+10,sa buɮu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
+1,sa əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
+2,ɹua,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
+3,təɮu,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
+4,wutu,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
+5,ɮima,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
+6,ɮima əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
+7,ɮima rua,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
+8,rua butu,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
+9,təra əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
+10,sa buɮu,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
+1,sa əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
+2,ɹua,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
+3,tədu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
+4,wutu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
+5,dima,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
+6,dima əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
+7,dima ɹua,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
+8,ɹua mbutu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
+9,təra əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
+10,sa mbudu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
+1,sa əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
+2,zua,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
+3,təlu,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
+4,wutu,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
+5,lima,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
+6,lima əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
+7,lima zua,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
+8,zua butu,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
+9,ta əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
+10,sa bulu,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
 1,maimeʔ,,FALSE,LeanSandaun,p.22,SIL Word List (undated).,naii1241,Biaka,naii1241-1
 2,arameʔ,,FALSE,LeanSandaun,p.22,SIL Word List (undated).,naii1241,Biaka,naii1241-1
 3,magopeʔ,,FALSE,LeanSandaun,p.22,SIL Word List (undated).,naii1241,Biaka,naii1241-1
@@ -24655,6 +24801,36 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 200,ngasu zua,[ŋasu dʒua],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
 1000,seribu,[səribu] or [riwuəsa],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
 2000,ribu zua,[ribu dʒua],FALSE,Arka2010,pp.11-12,,ngad1261,Ngadha,ngad1261-1
+1,sa əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
+2,rua,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
+3,təu,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
+4,wutu,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
+5,ima,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
+6,ima əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
+7,ima rua,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
+8,rua butu,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
+9,təra əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
+10,sa bu,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
+1,sa əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
+2,zua,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
+3,təlu,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
+4,wutu,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
+5,lima,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
+6,lima əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
+7,lima zua,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
+8,rua butu,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
+9,təra əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
+10,sa bulu,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
+1,sa əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
+2,zua,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
+3,təlu,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
+4,wutu,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
+5,lima,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
+6,lima əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
+7,lima zua,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
+8,rua butu,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
+9,təra əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
+10,sa bulu,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
 1,gula,,FALSE,Gray2015,p.65,,ngai1241,Ngaing (Sibog village),ngai1241-1
 2,irisak,,FALSE,Gray2015,p.65,,ngai1241,Ngaing (Sibog village),ngai1241-1
 3,atbusak,,FALSE,Gray2015,p.65,,ngai1241,Ngaing (Sibog village),ngai1241-1
@@ -26641,6 +26817,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,maʔoð,,FALSE,Grace1955pdf42,p.31,,pala1344,Palauan,pala1344-1
 1,utʌmʌt,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,pall1244,Abasakur,pall1244-1
 2,arasa,,FALSE,Zgraggen1980NorthernAdelbert,p.92,,pall1244,Abasakur,pall1244-1
+1,a,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
+2,rua,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
+3,təlu,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
+4,ɓa,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
+5,lima,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
+6,ʔəne,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
+7,ɓitu,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
+8,walu,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
+9,iwa,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
+10,a pulu,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
 1,saaʔ,,FALSE,Lobel2016,pp.234-239,,palu1253,Murut Paluan,palu1253-1
 2,duo,,FALSE,Lobel2016,pp.234-239,,palu1253,Murut Paluan,palu1253-1
 3,talu,,FALSE,Lobel2016,pp.234-239,,palu1253,Murut Paluan,palu1253-1
@@ -28550,6 +28736,135 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 700,ngasu limazhua,(100x(5+2)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
 1000,sariwu,(1x1000); < PMP *ribu ; also means ‘a lot’,FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
 2005,riwu zhua esalima,((1000x2)+(5)),FALSE,Arka2010,passim,,rong1269,Rongga - regular numerals,rong1269-2
+1,sa=[əsa],"Note that the general classifier PCF *əsa is homophonous with the morpheme used to represent the number 1 in the composed numerals 6 and 9 (and may share an etymology in PMP *əsa ‘one’, although they are now clearly separate in Central Flores). In order to help the reader, the instances where PCF *əsa is used as a classifier are placed between square brackets.",FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+2,[əsa] ɹua,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+3,[əsa] təlu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+4,[əsa] wutu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+5,[əsa] lima,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+6,[əsa] lima əsa,PCF *lima əsa ‘six’ means ‘one five’,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+7,[əsa] lima ɹua,"PCF *lima dua ‘seven’ means ‘five two’, using an additive strategy",FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+8,[əsa] ɹua mbutu,PCF *dua mbutu ‘eight’ means ‘two four’ using a multiplicative strategy,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+9,[əsa] təra əsa,"PCF *təra asa ‘nine’ seems to be composed of an initial morpheme meaning ‘to take away, to remove’ followed by ‘one’, so it means something like ‘take away one (from ten)’ using a subtractive strategy",FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+10,sa=mbulu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+11,sa=mbulu sa=[əsa],,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+12,sa=mbulu [əsa] ɹua,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+13,sa=mbulu [əsa] təlu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+14,sa=mbulu [əsa] wutu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+15,sa=mbulu [əsa] lima,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+16,sa=mbulu [əsa] lima əsa,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+17,sa=mbulu [əsa] lima ɹua,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+18,sa=mbulu [əsa] ɹua mbutu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+19,sa=mbulu [əsa] təra əsa,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+20,mbulu ɹua,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+100,sa=ŋasu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+1000,sa=riwu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
+1,sa=[əsa],This system has a more restricted application,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
+2,[əsa] ɹua,,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
+3,[əsa] təlu,,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
+4,sa=liwu,,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
+5,sa=liwu sa=[əsa],,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
+6,sa=liwu [əsa] ɹua,,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
+7,sa=liwu [əsa] təlu,,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
+8,liwu ɹua [əsa] ɹua,,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
+9,liwu ɹua sa=[əsa],,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
+10,liwu ɹua,,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
+40,sa=ulu,"Interestingly, the highest repeating base in this system (40) is reconstructed as PCF *ulu ‘head; 40’.",FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
+1,ɗa,none of the numerals below ten except ɗua ‘two’ and possibly ɗa ‘one’ have a plausible Austronesian etymology,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+2,ɗua,none of the numerals below ten except ɗua ‘two’ and possibly ɗa ‘one’ have a plausible Austronesian etymology,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+3,ɗəmu,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+4,ɗəke,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+5,ali,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+6,woe,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+7,sipi,alliteration [with 8],FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+8,sapa,alliteration [with 7],FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+9,ŋgwo,alliteration [with 10]; various numbers contain consonant clusters which violate the phonotactic rules of Rongga: particularly ŋgwo ‘nine’ and mopla ‘twenty’,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+10,ŋguru,alliteration [with 9],FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+11,əsaŋgəsa,It seems that the strategy for forming numerals 1–5 is by reduplicating the numerals for 1–5 [inherited Central Flores etyma] with an unpredictably altered initial consonant,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+12,ɹuadua,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+13,təluŋgətu,"appears to have shifted from the expected **təluŋgəlu under the influence of the following wutuŋgutu ‘fourteen’, so that the two numerals share the same ending.",FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+14,wutuŋgutu,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+15,limakima,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+16,aŋgunae,"From 16 to 20, almost nothing can be ascertained about the etymology of the numerals",FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+17,nəŋgonae,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+18,soroila,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+19,watopəsa,may perhaps contain a morpheme reflecting PCF əsa ‘one’ and therefore be formed by subtraction (20–1) (Arka 2016:127),FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+20,mopla,various numbers contain consonant clusters which violate the phonotactic rules of Rongga: particularly ŋgwo ‘nine’ and mopla ‘twenty’,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
+1,sa əsa,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
+2,ɹua,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
+3,təlu,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
+4,wutu,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
+5,lima,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
+6,lima əsa,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
+7,lima ɹua,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
+8,ɹua mbutu,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
+9,tara əsa,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
+10,sa mbulu,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
+1,dha,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+2,dhua,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+3,demu,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+4,dheke,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+5,ali,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+6,woe,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+7,sipi,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+8,sapa,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+9,nggwo,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+10,ngguru,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+11,esanggesa,literally ‘one-one’,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+12,zhuadhua,literally ‘two-two’,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+13,telunggetu,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+14,wutunggutu,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+15,limakima,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+16,anggunae,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+17,nenggonae,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+18,soroila,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+19,watopesa,"possibly 20 minus 1, but there is no clear indication that wutu means ‘20’",FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+20,mopla,(It is not clear whether there are any numerals higher than 20 for this system.),FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
+1,esa,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+2,zhua,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+3,telu,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+4,wutu,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+5,lima,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+6,lima esa,(5 + 1),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+7,lima zhua,(5 + 2),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+8,zhua mbutu,(2 x 4?),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+9,tera esa,(8 + 1?),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+10,sembulu,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+10,sa=mbulu,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+11,sa=mbulu sa=esa,(1x10)+(1x1),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+12,sa=mbulu esa zhua,(1x10)+(1x2),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+13,sa=mbulu esa telu,(1x10)+(1x3),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+14,sa=mbulu esa wutu,(1x10)+(1x4),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+15,sa=mbulu esa lima,(1x10)+(1x5),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+16,sa=mbulu esa lima esa,(1x10)+((1x5)+1),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+17,sa=mbulu esa limazhu,(1x10)+((1x5)+2),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+18,sa=mbulu esa zhuambutu,(1x 10)+(1x(2x 4)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+19,sa=mbulu esa teraesa,(1x 10) + (1 x 9),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+20,mbulu zhua,(10x2),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+21,mbulu zhua sa=esa,(10x2)+(1x1),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+22,mbulu esa zhua,[?] (10x2)+(1x2),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+30,mbulu telu,(10x3),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+40,mbulu wutu,(10x4),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+50,mbulu lima,(10x5),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+60,mbulu lima esa,(10x(5+1)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+70,mbulu lima zhua,(10x(5+2)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+80,mbulu zhuambutu,(10x(2x4)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+90,mbulu tera esa,(10x9),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+100,sa=ngasu,(1x100),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+120,sa=ngasu mbulu zhua,(100+(10x2),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+125,sa=ngasu mbulu zhua esa lima,((100+(10x2)+(1x5)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+150,sa=ngasu mbulu lima,((1x100)+(10x5)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+155,sa=ngasu mbulu lima esa lima,((1x100)+(10x5)+(1x5)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+200,ngasu zhua,(100x2),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+250,ngasu zhua mbulu lima,((100x2)+(10x5)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+300,ngasu telu,(100 x 3),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+400,ngasu wutu,(100 x 4),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+500,ngasu lima,(100 x 5),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+700,ngasu lima zhua,(100 x 7),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+800,ngasu zhuambutu,(100x8),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+900,ngasu teraesa,(100x9),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+1000,sa=riwu,(1x1000),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+2000,riwu zhua,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
+2004,riwu zhua esa wutu,(1000x2)+(1x4),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
 1,tanina,,FALSE,Smith1988,p.62,,ronj1237,Roinji,ronj1237-1
 2,lua,,FALSE,Smith1988,p.62,,ronj1237,Roinji,ronj1237-1
 3,lua ma tenina,,FALSE,Smith1988,p.62,,ronj1237,Roinji,ronj1237-1
@@ -30939,6 +31254,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 30,mboeloe telloe,,FALSE,Stokhof1983Vol6,p.213,,sika1262,Sikka (Flores),sika1262-2
 100,hangasoe,,FALSE,Stokhof1983Vol6,p.213,,sika1262,Sikka (Flores),sika1262-2
 1000,ha riwoe,,FALSE,Stokhof1983Vol6,p.213,,sika1262,Sikka (Flores),sika1262-2
+1,ha,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
+2,rua,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
+3,təlu,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
+4,hutu,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
+5,lima,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
+6,əna,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
+7,pitu,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
+8,walu,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
+9,hiwa,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
+10,pulu,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
 1,kaike,,FALSE,Galis1955,p.143,,sika1263,Tori,sika1263-1
 2,batja,,FALSE,Galis1955,p.143,,sika1263,Tori,sika1263-1
 3,uafea,,FALSE,Galis1955,p.143,,sika1263,Tori,sika1263-1
@@ -39400,328 +39725,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,sa=[əsa],"Note that the general classifier PCF *əsa is homophonous with the morpheme used to represent the number 1 in the composed numerals 6 and 9 (and may share an etymology in PMP *əsa ‘one’, although they are now clearly separate in Central Flores). In order to help the reader, the instances where PCF *əsa is used as a classifier are placed between square brackets.",FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-2,[əsa] rua,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-3,[əsa] təlu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-4,[əsa] sutu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-5,[əsa] lima,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-6,[əsa] lima əsa,PCF *lima əsa ‘six’ means ‘one five’,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-7,[əsa] lima rua,"PCF *lima dua ‘seven’ means ‘five two’, using an additive strategy",FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-8,[əsa] rua mbutu,PCF *dua mbutu ‘eight’ means ‘two four’ using a multiplicative strategy,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-9,[əsa] təra əsa,"PCF *təra asa ‘nine’ seems to be composed of an initial morpheme meaning ‘to take away, to remove’ followed by ‘one’, so it means something like ‘take away one (from ten)’ using a subtractive strategy",FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-10,sa=mbulu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-11,sa=mbulu sa=[əsa],,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-12,sa=mbulu [əsa] rua,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-13,sa=mbulu [əsa] təlu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-14,sa=mbulu [əsa] sutu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-15,sa=mbulu [əsa] lima,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-16,sa=mbulu [əsa] lima əsa,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-17,sa=mbulu [əsa] lima rua,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-18,sa=mbulu [əsa] rua mbutu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-19,sa=mbulu [əsa] təra əsa,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-20,mbulu rua,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-100,sa=ŋasu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-1000,sa=riwu,,FALSE,Elias2020,pp.326-327,,lioo1240,Lio (quinary-decimal numerals),lioo1240-2
-1,ha=[ʔəsa],"Note that the general classifier PCF *əsa is homophonous with the morpheme used to represent the number 1 in the composed numerals 6 and 9 (and may share an etymology in PMP *əsa ‘one’, although they are now clearly separate in Central Flores). In order to help the reader, the instances where PCF *əsa is used as a classifier are placed between square brackets.",FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-2,[ʔəsa] rua,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-3,[ʔəsa] tədu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-4,[ʔəsa] wutu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-5,[ʔəsa] dima,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-6,[ʔəsa] dima ʔəsa,PCF *lima əsa ‘six’ means ‘one five’,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-7,[ʔəsa] dima rua,"PCF *lima dua ‘seven’ means ‘five two’, using an additive strategy",FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-8,[ʔəsa] rua mbutu,PCF *dua mbutu ‘eight’ means ‘two four’ using a multiplicative strategy,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-9,[ʔəsa] təra ʔəsa,"PCF *təra asa ‘nine’ seems to be composed of an initial morpheme meaning ‘to take away, to remove’ followed by ‘one’, so it means something like ‘take away one (from ten)’ using a subtractive strategy",FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-10,ha=mbudu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-11,ha=mbudu ha=[ʔəsa],,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-12,ha=mbudu [ʔəsa] rua,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-13,ha=mbudu [ʔəsa] tədu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-14,ha=mbudu [ʔəsa] wutu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-15,ha=mbudu [ʔəsa] dima,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-16,ha=mbudu [ʔəsa] dima ʔəsa,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-17,ha=mbudu [ʔəsa] dima rua,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-18,ha=mbudu [ʔəsa] rua mbutu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-19,ha=mbudu [ʔəsa] təra ʔəsa,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-20,mbudu rua,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-100,ha=ŋasu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-1000,ha=liwu,,FALSE,Elias2020,pp.326-327,,keoo1238,Keo (quinary-decimal numerals),keoo1238-3
-1,sa=[əsa],"Note that the general classifier PCF *əsa is homophonous with the morpheme used to represent the number 1 in the composed numerals 6 and 9 (and may share an etymology in PMP *əsa ‘one’, although they are now clearly separate in Central Flores). In order to help the reader, the instances where PCF *əsa is used as a classifier are placed between square brackets.",FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-2,[əsa] ɹua,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-3,[əsa] təlu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-4,[əsa] wutu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-5,[əsa] lima,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-6,[əsa] lima əsa,PCF *lima əsa ‘six’ means ‘one five’,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-7,[əsa] lima ɹua,"PCF *lima dua ‘seven’ means ‘five two’, using an additive strategy",FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-8,[əsa] ɹua mbutu,PCF *dua mbutu ‘eight’ means ‘two four’ using a multiplicative strategy,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-9,[əsa] təra əsa,"PCF *təra asa ‘nine’ seems to be composed of an initial morpheme meaning ‘to take away, to remove’ followed by ‘one’, so it means something like ‘take away one (from ten)’ using a subtractive strategy",FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-10,sa=mbulu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-11,sa=mbulu sa=[əsa],,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-12,sa=mbulu [əsa] ɹua,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-13,sa=mbulu [əsa] təlu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-14,sa=mbulu [əsa] wutu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-15,sa=mbulu [əsa] lima,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-16,sa=mbulu [əsa] lima əsa,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-17,sa=mbulu [əsa] lima ɹua,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-18,sa=mbulu [əsa] ɹua mbutu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-19,sa=mbulu [əsa] təra əsa,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-20,mbulu ɹua,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-100,sa=ŋasu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-1000,sa=riwu,,FALSE,Elias2020,pp.326-327,,rong1269,Rongga (quinary-decimal numerals),rong1269-3
-1,sa=[əsa],"This system has a more restricted application, typically being used (by Lio speakers at least) when dealing with small objects which can be stacked into pyramids of 4 such as coconuts, areca nuts, or limes.",FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
-2,[əsa] rua,,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
-3,[əsa] təlu,,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
-4,sa=liwu,,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
-5,sa=liwu sa=[əsa],,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
-6,sa=liwu [əsa] rua,,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
-7,sa=liwu [əsa] təlu,,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
-8,liwu rua,,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
-9,liwu rua sa=[əsa],,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
-10,liwu rua sa=[əsa] rua,,FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
-40,sa=ulu,"Interestingly, the highest repeating base in this system (40) is reconstructed as PCF *ulu ‘head; 40’.",FALSE,Elias2020,p.327,,lioo1240,Lio (quaternary numerals),lioo1240-3
-1,ha=[ʔəsa],This system has a more restricted application,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
-2,[ʔəsa] rua,,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
-3,[ʔəsa] tədu,,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
-4,ha=diwu,,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
-5,ha=diwu ha=[ʔəsa],,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
-6,ha=diwu [ʔəsa] rua,,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
-7,ha=diwu [ʔəsa] tədu,,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
-8,diwu rua,,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
-9,diwu rua ha=[ʔəsa],,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
-10,diwu rua [ʔəsa] rua,,FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
-40,ha=ʔudu,"Interestingly, the highest repeating base in this system (40) is reconstructed as PCF *ulu ‘head; 40’.",FALSE,Elias2020,p.327,,keoo1238,Keo (quaternary numerals),keoo1238-4
-1,sa=[əsa],This system has a more restricted application,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
-2,[əsa] ɹua,,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
-3,[əsa] təlu,,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
-4,sa=liwu,,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
-5,sa=liwu sa=[əsa],,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
-6,sa=liwu [əsa] ɹua,,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
-7,sa=liwu [əsa] təlu,,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
-8,liwu ɹua [əsa] ɹua,,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
-9,liwu ɹua sa=[əsa],,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
-10,liwu ɹua,,FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
-40,sa=ulu,"Interestingly, the highest repeating base in this system (40) is reconstructed as PCF *ulu ‘head; 40’.",FALSE,Elias2020,p.327,,rong1269,Rongga (quaternary numerals),rong1269-4
-1,ɗa,none of the numerals below ten except ɗua ‘two’ and possibly ɗa ‘one’ have a plausible Austronesian etymology,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-2,ɗua,none of the numerals below ten except ɗua ‘two’ and possibly ɗa ‘one’ have a plausible Austronesian etymology,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-3,ɗəmu,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-4,ɗəke,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-5,ali,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-6,woe,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-7,sipi,alliteration [with 8],FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-8,sapa,alliteration [with 7],FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-9,ŋgwo,alliteration [with 10]; various numbers contain consonant clusters which violate the phonotactic rules of Rongga: particularly ŋgwo ‘nine’ and mopla ‘twenty’,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-10,ŋguru,alliteration [with 9],FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-11,əsaŋgəsa,It seems that the strategy for forming numerals 1–5 is by reduplicating the numerals for 1–5 [inherited Central Flores etyma] with an unpredictably altered initial consonant,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-12,ɹuadua,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-13,təluŋgətu,"appears to have shifted from the expected **təluŋgəlu under the influence of the following wutuŋgutu ‘fourteen’, so that the two numerals share the same ending.",FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-14,wutuŋgutu,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-15,limakima,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-16,aŋgunae,"From 16 to 20, almost nothing can be ascertained about the etymology of the numerals",FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-17,nəŋgonae,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-18,soroila,,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-19,watopəsa,may perhaps contain a morpheme reflecting PCF əsa ‘one’ and therefore be formed by subtraction (20–1) (Arka 2016:127),FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-20,mopla,various numbers contain consonant clusters which violate the phonotactic rules of Rongga: particularly ŋgwo ‘nine’ and mopla ‘twenty’,FALSE,Elias2020,p.328,,rong1269,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269-5
-1,sa əsa,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
-2,rua,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
-3,təlu,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
-4,sutu,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
-5,lima,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
-6,lima əsa,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
-7,lima rua,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
-8,rua mbutu,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
-9,təra əsa,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
-10,sa mbulu,,FALSE,Elias2018,pp.120-121,,lioo1240,Lio,lioo1240-4
-1,sa ʔəsa,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
-2,rua,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
-3,təɹu,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
-4,wutu,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
-5,ɹima,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
-6,ɹima ʔəsa,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
-7,ɹima rua,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
-8,rua mbutu,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
-9,təra ʔəsa,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
-10,sa mbuɹu,,FALSE,Elias2018,pp.120-121,,ende1246,Ende,ende1246-5
-1,sa əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
-2,yua,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
-3,təɮu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
-4,wutu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
-5,ɮima,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
-6,ɮima əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
-7,ɮima ɹua,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
-8,ɹua butu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
-9,təra əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
-10,sa buɮu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nga’o (Oja),nage1237-2
-1,sa əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
-2,ɹua,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
-3,təɮu,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
-4,wutu,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
-5,ɮima,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
-6,ɮima əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
-7,ɮima rua,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
-8,rua butu,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
-9,təra əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
-10,sa buɮu,,FALSE,Elias2018,pp.120-121,,nage1237,Western Nga’o (Watumite),nage1237-3
-1,ha ʔəsa,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
-2,rua,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
-3,tədu,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
-4,wutu,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
-5,dima,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
-6,dima ʔəsa,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
-7,dima rua,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
-8,rua mbutu,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
-9,təra ʔəsa,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
-10,ha mbudu,,FALSE,Elias2018,pp.120-121,,keoo1238,Kéo (Udiworowatu),keoo1238-5
-1,sa əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
-2,ɹua,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
-3,tədu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
-4,wutu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
-5,dima,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
-6,dima əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
-7,dima ɹua,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
-8,ɹua mbutu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
-9,təra əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
-10,sa mbudu,,FALSE,Elias2018,pp.120-121,,nage1237,Eastern Nage (Nangamboa),nage1237-4
-1,sa əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
-2,zua,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
-3,təlu,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
-4,wutu,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
-5,lima,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
-6,lima əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
-7,lima zua,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
-8,zua butu,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
-9,ta əsa,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
-10,sa bulu,,FALSE,Elias2018,pp.120-121,,nage1237,Central Nage (Boawae),nage1237-5
-1,sa əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
-2,rua,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
-3,təu,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
-4,wutu,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
-5,ima,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
-6,ima əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
-7,ima rua,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
-8,rua butu,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
-9,təra əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
-10,sa bu,,FALSE,Elias2018,pp.120-121,,ngad1261,Eastern Ngadha (Takatunga),ngad1261-2
-1,sa əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
-2,zua,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
-3,təlu,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
-4,wutu,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
-5,lima,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
-6,lima əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
-7,lima zua,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
-8,rua butu,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
-9,təra əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
-10,sa bulu,,FALSE,Elias2018,pp.120-121,,ngad1261,Western Ngadha (Bajawa),ngad1261-3
-1,sa əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
-2,zua,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
-3,təlu,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
-4,wutu,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
-5,lima,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
-6,lima əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
-7,lima zua,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
-8,rua butu,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
-9,təra əsa,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
-10,sa bulu,,FALSE,Elias2018,pp.120-121,,ngad1261,Central Ngadha (So’a),ngad1261-4
-1,sa əsa,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
-2,ɹua,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
-3,təlu,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
-4,wutu,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
-5,lima,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
-6,lima əsa,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
-7,lima ɹua,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
-8,ɹua mbutu,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
-9,tara əsa,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
-10,sa mbulu,,FALSE,Elias2018,pp.120-121,,rong1269,Rongga,rong1269-6
-1,a,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
-2,rua,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
-3,təlu,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
-4,ɓa,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
-5,lima,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
-6,ʔəne,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
-7,ɓitu,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
-8,walu,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
-9,iwa,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
-10,a pulu,,FALSE,Elias2018,pp.120-121,,palu1252,Palu’e,palu1252-1
-1,tʃa,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
-2,sua,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
-3,təlu,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
-4,pat,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
-5,lima,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
-6,ənəm,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
-7,pitu,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
-8,alo,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
-9,tʃiok,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
-10,tʃa mpulu,,FALSE,Elias2018,pp.120-121,,mang1405,Manggarai,mang1405-2
-1,ha,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
-2,rua,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
-3,təlu,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
-4,hutu,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
-5,lima,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
-6,əna,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
-7,pitu,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
-8,walu,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
-9,hiwa,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
-10,pulu,,FALSE,Elias2018,pp.120-121,,sika1262,Sika,sika1262-3
-1,dha,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-2,dhua,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-3,demu,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-4,dheke,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-5,ali,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-6,woe,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-7,sipi,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-8,sapa,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-9,nggwo,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-10,ngguru,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-11,esanggesa,literally ‘one-one’,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-12,zhuadhua,literally ‘two-two’,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-13,telunggetu,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-14,wutunggutu,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-15,limakima,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-16,anggunae,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-17,nenggonae,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-18,soroila,,FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-19,watopesa,"possibly 20 minus 1, but there is no clear indication that wutu means ‘20’",FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-20,mopla,(It is not clear whether there are any numerals higher than 20 for this system.),FALSE,Arka2016,pp.127-128,,rong1269,Rongga (restricted system),rong1269-7
-1,esa,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-2,zhua,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-3,telu,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-4,wutu,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-5,lima,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-6,lima esa,(5 + 1),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-7,lima zhua,(5 + 2),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-8,zhua mbutu,(2 x 4?),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-9,tera esa,(8 + 1?),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-10,sembulu,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-10,sa=mbulu,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-11,sa=mbulu sa=esa,(1x10)+(1x1),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-12,sa=mbulu esa zhua,(1x10)+(1x2),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-13,sa=mbulu esa telu,(1x10)+(1x3),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-14,sa=mbulu esa wutu,(1x10)+(1x4),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-15,sa=mbulu esa lima,(1x10)+(1x5),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-16,sa=mbulu esa lima esa,(1x10)+((1x5)+1),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-17,sa=mbulu esa limazhu,(1x10)+((1x5)+2),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-18,sa=mbulu esa zhuambutu,(1x 10)+(1x(2x 4)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-19,sa=mbulu esa teraesa,(1x 10) + (1 x 9),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-20,mbulu zhua,(10x2),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-21,mbulu zhua sa=esa,(10x2)+(1x1),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-22,mbulu esa zhua,[?] (10x2)+(1x2),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-30,mbulu telu,(10x3),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-40,mbulu wutu,(10x4),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-50,mbulu lima,(10x5),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-60,mbulu lima esa,(10x(5+1)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-70,mbulu lima zhua,(10x(5+2)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-80,mbulu zhuambutu,(10x(2x4)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-90,mbulu tera esa,(10x9),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-100,sa=ngasu,(1x100),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-120,sa=ngasu mbulu zhua,(100+(10x2),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-125,sa=ngasu mbulu zhua esa lima,((100+(10x2)+(1x5)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-150,sa=ngasu mbulu lima,((1x100)+(10x5)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-155,sa=ngasu mbulu lima esa lima,((1x100)+(10x5)+(1x5)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-200,ngasu zhua,(100x2),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-250,ngasu zhua mbulu lima,((100x2)+(10x5)),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-300,ngasu telu,(100 x 3),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-400,ngasu wutu,(100 x 4),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-500,ngasu lima,(100 x 5),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-700,ngasu lima zhua,(100 x 7),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-800,ngasu zhuambutu,(100x8),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-900,ngasu teraesa,(100x9),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-1000,sa=riwu,(1x1000),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-2000,riwu zhua,,FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
-2004,riwu zhua esa wutu,(1000x2)+(1x4),FALSE,Arka2016,pp.128-132,,rong1269,Rongga (regular system),rong1269-8
