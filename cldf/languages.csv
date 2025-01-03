@@ -1,7 +1,7 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,UltimateSource,Source,Pages
 abad1241-1,Gabadi,abad1241,Abadi,kbt,Papunesia,-9.03389,146.992,Austronesian,7 CSQs. Village: Pinu (7).,Lean1986Vol07,p.31
 abag1245-1,Abaga,abag1245,Abaga,abg,Papunesia,-6.12028,145.665,Nuclear Trans New Guinea,S.I.L. Survey word list (1976).,Lean1986Vol08,p.29
-abai1241-1,Abai Sembuak,abai1241,Abai Tubu-Abai Sembuak,,Papunesia,3.524226,116.162455,Austronesian,,Lobel2016,pp.234-239
+abai1241-1,Abai Sembuak,abai1241,Abai Tubu-Abai Sembuak,,Papunesia,3.524226,116.162455,Austronesian,f,Lobel2016,pp.234-239
 abai1241-2,Abai Tubu,abai1241,Abai Tubu-Abai Sembuak,,Papunesia,3.524226,116.162455,Austronesian,,Lobel2016,pp.234-239
 abau1245-1,Abau,abau1245,Abau,aau,Papunesia,-3.97222,141.324,Sepik,,Laycock1971D32,pp.4664-4666
 abau1245-2,Abau (Bisiabru village),abau1245,Abau,aau,Papunesia,-3.97222,141.324,Sepik,SIL Word List (1980). Village: Bisiabru.,LeanSandaun,p.26
@@ -18,6 +18,8 @@ abui1241-1,Abui,abui1241,Abui,abz,Papunesia,-8.31058,124.588,Timor-Alor-Pantar,,
 abui1241-2,Abui (Alor),abui1241,Abui,abz,Papunesia,-8.31058,124.588,Timor-Alor-Pantar,,Stokhof1987Vol11,p.96
 abun1252-1,Karón,abun1252,Abun,kgr,Papunesia,-0.57073,132.416,Abun,,Galis1955,p.139
 abun1252-2,Mádik,abun1252,Abun,kgr,Papunesia,-0.57073,132.416,Abun,,Galis1955,p.139
+abun1252-3,Karôn,abun1252,Abun,kgr,Papunesia,-0.57073,132.416,Abun,,Cowan1953,p.14
+abun1252-4,Madik,abun1252,Abun,kgr,Papunesia,-0.57073,132.416,Abun,,Cowan1953,p.14
 abuu1241-1,Adjora,abuu1241,Abu,ado,Papunesia,-4.24027,144.474,Lower Sepik-Ramu,,Zgraggen1972,pp.215-219
 abuu1241-2,Adjora (Gwɨn),abuu1241,Abu,ado,Papunesia,-4.24027,144.474,Lower Sepik-Ramu,,Laycock1971D20,p.2772
 abuu1241-3,Porapora #2 (Adjora),abuu1241,Abu,ado,Papunesia,-4.24027,144.474,Lower Sepik-Ramu,,Laycock1971D19,p.2684
@@ -38,6 +40,8 @@ agii1245-1,Agi,agii1245,Agi,aif,Papunesia,-3.49104,142.387,Nuclear Torricelli,,L
 agob1244-1,Agöb,agob1244,Agob-Ende-Kawam,kit,Papunesia,-9.08521,142.532,Pahoturi,"3 CSQs. Villages: Buji (2), Sigabaduru.",Lean1986Vol12,p.69
 agob1244-2,Bugi,agob1244,Agob-Ende-Kawam,kit,Papunesia,-9.08521,142.532,Pahoturi,,Ray1912,pp.340-341
 agob1244-3,Dabu,agob1244,Agob-Ende-Kawam,kit,Papunesia,-9.08521,142.532,Pahoturi,,Ray1912,pp.340-341
+agob1244-4,Agöb (Dimsisi village),agob1244,Agob-Ende-Kawam,kit,Papunesia,-9.08521,142.532,Pahoturi,,Carroll2024,txt file downloaded on 23 October 2024
+agob1244-5,Ende (Limol village),agob1244,Agob-Ende-Kawam,kit,Papunesia,-9.08521,142.532,Pahoturi,,Carroll2024,txt file downloaded on 23 October 2024
 agta1234-1,Agta of Dikaméy,agta1234,Agta-Pahanan,apf,Papunesia,17.0538,122.2802,Austronesian,,Headland1979,pp.3-7
 agta1234-2,Palanan Dumagat,agta1234,Agta-Pahanan,apf,Papunesia,17.0538,122.2802,Austronesian,,Headland1965Dumagat,pp.3-7
 agta1234-3,Kalinga,agta1234,Agta-Pahanan,apf,Papunesia,17.0538,122.2802,Austronesian,,Alviar-Calinawagan1995,pp.74-75
@@ -81,6 +85,7 @@ amap1240-2,Ama,amap1240,Ama (Papua New Guinea),amm,Papunesia,-4.20192,141.658,Le
 amap1240-3,Ama,amap1240,Ama (Papua New Guinea),amm,Papunesia,-4.20192,141.658,Left May,,Conrad1975,pp.21-24
 amba1265-1,Ambai,amba1265,Ambai,amk,Papunesia,-1.88126,136.526,Austronesian,,Galis1955,p.141
 amba1265-2,Ambai (Japen),amba1265,Ambai,amk,Papunesia,-1.88126,136.526,Austronesian,,Grace1955pdf49,p.77
+amba1265-3,Ambai,amba1265,Ambai,amk,Papunesia,-1.88126,136.526,Austronesian,,Anceaux1961,pp.72-76
 amba1269-1,Aion,amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Keram,1 CSQ. Village: Arango.,LeanEastSepik,pp.60-61
 amba1269-2,Aion (No. 1. Porapora),amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Keram,,Laycock1971D21,p.2964
 amba1269-3,Ambakich,amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Keram,,Potter2008,p.64
@@ -95,6 +100,7 @@ ambu1247-3,Abelem (Maprik dialect),ambu1247,Ambulas,abt,Papunesia,-3.7801,143.05
 ambu1247-4,Abelem (Wingei dialect),ambu1247,Ambulas,abt,Papunesia,-3.7801,143.059,Ndu,"5 CSQs. Villages: Wingei (2), Guarip (2), Bapandu (1). Wingei d.",LeanEastSepik,p.35
 ambu1247-5,Abelem (Wosera dialect: from CSQs),ambu1247,Ambulas,abt,Papunesia,-3.7801,143.059,Ndu,8 CSQs. Village: Wosera d. region.,LeanEastSepik,p.35
 ambu1247-6,Abelem (Wosera dialect: Stapigum village),ambu1247,Ambulas,abt,Papunesia,-3.7801,143.059,Ndu,SIL Word List (1976). Village: Stapigum. (Wosera d.),LeanEastSepik,p.36
+ambu1247-7,Wosera,ambu1247,Ambulas,abt,Papunesia,-3.7801,143.059,Ndu,,Staalsen1975,p.14
 amel1241-1,Amele,amel1241,Amele,aey,Papunesia,-5.29126,145.687,Nuclear Trans New Guinea,"2 CSQs. Villages: Amele, Sein.",LeanMadang,p.54
 amel1241-2,Amele,amel1241,Amele,aey,Papunesia,-5.29126,145.687,Nuclear Trans New Guinea,,Zgraggen1980Mabuso,p.92
 amol1235-1,Aru,amol1235,Mol,alx,Papunesia,-3.46843,142.532,Nuclear Torricelli,1 CSQ. Village: Sunambu.,LeanSandaun,p.37
@@ -121,6 +127,8 @@ anga1293-1,Mendi (Angal Heneng),anga1293,Angal,age,Papunesia,-6.0127,143.592,Nuc
 anga1294-1,Mendi (South Mendi dialect),anga1294,Angal Enen,aoe,Papunesia,-6.23296,143.583,Nuclear Trans New Guinea,6 CSQs. (Nembi Valley).,Lean1986Vol10,p.32
 anga1314-1,"Mendi/Dialects [data correspond to three Glottocodes: anga1292, anga1293, anga1294]",anga1314,Angal Mendi,,,-6.126376667,143.551,Nuclear Trans New Guinea,,Franklin2012,pp.44-45
 angg1239-1,Yali (Angguruk),angg1239,Angguruk Yali,yli,Papunesia,-4.0836,139.457,Nuclear Trans New Guinea,,Zoellner2017,"pp.15, 78, 89, 124, 133, 152, 161, 172, 191"
+angg1239-2,Angguruk,angg1239,Angguruk Yali,yli,Papunesia,-4.0836,139.457,Nuclear Trans New Guinea,,Fahner1979,p.157
+angg1239-3,Jalimo Angguruk,angg1239,Angguruk Yali,yli,Papunesia,-4.0836,139.457,Nuclear Trans New Guinea,,Bromley1967,pp.306-307
 ango1254-1,Anggor (Angor Community School),ango1254,Angor,agg,Papunesia,-3.7167,141.199,Senagi,1 CSQ. Angor Community School.,LeanSandaun,p.19
 ango1254-2,Anggor (from IMP/SIL),ango1254,Angor,agg,Papunesia,-3.7167,141.199,Senagi,SIL Word List (1976) for 1 to 5; IMP/SIL Questionnaire (1978).,LeanSandaun,p.19
 ango1254-3,Senagi,ango1254,Angor,agg,Papunesia,-3.7167,141.199,Senagi,,Laycock1970D14,p.1952
@@ -135,8 +143,13 @@ anor1241-1,Anor,anor1241,Anor,anj,Papunesia,-4.98449,144.801,Lower Sepik-Ramu,,Z
 anor1241-2,Atemble,anor1241,Anor,anj,Papunesia,-4.98449,144.801,Lower Sepik-Ramu,,Capell1951,p.186
 ansu1237-1,Ansus,ansu1237,Ansus,and,Papunesia,-1.7543,135.866,Austronesian,,Galis1955,p.140
 ansu1237-2,Ansoes,ansu1237,Ansus,and,Papunesia,-1.7543,135.866,Austronesian,,Grace1955pdf49,p.85
+ansu1237-3,Ansus,ansu1237,Ansus,and,Papunesia,-1.7543,135.866,Austronesian,,Anceaux1961,pp.72-76
 anta1255-1,Sakalava,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian,,ThomasFattier1982,p.120
 anta1255-2,Tankarana,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian,,Jully1901,passim
+anta1255-3,"Antômboka, N.",anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian,,Sibree1897,pp.108-109
+anta1255-4,"Ihàrana, N.E. Co.",anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian,,Sibree1897,pp.108-109
+anta1255-5,"Anòrontsànga, N. W. Co.",anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian,,Sibree1897,pp.108-109
+anta1255-6,Ankoàla; N. W. Co.,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian,,Sibree1897,pp.108-109
 anuk1239-1,Anuki,anuk1239,Anuki,aui,Papunesia,-9.6692,149.822,Austronesian,S.I.L word list (1975). Village: Pem.,Lean1986Vol06,p.29
 anus1237-1,Sobei-groep Anus,anus1237,Korur,auq,Papunesia,-2.26271,139.502,Austronesian,,Galis1955,p.143
 anus1237-2,koru ˈfanu - anus,anus1237,Korur,auq,Papunesia,-2.26271,139.502,Austronesian,,Grace1955pdf25,p.2 [of pdf]
@@ -158,12 +171,14 @@ aral1243-1,Mambi,aral1243,Aralle-Tabulahan,atq,Papunesia,-2.78397,119.319,Austro
 aral1243-2,Tabulahan,aral1243,Aralle-Tabulahan,atq,Papunesia,-2.78397,119.319,Austronesian,,Arnaud1998,pp.863-879 [word list item numbers]
 aram1253-1,Nambu,aram1253,Arammba,stk,Papunesia,-8.29593,141.445,Yam,SIL Word List (1974). Village: Serki.,Lean1986Vol12,p.55
 aram1253-2,Parb,aram1253,Arammba,stk,Papunesia,-8.29593,141.445,Yam,,Ray1912,pp.340-341
+aram1253-3,Arammba (Kiriwa village),aram1253,Arammba,stk,Papunesia,-8.29593,141.445,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 aran1237-1,Jaban-Arandai,aran1237,Dombano,jbj,Papunesia,-2.08016,132.983,South Bird's Head Family,,Galis1955,p.135
 araw1272-1,Arawum,araw1272,Arawum,awm,Papunesia,-5.52787,145.903,Nuclear Trans New Guinea,,Zgraggen1980RaiCoast,p.92
 aree1239-1,Mukawa,aree1239,Are,mwc,Papunesia,-9.67147,149.999,Austronesian,"7 CSQs. Villages: Ginada (2), Mukawa (2), Bogaboga, Irikaba (2).",Lean1986Vol06,p.31
 aree1239-2,Mukawa (from SIL word list),aree1239,Are,mwc,Papunesia,-9.67147,149.999,Austronesian,S.I.L word list. Village: Mukawa.,Lean1986Vol06,p.32
 argu1237-1,Báham,argu1237,Arguni,agf,Papunesia,-2.645798,132.5556,Austronesian,,Galis1955,p.134
 argu1237-2,P. Arguni,argu1237,Arguni,agf,Papunesia,-2.645798,132.5556,Austronesian,,Grace1955pdf50,p.111
+argu1237-3,Arguni K,argu1237,Arguni,agf,Papunesia,-2.645798,132.5556,Austronesian,,Cowan1953,p.31
 arib1240-1,Yalu,arib1240,Aribwaung,ylu,Papunesia,-6.65252,146.919,Austronesian,,Smith1988,p.70
 arib1241-1,Aribwatsa,arib1241,Aribwatsa,laz,Papunesia,-6.72266,146.991,Austronesian,,Holzknecht1997,p.182
 arif1239-1,Arifama-Miniafia,arif1239,Arifama-Miniafia,aai,Papunesia,-9.15565,149.246,Austronesian,"3 CSQs, 1 IMP. Villages: Ajoa, Utukwafu (2).",Lean1985Vol05,p.61
@@ -181,10 +196,14 @@ arua1260-4,Mikarew (Gorak village),arua1260,Aruamu,msy,Papunesia,-4.28957,144.84
 arue1240-1,Aruek,arue1240,Aruek,aur,Papunesia,-3.37841,142.715,Nuclear Torricelli,,Laycock1970D02,p.279
 aruo1240-1,Aruop,aruo1240,Srenge,lsr,Papunesia,-3.45782,142.478,Nuclear Torricelli,,Laycock1967C03,p.67
 asar1240-1,Asaro'o (Bagen village),asar1240,Asaro'o,mtv,Papunesia,-5.68263,146.508,Nuclear Trans New Guinea,,Carter2012,p.59
+asar1240-2,Molet Kasu (Kasu village),asar1240,Asaro'o,mtv,Papunesia,-5.68263,146.508,Nuclear Trans New Guinea,,Carter2012,p.50
+asar1240-3,Molet Mur (Mur village),asar1240,Asaro'o,mtv,Papunesia,-5.68263,146.508,Nuclear Trans New Guinea,,Carter2012,p.50
+asar1240-4,Asaro'o (Bagen village) (from Mike Sweeney),asar1240,Asaro'o,mtv,Papunesia,-5.68263,146.508,Nuclear Trans New Guinea,,Carter2012,p.50
 asil1242-1,"Lima (Rumahsosal, Nuwetetu) Seram",asil1242,Asilulu,asl,Papunesia,-3.67302,127.952,Austronesian,,Stokhof1981Vol3.1,pp.173-174
 asil1242-2,Lima (Waraka) Seram,asil1242,Asilulu,asl,Papunesia,-3.67302,127.952,Austronesian,,Stokhof1981Vol3.1,p.158
 asko1238-1,Eivo,asko1238,Askopan,eiv,Papunesia,-6.22539,155.307,North Bougainville,"Allen and Hurd, SIL Wordlist, (1963).",Lean1985Vol03,p.44
 asko1238-2,Eivo (Aniovi village),asko1238,Askopan,eiv,Papunesia,-6.22539,155.307,North Bougainville,1 CSQ. Village: Aniovi.,LeanBougainville,p.36
+asko1238-3,Eivo (based on The Rosetta Project digital archive 2010 [referred to as ‘Askopan’]),asko1238,Askopan,eiv,Papunesia,-6.22539,155.307,North Bougainville,,Brown2021,p.31
 asss1237-1,As,asss1237,As,asz,Papunesia,-0.75267,131.728,Austronesian,,Grace1955pdf50,p.156
 asue1235-1,Awju Pisa,asue1235,Asue Awyu,psa,Papunesia,-5.98341,139.123,Nuclear Trans New Guinea,,Galis1955,p.167
 asue1235-2,Awyu: Busiri,asue1235,Asue Awyu,psa,Papunesia,-5.98341,139.123,Nuclear Trans New Guinea,,Kriens2010,pp.48-49
@@ -199,6 +218,8 @@ aust1304-2,Austral - Ra’ivavae,aust1304,Austral,aut,Papunesia,-23.3843,-149.46
 auuu1241-1,Au,auuu1241,Au,avt,Papunesia,-3.53277,142.105,Nuclear Torricelli,,Laycock1967C01,p.60
 auuu1241-2,Au,auuu1241,Au,avt,Papunesia,-3.53277,142.105,Nuclear Torricelli,,Laycock1967C09,p.14
 auwe1239-1,Simog,auwe1239,Auwe,smf,Papunesia,-3.33662,141.254,Border,,Laycock1970D12,p.1672
+auwe1239-2,Simog,auwe1239,Auwe,smf,Papunesia,-3.33662,141.254,Border,,Seiler1985,p.213
+avai1234-1,Avaipa,avai1234,Avaipa,,Papunesia,-6.211,155.39,South Bougainville,,Brown2021,p.31
 avau1237-1,Gasmata (near Gasmata Government Station),avau1237,Avau,avb,Papunesia,-6.24342,150.427,Austronesian,"2 CSQs. Villages: Akam, Aringring.",Lean1985Vol04,p.61
 avau1237-2,Avau - Lulakevi village,avau1237,Avau,avb,Papunesia,-6.24342,150.427,Austronesian,,Spencer2013,pp.68-69
 avau1237-3,Avau - Asiwot village,avau1237,Avau,avb,Papunesia,-6.24342,150.427,Austronesian,,Spencer2013,pp.68-69
@@ -230,9 +251,11 @@ baba1267-1,Baba Malay,baba1267,Baba Malay,mbf,Eurasia,1.75414,103.076,Austronesi
 baca1243-1,Bacan,baca1243,Bacanese Malay,btj,Papunesia,-0.62275,127.49,Austronesian,,Teljeur1982,pp.145-146
 baca1243-2,Bacan,baca1243,Bacanese Malay,btj,Papunesia,-0.62275,127.49,Austronesian,,Stokhof1980Vol2,pp.97-98
 bada1261-1,Badaʔ,bada1261,Bada (Indonesia),bhz,Papunesia,-1.80249,120.319,Austronesian,,Arnaud1998,pp.863-879 [word list item numbers]
+badi1247-1,Bedi (Onggaya village),badi1247,Ngkontar Baedi,khd,Papunesia,-8.85301,140.753,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 bagu1251-1,Kamboi-ramboi,bagu1251,Bagusa,bqb,Papunesia,-1.98844,137.914,Greater Kwerba,,Galis1955,p.142
 bagu1252-1,Bagupi,bagu1252,Bagupi,bpi,Papunesia,-5.07778,145.632,Nuclear Trans New Guinea,,Zgraggen1980Mabuso,p.92
 baha1258-1,Patimuni,baha1258,Baham,bdw,Papunesia,-3.10628,132.637,West Bomberai,,Galis1955,p.135
+baha1258-2,Patimuni,baha1258,Baham,bdw,Papunesia,-3.10628,132.637,West Bomberai,,Cowan1953,p.33
 bahi1254-1,Bahinemo,bahi1254,Bahinemo,bjh,Papunesia,-4.55527,142.832,Sepik,IMP/SIL Questionnaire (1978).,LeanEastSepik,p.22
 bahi1254-2,Bahinemo,bahi1254,Bahinemo,bjh,Papunesia,-4.55527,142.832,Sepik,,Laycock1971D27,p.3844
 baib1251-1,Baibai,baib1251,Baibai,bbf,Papunesia,-3.42672,141.345,Baibai-Fas,SIL Word List (undated).,LeanSandaun,p.21
@@ -243,6 +266,7 @@ bala1314-1,Balaesang,bala1314,Balaesang,bls,Papunesia,-0.05644,119.689,Austrones
 bali1279-1,Melayu Loloan,bali1279,Balinese Malay,mhp,Papunesia,-8.355884,114.648391,Austronesian,,Sumarsono1990,"pp.373, 380"
 balu1257-1,Baluan-Lou-Pam (Baluan dialect),balu1257,Paluai,blq,Papunesia,-2.5604,147.282,Austronesian,"Baluan - 2 CSQs, 1 IMP; Pam - 2 CSQs.",Lean1985Vol02,p.20
 bamu1257-1,Bamu Kiwai,bamu1257,Bamu,bcf,Papunesia,-7.93818,143.545,Kiwaian,SIL Word List (1976). Village: Torobina.,Lean1986Vol12,p.91
+bana1288-1,Bhanaw Tinggian,bana1288,Banao Itneg,bjx,Papunesia,17.5643,121.05,Austronesian,,Ramos1970,"pp.6, 19"
 bana1292-1,Banaro,bana1292,Banaro,byz,Papunesia,-4.56615,144.329,Lower Sepik-Ramu,1 CSQ. Village: Yar.,LeanEastSepik,p.62
 bana1292-2,Banaro,bana1292,Banaro,byz,Papunesia,-4.56615,144.329,Lower Sepik-Ramu,,Zgraggen1972,pp.215-218
 bana1292-3,Banaro,bana1292,Banaro,byz,Papunesia,-4.56615,144.329,Lower Sepik-Ramu,,Laycock1970D06,p.864
@@ -261,9 +285,11 @@ banj1239-2,Martapura,banj1239,Banjar,bjn,Papunesia,0.747105,115.79,Austronesian,
 bann1247-1,Banoni,bann1247,Bannoni,bcm,Papunesia,-6.23061,155.128,Austronesian,"Allen and Hurd, SIL Wordlist, (1963).",Lean1985Vol03,p.49
 bann1247-2,Banoni (Toberaki village),bann1247,Bannoni,bcm,Papunesia,-6.23061,155.128,Austronesian,1 CSQ. Village: Toberaki.,LeanBougainville,p.41
 bann1247-3,Banoni (SW Bougainville),bann1247,Bannoni,bcm,Papunesia,-6.23061,155.128,Austronesian,,Grace1955pdf47,p.103
+bann1247-4,"Banoni (based on Lincoln 1976a,b)",bann1247,Bannoni,bcm,Papunesia,-6.23061,155.128,Austronesian,,Brown2021,p.31
 bant1286-1,Bantik (mentioned in JB 1939),bant1286,Bantik,bnq,Papunesia,1.44586,124.846,Austronesian,,Stokhof1983Vol7.2,pp.300-301
 bant1286-2,Bantik (mentioned in NGB 1897),bant1286,Bantik,bnq,Papunesia,1.44586,124.846,Austronesian,,Stokhof1983Vol7.2,p.294
 bara1369-1,Bara,bara1369,Bara Malagasy,bhr,Africa,-23.9716,45.5937,Austronesian,,Rabenilaina1974,p.323
+bara1369-2,"Bara, Ihòsy, S. Cent.",bara1369,Bara Malagasy,bhr,Africa,-23.9716,45.5937,Austronesian,,Sibree1897,pp.108-109
 bara1370-1,Kayan,bara1370,Baram Kayan,kys,Papunesia,3.51211,114.482,Austronesian,,Urquhart1955,p.195
 bara1370-2,Long Naah Kayan,bara1370,Baram Kayan,kys,Papunesia,3.51211,114.482,Austronesian,,Smith2015,pp.351-353
 bara1371-1,Baras,bara1371,Baras,brs,Papunesia,-1.5667,119.342,Austronesian,,Yamaguchi2003,p.20
@@ -294,12 +320,14 @@ bata1291-1,"Batak, Mandailing",bata1291,Batak Mandailing,btm,Papunesia,0.85805,9
 bata1293-1,"Batak, Karo",bata1293,Batak Karo,btx,Papunesia,2.12787,98.2517,Austronesian,,Stokhof1986Vol9,p.220
 bata1294-1,"Pakpak, Batak (from H. Hoetabarat)",bata1294,Batak Dairi,btd,Papunesia,2.51438,98.2427,Austronesian,,Stokhof1986Vol9,p.275
 bata1294-2,"Pakpak, Batak (from J. C. Ligvoet)",bata1294,Batak Dairi,btd,Papunesia,2.51438,98.2427,Austronesian,,Stokhof1986Vol9,p.245
+bata1295-1,Batanta,bata1295,Batanta,,Papunesia,-0.862394,130.646,Austronesian,,Cowan1953,p.40
 bata1297-1,"Magbikin (Ayta near Mariveles, Bataan)",bata1297,Bataan Ayta,ayt,Papunesia,14.4153,120.49,Austronesian,,Storck1982,pp.3-7
 bata1301-1,Batak,bata1301,Batak,bya,Papunesia,10.1115,119.025,Austronesian,,Thiessen1980,pp.72-78
 bati1253-1,Gah,bati1253,Bati (Indonesia),bvt,Papunesia,-3.61403,130.815,Austronesian,,Wallace1869,pp.624-625
 baub1235-1,Grogo,baub1235,Bau-Jagoi Bidayuh,sne,Papunesia,1.54467,109.985,Austronesian,,Ray1913,"pp.59, 61"
 bauu1244-1,Bau,bauu1244,Bau,bbd,Papunesia,-5.26465,145.611,Nuclear Trans New Guinea,,Zgraggen1980Mabuso,p.92
 bauw1240-1,Bauwaki ,bauw1240,Bauwaki,bwk,Papunesia,-9.82577,148.815,Mailuan,SIL (1985). Village: Amau.,LeanCentral,p.48
+bayb1234-1,Utudnon,bayb1234,Baybayanon,bvy,Papunesia,10.6956,124.8086,Austronesian,,Rubino2005,
 bayo1260-1,Enamesi/Swesu/Bayono,bayo1260,Bayono,byl,Papunesia,-5.21728,139.617,Bayono-Awbono,,Wilbrink2004,pp.108ff
 bayo1260-2,Kovojab,bayo1260,Bayono,byl,Papunesia,-5.21728,139.617,Bayono-Awbono,,Wilbrink2004,pp.108ff
 beam1240-1,Beami,beam1240,Beami,beo,Papunesia,-6.14949,142.508,Bosavi,[unknown],Lean1986Vol12,"pp.31, 95"
@@ -317,6 +345,7 @@ bena1264-1,Benabena,bena1264,Benabena,bef,Papunesia,-6.09974,145.534,Nuclear Tra
 bena1264-2,Benabena (from CSQs),bena1264,Benabena,bef,Papunesia,-6.09974,145.534,Nuclear Trans New Guinea,"8 CSQs. Villages: Mohuveto (2), Korofeigu (2), Katagu, Logofate, Kenimaro, Kaiyufa.",Lean1986Vol08,p.24
 bena1264-3,Benabena (from IMP/SIL),bena1264,Benabena,bef,Papunesia,-6.09974,145.534,Nuclear Trans New Guinea,IMP/SIL Questionnaire (1978).,Lean1986Vol08,p.24
 bena1264-4,Benabena (from SIL word list),bena1264,Benabena,bef,Papunesia,-6.09974,145.534,Nuclear Trans New Guinea,S.I.L survey word list (1975).,Lean1986Vol08,p.24
+beng1287-1,Banggoi,beng1287,Benggoi,bgy,Papunesia,-3.13924,130.091,Austronesian,,Erniati2021,pp.246-252
 bepo1240-1,Bepour,bepo1240,Bepour,bie,Papunesia,-4.5985,145.442,Nuclear Trans New Guinea,,Zgraggen1980NorthernAdelbert,p.92
 bera1262-1,Berau Malay,bera1262,Berau Malay,bve,Papunesia,1.6687,117.934,Austronesian,,Collins1994,"pp.303, 304, 306, 309"
 beri1254-1,"Berrik Papua (Ujang, Samaninteh, Tenwer)",beri1254,Berik,bkl,Papunesia,-2.26904,138.866,Tor-Orya,,Stokhof1983Vol5.2,p.92
@@ -332,6 +361,7 @@ biak1248-3,Mafor,biak1248,Biak,bhw,Papunesia,-0.9523,135.879,Austronesian,,Stokh
 biak1248-4,Nufōr,biak1248,Biak,bhw,Papunesia,-0.9523,135.879,Austronesian,,Ray1912,pp.340-341
 biak1248-5,Numfor,biak1248,Biak,bhw,Papunesia,-0.9523,135.879,Austronesian,,Stokhof1982Vol5.1,p.28
 biak1248-6,"Mafoor, New Guinea",biak1248,Biak,bhw,Papunesia,-0.9523,135.879,Austronesian,,Codrington1885,p.237
+biak1248-7,Biak,biak1248,Biak,bhw,Papunesia,-0.9523,135.879,Austronesian,,Anceaux1961,pp.72-76
 bian1251-1,Boven-Bian,bian1251,Bian Marind,bpv,Papunesia,-7.35942,140.568,Anim,,Galis1960,p.148
 bian1252-1,Biangai,bian1252,Biangai,big,Papunesia,-7.33882,146.765,Goilalan,,Smith1988,pp.102-103
 bian1252-2,Biangai (Kaisenik village),bian1252,Biangai,big,Papunesia,-7.33882,146.765,Goilalan,"IMP/SIL (1978), SIL Word List (1975), Village: Werewere.",LeanMorobe,p.66
@@ -353,6 +383,7 @@ bilu1245-1,Bilua,bilu1245,Bilua,blb,Papunesia,-7.92388,156.663,Bilua,,Obata2003,
 bimi1240-1,Bimin,bimi1240,Bimin,bhl,Papunesia,-5.38732,142.04,Nuclear Trans New Guinea,SIL Word List (undated). Village: Bika (Aharu).,Lean1986Vol12,p.19
 bimi1240-2,Bimin,bimi1240,Bimin,bhl,Papunesia,-5.38732,142.04,Nuclear Trans New Guinea,,Weber1987,p.62
 bimi1240-3,Bimin (Kuontigin village),bimi1240,Bimin,bhl,Papunesia,-5.38732,142.04,Nuclear Trans New Guinea,SIL Word List (1979). Village: Kuontigin.,LeanWestern,p.3
+bina1271-1,Bina,bina1271,Bina (Papua New Guinea),bmn,Papunesia,-10.2667,149.661,Austronesian,,Dutton1976,p.600
 bina1274-1,Binahari,bina1274,Binahari-Ma,,Papunesia,-10.133855,148.723092,Mailuan,,Ray1938EasternPapua,p.184
 bina1275-1,Binahari (Neme'a dialect: from SIL word list),bina1275,Binahari-Neme,bxz,Papunesia,-10.0874,148.835,Mailuan,S.I.L word list (1973).,Lean1986Vol07,p.80
 bina1275-2,Binahari (Neme'a dialect: Segili village),bina1275,Binahari-Neme,bxz,Papunesia,-10.0874,148.835,Mailuan,1 CSQ. Village: Segili.,Lean1986Vol07,p.80
@@ -376,11 +407,15 @@ biwa1243-3,Biwat (from CSQs),biwa1243,Biwat,bwm,Papunesia,-4.39429,143.873,Yuat,
 biyo1244-1,Biyom,biyo1244,Biyom,bpm,Papunesia,-5.79929,145.348,Nuclear Trans New Guinea,SIL Word List (1977). Village: Omkisi,LeanMadang,p.59
 biyo1244-2,Biyom,biyo1244,Biyom,bpm,Papunesia,-5.79929,145.348,Nuclear Trans New Guinea,,Zgraggen1980SouthernAdelbert,p.46
 blaf1238-1,Tonda,blaf1238,Mblafe-Ránmo,bfh,Papunesia,-8.56161,141.226,Yam,1 CSQ. Weam Community School.,Lean1986Vol12,p.49
+blaf1238-2,Blafe (Weam village),blaf1238,Mblafe-Ránmo,bfh,Papunesia,-8.56161,141.226,Yam,,Carroll2024,txt file downloaded on 23 October 2024
+blaf1238-3,Ranmo (Yéndorodoro village),blaf1238,Mblafe-Ránmo,bfh,Papunesia,-8.56161,141.226,Yam,,Carroll2024,txt file downloaded on 23 October 2024
+blaf1238-4,Were (Indorodoro village),blaf1238,Mblafe-Ránmo,bfh,Papunesia,-8.56161,141.226,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 boan1243-1,Boano,boan1243,Boano (Sulawesi),bzl,Papunesia,0.51152,120.992,Austronesian,,Himmelmann2001,pp.101-104
 bobo1254-1,Bobot,bobo1254,Bobot,bty,Papunesia,-3.43514,130.179,Austronesian,,Collins1986,"pp.127-128, 130"
 boga1247-1,Boxaia (Kokẽ village),boga1247,Bogaya,boq,Papunesia,-5.54487,142.255,Bogaya,,Sieverson1979,"pp.3, 8"
 boik1241-1,Boiken,boik1241,Boikin,bzf,Papunesia,-3.68297,143.474,Ndu,,Laycock1971D35,p.5248
 boik1241-10,Walis,boik1241,Boikin,bzf,Papunesia,-3.68297,143.474,Ndu,,Grace1955pdf42,p.3
+boik1241-11,Boiken,boik1241,Boikin,bzf,Papunesia,-3.68297,143.474,Ndu,,Staalsen1975,p.14
 boik1241-2,Boiken (Coastal dialect: from CSQs),boik1241,Boikin,bzf,Papunesia,-3.68297,143.474,Ndu,6 CSQs. Coastal d. region.,LeanEastSepik,p.31
 boik1241-3,Boiken (Coastal dialect: from SIL word list),boik1241,Boikin,bzf,Papunesia,-3.68297,143.474,Ndu,SIL (1976). Coastal d. region.,LeanEastSepik,pp.31-32
 boik1241-4,Boiken (Island dialect),boik1241,Boikin,bzf,Papunesia,-3.68297,143.474,Ndu,"6 CSQs. Tarawai Is., Walis Is., Island d. region.",LeanEastSepik,p.33
@@ -420,6 +455,8 @@ bosn1248-2,Bosman (Dongar village),bosn1248,Bosngun,bqs,Papunesia,-4.16201,144.6
 bosn1248-3,Bosman (from Lean’s field notes),bosn1248,Bosngun,bqs,Papunesia,-4.16201,144.647,Lower Sepik-Ramu,Lean’s Field Notes (1976).,LeanMadang,p.2
 bosn1248-4,Bosngun,bosn1248,Bosngun,bqs,Papunesia,-4.16201,144.647,Lower Sepik-Ramu,,Capell1951,p.138
 boun1246-1,Nori,boun1246,Bouni-Bobe,suo,Papunesia,-3.067293,141.932259,Sko,,Wilkes1926,p.77
+boun1246-2,Bouni 1,boun1246,Bouni-Bobe,suo,Papunesia,-3.067293,141.932259,Sko,,Miller2017,p.19
+boun1246-3,Bouni 2,boun1246,Bouni-Bobe,suo,Papunesia,-3.067293,141.932259,Sko,,Miller2017,p.19
 bowa1234-1,Papitalai,bowa1234,Manus Koro,kxr,Papunesia,-2.03429,147.14267,Austronesian,1 CSQ. Village: Naringel.,Lean1985Vol02,p.29
 bowa1234-2,Papitalai ,bowa1234,Manus Koro,kxr,Papunesia,-2.03429,147.14267,Austronesian,,Blust2021,"pp.25, 30, 32"
 bowa1234-3,Usiai,bowa1234,Manus Koro,kxr,Papunesia,-2.03429,147.14267,Austronesian,,Schnee1901,pp.276-277
@@ -477,6 +514,8 @@ buru1306-3,Yaknge,buru1306,Burum-Mindik,bmu,Papunesia,-6.51663,147.333,Nuclear T
 buru1307-1,Burumakok (collected by Mark Donohue),buru1307,Burumakok,aip,Papunesia,-5.12217,140.03,Nuclear Trans New Guinea,,Wilbrink2004,pp.109ff
 buru1308-1,"sabaˈkor (Taiˈri, gaka, Guriasa villages)",buru1308,Buruwai,asi,Papunesia,-3.54561,133.327,Austronesian,,Grace1955pdf50,p.55 [of pdf]
 buru1309-1,Sawos,buru1309,Burui,bry,Papunesia,-4.03527,143.015,Ndu,"4 CSQs. Villages: Wereman, Kampupu, Tinboli, Jiginimbu.",LeanEastSepik,p.42
+buru1309-2,Burui,buru1309,Burui,bry,Papunesia,-4.03527,143.015,Ndu,,Staalsen1975,p.14
+busa1254-1,Busami,busa1254,Busami,bsm,Papunesia,-1.73681,136.032,Austronesian,,Anceaux1961,pp.72-76
 busa1255-1,Boesangsch,busa1255,Busang Kayan,bfg,Papunesia,0.03494,115.401,Austronesian,,Barth1910,pp.234-279
 bush1250-1,Antalote,bush1250,Kibosy Kiantalaotsy-Majunga,buc,Africa,-12.9652,45.1368,Austronesian,,Gevrey1870,p.117
 bush1250-2,Kiantalaotsy,bush1250,Kibosy Kiantalaotsy-Majunga,buc,Africa,-12.9652,45.1368,Austronesian,,Gueunier1986,pp.334-358
@@ -491,12 +530,14 @@ camp1262-1,Campalagian,camp1262,Campalagian,cml,Papunesia,-4.016667,119.623611,A
 capi1239-1,Capiznon,capi1239,Capiznon,cps,Papunesia,11.4122,122.954,Austronesian,,Werner1977,pp.3-7
 cari1276-1,Jawa Suriname,cari1276,Caribbean Javanese,jvn,South America,5.62695,-54.6305,Austronesian,,Kertodjojo1992,passim
 casi1235-1,Casiguran Negrito,casi1235,Casiguran-Nagtipunan Agta,dgc,Papunesia,16.2176,121.878,Austronesian,,Vanoverbergh1937,"pp.111, 117"
+casu1237-1,Casuarina Coast Asmat,casu1237,Casuarina Coast Asmat,asc,Papunesia,-6.43005,138.566,Nuclear Trans New Guinea,,Voorhoeve1980,"pp.102, 118"
 cent2053-1,Pasemah,cent2053,South Barisan Malay,pse,Papunesia,-3.79673,103.137,Austronesian,,Stokhof1987Vol10.2,p.98
 cent2053-2,Semendo,cent2053,South Barisan Malay,pse,Papunesia,-3.79673,103.137,Austronesian,,Stokhof1987Vol10.2,pp.182-183
 cent2053-3,"Serawai dialect, Manna and Pasemah Ulu manna, Bengkulu",cent2053,South Barisan Malay,pse,Papunesia,-3.79673,103.137,Austronesian,,Stokhof1987Vol10.2,pp.115-116
 cent2053-4,"Serawai dialect, Saluma area, Bengkulu",cent2053,South Barisan Malay,pse,Papunesia,-3.79673,103.137,Austronesian,,Stokhof1987Vol10.2,p.135
 cent2058-1,"Aurora Island, Maewo",cent2058,Central Maewo,mwo,Papunesia,-15.0784,168.135,Austronesian,,Codrington1885,"pp.233-235, 240, 419"
 cent2072-1,Central Masela,cent2072,Central Masela,mxz,Papunesia,-8.15414,129.865,Austronesian,,Taber1993,pp.418-419
+cent2072-2,Ilmas,cent2072,Central Masela,mxz,Papunesia,-8.15414,129.865,Austronesian,,vanDijk2021,pp.158-167
 cent2084-1,Cagayan Negrito,cent2084,Central Cagayan Agta,agt,Papunesia,17.9571,121.857,Austronesian,,Vanoverbergh1937,"pp.112, 118"
 cent2087-1,Naga Bicol,cent2087,Coastal-Naga Bikol,bcl,Papunesia,13.7574,123.403,Austronesian,,Anonymous1984Bicol,pp.2-5
 cent2089-1,Central Subanen,cent2089,Central Subanen,syb,Papunesia,8.12701,123.018,Austronesian,,Hapalla1992,"pp.56, 58"
@@ -517,6 +558,7 @@ cent2118-1,Awyu: Ketah,cent2118,Central Awyu,awu,Papunesia,-6.29363,139.693,Nucl
 cent2118-2,Awyu: Nohon,cent2118,Central Awyu,awu,Papunesia,-6.29363,139.693,Nuclear Trans New Guinea,,Kriens2010,pp.48-49
 cent2118-3,Awyu: Taim,cent2118,Central Awyu,awu,Papunesia,-6.29363,139.693,Nuclear Trans New Guinea,,Kriens2010,pp.48-49
 cent2292-1,Bontok Igorot,cent2292,Central Bontoc,lbk,Papunesia,17.08,120.92,Austronesian,,Vanoverbergh1937,"pp.114, 120"
+cham1312-1,Chamorro,cham1312,Chamorro,cha,Papunesia,13.438011,144.74474,Austronesian,,Safford1903,pp.97-102
 cham1313-1,Chambri,cham1313,Chambri,can,Papunesia,-4.27831,143.097,Lower Sepik-Ramu,,Laycock1971D34,"pp.5004-5010, 5018"
 cham1313-2,Chambri (Indingai village),cham1313,Chambri,can,Papunesia,-4.27831,143.097,Lower Sepik-Ramu,Author’s Field Notes. Indingai Village (1976).,LeanEastSepik,pp.44-45
 cham1313-3,Chambri (Kilimbit village),cham1313,Chambri,can,Papunesia,-4.27831,143.097,Lower Sepik-Ramu,1 CSQ. Village: Kilimbit.,LeanEastSepik,p.45
@@ -548,6 +590,7 @@ dano1240-2,Gahuku-Asaro (Asaro dialect: from CSQs),dano1240,Dano,aso,Papunesia,-
 dano1240-3,Gahuku-Asaro (Asaro dialect: Lunube village),dano1240,Dano,aso,Papunesia,-5.92188,145.254,Nuclear Trans New Guinea,S.I.L word list (1965). Village: Lunube.,Lean1986Vol08,p.14
 dano1240-4,Gahuku-Asaro (Asaro dialect: from IMP/SIL),dano1240,Dano,aso,Papunesia,-5.92188,145.254,Nuclear Trans New Guinea,IMP/SIL Questionnaire (1978).,Lean1986Vol08,p.14
 daon1243-1,Daonda,daon1243,Daonda,dnd,Papunesia,-3.31443,141.22,Border,,Laycock1970D12,p.1708
+daon1243-2,Daonda,daon1243,Daonda,dnd,Papunesia,-3.31443,141.22,Border,,Seiler1985,p.213
 dawa1242-1,Dawawa (Gadovisu village),dawa1242,Dawawa,dww,Papunesia,-10.1692,149.999,Austronesian,1 CSQ. Village: Gadovisu.,Lean1986Vol06,p.39
 dawa1242-2,Dawawa (Wanama village),dawa1242,Dawawa,dww,Papunesia,-10.1692,149.999,Austronesian,S.I.L word list (1973). Village: Wanama,Lean1986Vol06,p.39
 dawe1237-1,Dawera-Daweloor,dawe1237,Dawera-Daweloor,ddw,Papunesia,-7.76324,130.06,Austronesian,,Taber1993,pp.418-419
@@ -556,6 +599,7 @@ dedu1240-2,Dedua (from CSQs),dedu1240,Dedua,ded,Papunesia,-6.38206,147.627,Nucle
 dedu1240-3,Dedua (from SIL word list),dedu1240,Dedua,ded,Papunesia,-6.38206,147.627,Nuclear Trans New Guinea,SIL Word List (1975).,LeanMorobe,p.29
 dege1247-1,Degenan,dege1247,Degenan,dge,Papunesia,-5.70892,146.572,Nuclear Trans New Guinea,1 CSQ. Village: Sel.,LeanMadang,pp.80-81
 dege1247-2,Sel,dege1247,Degenan,dge,Papunesia,-5.70892,146.572,Nuclear Trans New Guinea,,Lincoln1976,p.121
+dege1247-3,Degenan (Sel village),dege1247,Degenan,dge,Papunesia,-5.70892,146.572,Nuclear Trans New Guinea,,Carter2012,p.50
 dehu1237-1,Lifu,dehu1237,Dehu,dhv,Papunesia,-20.8892,167.229,Austronesian,,Codrington1885,"pp.226, 232, 236, 244"
 dela1251-1,Òe-nale,dela1251,Dela-Oenale,row,Papunesia,-10.8469,122.852,Austronesian,,Jonker1908,passim
 demm1245-1,Dem,demm1245,Dem,dem,Papunesia,-3.72183,137.632,Dem,,Stokhof1983Vol5.2,p.220
@@ -582,6 +626,7 @@ domu1246-1,Domung,domu1246,Domung,dev,Papunesia,-5.81856,146.682,Nuclear Trans N
 domu1246-2,Yuwoŋ,domu1246,Domung,dev,Papunesia,-5.81856,146.682,Nuclear Trans New Guinea,,Lincoln1976,p.121
 dond1249-1,Dondo,dond1249,Dondo,dok,Papunesia,0.80348,120.707,Austronesian,,Himmelmann2001,pp.101-104
 doro1266-1,Doromu,doro1266,Doromu-Koki,kqc,Papunesia,-9.56687,147.986,Manubaran,S.I.L word list (1973). Village: Dorumu.,Lean1986Vol07,p.60
+dree1234-1,Ndre,dree1234,Dre,,Papunesia,-8.5,141.68,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 duan1242-1,Duano,duan1242,Duano,dup,Papunesia,0.72162,103.46759,Austronesian,,Arnaud1998,pp.863-877 [word list item numbers]
 duan1242-2,Orang laut auf der Insel Rangsang,duan1242,Duano,dup,Papunesia,0.72162,103.46759,Austronesian,,Kaehler1946,p.27
 dubu1240-1,Dubu,dubu1240,Dubu,dmu,Papunesia,-3.62591,140.768,Pauwasi,,Galis1960,p.147
@@ -601,6 +646,7 @@ duri1242-3,Duri (Celebes) (from S. J. Esser),duri1242,Duri,mvp,Papunesia,-3.3708
 duri1243-1,Duriankere,duri1243,Duriankere,dbn,Papunesia,-1.38946,130.925,Inanwatan,,Smits1998,pp.183-185
 dusn1237-1,Dasener,dusn1237,Dusner,dsn,Papunesia,-2.73859,134.391,Austronesian,,Ray1912,pp.340-341
 dusn1237-2,Dusnir,dusn1237,Dusner,dsn,Papunesia,-2.73859,134.391,Austronesian,,Galis1955,p.139
+dusn1237-3,Dusner,dusn1237,Dusner,dsn,Papunesia,-2.73859,134.391,Austronesian,,Anceaux1961,pp.72-76
 duwe1237-1,Duwet / Guwot,duwe1237,Duwet,gve,Papunesia,-6.45752,146.841,Austronesian,,Smith1988,p.69
 duwe1237-2,wain,duwe1237,Duwet,gve,Papunesia,-6.45752,146.841,Austronesian,,Grace1955pdf51,p.31
 east2440-1,Kayoa,east2440,East Makian,mky,Papunesia,0.07337,127.423,Austronesian,,Teljeur1982,pp.145-146
@@ -640,6 +686,8 @@ emum1240-1,Kiamerop,emum1240,Emumu,enr,Papunesia,-3.74242,140.903,Pauwasi,,Galis
 ende1246-1,Ende,ende1246,Ende,end,Papunesia,-8.70998,121.555,Austronesian,,Pita2016,p.132
 ende1246-2,"Endeh, (Flores)",ende1246,Ende,end,Papunesia,-8.70998,121.555,Austronesian,,Stokhof1983Vol6,pp.167-168
 ende1246-3,Ende,ende1246,Ende,end,Papunesia,-8.70998,121.555,Austronesian,,Codrington1885,p.226
+ende1246-4,Ende,ende1246,Ende,end,Papunesia,-8.70998,121.555,Austronesian,,Arka2010,p.12
+ende1246-5,Ende,ende1246,Ende,end,Papunesia,-8.70998,121.555,Austronesian,,Elias2018,pp.120-121
 enga1252-1,Enga,enga1252,Enga,enq,Papunesia,-5.45619,143.685,Nuclear Trans New Guinea,,Franklin2012,pp.35-36
 enga1252-2,Enga (Layapo dialect),enga1252,Enga,enq,Papunesia,-5.45619,143.685,Nuclear Trans New Guinea,9 CSQs. (Wapenamanda area).,Lean1986Vol09,p.27
 enga1252-3,Enga (Mai dialect),enga1252,Enga,enq,Papunesia,-5.45619,143.685,Nuclear Trans New Guinea,Author’s notes take from Mai dialect informants.,Lean1986Vol09,pp.24-25
@@ -682,16 +730,22 @@ fasu1242-2,Haiwaro (Fasu),fasu1242,Fasu,faa,Papunesia,-6.62687,143.284,Fasu,,Bul
 fasu1242-3,Namumi,fasu1242,Fasu,faa,Papunesia,-6.62687,143.284,Fasu,[unknown],Lean1986Vol10,"pp.23, 52"
 fasu1242-4,Fasu,fasu1242,Fasu,faa,Papunesia,-6.62687,143.284,Fasu,,Franklin2001,pp.152-153
 fata1247-1,Fataluku,fata1247,Fataluku,ddg,Papunesia,-8.49464,127.08,Timor-Alor-Pantar,,Arnaud1998,pp.863-879 [word list item numbers]
+fata1247-2,Nisa [secret code?],fata1247,Fataluku,ddg,Papunesia,-8.49464,127.08,Timor-Alor-Pantar,,vanEngelenhoven2010,p.11
+fata1247-3,Uruha’a [secret code?],fata1247,Fataluku,ddg,Papunesia,-8.49464,127.08,Timor-Alor-Pantar,,vanEngelenhoven2010,p.11
+fata1247-4,Fataluku,fata1247,Fataluku,ddg,Papunesia,-8.49464,127.08,Timor-Alor-Pantar,,vanEngelenhoven2010,p.11
+fata1247-5,Fataluku - old numbering,fata1247,Fataluku,ddg,Papunesia,-8.49464,127.08,Timor-Alor-Pantar,,Gomes1972,p.176
 femb1238-1,Agala,femb1238,Fembe,agl,Papunesia,-5.71596,142.254,East Strickland,[unknown],Lean1986Vol12,"pp.29, 95"
 fiji1242-1,Nasinu Fiji Hindi,fiji1242,Fiji Hindi,hif,Papunesia,-17.8148,177.772,Indo-European,,Prasad2016,p.22
 fiji1243-1,Fiji,fiji1243,Fijian,fij,Papunesia,-18,178.33,Austronesian,,Codrington1885,"pp.229, 233, 236, 238-239, 246"
 fili1244-1,Filipino (Tagalog),fili1244,Filipino,fil,Papunesia,12.265,123.464,Austronesian,,Castle2010,pp.58-60
 fina1242-1,Eastern Bontoc,fina1242,Eastern-Southern Bontok,bkb,Papunesia,17.0319,121.11,Austronesian,,Fukuda1981,pp.92-93
 fino1238-1,Finungwa,fino1238,Finongan,fag,Papunesia,-6.33005,146.629,Nuclear Trans New Guinea,,Smith1988,p.87
+foau1240-1,Foau (Barr 1978),foau1240,Abawiri,flh,Papunesia,-3.04582,139.213,Lakes Plain,,Menanti2022,p.30
 foii1241-1,Foe,foii1241,Foi,foi,Papunesia,-6.47258,143.495,East Kutubu,"3 CSQs. Villages: Yo'obo, Ifigi, Tugiri.",Lean1986Vol10,p.25
 foii1241-2,Foe,foii1241,Foi,foi,Papunesia,-6.47258,143.495,East Kutubu,,Franklin2001,pp.152-153
 folo1238-1,Folopa,folo1238,Folopa,ppo,Papunesia,-6.86321,144.458,Teberan,,Anderson2010,pp.44-45
 folo1238-2,Podopa,folo1238,Folopa,ppo,Papunesia,-6.86321,144.458,Teberan,SIL Word List (1966). Village: Gena.,Lean1986Vol11,p.30
+fora1245-1,Forak (Mamgak/Sariŋ village),fora1245,Forak,frq,Papunesia,-5.69079,146.541,Nuclear Trans New Guinea,,Carter2012,p.50
 ford1242-1,Fordata,ford1242,Fordata,frd,Papunesia,-7.28902,131.511,Austronesian,,Stokhof1981Vol3.1,p.44
 fore1270-1,Fore,fore1270,Fore,for,Papunesia,-6.64473,145.5065,Nuclear Trans New Guinea,,Scott1978,"pp.181, 182, 188, 193, 194"
 fore1270-2,Fore (3 dialect areas),fore1270,Fore,for,Papunesia,-6.64473,145.5065,Nuclear Trans New Guinea,12 CSQs (from the 3 dialect areas).,Lean1986Vol08,p.51
@@ -703,6 +757,10 @@ gada1258-1,"Parasiles, Bontoc",gada1258,Ga'dang,gdg,Papunesia,17.2238,121.455,Au
 gads1258-1,Gadsup,gads1258,Gadsup,gaj,Papunesia,-6.31631,145.997,Nuclear Trans New Guinea,,Scott1978,"pp.181, 182, 188, 193, 194"
 gads1258-2,Gadsup (from CSQs),gads1258,Gadsup,gaj,Papunesia,-6.31631,145.997,Nuclear Trans New Guinea,"3 CSQs. Villages: Amomonta, Pundibassa, Anamunapa.",Lean1986Vol08,p.36
 gads1258-3,Gadsup (from SIL word list),gads1258,Gadsup,gaj,Papunesia,-6.31631,145.997,Nuclear Trans New Guinea,S.I.L survey word list (1975?).,Lean1986Vol08,p.36
+gaik1242-1,Gaikwundi,gaik1242,Gaikundi,gbf,Papunesia,-4.01718,143.139,Ndu,,Staalsen1975,p.14
+gaik1242-2,Gaikundi,gaik1242,Gaikundi,gbf,Papunesia,-4.01718,143.139,Ndu,,Ambuwat1976,pp.42-43
+gain1243-1,Gaena,gain1243,Gaina,gcn,Papunesia,-9.14409,148.59,Nuclear Trans New Guinea,,Smallhorn2011,"pp.306, 366, 377"
+gain1243-2,Gena,gain1243,Gaina,gcn,Papunesia,-9.14409,148.59,Nuclear Trans New Guinea,,Smallhorn2011,"pp.306, 367, 377"
 gale1259-1,Galela,gale1259,Galela,gbi,Papunesia,2.31461,128.44,North Halmahera,,Fortgens1905,p.34
 gale1259-2,Galela (from H. van Dijken),gale1259,Galela,gbi,Papunesia,2.31461,128.44,North Halmahera,,Stokhof1980Vol2,p.117
 gale1259-3,Galela (from M. J. van Baarda),gale1259,Galela,gbi,Papunesia,2.31461,128.44,North Halmahera,,Stokhof1980Vol2,pp.132-133
@@ -784,14 +842,16 @@ guhu1244-2,Guhu-Samane (from CSQs),guhu1244,Guhu-Samane,ghs,Papunesia,-7.99922,1
 guhu1244-3,Guhu-Samane (from IMP/SIL),guhu1244,Guhu-Samane,ghs,Papunesia,-7.99922,147.228,Nuclear Trans New Guinea,IMP/SIL (1978).,LeanMorobe,p.69
 guhu1244-4,Tahari,guhu1244,Guhu-Samane,ghs,Papunesia,-7.99922,147.228,Nuclear Trans New Guinea,,Chinnery1915,p.163
 guma1255-1,Gumalu,guma1255,Gumalu,gmu,Papunesia,-5.22189,145.618,Nuclear Trans New Guinea,,Zgraggen1980Mabuso,p.92
+gunt1241-1,Wartha Thuntai (Wando village),gunt1241,Warta Thuntai,gnt,Papunesia,-8.80806,141.253,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 guri1248-1,Kwomtari (Guriaso Community School),guri1248,Guriaso,grx,Papunesia,-3.5718,141.597,Guriaso,1 CSQ. Guriaso Community School.,LeanSandaun,p.22
 guri1248-2,Guriaso,guri1248,Guriaso,grx,Papunesia,-3.5718,141.597,Guriaso,,Baron1983,p.9
 gusa1246-1,Gusan,gusa1246,Gusan,gsn,Papunesia,-6.28998,146.679,Nuclear Trans New Guinea,,Smith1988,p.87
+gwah1244-1,Gwahatike (Umboldi village),gwah1244,Gwahatike,dah,Papunesia,-5.64555,146.455,Nuclear Trans New Guinea,,Carter2012,p.50
 haho1237-1,Hahon,haho1237,Hahon,hah,Papunesia,-5.59031,154.801,Austronesian,"Allen and Hurd, SIL Wordlist (1963), Lalum Village.",Lean1985Vol03,p.33
 haho1237-2,Hahon (from CSQ),haho1237,Hahon,hah,Papunesia,-5.59031,154.801,Austronesian,1 CSQ. Village: Puto.,LeanBougainville,p.29
-hako1237-1,Halia (Haku dialect),hako1237,Hakö,hao,Papunesia,-5.06832,154.594,Austronesian,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",Lean1985Vol03,p.16
-hali1244-1,Halia (from SIL word list),hali1244,Halia,hla,Papunesia,-5.26603,154.662,Austronesian,"SIL Wordlist, Allen and Hurd (1963).",Lean1985Vol03,p.16
-hali1244-2,Halia (Hanahan dialect),hali1244,Halia,hla,Papunesia,-5.26603,154.662,Austronesian,"13 CSQs. Villages: Hanahan, Hagus, Ketskets, Malasang.",Lean1985Vol03,p.16
+hako1237-1,Halia (Haku dialect),hako1237,Hakö,hao,Papunesia,-5.06832,154.594,Austronesian,"12 CSQs. Villages: Lontis, Lemankoa, Lenmanmanu.",Lean1985Vol03,p.19
+hali1244-1,Halia (from SIL word list),hali1244,Halia,hla,Papunesia,-5.26603,154.662,Austronesian,"SIL Wordlist, Allen and Hurd (1963).",Lean1985Vol03,p.19
+hali1244-2,Halia (Hanahan dialect),hali1244,Halia,hla,Papunesia,-5.26603,154.662,Austronesian,"13 CSQs. Villages: Hanahan, Hagus, Ketskets, Malasang.",Lean1985Vol03,p.19
 hali1244-3,Hanahan,hali1244,Halia,hla,Papunesia,-5.26603,154.662,Austronesian,,Schnee1901,p.270
 hamt1247-1,Hamtai,hamt1247,Hamtai,hmt,Papunesia,-7.54975,146.227,Angan,[unknown],Lean1986Vol11,"pp.53, 60"
 hamt1247-2,Hamtai,hamt1247,Hamtai,hmt,Papunesia,-7.54975,146.227,Angan,,Smith1988,p.100
@@ -803,10 +863,12 @@ hanu1241-1,Maŋyan-Hanunoo,hanu1241,Hanunoo,hnn,Papunesia,12.4159,121.221,Austro
 haru1244-1,Haruku,haru1244,Haruku,hrk,Papunesia,-3.57029,128.476,Austronesian,,Stokhof1982Vol3.3,pp.147-148
 haru1244-2,Pelauw Haruku,haru1244,Haruku,hrk,Papunesia,-3.57029,128.476,Austronesian,,Stokhof1982Vol3.3,p.121
 haru1245-1,Waibuk,haru1245,Haruai,tmd,Papunesia,-5.09522,144.3375,Piawi,,Tonson1976,pp.100-103
-haru1245-2,Haruai,haru1245,Haruai,tmd,Papunesia,-5.09522,144.3375,Piawi,,Comrie1999,pp.81-91
+haru1245-2,Haruai (indigenous abstract system),haru1245,Haruai,tmd,Papunesia,-5.09522,144.3375,Piawi,,Comrie1999,pp.81-82
+haru1245-3,Haruai (body-part counting system),haru1245,Haruai,tmd,Papunesia,-5.09522,144.3375,Piawi,,Comrie1999,p.91
 hata1243-1,Hattam,hata1243,Hatam,had,Papunesia,-1.13531,134.037,Hatam-Mansim,,Galis1955,p.138
 hata1243-2,Moiré,hata1243,Hatam,had,Papunesia,-1.13531,134.037,Hatam-Mansim,,Galis1960,p.141
 hawa1245-1,Sandwich Islands,hawa1245,Hawaiian,haw,Papunesia,19.6297,-155.43,Austronesian,,Codrington1885,"pp.227, 231"
+hawa1247-1,Hawaiʻi Creole,hawa1247,Hawai'i Creole English,hwc,Papunesia,19.6287,-155.437,Indo-European,,Velupillai2013,p.255
 herm1237-1,Louf,herm1237,Hermit,llf,Papunesia,-1.52891,145.075,Austronesian,,Schnee1901,p.278
 hewa1241-1,Hewa (from SIL word list),hewa1241,Hewa,ham,Papunesia,-5.03635,142.551,Sepik,SIL Word List (undated).,LeanSouthernHighlands,p.1
 hewa1241-2,Hewa (Wanakipe village),hewa1241,Hewa,ham,Papunesia,-5.03635,142.551,Sepik,SIL Word List (1980). Village: Wanakipe.,LeanSouthernHighlands,p.1
@@ -817,6 +879,7 @@ hote1245-1,Hote,hote1245,Hote,hot,Papunesia,-7.07708,146.869,Austronesian,"2 CSQ
 hote1245-2,Hote,hote1245,Hote,hot,Papunesia,-7.07708,146.869,Austronesian,,Smith1988,p.74
 hote1245-3,Misim,hote1245,Hote,hot,Papunesia,-7.07708,146.869,Austronesian,SIL (1975). Village: Biaboli,LeanMorobe,p.51
 hote1245-4,Misim,hote1245,Hote,hot,Papunesia,-7.07708,146.869,Austronesian,,Smith1988,p.75
+hoti1237-1,Hoti,hoti1237,Hoti of East Seram,hti,Papunesia,-3.0083,130.168,Austronesian,,Erniati2021,pp.246-252
 huku1237-1,"Hukumina, Buru",huku1237,Hukumina,huw,Papunesia,-3.274,126.194,Austronesian,,Stokhof1982Vol3.4,pp.73-74
 hula1239-1,Keapara (Hula dialect),hula1239,Hula,hul,Papunesia,-9.99427,147.705,Austronesian,17 CSQs. Village: Hula (17).,Lean1986Vol07,p.74
 huli1244-1,Huli,huli1244,Huli,hui,Papunesia,-5.97212,142.963,Nuclear Trans New Guinea,31 CSQs. Villages throughout Huli region.,Lean1986Vol10,p.18
@@ -828,12 +891,16 @@ hunj1241-3,Hunjara (Waju village),hunj1241,Hunjara-Kaina Ke,hkk,Papunesia,-8.92,
 iaai1238-1,ia·i,iaai1238,Iaai,iai,Papunesia,-20.6301,166.59,Austronesian,,Grace1955pdfMisc,p.17 [of pdf]
 iama1237-1,Yamalele,iama1237,Iamalele,yml,Papunesia,-9.45005,150.573,Austronesian,S.I.L word list (1970). Village: Ubutala.,Lean1986Vol06,p.74
 iatm1242-1,Iatmul,iatm1242,Iatmul,ian,Papunesia,-4.30064,143.316,Ndu,,Zgraggen1972,pp.215-219
+iatm1242-10,Torembi,iatm1242,Iatmul,ian,Papunesia,-4.30064,143.316,Ndu,,Staalsen1975,p.14
+iatm1242-11,Gaikorobi,iatm1242,Iatmul,ian,Papunesia,-4.30064,143.316,Ndu,,Staalsen1975,p.14
 iatm1242-2,Iatmul (from IMP/SIL),iatm1242,Iatmul,ian,Papunesia,-4.30064,143.316,Ndu,IMP/SIL Questionnaire (1978).,LeanEastSepik,pp.46-47
 iatm1242-3,Iatmul (Malingei village),iatm1242,Iatmul,ian,Papunesia,-4.30064,143.316,Ndu,Author’s Field Notes (1976). Village: Malingei.,LeanEastSepik,p.47
 iatm1242-4,Iatmul (Nyaura dialect),iatm1242,Iatmul,ian,Papunesia,-4.30064,143.316,Ndu,12 CSQs. Nyaura d. region.,LeanEastSepik,p.48
 iatm1242-5,Iatmul (Nyaura dialect),iatm1242,Iatmul,ian,Papunesia,-4.30064,143.316,Ndu,,Laycock1965,pp.173-174
 iatm1242-6,Iatmul (Palimbei dialect),iatm1242,Iatmul,ian,Papunesia,-4.30064,143.316,Ndu,28 CSQs. Palimbei d. region.,LeanEastSepik,p.48
 iatm1242-7,Kaiserin Augusta River (2),iatm1242,Iatmul,ian,Papunesia,-4.30064,143.316,Ndu,,Ray1919,p.330
+iatm1242-8,Iatmul,iatm1242,Iatmul,ian,Papunesia,-4.30064,143.316,Ndu,,Staalsen1975,p.14
+iatm1242-9,Yamok,iatm1242,Iatmul,ian,Papunesia,-4.30064,143.316,Ndu,,Staalsen1975,p.14
 ibal1244-1,Ibaloy,ibal1244,Ibaloi,ibl,Papunesia,16.4263,120.695,Austronesian,,Vanoverbergh1937,"pp.115, 121"
 iban1264-1,Iban (Sea-Dayak),iban1264,Iban,iba,Papunesia,2.09041,112.934,Austronesian,,Urquhart1955,p.195
 iban1264-2,Sibuyau,iban1264,Iban,iba,Papunesia,2.09041,112.934,Austronesian,,Ray1913,p.58
@@ -844,11 +911,16 @@ idaa1241-2,Idaan,idaa1241,Ida'an,dbj,Papunesia,5.29059,118.515,Austronesian,,Lob
 idaa1241-3,Sungai Seguliud,idaa1241,Ida'an,dbj,Papunesia,5.29059,118.515,Austronesian,,Lobel2016,pp.234-239
 idii1243-1,Idi (Dimiri village),idii1243,Idi-Taeme,idi,Papunesia,-8.75976,142.301,Pahoturi,SIL Word List (1975). Village: Dimiri.,Lean1986Vol12,p.62
 idii1243-2,Idi (Malam village),idii1243,Idi-Taeme,idi,Papunesia,-8.75976,142.301,Pahoturi,1 CSQ. Village: Malam.,Lean1986Vol12,p.62
+idii1243-3,Idi (Dimsisi village),idii1243,Idi-Taeme,idi,Papunesia,-8.75976,142.301,Pahoturi,,Carroll2024,txt file downloaded on 23 October 2024
+idii1243-4,Idi (Sibidiri village),idii1243,Idi-Taeme,idi,Papunesia,-8.75976,142.301,Pahoturi,,Carroll2024,txt file downloaded on 23 October 2024
+idii1243-5,Täme (Dimsisi village),idii1243,Idi-Taeme,idi,Papunesia,-8.75976,142.301,Pahoturi,,Carroll2024,txt file downloaded on 23 October 2024
+idii1243-6,Taeme (Kinkin village),idii1243,Idi-Taeme,idi,Papunesia,-8.75976,142.301,Pahoturi,,Carroll2024,txt file downloaded on 23 October 2024
 idun1242-1,Iduna,idun1242,Iduna,viv,Papunesia,-9.34361,150.24,Austronesian,S.I.L word list (1964?). Village: Wakonai.,Lean1986Vol06,p.69
 igan1243-1,Iski (Igana village),igan1243,Igana,igg,Papunesia,-4.70942,144.841,Lower Sepik-Ramu,,Tousch2013,
 ihaa1241-1,Kapauer,ihaa1241,Iha,ihp,Papunesia,-2.81013,132.271,West Bomberai,,Ray1912,pp.340-341
 ihaa1241-2,Kapaur,ihaa1241,Iha,ihp,Papunesia,-2.81013,132.271,West Bomberai,,Galis1955,p.134
 ihaa1241-3,ʔiha or kapaur,ihaa1241,Iha,ihp,Papunesia,-2.81013,132.271,West Bomberai,,Grace1955pdf50,p.55 [of pdf]
+ihaa1241-4,Kapaur,ihaa1241,Iha,ihp,Papunesia,-2.81013,132.271,West Bomberai,,Cowan1953,p.33
 ikob1240-1,Baina,ikob1240,Ikobi,meb,Papunesia,-7.30342,143.618,Turama-Kikori,,Bullock2015,p.47
 ikob1240-2,Faia (Wantobari),ikob1240,Ikobi,meb,Papunesia,-7.30342,143.618,Turama-Kikori,,Bullock2015,p.41
 ikob1240-3,Ikobi,ikob1240,Ikobi,meb,Papunesia,-7.30342,143.618,Turama-Kikori,[unknown],Lean1986Vol11,"pp.16, 40"
@@ -862,6 +934,7 @@ ilon1239-1,Egongot,ilon1239,Ilongot,ilk,Papunesia,16.3785,121.547,Austronesian,,
 ilon1239-2,Ilongot,ilon1239,Ilongot,ilk,Papunesia,16.3785,121.547,Austronesian,,Vanoverbergh1937,"pp.115, 121, 196-197"
 imbo1238-1,Imbongu,imbo1238,Imbongu,imo,Papunesia,-6.13629,144.026,Nuclear Trans New Guinea,,Stefaniw1987,p.28
 imon1245-1,Imonda,imon1245,Imonda,imn,Papunesia,-3.31228,141.171,Border,,Laycock1970D13,p.1772
+imon1245-2,Imonda,imon1245,Imonda,imn,Papunesia,-3.31228,141.171,Border,,Seiler1985,p.213
 imro1237-1,Imroing,imro1237,Imroing,imr,Papunesia,-7.96772,129.651,Austronesian,,Taber1993,pp.418-419
 inap1241-1,Itutang,inap1241,Itutang-Inapang,mzu,Papunesia,-4.67614,144.9,Lower Sepik-Ramu,,Zgraggen1972,pp.215-218
 inap1241-2,Midsivindi,inap1241,Itutang-Inapang,mzu,Papunesia,-4.67614,144.9,Lower Sepik-Ramu,,Zgraggen1972,pp.215-218
@@ -880,11 +953,15 @@ ipil1240-2,Ipili,ipil1240,Ipili,ipi,Papunesia,-5.42586,143.089,Nuclear Trans New
 irar1238-1,Irutu,irar1238,Irarutu,irh,Papunesia,-2.94438,133.586,Austronesian,,Galis1955,p.135
 irar1238-2,Kasira,irar1238,Irarutu,irh,Papunesia,-2.94438,133.586,Austronesian,,Grace1955pdf50,pp.97-98
 irar1238-3,kaˈsira (Babo),irar1238,Irarutu,irh,Papunesia,-2.94438,133.586,Austronesian,,Grace1955pdf50,p.55 [of pdf]
+irar1238-4,Kaitero,irar1238,Irarutu,irh,Papunesia,-2.94438,133.586,Austronesian,,Cowan1953,p.30
+irar1238-5,Arguni B,irar1238,Irarutu,irh,Papunesia,-2.94438,133.586,Austronesian,,Cowan1953,p.30
+irar1238-6,Irarutu,irar1238,Irarutu,irh,Papunesia,-2.94438,133.586,Austronesian,,Anceaux1961,pp.72-76
 ires1239-1,"Humuku – Irege, Irisami tribe, south Cinderawasih Bay (Irian Jay)",ires1239,Yerisiam,ire,Papunesia,-3.62803,135.025,Austronesian,,Stokhof1987Vol11,p.250
 ires1239-2,Irésim,ires1239,Yerisiam,ire,Papunesia,-3.62803,135.025,Austronesian,,Galis1955,p.141
 ires1239-3,Irsam,ires1239,Yerisiam,ire,Papunesia,-3.62803,135.025,Austronesian,,Stokhof1983Vol5.2,p.192
 irig1242-1,Iriga Bicol,irig1242,Iriga Bicolano,bto,Papunesia,13.3896,123.331,Austronesian,,Anonymous1984Bicol,pp.2-5
 isab1240-1,Isabi,isab1240,Isabi,isa,Papunesia,-5.83809,145.462,Nuclear Trans New Guinea,,Zgraggen1980SouthernAdelbert,p.46
+isar1235-1,Atás des Berges Isaro,isar1235,Isarog Agta,agk,Papunesia,13.651,123.332,Austronesian,,Blumentritt1896,p.436
 iseb1246-1,Isebe,iseb1246,Isebe,igo,Papunesia,-5.20719,145.691,Nuclear Trans New Guinea,,Zgraggen1980Mabuso,p.92
 isir1237-1,Sabéri,isir1237,Isirawa,srl,Papunesia,-1.88775,138.595,Greater Kwerba,,Galis1955,p.143
 isir1237-2,Saberri,isir1237,Isirawa,srl,Papunesia,-1.88775,138.595,Greater Kwerba,,Stokhof1983Vol5.2,p.78
@@ -898,8 +975,7 @@ itik1240-1,Itik,itik1240,Itik,itx,Papunesia,-2.18342,139.341,Tor-Orya,,Smits1994
 iwak1237-1,I-wak (Labeng),iwak1237,I-Wak,iwk,Papunesia,16.30448,120.78633,Austronesian,,Kamp1986,pp.3-7
 iwal1237-1,Kaiwa,iwal1237,Iwal,kbm,Papunesia,-7.20938,146.983,Austronesian,IMP/SIL Questionnaire (1978).,LeanMorobe,p.52
 iwal1237-2,Kaiwa,iwal1237,Iwal,kbm,Papunesia,-7.20938,146.983,Austronesian,,Smith1988,p.55
-iwam1256-1,Iwam,iwam1256,Iwam,iwm,Papunesia,-4.27346,141.817,Sepik,SIL Word List (undated). Village: Hauna (Yauenian).,LeanEastSepik,p.17
-iwam1256-2,Iwam,iwam1256,Iwam,iwm,Papunesia,-4.27346,141.817,Sepik,,Laycock1971D32,p.4548
+iwam1256-1,Iwam,iwam1256,Iwam,iwm,Papunesia,-4.27346,141.817,Sepik,,Laycock1971D32,p.4548
 iwur1240-1,Uwimerah Proa Bivouac,iwur1240,Morop-Dintere,iwo,Papunesia,-5.11036,140.823,Nuclear Trans New Guinea,,Stokhof1982Vol5.1,pp.126-127
 iyoo1238-1,Nahu,iyoo1238,Iyo,nca,Papunesia,-5.84161,146.092,Nuclear Trans New Guinea,SIL Word List (1967). Village: Wamunti.,LeanMadang,p.73
 jair1235-1,Jair Awyu/Ujung Kia,jair1235,Kia River Awyu,awv,Papunesia,-6.79732,140.104,Nuclear Trans New Guinea,,Lebold2013,p.43
@@ -924,8 +1000,10 @@ kair1263-3,Kairiru (from CSQs),kair1263,Kairiru,kxa,Papunesia,-3.34608,143.558,A
 kair1263-4,Kairiru (Koragur village),kair1263,Kairiru,kxa,Papunesia,-3.34608,143.558,Austronesian,SIL (1976). Village: Koragur.,LeanEastSepik,p.34
 kair1263-5,Kairiru,kair1263,Kairiru,kxa,Papunesia,-3.34608,143.558,Austronesian,,Grace1955pdf42,p.37
 kais1235-1,Mintámáni,kais1235,Kais,kzm,Papunesia,-1.78077,132.312,South Bird's Head Family,,Galis1955,p.137
+kais1235-2,Kampong Baru,kais1235,Kais,kzm,Papunesia,-1.78077,132.312,South Bird's Head Family,,Cowan1953,p.22
 kaja1250-1,Kejaman,kaja1250,Kajaman,kag,Papunesia,2.78613,113.886,Austronesian,,Urquhart1955,pp.195-196
 kala1256-1,Kálábrá,kala1256,Kalabra,kzz,Papunesia,-1.43074,131.617,West Bird's Head,,Galis1955,p.136
+kala1256-2,Kalabra,kala1256,Kalabra,kzz,Papunesia,-1.43074,131.617,West Bird's Head,,Cowan1953,p.17
 kala1377-1,Saibai,kala1377,Kala Lagaw Ya,mwp,Australia,-10.6748,142.196,Pama-Nyungan,,Ray1912,pp.340-341
 kala1377-2,Tauan,kala1377,Kala Lagaw Ya,mwp,Australia,-10.6748,142.196,Pama-Nyungan,,Codrington1885,p.222
 kala1391-1,Murut Kalabakan,kala1391,Kalabakan,kve,Papunesia,4.53605,117.317,Austronesian,,Lobel2016,pp.234-239
@@ -975,6 +1053,7 @@ kapi1250-2,Kapin,kapi1250,Kapin,tbx,Papunesia,-7.05732,146.529,Austronesian,,Smi
 kapi1250-3,Kapin,kapi1250,Kapin,tbx,Papunesia,-7.05732,146.529,Austronesian,,Adams1985,p.19
 kapi1250-4,Taiak,kapi1250,Kapin,tbx,Papunesia,-7.05732,146.529,Austronesian,,Adams1985,p.19
 kapi1250-5,Garawa,kapi1250,Kapin,tbx,Papunesia,-7.05732,146.529,Austronesian,,Adams1985,p.19
+kapo1250-1,Kapauri (Pagai),kapo1250,Kapori,khp,Papunesia,-3.52696,139.766,Kapori,,Menanti2022,p.30
 kapp1237-1,Ali,kapp1237,Kap,ykm,Papunesia,-3.28761,142.659,Austronesian,,Laycock1970D08,pp.1040-1044
 kapp1237-2,Ali,kapp1237,Kap,ykm,Papunesia,-3.28761,142.659,Austronesian,,Laycock1976,p.416
 kapp1237-3,Ali,kapp1237,Kap,ykm,Papunesia,-3.28761,142.659,Austronesian,,Ray1919,p.328
@@ -992,6 +1071,7 @@ kara1486-2,Lamusmus,kara1486,Kara (Papua New Guinea),leu,Papunesia,-2.81957,151.
 kara1495-1,Karawa,kara1495,Karawa,xrw,Papunesia,-3.69933,142.018,Sepik,,Laycock1967C05,p.55
 kara1497-1,Karami,kara1497,Karami,xar,Papunesia,-7.13333,143.117,Karami,,Ray1923,p.345
 kara1499-1,Karas,kara1499,Kalamang,kgv,Papunesia,-3.47037,132.678,West Bomberai,,Galis1955,p.135
+kara1499-2,Karas,kara1499,Kalamang,kgv,Papunesia,-3.47037,132.678,West Bomberai,,Cowan1953,p.35
 kare1341-1,Kare,kare1341,Kare (Papua New Guinea),kmf,Papunesia,-5.07674,145.499,Nuclear Trans New Guinea,,Zgraggen1980Mabuso,p.92
 kark1258-1,Yuri,kark1258,Karkar-Yuri,yuj,Papunesia,-3.74954,141.098,Pauwasi,,Laycock1970D13,p.1810
 kark1258-2,Yuri (Auya No. 2 village),kark1258,Karkar-Yuri,yuj,Papunesia,-3.74954,141.098,Pauwasi,SIL Word List (1974/75). Village: Auya No. 2.,LeanSandaun,p.23
@@ -1023,6 +1103,7 @@ kawe1240-3,Kawei,kawe1240,Kawe,kgb,Papunesia,-0.17313,130.327,Austronesian,,Grac
 kawi1241-1,Old Javanese (Kawi),kawi1241,Kawi,kaw,Papunesia,-7,111,Austronesian,,Teselkin1972,pp.40-41
 kawi1241-2,Kawi Sprache [given by Humboldt],kawi1241,Kawi,kaw,Papunesia,-7,111,Austronesian,,Codrington1885,p.223
 kaya1324-1,Kajansch,kaya1324,Kayan Mahakam,xay,Papunesia,0.91787,114.452,Austronesian,,Barth1910,pp.234-279
+kaya1325-1,Data Dian,kaya1325,Kayan River Kayan,xkn,Papunesia,1.78269,115.827,Austronesian,,Smith2017,pp.451-472
 kaye1241-1,Cajeli,kaye1241,Kayeli,kzl,Papunesia,-3.39247,127.118,Austronesian,,Wallace1869,pp.622-625
 kaye1241-2,"Kayeli, Buru",kaye1241,Kayeli,kzl,Papunesia,-3.39247,127.118,Austronesian,,Stokhof1982Vol3.4,p.87
 kayu1243-1,Kajupulau,kayu1243,Kayupulau,kzu,Papunesia,-2.54415,140.626,Austronesian,,Grace1955pdf48,p.19
@@ -1030,6 +1111,7 @@ keap1239-1,Keapara (Babaga dialect),keap1239,Keapara,khz,Papunesia,-10.1342,147.
 keap1239-2,Keapara (Kalo dialect),keap1239,Keapara,khz,Papunesia,-10.1342,147.95,Austronesian,7 CSQs. Village: Kalo (7).,Lean1986Vol07,p.75
 keap1239-3,Keapara (Kapari dialect),keap1239,Keapara,khz,Papunesia,-10.1342,147.95,Austronesian,5 CSQs. Villages: Kapari (5).,Lean1986Vol07,p.74
 keap1239-4,Keapara (Keapara dialect),keap1239,Keapara,khz,Papunesia,-10.1342,147.95,Austronesian,"4 CSQs. Villages: Karawa (3), Keapara (1).",Lean1986Vol07,p.74
+keda1251-1,Kedah,keda1251,Kedah-Perak Malay,meo,Eurasia,5.933,100.492,Austronesian,,Dahaman2015,passim
 kede1239-1,Kwesten (Keder),kede1239,Keder,kdy,Papunesia,-2.03589,139.081,Tor-Orya,,Smits1994,pp.211-221
 kehu1238-1,Keuw,kehu1238,Kehu,khh,Papunesia,-3.19328,136.14,Kehu,,Kamholz2012,"pp.258, 260"
 keii1239-1,Kei,keii1239,Kei,kei,Papunesia,-5.63948,133.02,Austronesian,,Stokhof1981Vol3.1,p.80
@@ -1047,6 +1129,11 @@ kemt1242-1,Nimboran-groep Kamtuk,kemt1242,Kemtuik,kmt,Papunesia,-2.64894,140.372
 keni1248-1,"Ulu Malay, Melawi area",keni1248,Keninjal,knl,Papunesia,-0.63184,111.808,Austronesian,,Stokhof1986Vol8,p.109
 keni1249-1,Keningau Murut,keni1249,Keningau Murut,kxi,Papunesia,5.42272,116.198,Austronesian,,Brewis1990,p.10
 keni1249-2,Murut Nabaay,keni1249,Keningau Murut,kxi,Papunesia,5.42272,116.198,Austronesian,,Lobel2016,pp.234-239
+keoo1238-1,Kéo - base four system,keoo1238,Kéo,xxk,Papunesia,-8.8704,121.256,Austronesian,,Baird2002,pp.226-237
+keoo1238-2,Kéo - base ten system,keoo1238,Kéo,xxk,Papunesia,-8.8704,121.256,Austronesian,,Baird2002,pp.226-237
+keoo1238-3,Keo (quinary-decimal numerals),keoo1238,Kéo,xxk,Papunesia,-8.8704,121.256,Austronesian,,Elias2020,pp.326-327
+keoo1238-4,Keo (quaternary numerals),keoo1238,Kéo,xxk,Papunesia,-8.8704,121.256,Austronesian,,Elias2020,p.327
+keoo1238-5,Kéo (Udiworowatu),keoo1238,Kéo,xxk,Papunesia,-8.8704,121.256,Austronesian,,Elias2018,pp.120-121
 keor1235-1,Haira,keor1235,Keoru-Ahia,xeu,Papunesia,-7.63603,145.415,Eleman,,Baker1915,p.182
 keor1235-2,Kairu-Kaura,keor1235,Keoru-Ahia,xeu,Papunesia,-7.63603,145.415,Eleman,,Brown1921Kairu,p.125
 kere1286-1,Kerewo,kere1286,Kerewo,kxz,Papunesia,-7.551,144.309,Kiwaian,,Petterson2010Kerewo,p.24
@@ -1081,6 +1168,7 @@ kode1237-1,Kodeoha,kode1237,Kodeoha,vko,Papunesia,-3.39566,120.937,Austronesian,
 kohi1250-1,Seruyan,kohi1250,Kohin,kkx,Papunesia,-1.43973,111.905,Austronesian,,Iper2003,p.34
 koit1244-1,Koita,koit1244,Koitabu,kqi,Papunesia,-9.36877,147.079,Koiarian,"3 CSQs. Villages: Papa, Kilakila, Kido.",Lean1986Vol07,p.48
 koit1244-2,Koita (Papa village),koit1244,Koitabu,kqi,Papunesia,-9.36877,147.079,Koiarian,S.I.L word list (1974). Village: Papa.,Lean1986Vol07,p.48
+koiw1243-1,Koiwat,koiw1243,Koiwat,kxt,Papunesia,-4.03417,143.62,Ndu,,Staalsen1975,p.14
 koke1241-1,Uwimerah (observation post),koke1241,Kokenop Mandobo,,Papunesia,-5.551923,140.598971,Nuclear Trans New Guinea,,Stokhof1982Vol5.1,p.130
 koli1253-1,Tawlet/Kalibugan,koli1253,Kolibugan Subanon,skn,Papunesia,7.77212,122.567,Austronesian,,Lobel2013,pp.319-356
 koli1253-2,Western Kolibugan,koli1253,Kolibugan Subanon,skn,Papunesia,7.77212,122.567,Austronesian,,Lobel2013,pp.319-356
@@ -1102,6 +1190,7 @@ komi1271-1,Iski (Kominimung 1 village),komi1271,Kominimung,xoi,Papunesia,-4.6853
 komo1261-1,Komodo,komo1261,Komodo,kvh,Papunesia,-8.64518,119.477,Austronesian,,Verheijen1982,pp.204-222
 kona1242-1,Konai,kona1242,Konai,kxw,Papunesia,-5.66011,142.069,East Strickland,SIL Word List (1981). Village: Sisinabi.,LeanWestern,p.10
 kond1303-1,Kòndó,kond1303,Yaben (Konda),knd,Papunesia,-1.82635,132.06,Konda-Yahadian,,Galis1955,p.137
+kond1303-2,Konda,kond1303,Yaben (Konda),knd,Papunesia,-1.82635,132.06,Konda-Yahadian,,Cowan1953,p.18
 kono1269-1,Konomala (Konomala dialect),kono1269,Konomala,koa,Papunesia,-4.16184,152.87,Austronesian,2 CSQs. Village: Weilo.,Lean1985Vol01,p.55
 kopa1248-1,Kopar,kopa1248,Kopar,xop,Papunesia,-3.98259,144.466,Lower Sepik-Ramu,SIL Word List (undated). Village: Singarin.,LeanEastSepik,p.58
 kopa1248-2,Kopar,kopa1248,Kopar,xop,Papunesia,-3.98259,144.466,Lower Sepik-Ramu,,Laycock1971D24,p.3390
@@ -1113,6 +1202,7 @@ kopk1238-5,Marub,kopk1238,Kopkaka,opk,Papunesia,-4.91191,139.926,Nuclear Trans N
 kora1294-1,Korafe,kora1294,Korafe-Yegha,kpr,Papunesia,-9.07,149.267,Nuclear Trans New Guinea,"6 CSQs. Villages: Tufi, Bauwame (2), Fofoma, Konambu, Rabade.",Lean1985Vol05,p.38
 kora1294-2,Korafe (Mokorua dialect),kora1294,Korafe-Yegha,kpr,Papunesia,-9.07,149.267,Nuclear Trans New Guinea,SIL Word List (1975).,Lean1985Vol05,p.38
 kora1296-1,Korak,kora1296,Korak,koz,Papunesia,-4.5998,145.514,Nuclear Trans New Guinea,,Zgraggen1980NorthernAdelbert,p.92
+kora1298-1,Korapun,kora1298,Korapun-Bromley,,Papunesia,-4.535733,139.680215,Nuclear Trans New Guinea,,Voorhoeve1975,p.117
 koro1312-1,Danowage,koro1312,Korowai,khe,Papunesia,-5.26952,140.047,Nuclear Trans New Guinea,,Wilbrink2004,pp.103ff
 koro1312-2,Yaniruma,koro1312,Korowai,khe,Papunesia,-5.26952,140.047,Nuclear Trans New Guinea,,Wilbrink2004,pp.103ff
 koro1312-3,Mabul (Korowai),koro1312,Korowai,khe,Papunesia,-5.26952,140.047,Nuclear Trans New Guinea,,Wilbrink2004,pp.104ff
@@ -1121,6 +1211,8 @@ koro1312-5,Miwage,koro1312,Korowai,khe,Papunesia,-5.26952,140.047,Nuclear Trans 
 koro1312-6,Burukmakok (collected by Peter Jan de Vries),koro1312,Korowai,khe,Papunesia,-5.26952,140.047,Nuclear Trans New Guinea,,Wilbrink2004,pp.106ff
 koro1312-7,Korowai (SIL),koro1312,Korowai,khe,Papunesia,-5.26952,140.047,Nuclear Trans New Guinea,,Wilbrink2004,pp.106ff
 koro1313-1,Koromira,koro1313,Koromira,kqj,Papunesia,-6.39399,155.742,South Bougainville,,Rausch1912,p.964
+kosa1251-1,Kosare (Muara Nawa),kosa1251,Kosadle,kiq,Papunesia,-3.78748,140.197,Kaure-Kosare,,Menanti2022,p.30
+kosa1251-2,Kosare (Naira),kosa1251,Kosadle,kiq,Papunesia,-3.78748,140.197,Kaure-Kosare,,Menanti2022,p.30
 kota1275-1,Dialect spoken in the West Kutei,kota1275,Kota Bangun Kutai Malay,mqg,Papunesia,-0.27049,116.297,Austronesian,,Stokhof1986Vol8,pp.203-204
 kova1243-1,Kovai,kova1243,Kovai,kqb,Papunesia,-5.61712,147.862,Nuclear Trans New Guinea,,Smith1988,p.76
 kova1243-2,Kovai (Arot village),kova1243,Kovai,kqb,Papunesia,-5.61712,147.862,Nuclear Trans New Guinea,Author’s Field Notes (1973). Village: Arot.,LeanMorobe,p.2
@@ -1137,12 +1229,19 @@ kowi1239-5,Lakahia,kowi1239,Kowiai,kwh,Papunesia,-4.21954,133.468,Austronesian,,
 kowi1239-6,Karufa,kowi1239,Kowiai,kwh,Papunesia,-4.21954,133.468,Austronesian,,Ray1912,pp.340-341
 kowi1239-7,Kuiwai (= Namatota) or Kai̯wai̯,kowi1239,Kowiai,kwh,Papunesia,-4.21954,133.468,Austronesian,,Grace1956pdf26,p.8 [of pdf]
 kowi1239-8,"Kuiwai, Kilimala I.",kowi1239,Kowiai,kwh,Papunesia,-4.21954,133.468,Austronesian,,Grace1955pdf50,p.55 [of pdf]
+kowi1239-9,Namatote,kowi1239,Kowiai,kwh,Papunesia,-4.21954,133.468,Austronesian,,Cowan1953,p.36
 kris1246-1,I'saka,kris1246,I'saka,ksi,Papunesia,-2.80084,141.303,Sko,,Donohue2004Isaka,p.113
 kris1246-2,Krisa,kris1246,I'saka,ksi,Papunesia,-2.80084,141.303,Sko,,Laycock1970D03,p.366
 kuan1248-1,Blanchebucht,kuan1248,Kuanua,ksd,Papunesia,-4.30986,152.114,Austronesian,,Schnee1901,pp.247-248
+kuan1248-10,Tolai (an old counting system),kuan1248,Kuanua,ksd,Papunesia,-4.30986,152.114,Austronesian,"CSQ informants, in particular those from Matupit Island",Lean1985Vol04,p.21
 kuan1248-2,Tolai,kuan1248,Kuanua,ksd,Papunesia,-4.30986,152.114,Austronesian,"115 CSQs, Field Notes: all dialect areas.",Lean1985Vol04,p.17
 kuan1248-3,nördliche Gazellehalbinsel,kuan1248,Kuanua,ksd,Papunesia,-4.30986,152.114,Austronesian,,Parkinson1907,pp.731-732
 kuan1248-4,New Britain [given by Mr. Wilfred Powell],kuan1248,Kuanua,ksd,Papunesia,-4.30986,152.114,Austronesian,,Codrington1885,"pp.225, 571"
+kuan1248-5,Makada (absolute cardinal numerals),kuan1248,Kuanua,ksd,Papunesia,-4.30986,152.114,Austronesian,,Barlow2024Makada,pp.15-16
+kuan1248-6,Makada (adnominal cardinal numerals),kuan1248,Kuanua,ksd,Papunesia,-4.30986,152.114,Austronesian,,Barlow2024Makada,p.15
+kuan1248-7,"Makada (esoteric numerals, from Michael John, 2022)",kuan1248,Kuanua,ksd,Papunesia,-4.30986,152.114,Austronesian,,Barlow2024Makada,p.17
+kuan1248-8,"Kuanua (esoteric numerals, from Bonnie Emos, 2023)",kuan1248,Kuanua,ksd,Papunesia,-4.30986,152.114,Austronesian,,Barlow2024Makada,p.17
+kuan1248-9,"Kuanua (esoteric numerals, from Martin Maden, 2024)",kuan1248,Kuanua,ksd,Papunesia,-4.30986,152.114,Austronesian,,Barlow2024Makada,p.17
 kube1244-1,Kube,kube1244,Kulungtfu-Yuanggeng-Tobo,kgf,Papunesia,-6.42586,147.536,Nuclear Trans New Guinea,,Smith1988,pp.78-79
 kube1244-2,Kube (from CSQs),kube1244,Kulungtfu-Yuanggeng-Tobo,kgf,Papunesia,-6.42586,147.536,Nuclear Trans New Guinea,9 CSQs.,LeanMorobe,p.89
 kube1244-3,Kube (Kobea village),kube1244,Kulungtfu-Yuanggeng-Tobo,kgf,Papunesia,-6.42586,147.536,Nuclear Trans New Guinea,SIL Word List (1976). Village: Kobea.,LeanMorobe,p.89
@@ -1157,6 +1256,7 @@ kubu1239-3,Kubu (Pematang Kabau),kubu1239,Kubu,kvb,Papunesia,-2.42661,102.193,Au
 kubu1239-4,Kubu (Pematang Kolim),kubu1239,Kubu,kvb,Papunesia,-2.42661,102.193,Austronesian,,Anderbeck2008,pp.133-135
 kubu1239-5,Kubu (Tanjung Lebar),kubu1239,Kubu,kvb,Papunesia,-2.42661,102.193,Austronesian,,Anderbeck2008,pp.133-135
 kuij1237-1,Kujau,kuij1237,Kuijau,dkr,Papunesia,5.47179,116.108,Austronesian,,Lobel2016,pp.234-239
+kulo1238-1,Kulon by Ogawa,kulo1238,Kulon,uon,Papunesia,25.00238,121.32473,Austronesian,,Tsuchida1985,p.58
 kuma1278-1,Kumalu,kuma1278,Kumalu,ksl,Papunesia,-7.1135,146.57,Austronesian,,Adams1985,p.19
 kuma1278-2,Mumengtein,kuma1278,Kumalu,ksl,Papunesia,-7.1135,146.57,Austronesian,,Adams1985,p.19
 kuma1278-3,Pelenkwa,kuma1278,Kumalu,ksl,Papunesia,-7.1135,146.57,Austronesian,,Adams1985,p.19
@@ -1172,6 +1272,8 @@ kuni1267-1,Kunimaipa,kuni1267,Kunimaipa,kup,Papunesia,-8.09371,146.908,Kunimaipa
 kuni1267-2,Kunimaipa,kuni1267,Kunimaipa,kup,Papunesia,-8.09371,146.908,Kunimaipa,,Smith1988,p.103
 kuni1267-3,Kunimaipa (Central dialect),kuni1267,Kunimaipa,kup,Papunesia,-8.09371,146.908,Kunimaipa,1 CSQ. Village: Givena (Central dialect).,Lean1986Vol07,p.37
 kunj1246-1,Sanana,kunj1246,Kánchá,pep,Papunesia,-8.92289,141.424,Yam,,Ray1923,p.343
+kunj1246-2,Bangu (Morehead),kunj1246,Kánchá,pep,Papunesia,-8.92289,141.424,Yam,,MacGregor1897,p.106
+kunj1246-3,Kancha (Bondobol village),kunj1246,Kánchá,pep,Papunesia,-8.92289,141.424,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 kuot1243-1,Kuot,kuot1243,Kuot,kto,Papunesia,-3.06952,151.537,Kuot,"Field Notes, 1983. Village: Panaras.",Lean1985Vol01,p.37
 kupa1239-1,Kupang Malay,kupa1239,Kupang Malay,mkn,Papunesia,-10.2526,123.63,Austronesian,,Paauw2009,p.190
 kuri1260-1,Módàn,kuri1260,Nabi,nbn,Papunesia,-2.80683,134.098,Austronesian,,Galis1955,p.135
@@ -1180,6 +1282,7 @@ kurr1245-1,Koor,kurr1245,Kur,kuv,Papunesia,-5.34077,131.986,Austronesian,,Ribbe1
 kurt1250-1,Ere-Lele-Gele'-Kuruti (Kuruti dialect),kurt1250,Kurti,ktm,Papunesia,-2.01187,147.036,Austronesian,"9 CSQs. Villages: Liap, Kari, Lomoei, Dekimbat.",Lean1985Vol02,p.36
 kurt1250-2,Kuruti,kurt1250,Kurti,ktm,Papunesia,-2.01187,147.036,Austronesian,,Blust2021,"pp.25, 30, 31, 32, 37"
 kuru1305-1,munuˈpui (or Kaipuri + Kurudu),kuru1305,Kurudu,kjr,Papunesia,-1.8444,137.018,Austronesian,,Grace1956pdf38,p.6 [of pdf]
+kuru1305-2,Kurudu,kuru1305,Kurudu,kjr,Papunesia,-1.8444,137.018,Austronesian,,Anceaux1961,pp.72-76
 kwan1278-1,Kwanga,kwan1278,Kwanga,kwj,Papunesia,-3.74263,142.711,Sepik,,Laycock1970D06,p.744
 kwan1278-2,Kwanga (Kamanakor village),kwan1278,Kwanga,kwj,Papunesia,-3.74263,142.711,Sepik,SIL (1975). Village: Kamanakor.,LeanEastSepik,p.7
 kwan1278-3,Kwanga (Wosambu village),kwan1278,Kwanga,kwj,Papunesia,-3.74263,142.711,Sepik,SIL (1960). Village: Wosambu.,LeanEastSepik,p.7
@@ -1225,6 +1328,7 @@ lang1328-2,Pondi,lang1328,Pondi,lnm,Papunesia,-4.32557,143.925,Keram,,Barlow2020
 lapu1236-1,Southern Subanen,lapu1236,Lapuyan Subanun,laa,Papunesia,7.53449,123.13,Austronesian,,Hapalla1992,"pp.56, 58"
 lapu1236-2,Southern Subanen,lapu1236,Lapuyan Subanun,laa,Papunesia,7.53449,123.13,Austronesian,,Lobel2013,pp.319-356
 lara1260-1,Larantuka Malay,lara1260,Larantuka Malay,lrt,Papunesia,-8.4746,122.7619,Austronesian,,Paauw2009,p.190
+latu1237-1,Latu,latu1237,Latu,ltu,Papunesia,-3.41302,128.667,Austronesian,,Collins1983,"pp.66, 117"
 laua1245-1,Lauwa,laua1245,Laua,luf,Papunesia,-10.16145,149.25747,Mailuan,,Ray1938EasternPapua,p.184
 lauj1238-1,Ampibabo-Lauje,lauj1238,Lauje,law,Papunesia,0.50708,120.262,Austronesian,,Himmelmann2001,pp.101-104
 lauj1238-2,Lauje,lauj1238,Lauje,law,Papunesia,0.50708,120.262,Austronesian,,Himmelmann2001,pp.101-104
@@ -1236,6 +1340,7 @@ ledo1238-3,Sausu,ledo1238,Ledo Kaili,lew,Papunesia,-1.03033,120.132,Austronesian
 lege1241-1,Laganjan,lege1241,Legenyem,lcc,Papunesia,-0.3592,130.749,Austronesian,,Galis1955,p.137
 lege1241-2,Laganyan,lege1241,Legenyem,lcc,Papunesia,-0.3592,130.749,Austronesian,,Remijsen2001,"pp.147, 152"
 lege1241-3,Sakabu,lege1241,Legenyem,lcc,Papunesia,-0.3592,130.749,Austronesian,,Galis1955,p.138
+lege1241-4,Laganjau,lege1241,Legenyem,lcc,Papunesia,-0.3592,130.749,Austronesian,,Cowan1953,p.44
 leha1244-1,"Bligh Island, Ureparapara (Norbarbar)",leha1244,Lehalurup,urr,Papunesia,-13.542726,167.343342,Austronesian,,Codrington1885,"pp.233, 236, 390"
 leha1244-2,"Bligh Island, Ureparapara (Norbarbar) (Retan)",leha1244,Lehalurup,urr,Papunesia,-13.542726,167.343342,Austronesian,,Codrington1885,p.390
 leip1237-1,Leipon,leip1237,Leipon,lek,Papunesia,-1.9665,147.226,Austronesian,2 CSQs. Village: Pityilu.,Lean1985Vol02,p.30
@@ -1254,6 +1359,7 @@ leng1259-1,Lengo,leng1259,Lengo,lgr,Papunesia,-9.56425,160.42,Austronesian,,Unge
 leng1259-2,Lengo - ‘Kastom’ cardinal numbers,leng1259,Lengo,lgr,Papunesia,-9.56425,160.42,Austronesian,,Unger2008,pp.56-57
 lenk1247-1,Lenkau,lenk1247,Lenkau,ler,Papunesia,-2.33367,147.742,Austronesian,Lean’s Field Notes (1987) from a Lenkau-speaking informant in Lorengau.,LeanManus,p.4
 lenk1247-2,Lenkau,lenk1247,Lenkau,ler,Papunesia,-2.33367,147.742,Austronesian,,Blust2021,"pp.25, 30, 32, 38"
+lenn1234-1,Dungerwab (Wasi),lenn1234,Len,,Papunesia,-9.12,142.1,Yam,,MacGregor1897,p.106
 lesi1239-1,Lesing-Atui (Lesing dialect),lesi1239,Lesing-Gelimi,let,Papunesia,-6.19889,150.506,Austronesian,1 CSQ. Village: Amio. (Lesing d.).,LeanWestNewBritain,p.12
 lesi1239-2,Amio-Gelimi - Amio village,lesi1239,Lesing-Gelimi,let,Papunesia,-6.19889,150.506,Austronesian,,Spencer2013,p.55
 lesi1239-3,Amio-Gelimi - Kaskas village,lesi1239,Lesing-Gelimi,let,Papunesia,-6.19889,150.506,Austronesian,,Spencer2013,p.55
@@ -1272,6 +1378,9 @@ liku1243-3,Likum (from SIL word list),liku1243,Likum,lib,Papunesia,-2.16157,146.
 lila1246-1,Lilau,lila1246,Lilau,lll,Papunesia,-4.35479,144.99,Bogia,1 CSQ. Village: Ambana.,LeanMadang,p.9
 lila1246-2,Lilau,lila1246,Lilau,lll,Papunesia,-4.35479,144.99,Bogia,,Zgraggen1972,pp.215-219
 lioo1240-1,Lio (Flores),lioo1240,Li'o,ljl,Papunesia,-8.68615,121.832,Austronesian,,Stokhof1983Vol6,p.178
+lioo1240-2,Lio (quinary-decimal numerals),lioo1240,Li'o,ljl,Papunesia,-8.68615,121.832,Austronesian,,Elias2020,pp.326-327
+lioo1240-3,Lio (quaternary numerals),lioo1240,Li'o,ljl,Papunesia,-8.68615,121.832,Austronesian,,Elias2020,p.327
+lioo1240-4,Lio,lioo1240,Li'o,ljl,Papunesia,-8.68615,121.832,Austronesian,,Elias2018,pp.120-121
 lise1239-1,Masarete: Ambon (from the missionary-teacher),lise1239,Lisela,lcl,Papunesia,-3.27358,126.981,Austronesian,,Stokhof1982Vol3.4,p.29
 lise1239-2,"Masarete: Ambon (from the post-holder of Masarete, J. Suhoka)",lise1239,Lisela,lcl,Papunesia,-3.27358,126.981,Austronesian,,Stokhof1982Vol3.4,p.14
 lise1239-3,"The language spoken by the Alfuru from Kayeli, Licella, Tagalisa and Liliali: Buru",lise1239,Lisela,lcl,Papunesia,-3.27358,126.981,Austronesian,,Stokhof1982Vol3.4,pp.44-45
@@ -1291,11 +1400,20 @@ lonw1238-3,Ambrym,lonw1238,Lonwolwol,crc,Papunesia,-16.2286,168.016,Austronesian
 lote1237-1,Uvol,lote1237,Lote,uvl,Papunesia,-5.954,150.911,Austronesian,"2 CSQs. Villages: Inahele, Pilematana.",LeanEastNewBritain,p.31
 lote1237-2,uvol,lote1237,Lote,uvl,Papunesia,-5.954,150.911,Austronesian,,Grace1955pdf44,p.96
 lote1237-3,Uvol,lote1237,Lote,uvl,Papunesia,-5.954,150.911,Austronesian,,Rath1980,p.206
+lote1237-4,Lote,lote1237,Lote,uvl,Papunesia,-5.954,150.911,Austronesian,,Wycliffe2009,passim
+lote1237-5,Lote,lote1237,Lote,uvl,Papunesia,-5.954,150.911,Austronesian,,Barlow2024Lote,passim
+lote1237-6,Lote (counting in fours),lote1237,Lote,uvl,Papunesia,-5.954,150.911,Austronesian,,Barlow2024Lote,passim
+lote1237-7,Lote,lote1237,Lote,uvl,Papunesia,-5.954,150.911,Austronesian,,Pearson2008,pp.29-31
+lote1237-8,Lote,lote1237,Lote,uvl,Papunesia,-5.954,150.911,Austronesian,,Pearson2018,p.1
+lote1237-9,Lote,lote1237,Lote,uvl,Papunesia,-5.954,150.911,Austronesian,,Pearson2016,p.19
 loto1240-1,"Torres Islands, Lo",loto1240,Lo-Toga,lht,Papunesia,-13.334872,166.634338,Austronesian,,Codrington1885,"pp.233, 236, 244, 249-250, 400"
 lotu1250-1,Lotud,lotu1250,Lotud,dtr,Papunesia,6.13732,116.232,Austronesian,,Lobel2016,pp.234-239
 louu1245-1,Baluan-Lou-Pam (Lou dialect),louu1245,Lou,loj,Papunesia,-2.38659,147.346,Austronesian,"5 CSQs. Villages: Rei, Lago (Lako).",Lean1985Vol02,p.22
 louu1245-2,Lou,louu1245,Lou,loj,Papunesia,-2.38659,147.346,Austronesian,,Blust2021,"pp.25, 30, 32, 38"
 lowe1415-1,Dani,lowe1415,Lower Grand Valley Dani,dni,Papunesia,-4.25684,138.992,Nuclear Trans New Guinea,,vanderStap1966,pp.155-156
+lowe1415-2,Mid Grand Valley Dani (taken from Bromley 1961: 305-306),lowe1415,Lower Grand Valley Dani,dni,Papunesia,-4.25684,138.992,Nuclear Trans New Guinea,,Fahner1979,p.157
+lowe1415-3,Lower Valley Hitigima,lowe1415,Lower Grand Valley Dani,dni,Papunesia,-4.25684,138.992,Nuclear Trans New Guinea,,Bromley1967,pp.306-307
+lowe1415-4,Lower Valley Tangma,lowe1415,Lower Grand Valley Dani,dni,Papunesia,-4.25684,138.992,Nuclear Trans New Guinea,,Bromley1967,pp.306-307
 lowl1259-1,Tanah Merah area,lowl1259,Lowland Ok,,,-5.715403333,141.057,Nuclear Trans New Guinea,,Stokhof1982Vol5.1,p.182
 luan1263-1,Luang,luan1263,Luang,lex,Papunesia,-8.18378,127.944,Austronesian,,Taber1993,pp.418-419
 lubu1241-1,Lubu,lubu1241,Lubu,lcf,Papunesia,0.63989,99.74549,Austronesian,,Helbig1933,p.106
@@ -1310,12 +1428,14 @@ mada1285-2,Madak (Katingan dialect),mada1285,Madak,mmx,Papunesia,-3.34342,151.96
 mada1285-3,Madak (Lelet dialect),mada1285,Madak,mmx,Papunesia,-3.34342,151.967,Austronesian,Field Notes 1983. Village: Limbin.,Lean1985Vol01,p.41
 mada1285-4,Madak (Malom dialect),mada1285,Madak,mmx,Papunesia,-3.34342,151.967,Austronesian,"4 CSQs, Field Notes 1983. Villages: Malom, Kantembu, Lasigi, Konongusngus villages.",Lean1985Vol01,p.41
 made1253-1,Radja-Ampat Saparan,made1253,Salawati,xmx,Papunesia,-1.05325,130.833,Austronesian,,Galis1955,p.138
+made1253-2,Kawit,made1253,Salawati,xmx,Papunesia,-1.05325,130.833,Austronesian,,Cowan1953,p.40
 madu1248-1,Madukayang Kalinga,madu1248,Madukayang Kalinga,kmd,Papunesia,17.1794,121.236,Austronesian,,Gieser1973,pp.5-9
 maen1235-1,"Maeng (Laplapog, Villavisciosa)",maen1235,Maeng Itneg,itt,Papunesia,17.2453,120.718,Austronesian,,Walton2003Laplapog,pp.3-7
 maen1235-2,Maeng (Tubo),maen1235,Maeng Itneg,itt,Papunesia,17.2453,120.718,Austronesian,,Walton2003Tubo,pp.3-7
 magi1243-1,Magɨ,magi1243,Magi,gkd,Papunesia,-5.1385,145.1091,Nuclear Trans New Guinea,,Daniels2016,p.219
 magi1243-2,Magɨ,magi1243,Magi,gkd,Papunesia,-5.1385,145.1091,Nuclear Trans New Guinea,,Daniels2014Item334,"pp.27, 61"
 mago1248-1,Magori,mago1248,Magori,zgr,Papunesia,-10.2321,149.26,Austronesian,S.I.L word list (1973).,Lean1986Vol07,p.92
+mago1248-2,Magori,mago1248,Magori,zgr,Papunesia,-10.2321,149.26,Austronesian,,Dutton1976,p.600
 magu1243-1,Maguindanao,magu1243,Maguindanao,mdh,Papunesia,6.9453,124.509,Austronesian,,Arnaud1998,pp.863-878 [word list item numbers]
 maha1309-1,Mahafaly,maha1309,Mahafaly-Antanalana Malagasy,,Africa,-24.2,44.5,Austronesian,,PonsBallesteros2012,p.3
 maha1309-2,Sakalava (Mahafaly),maha1309,Mahafaly-Antanalana Malagasy,,Africa,-24.2,44.5,Austronesian,,Jully1901,passim
@@ -1327,6 +1447,7 @@ maia1254-2,Pila,maia1254,Maia,sks,Papunesia,-4.50212,145.096,Nuclear Trans New G
 maia1254-3,Saki,maia1254,Maia,sks,Papunesia,-4.50212,145.096,Nuclear Trans New Guinea,,Zgraggen1980NorthernAdelbert,p.92
 maib1239-1,Asman,maib1239,Maybrat-Karon,ayz,Papunesia,-1.3679,132.591,Maybrat-Karon,,Galis1960,p.140
 maib1239-2,Maibrat,maib1239,Maybrat-Karon,ayz,Papunesia,-1.3679,132.591,Maybrat-Karon,,Galis1955,p.138
+maib1239-3,Ajamaru,maib1239,Maybrat-Karon,ayz,Papunesia,-1.3679,132.591,Maybrat-Karon,,Cowan1953,p.20
 mail1248-1,Magi,mail1248,Mailu,mgu,Papunesia,-10.3657,149.521,Mailuan,"3 CSQs. Villages: Mailu Is., Domara, Pediri.",Lean1986Vol07,p.85
 main1275-1,Badeng,main1275,Usun Apau Kenyah,xkl,Papunesia,3.54443,114.039,Austronesian,,Smith2015,pp.351-353
 main1275-2,Kenyah Dayak,main1275,Usun Apau Kenyah,xkl,Papunesia,3.54443,114.039,Austronesian,,Stokhof1986Vol8,pp.125-126
@@ -1346,9 +1467,12 @@ maka1315-1,Aturu,maka1315,Makayam,aup,Papunesia,-8.37312,142.706,Anim,1 CSQ. Vil
 maka1315-2,Lewada,maka1315,Makayam,aup,Papunesia,-8.37312,142.706,Anim,1 CSQ. Village: Tapila.,Lean1986Vol12,p.69
 maka1315-3,Tagota,maka1315,Makayam,aup,Papunesia,-8.37312,142.706,Anim,,Ray1912,pp.340-341
 maka1316-1,Makasae,maka1316,Makasae-Makalero,mkz,Papunesia,-8.65843,126.507,Timor-Alor-Pantar,,Arnaud1998,pp.863-879 [word list item numbers]
+maka1316-2,Makalero,maka1316,Makasae-Makalero,mkz,Papunesia,-8.65843,126.507,Timor-Alor-Pantar,,vanEngelenhoven2010,p.11
+maka1316-3,Makasai,maka1316,Makasae-Makalero,mkz,Papunesia,-8.65843,126.507,Timor-Alor-Pantar,,vanEngelenhoven2010,p.11
 makl1246-1,Maklew,makl1246,Maklew,mgf,Papunesia,-7.74424,139.273,Bulaka River,,Galis1955,p.168
 makl1246-2,Welbuti,makl1246,Maklew,mgf,Papunesia,-7.74424,139.273,Bulaka River,,Nevermann1952,p.82
 makl1246-3,Welbuti,makl1246,Maklew,mgf,Papunesia,-7.74424,139.273,Bulaka River,,Gregor2021,p.27
+makl1246-4,"Maklew (Welbuti village), from Drabbe (1954); Lebold, Kriens & de Vries (2010)",makl1246,Maklew,mgf,Papunesia,-7.74424,139.273,Bulaka River,,Carroll2024,txt file downloaded on 23 October 2024
 mako1250-1,məkolkol - Gunapeo village (MAKOLKOL),mako1250,Makolkol,zmh,Papunesia,-4.87995,151.709,Baining,,Rosensteel1987,"pp. 3, 8"
 mala1479-1,Balai Selasa,mala1479,Central Malay,zlm,Eurasia,1.85856,103,Austronesian,,Stokhof1987Vol10.1,pp.98-99
 mala1479-10,Malay,mala1479,Central Malay,zlm,Eurasia,1.85856,103,Austronesian,,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247"
@@ -1364,6 +1488,7 @@ mala1480-1,Unidentified <Semitau?>,mala1480,Malayic Dayak,xdy,Papunesia,-2.78384
 mala1481-1,Bantik-Malay,mala1481,Manado Malay,xmm,Papunesia,1.48099,124.843,Austronesian,,Stokhof1983Vol7.2,pp.300-301
 mala1481-2,Manado Malay,mala1481,Manado Malay,xmm,Papunesia,1.48099,124.843,Austronesian,,Paauw2009,p.190
 mala1481-3,Manadonais,mala1481,Manado Malay,xmm,Papunesia,1.48099,124.843,Austronesian,,Lasut2008,p.40
+mala1482-1,Kreol Melayu Chitty Melaka,mala1482,Malaccan Creole Malay,ccm,Eurasia,2.20265,102.240488,Austronesian,,Mohamed2006,passim
 mala1487-1,Malasanga,mala1487,Malasanga,mqz,Papunesia,-5.9401,147.058,Austronesian,,Smith1988,p.60
 mala1487-2,Malasanga: Singorokai village,mala1487,Malasanga,mqz,Papunesia,-5.9401,147.058,Austronesian,,Smith1988,p.60
 mala1487-3,Pano-Malasanga,mala1487,Malasanga,mqz,Papunesia,-5.9401,147.058,Austronesian,,Carter2012,p.59
@@ -1439,8 +1564,12 @@ mang1403-3,Mangseng - Lavege and Melei villages,mang1403,Mangseng,mbh,Papunesia,
 mang1404-1,Manga,mang1404,Mangga Buang,mmo,Papunesia,-6.99891,146.685,Austronesian,,Smith1988,p.72
 mang1404-2,Manga Buang (from CSQs),mang1404,Mangga Buang,mmo,Papunesia,-6.99891,146.685,Austronesian,"4 CSQs. Villages: Manga (2), Kwasang, Bayematu.",LeanMorobe,p.47
 mang1404-3,Manga Buang (from IMP/SIL),mang1404,Mangga Buang,mmo,Papunesia,-6.99891,146.685,Austronesian,IMP/SIL Questionnaire (1978).,LeanMorobe,p.47
+mang1405-1,Manggarai,mang1405,Manggarai,mqy,Papunesia,-8.55748,120.329,Austronesian,,Arka2010,p.11
+mang1405-2,Manggarai,mang1405,Manggarai,mqy,Papunesia,-8.55748,120.329,Austronesian,,Elias2018,pp.120-121
 mani1235-1,Manikion,mani1235,Sougb,mnx,Papunesia,-1.49611,133.95,East Bird's Head,,Ray1912,pp.340-341
 mani1235-2,Manikion,mani1235,Sougb,mnx,Papunesia,-1.49611,133.95,East Bird's Head,,Galis1955,p.138
+mani1235-3,Mantion,mani1235,Sougb,mnx,Papunesia,-1.49611,133.95,East Bird's Head,,Cowan1953,"pp.11, 13"
+mani1235-4,Manikion,mani1235,Sougb,mnx,Papunesia,-1.49611,133.95,East Bird's Head,,Cowan1953,"pp.11, 13"
 mans1260-1,Mansim,mans1260,Mansim,,Papunesia,-0.915054,134.011116,Hatam-Mansim,,Galis1955,p.139
 manu1258-1,Manusela (Kowa) Seram,manu1258,Manusela,wha,Papunesia,-3.1109,129.429,Austronesian,,Stokhof1981Vol3.1,pp.190-191
 manu1258-2,Manusela Keram,manu1258,Manusela,wha,Papunesia,-3.1109,129.429,Austronesian,,Stokhof1981Vol3.1,pp.198-199
@@ -1456,6 +1585,7 @@ mapo1242-2,Mapos Buang (from CSQs),mapo1242,Mapos Buang,bzh,Papunesia,-6.86672,1
 mapo1242-3,Mapos Buang (from IMP/SIL),mapo1242,Mapos Buang,bzh,Papunesia,-6.86672,146.774,Austronesian,IMP/SIL questionnaire (1978).,LeanMorobe,p.45
 mapo1242-4,Mapos Buang,mapo1242,Mapos Buang,bzh,Papunesia,-6.86672,146.774,Austronesian,,Hooley1970,pp.170-171
 mara1397-1,Natabui,mara1397,Marau,mvr,Papunesia,-1.66738,135.797,Austronesian,,Galis1960,p.142
+mara1397-2,Marau,mara1397,Marau,mvr,Papunesia,-1.66738,135.797,Austronesian,,Anceaux1961,pp.72-76
 mare1261-1,Maremgi,mare1261,Maremgi,mrx,Papunesia,-2.31915,139.673,Tor-Orya,,Galis1955,p.161
 mari1428-1,Ham,mari1428,Marik,dad,Papunesia,-5.349,145.59,Austronesian,SIL Word List (1975). Village: Mair.,LeanMadang,p.41
 mari1428-2,Ham (Ato village),mari1428,Marik,dad,Papunesia,-5.349,145.59,Austronesian,,Lincoln1976,pp.2-5
@@ -1500,6 +1630,8 @@ maya1282-2,Misool Ma'ya,maya1282,Misool-Salawati Ma'ya,slz,Papunesia,-1.22329,13
 maya1282-3,Salawati Ma'ya,maya1282,Misool-Salawati Ma'ya,slz,Papunesia,-1.22329,130.909,Austronesian,,Remijsen2001,"pp.140, 145"
 maya1282-4,"Salawati, Misól, Waigeo, Batanta",maya1282,Misool-Salawati Ma'ya,slz,Papunesia,-1.22329,130.909,Austronesian,,Galis1955,p.137
 maya1282-5,Sailolof,maya1282,Misool-Salawati Ma'ya,slz,Papunesia,-1.22329,130.909,Austronesian,,Grace1956pdf35,p.2 [of pdf]
+maya1282-6,Maja,maya1282,Misool-Salawati Ma'ya,slz,Papunesia,-1.22329,130.909,Austronesian,,Cowan1953,p.40
+maya1282-7,Banlol,maya1282,Misool-Salawati Ma'ya,slz,Papunesia,-1.22329,130.909,Austronesian,,Cowan1953,p.40
 mbul1263-1,Iangla-Rook Island,mbul1263,Mbula,mna,Papunesia,-5.66965,148.041,Austronesian,,Chinnery1928,pp.99-100
 mbul1263-2,Mangap,mbul1263,Mbula,mna,Papunesia,-5.66965,148.041,Austronesian,1 CSQ. Village: Yangla.,LeanMorobe,p.4
 mbul1263-3,Mangap,mbul1263,Mbula,mna,Papunesia,-5.66965,148.041,Austronesian,,Smith1988,pp.60-61
@@ -1515,6 +1647,7 @@ mekw1241-1,Nimboran-groep Demenggong,mekw1241,Mekwei,msf,Papunesia,-2.52264,140.
 mekw1241-2,Nimboran-groep Munggé,mekw1241,Mekwei,msf,Papunesia,-2.52264,140.326,Nimboranic,,Galis1955,p.161
 melp1238-1,Hagen (Melpa dialect),melp1238,Melpa,med,Papunesia,-5.62644,144.34,Nuclear Trans New Guinea,"IMP material (unpublished, 1978).",Lean1986Vol09,p.41
 melp1238-2,Melpa,melp1238,Melpa,med,Papunesia,-5.62644,144.34,Nuclear Trans New Guinea,,Strauss,pp.19-20
+mend1267-1,Kaya:n Menda:lam,mend1267,Mendalam Kayan,xkd,Papunesia,0.98794,113.286,Austronesian,,Guerreiro1996,p.226
 mend1268-1,Mende,mend1268,Mende (Papua New Guinea),sim,Papunesia,-3.67233,142.683,Sepik,,Laycock1967C11,p.34
 meng1267-1,Mengen,meng1267,Mengen,mee,Papunesia,-5.47036,151.373,Austronesian,"4 CSQs, 1 IMP. Villages: Malo, Gaive, Malakur, Salel, (Sampun).",Lean1985Vol04,p.39
 meng1267-2,Mengen (from SIL word list),meng1267,Mengen,mee,Papunesia,-5.47036,151.373,Austronesian,"D. Rath, SIL Word List, 1979.",Lean1985Vol04,p.39
@@ -1524,6 +1657,7 @@ meng1267-5,Mengen No. 1,meng1267,Mengen,mee,Papunesia,-5.47036,151.373,Austrones
 meng1267-6,O Mengen,meng1267,Mengen,mee,Papunesia,-5.47036,151.373,Austronesian,,Parkinson1907,p.780
 ment1249-1,"Mentawai, Pagai and Sipora",ment1249,Mentawai,mwv,Papunesia,-1.41092,98.9401,Austronesian,,Stokhof1987Vol10.3,p.184
 ment1249-2,"Mentawai, southern dialect, called Ngangan Sakalagan",ment1249,Mentawai,mwv,Papunesia,-1.41092,98.9401,Austronesian,,Stokhof1987Vol10.3,pp.166-167
+ment1251-1,Dayak Menterap Kabut,ment1251,Menterap,,Papunesia,-0.293181,110.670512,Austronesian,,Winarno2013,p.16
 meny1245-1,Menya,meny1245,Menya,mcr,Papunesia,-7.17425,146.071,Angan,,Smith1988,p.101
 meny1245-2,Menya (Akwanje village),meny1245,Menya,mcr,Papunesia,-7.17425,146.071,Angan,SIL Word List (1980). Village: Akwanje.,LeanMorobe,p.64
 meny1245-3,Menya (Menya village),meny1245,Menya,mcr,Papunesia,-7.17425,146.071,Angan,1 CSQ. Village: Menya.,LeanMorobe,p.64
@@ -1531,16 +1665,19 @@ meos1237-1,Wár,meos1237,Meoswar,mvx,Papunesia,-2.07828,134.378,Austronesian,,Ga
 mera1242-1,Melamela,mera1242,Meramera,mxm,Papunesia,-4.97468,151.528,Austronesian,"6 CSQs. Villages: Ulamona, Ubili.",Lean1985Vol04,p.46
 mera1242-2,Meramera,mera1242,Meramera,mxm,Papunesia,-4.97468,151.528,Austronesian,,Johnston1980,p.118
 meri1244-1,Miriam,meri1244,Meriam,ulk,Papunesia,-9.59575,143.773,Eastern Trans-Fly,,Ray1907,pp.86-87
-meri1244-2,Erub,meri1244,Meriam,ulk,Papunesia,-9.59575,143.773,Eastern Trans-Fly,,Codrington1885,p.222
+meri1244-2,Miriam (Jimmy Rice’s counting),meri1244,Meriam,ulk,Papunesia,-9.59575,143.773,Eastern Trans-Fly,,Ray1907,pp.86-87
+meri1244-3,Erub,meri1244,Meriam,ulk,Papunesia,-9.59575,143.773,Eastern Trans-Fly,,Codrington1885,p.222
 merl1237-1,"Star Island, Merlav",merl1237,Merlav,mrm,Papunesia,-14.450679,168.053527,Austronesian,,Codrington1885,"pp.233, 235, 366"
 merl1237-2,"Vanua Lava, Mosina (Mosin)",merl1237,Merlav,mrm,Papunesia,-14.450679,168.053527,Austronesian,,Codrington1885,"pp.235, 354"
 mese1244-1,Mesem,mese1244,Mese,mci,Papunesia,-6.56072,147.137,Nuclear Trans New Guinea,,Smith1988,p.82
 meya1236-1,Méjàch,meya1236,Meyah,mej,Papunesia,-1.18016,133.618,East Bird's Head,,Galis1955,p.139
+meya1236-2,Mansibabêr,meya1236,Meyah,mej,Papunesia,-1.18016,133.618,East Bird's Head,,Cowan1953,p.10
 mian1254-1,Moándo (inland dialect: Kúkubar village),mian1254,Miani,pla,Papunesia,-4.42116,145.276,Nuclear Trans New Guinea,,Tranel1952,p.469
 mian1254-2,Tani,mian1254,Miani,pla,Papunesia,-4.42116,145.276,Nuclear Trans New Guinea,,Zgraggen1980NorthernAdelbert,p.92
 midd1327-1,Silisili,midd1327,Middle Watut,mpl,Papunesia,-6.88249,146.399126,Austronesian,,Smith1988,p.66
 midd1327-2,Watut (Bentseŋ),midd1327,Middle Watut,mpl,Papunesia,-6.88249,146.399126,Austronesian,,Fischer1963,pp.224-225
 midg1235-1,Dugum,midg1235,Mid Grand Valley Dani,dnt,Papunesia,-4.06322,138.945,Nuclear Trans New Guinea,,Heider1970,p.170
+midg1235-2,Mid-Grand Valley,midg1235,Mid Grand Valley Dani,dnt,Papunesia,-4.06322,138.945,Nuclear Trans New Guinea,,Bromley1967,pp.306-307
 miga1241-1,Migabac,miga1241,Migabac,mpp,Papunesia,-6.33237,147.713,Nuclear Trans New Guinea,SIL Word List (1975). Village: Walingai.,LeanMorobe,p.27
 miga1241-2,Migabac,miga1241,Migabac,mpp,Papunesia,-6.33237,147.713,Nuclear Trans New Guinea,,Smith1988,pp.79-80
 mina1268-1,"Malay, Mudih, Sibolga area",mina1268,Minangkabau,min,Papunesia,-0.896,100.44,Austronesian,,Stokhof1987Vol10.1,p.58
@@ -1562,6 +1699,8 @@ modo1249-1,Madole,modo1249,Modole,mqo,Papunesia,1.40199,127.752,North Halmahera,
 moer1240-1,Moere,moer1240,Moere,mvq,Papunesia,-4.62246,145.458,Nuclear Trans New Guinea,,Zgraggen1980NorthernAdelbert,p.92
 moii1235-1,Moi,moii1235,Moi (Indonesia),mxn,Papunesia,-0.96532,131.52,West Bird's Head,,Stokhof1983Vol5.2,p.15
 moii1235-2,Mói,moii1235,Moi (Indonesia),mxn,Papunesia,-0.96532,131.52,West Bird's Head,,Galis1955,p.137
+moii1235-3,Moi,moii1235,Moi (Indonesia),mxn,Papunesia,-0.96532,131.52,West Bird's Head,,Cowan1953,p.16
+moii1235-4,Waipu,moii1235,Moi (Indonesia),mxn,Papunesia,-0.96532,131.52,West Bird's Head,,Cowan1953,p.41
 moik1239-1,Moikoidi,moik1239,Moikodi,mkp,Papunesia,-9.60232,148.312,Yareban,,Ray1938EasternPapua,p.183
 moke1240-1,Mokerang (from Lean's field notes),moke1240,Mokerang,mft,Papunesia,-2.01602,147.423,Austronesian,Lean’s Field Notes (1986) from a Mokerang-speaking informant in Lorengau.,LeanManus,p.12
 moke1240-2,Mokerang (Mokereng village),moke1240,Mokerang,mft,Papunesia,-2.01602,147.423,Austronesian,1 CSQ. Village: Mokereng (Mokoreng).,LeanManus,p.12
@@ -1585,6 +1724,7 @@ moni1261-2,Manuku,moni1261,Moni,mnz,Papunesia,-3.72962,136.886,Nuclear Trans New
 moni1261-3,Moni Awembiak,moni1261,Moni,mnz,Papunesia,-3.72962,136.886,Nuclear Trans New Guinea,,Galis1955,p.165
 moni1261-4,Moni Moni,moni1261,Moni,mnz,Papunesia,-3.72962,136.886,Nuclear Trans New Guinea,,Galis1955,p.165
 mora1239-1,Móraid,mora1239,Moraid,msg,Papunesia,-1.04083,131.965,West Bird's Head,,Galis1955,p.136
+mora1239-2,Moraid,mora1239,Moraid,msg,Papunesia,-1.04083,131.965,West Bird's Head,,Cowan1953,p.17
 mora1273-1,Morawa,mora1273,Morawa,mze,Papunesia,-10.1321,148.671,Mailuan,"3 CSQs. Villages: Si-ini, Gebea, Badubadu.",Lean1986Vol07,p.83
 morb1239-1,Mor,morb1239,Mor (Bomberai Peninsula),moq,Papunesia,-2.85747,132.845,Mor (Bomberai Peninsula),,Anceaux1958,p.120
 morb1239-2,Mor (compiled by Anceaux),morb1239,Mor (Bomberai Peninsula),moq,Papunesia,-2.85747,132.845,Mor (Bomberai Peninsula),,Smits1998,pp.183-184
@@ -1597,7 +1737,10 @@ mori1271-1,Turama,mori1271,Morigi,mdb,Papunesia,-7.62961,143.88,Kiwaian,,Ray1923
 morm1235-1,Mohr,morm1235,Mor (Mor Islands),mhz,Papunesia,-2.87055,135.95,Austronesian,,Ray1912,pp.340-341
 morm1235-2,Mór,morm1235,Mor (Mor Islands),mhz,Papunesia,-2.87055,135.95,Austronesian,,Galis1955,p.140
 morm1235-3,Mor,morm1235,Mor (Mor Islands),mhz,Papunesia,-2.87055,135.95,Austronesian,,Grace1956pdf30,p.6 [of pdf]
+morm1235-4,Môr,morm1235,Mor (Mor Islands),mhz,Papunesia,-2.87055,135.95,Austronesian,,Cowan1953,p.6
+morm1235-5,Mor,morm1235,Mor (Mor Islands),mhz,Papunesia,-2.87055,135.95,Austronesian,,Anceaux1961,pp.72-76
 moro1289-1,Moraori,moro1289,Marori,mok,Papunesia,-8.5692,140.688,Marori,,Galis1955,p.168
+moro1289-2,Marori,moro1289,Marori,mok,Papunesia,-8.5692,140.688,Marori,,Carroll2024,txt file downloaded on 23 October 2024
 mosi1248-1,Mosimo,mosi1248,Mosimo,mqv,Papunesia,-4.95226,145.605,Nuclear Trans New Guinea,,Zgraggen1980Mabuso,p.92
 mota1237-1,"Sugarloaf Island, Mota",mota1237,Mota,mtt,Papunesia,-13.835361,167.690924,Austronesian,,Codrington1885,"pp.221, 223-224, 233-235, 238-239, 302-304"
 mota1237-2,Mota (purely decimal series of numerals used in a game),mota1237,Mota,mtt,Papunesia,-13.835361,167.690924,Austronesian,,Codrington1885,"pp.223-224, 230, 305"
@@ -1616,6 +1759,7 @@ mouw1234-2,Kibeni,mouw1234,Mouwase,jmw,Papunesia,-7.442,143.808,Turama-Kikori,,B
 mouw1234-3,Omati (Gihiteri),mouw1234,Mouwase,jmw,Papunesia,-7.442,143.808,Turama-Kikori,,Bullock2015,pp.53-54
 moya1235-1,"Muyadan, Itneg",moya1235,Moyadan Itneg,ity,Papunesia,17.4232,120.702,Austronesian,,Walton2003Manabo,pp.3-7
 mpur1239-1,Amberbaken,mpur1239,Mpur,akc,Papunesia,-0.7489,133.166,Mpur,,Galis1955,p.139
+mpur1239-2,Amberbaken,mpur1239,Mpur,akc,Papunesia,-0.7489,133.166,Mpur,,Cowan1953,p.13
 mtir1235-1,Inagta - Sta Niño/Sta Cruz + Ipil,mtir1235,Mt. Iriga Agta,agz,Papunesia,13.4566,123.463,Austronesian,,Nickell1979,pp.3-7
 mtir1235-2,San Ramon Agta,mtir1235,Mt. Iriga Agta,agz,Papunesia,13.4566,123.463,Austronesian,,Anonymous1984Bicol,pp.2-5
 mtir1236-1,Rugnot (Itbɨg),mtir1236,Mt. Iraya Agta,atl,Papunesia,13.4588,123.552,Austronesian,,Wolfenden1978,pp.3-7
@@ -1630,8 +1774,10 @@ mula1254-1,Iaibu,mula1254,Mulaha,mfw,Papunesia,-9.68333,147.45,Kwalean,,Ray1929,
 mula1254-2,Mulaha,mula1254,Mulaha,mfw,Papunesia,-9.68333,147.45,Kwalean,,Ray1929,p.81
 mumm1238-1,Katiati,mumm1238,Mum,kqa,Papunesia,-4.83462,145.059,Nuclear Trans New Guinea,,Zgraggen1980SouthernAdelbert,p.46
 muna1247-1,Muna,muna1247,Muna,mnb,Papunesia,-5.40419,122.541,Austronesian,,Stokhof1985Vol7.4,pp.173-174
+mung1269-1,Munggui,mung1269,Munggui,mth,Papunesia,-1.66773,135.918,Austronesian,,Anceaux1961,pp.72-76
 mung1272-1,Munkip,mung1272,Mungkip,mpv,Papunesia,-6.46208,146.747,Nuclear Trans New Guinea,,Smith1988,p.88
 muni1257-1,Munit,muni1257,Munit,mtc,Papunesia,-5.24329,145.548,Nuclear Trans New Guinea,,Zgraggen1980Mabuso,p.92
+mura1271-1,Muratayak (Kepoiak village),mura1271,Muratayak,asx,Papunesia,-5.74416,146.54,Nuclear Trans New Guinea,,Carter2012,p.50
 muri1259-1,Ngorek (Murik),muri1259,Murik (Malaysia),mxr,Papunesia,3.7519,114.434,Austronesian,,Smith2015,pp.351-353
 muri1260-1,Murik (Darapap),muri1260,Murik (Papua New Guinea),mtf,Papunesia,-3.86959,144.166,Lower Sepik-Ramu,,Laycock1971D24,p.3340
 muri1260-2,Murik (from CSQs),muri1260,Murik (Papua New Guinea),mtf,Papunesia,-3.86959,144.166,Lower Sepik-Ramu,"2 CSQs. Villages: Kaup, Aramut.",LeanEastSepik,p.57
@@ -1668,6 +1814,7 @@ muyu1244-3,Muyuw (Gwasop village),muyu1244,Muyuw,myw,Papunesia,-9.195,152.731,Au
 naas1242-1,Nasioi,naas1242,Naasioi,nas,Papunesia,-6.46022,155.632,South Bougainville,,Rausch1912,p.108
 naas1242-2,"Nasioi (Kurai, Moroni, Sipuru, Noruapa, and Pankama villages)",naas1242,Naasioi,nas,Papunesia,-6.46022,155.632,South Bougainville,"5 CSQs. Villages: Kurai, Moroni, Sipuru, Noruapa, Pankama.",Lean1985Vol03,p.52
 naas1242-3,Nasioi (Kovenang and Karuru villages),naas1242,Naasioi,nas,Papunesia,-6.46022,155.632,South Bougainville,"2 CSQs. Villages: Kovenang, Karuru.",Lean1985Vol03,p.52
+naas1242-4,Naasioi,naas1242,Naasioi,nas,Papunesia,-6.46022,155.632,South Bougainville,,Brown2021,p.31
 naba1256-1,Nabak,naba1256,Nabak,naf,Papunesia,-6.42709,146.966,Nuclear Trans New Guinea,,Smith1988,p.83
 naba1256-2,Nabak (from CSQs),naba1256,Nabak,naf,Papunesia,-6.42709,146.966,Nuclear Trans New Guinea,"4 CSQs. Villages: Kemen, Kasanombe, Bambok, Bendep.",LeanMorobe,p.96
 naba1256-3,Nabak (from IMP/SIL),naba1256,Nabak,naf,Papunesia,-6.42709,146.966,Nuclear Trans New Guinea,IMP/SIL Questionnnaire (1978).,LeanMorobe,p.96
@@ -1677,6 +1824,10 @@ nabi1239-1,Nambi,nabi1239,Nabi-Metan,mty,Papunesia,-3.52828,142.329,Nuclear Torr
 nafi1237-1,Sirak,nafi1237,Nafi,srf,Papunesia,-6.43306,146.815,Austronesian,,Smith1988,p.70
 nafr1241-1,Sentani-groep Nafri,nafr1241,Nafri,nxx,Papunesia,-2.65036,140.727,Sentanic,,Galis1955,p.163
 nage1237-1,Nagekeo,nage1237,Nage,nxe,Papunesia,-8.70513,121.31,Austronesian,,Pita2016,p.132
+nage1237-2,Eastern Nga’o (Oja),nage1237,Nage,nxe,Papunesia,-8.70513,121.31,Austronesian,,Elias2018,pp.120-121
+nage1237-3,Western Nga’o (Watumite),nage1237,Nage,nxe,Papunesia,-8.70513,121.31,Austronesian,,Elias2018,pp.120-121
+nage1237-4,Eastern Nage (Nangamboa),nage1237,Nage,nxe,Papunesia,-8.70513,121.31,Austronesian,,Elias2018,pp.120-121
+nage1237-5,Central Nage (Boawae),nage1237,Nage,nxe,Papunesia,-8.70513,121.31,Austronesian,,Elias2018,pp.120-121
 naii1241-1,Biaka,naii1241,Nai,bio,Papunesia,-3.73034,141.273,Kwomtari-Nai,SIL Word List (undated).,LeanSandaun,p.22
 naii1241-2,Biaka,naii1241,Nai,bio,Papunesia,-3.73034,141.273,Kwomtari-Nai,,Laycock1970D13,p.1810
 naii1241-3,Biaka,naii1241,Nai,bio,Papunesia,-3.73034,141.273,Kwomtari-Nai,,Baron1983,p.9
@@ -1696,18 +1847,29 @@ nake1240-1,Nake,nake1240,Nake,nbk,Papunesia,-5.09087,145.655,Nuclear Trans New G
 nali1244-1,"Nalik (Lugagun, Fisoa)",nali1244,Nalik,nal,Papunesia,-2.94411,151.332,Austronesian,"4 CSQs. Villages: Lugagun, Fisoa.",Lean1985Vol01,p.30
 nali1244-2,Nalik (Madina),nali1244,Nalik,nal,Papunesia,-2.94411,151.332,Austronesian,2 CSQs. Village: Madina.,Lean1985Vol01,p.30
 nali1244-3,nalik (N. Irel.),nali1244,Nalik,nal,Papunesia,-2.94411,151.332,Austronesian,,Grace1955pdf42,p.17
+nali1244-4,Nalik,nali1244,Nalik,nal,Papunesia,-2.94411,151.332,Austronesian,,Volker1998,pp.118-119
+nali1244-5,Nalik - ‘original’ numerals,nali1244,Nalik,nal,Papunesia,-2.94411,151.332,Austronesian,,Volker1998,pp.121-122
+nali1244-6,Nalik - abstract numerals,nali1244,Nalik,nal,Papunesia,-2.94411,151.332,Austronesian,,Volker1998,p.122
+nali1244-7,Nalik - cardinal numbers,nali1244,Nalik,nal,Papunesia,-2.94411,151.332,Austronesian,,Volker1996,pp.6-9
+nali1244-8,Nalik - sacred counting system,nali1244,Nalik,nal,Papunesia,-2.94411,151.332,Austronesian,,Volker1996,pp.9-10
+nali1244-9,Nalik - ancestral abstract counting system,nali1244,Nalik,nal,Papunesia,-2.94411,151.332,Austronesian,,Volker1996,pp.10-11
 nali1245-1,Nali,nali1245,Nali,nss,Papunesia,-2.14273,147.202,Austronesian,1 CSQ. Village: Lowaia.,Lean1985Vol02,p.33
 nali1245-2,Nali,nali1245,Nali,nss,Papunesia,-2.14273,147.202,Austronesian,,Blust2021,"pp.25, 30, 32, 38"
 nali1245-3,Nali (N'dranou village),nali1245,Nali,nss,Papunesia,-2.14273,147.202,Austronesian,SIL Word List (1976). Village: N'dranou.,LeanManus,p.22
+nama1266-1,Nama (Daraia village),nama1266,Nama (Papua New Guinea),nmx,Papunesia,-8.66403,141.706,Yam,,Carroll2024,txt file downloaded on 23 October 2024
+nama1267-1,Namat (Mibini village),nama1267,Namat,nkm,Papunesia,-8.827,141.641,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 nama1268-1,Tonoa [toŋoa],nama1268,Namakura,nmk,Papunesia,-16.8979,168.569,Austronesian,,Codrington1885,p.471
 namb1293-1,Nmbo: Kerake,namb1293,Nambo,ncm,Papunesia,-8.74501,141.931,Yam,,Kashima2020,p.141
 namb1293-2,Nmbo: Yarne,namb1293,Nambo,ncm,Papunesia,-8.74501,141.931,Yam,,Kashima2020,p.141
+namb1293-3,Nambo (Drdr village),namb1293,Nambo,ncm,Papunesia,-8.74501,141.931,Yam,,Carroll2024,txt file downloaded on 23 October 2024
+namb1293-4,Nmbo,namb1293,Nambo,ncm,Papunesia,-8.74501,141.931,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 nami1256-1,Namie (Namia),nami1256,Namia,nnm,Papunesia,-3.85538,141.788,Sepik,,Laycock1967C06,p.44
 nami1256-2,Namie (Tipas),nami1256,Namia,nnm,Papunesia,-3.85538,141.788,Sepik,,Laycock1971D32,p.4700
 nami1256-3,Namie (Yawari),nami1256,Namia,nnm,Papunesia,-3.85538,141.788,Sepik,,Laycock1970D09,p.1184
 naml1240-1,Nambla,naml1240,Namla,naa,Papunesia,-3.58,140.66,Namla-Tofanma,,Mappiasse2020,"pp.5, 7, 8, 11, 13"
 naml1240-2,Namla,naml1240,Namla,naa,Papunesia,-3.58,140.66,Namla-Tofanma,,Sanjoko2013,p.183
 namo1246-1,Potoia,namo1246,Namo,mxw,Papunesia,-9.12416,141.824,Yam,,Ray1923,p.343
+namo1246-2,Namo (Mari village),namo1246,Namo,mxw,Papunesia,-9.12416,141.824,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 namu1249-1,Ngina Manu,namu1249,Namut-Nginamanu,,Papunesia,-8.578948,120.975435,Austronesian,,Sugono2002,"pp.140, 142, 172, 190, 203"
 nank1250-1,Nankina,nank1250,Nankina,nnk,Papunesia,-5.80804,146.464,Nuclear Trans New Guinea,,Spaulding1994,p.111
 nanu1240-1,Arafundio,nanu1240,Nanubae-Imangae,afk,Papunesia,-4.71731,143.937,Arafundi,,Laycock1971D22,p.3066
@@ -1746,17 +1908,25 @@ neko1240-1,Neko,neko1240,Neko,nej,Papunesia,-5.60034,146.306,Nuclear Trans New G
 neko1240-2,Neko (Damoing village),neko1240,Neko,nej,Papunesia,-5.60034,146.306,Nuclear Trans New Guinea,,Gray2015,p.57
 neko1240-3,Neko (Warai village),neko1240,Neko,nej,Papunesia,-5.60034,146.306,Nuclear Trans New Guinea,,Gray2015,p.57
 neme1244-1,Karigari,neme1244,Neme,nex,Papunesia,-8.44877,141.849,Yam,,Ray1923,p.343
+neme1244-2,Neme (Keru village),neme1244,Neme,nex,Papunesia,-8.44877,141.849,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 nend1239-1,Nend,nend1239,Nend,anh,Papunesia,-5.04271,144.886,Nuclear Trans New Guinea,,Harris1990,p.91
 nend1239-2,Angaua,nend1239,Nend,anh,Papunesia,-5.04271,144.886,Nuclear Trans New Guinea,,Zgraggen1980SouthernAdelbert,p.46
 neng1238-1,"Britannia Island, Nengone",neng1238,Nengone,nen,Papunesia,-21.5305,167.964,Austronesian,,Codrington1885,"pp.221-222, 226, 232, 236, 238, 240, 244-247, 249-250, 485"
+nenn1238-1,Nen (Bimadbn village),nenn1238,Nen,nqn,Papunesia,-8.62183,142.032,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 nete1240-1,Nete,nete1240,Nete,net,Papunesia,-5.02368,143.029,Nuclear Trans New Guinea,,Franklin2012,p.51
 newg1239-1,"New Georgia [exact language unknown, but seems similar to maro1244]",newg1239,New Georgia,,,-8.2321693196052,157.356950365812,Austronesian,,Codrington1885,p.237
+ngad1261-1,Ngadha,ngad1261,Ngad'a,nxg,Papunesia,-8.79508,120.976,Austronesian,,Arka2010,pp.11-12
+ngad1261-2,Eastern Ngadha (Takatunga),ngad1261,Ngad'a,nxg,Papunesia,-8.79508,120.976,Austronesian,,Elias2018,pp.120-121
+ngad1261-3,Western Ngadha (Bajawa),ngad1261,Ngad'a,nxg,Papunesia,-8.79508,120.976,Austronesian,,Elias2018,pp.120-121
+ngad1261-4,Central Ngadha (So’a),ngad1261,Ngad'a,nxg,Papunesia,-8.79508,120.976,Austronesian,,Elias2018,pp.120-121
 ngai1241-1,Ngaing (Sibog village),ngai1241,Ngaing,nnf,Papunesia,-5.6513,146.343,Nuclear Trans New Guinea,,Gray2015,p.65
 ngaj1237-1,Katingan Dayak,ngaj1237,Ngaju,nij,Papunesia,-1.58463,112.794,Austronesian,,Stokhof1986Vol8,p.75
 ngaj1237-2,Ngaju Dayak,ngaj1237,Ngaju,nij,Papunesia,-1.58463,112.794,Austronesian,,Stokhof1986Vol8,p.53
 ngal1298-1,Sibil,ngal1298,Ngalum,szb,Papunesia,-4.67682,141.03,Nuclear Trans New Guinea,,Galis1960,p.136
 ngal1300-1,Ngala,ngal1300,Ngala,nud,Papunesia,-4.26628,142.5,Ndu,,Laycock1965,pp.173-174
+ngga1239-1,Gaura,ngga1239,Garo (Sumba),,Papunesia,-9.71011,119.25403,Austronesian,,Sugono2002,"pp.140, 142, 172, 190, 203"
 ngka1235-1,Kanum,ngka1235,Ngkontar Ngkolmpu,kcd,Papunesia,-8.87044,140.818,Yam,,Galis1955,p.167
+ngka1235-2,Ngkolmpu (Yanggandur village),ngka1235,Ngkontar Ngkolmpu,kcd,Papunesia,-8.87044,140.818,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 nias1242-1,Nias (from H. Lagemann),nias1242,Nias,nia,Papunesia,0.90691,97.4961,Austronesian,,Stokhof1987Vol10.3,pp.147-148
 nias1242-2,Nias (mentioned in NBG 1905),nias1242,Nias,nia,Papunesia,0.90691,97.4961,Austronesian,,Stokhof1987Vol10.3,pp.129-130
 niii1240-1,Nii,niii1240,Nii,nii,Papunesia,-5.763,144.518,Nuclear Trans New Guinea,"2 CSQs. Villages: Kudjip, Aviamp.",Lean1986Vol09,p.55
@@ -1795,6 +1965,7 @@ nort2883-1,"Bicol (Viga, Catanduanes)",nort2883,Northern Catanduanes Bicolano,ct
 nort2885-1,Northern Subanen,nort2885,Northern Subanen,stb,Papunesia,8.5232,123.588,Austronesian,,Lobel2013,pp.319-356
 nort2885-2,"Subanun, Salog",nort2885,Northern Subanen,stb,Papunesia,8.5232,123.588,Austronesian,,Thiessen1973,pp.3-7
 nort2890-1,Betsimisaraka,nort2890,Northern Betsimisaraka Malagasy,bmm,Africa,-19.9184,48.812,Austronesian,,Jully1901,passim
+nort2890-2,"Vòhidótra, E. Co.",nort2890,Northern Betsimisaraka Malagasy,bmm,Africa,-19.9184,48.812,Austronesian,,Sibree1897,pp.108-109
 nort2916-1,Kati,nort2916,North Muyu,kti,Papunesia,-5.55319,140.84,Nuclear Trans New Guinea,,Galis1960,p.135
 nort2916-2,Muyu,nort2916,North Muyu,kti,Papunesia,-5.55319,140.84,Nuclear Trans New Guinea,,Stokhof1982Vol5.1,p.170
 nort2917-1,Kaja-kaja (downstream of Zwaluw),nort2917,Momogo-Pupis-Irogo,nks,Papunesia,-4.89854,138.405,Nuclear Trans New Guinea,,Feuilleteau1915,pp.91-92
@@ -1809,6 +1980,7 @@ nucl1452-1,Mombum,nucl1452,Mombum,mso,Papunesia,-8.27141,138.773,Mombum-Koneraw,
 nucl1453-1,Walio,nucl1453,Walio,wla,Papunesia,-4.41234,142.231,Walioic,,Laycock1971D33,p.4798
 nucl1453-2,Walio,nucl1453,Walio,wla,Papunesia,-4.41234,142.231,Walioic,,Conrad1975,pp.26-29
 nucl1454-1,Turu,nucl1454,Yawa,yva,Papunesia,-1.77196,136.263,Yawa-Saweru,,Galis1955,p.141
+nucl1454-2,Midden-Japen,nucl1454,Yawa,yva,Papunesia,-1.77196,136.263,Yawa-Saweru,,Cowan1953,p.7
 nucl1458-1,Monumbo,nucl1458,Monumbo,mxk,Papunesia,-4.2717,144.95,Bogia,,Zgraggen1972,pp.215-219
 nucl1458-2,Monumbo,nucl1458,Monumbo,mxk,Papunesia,-4.2717,144.95,Bogia,,Ray1919,p.330
 nucl1593-1,Kwomtari,nucl1593,Kwomtari,kwo,Papunesia,-3.50718,141.488,Kwomtari-Nai,,Laycock1970D16,p.2194
@@ -1818,10 +1990,12 @@ nucl1593-4,Kwomtari,nucl1593,Kwomtari,kwo,Papunesia,-3.50718,141.488,Kwomtari-Na
 nucl1594-1,Kaniran,nucl1594,Mairasi,zrs,Papunesia,-3.4511,134.071,Mairasic,,Galis1955,p.135
 nucl1594-2,Mairassis,nucl1594,Mairasi,zrs,Papunesia,-3.4511,134.071,Mairasic,,Ray1912,pp.340-341
 nucl1594-3,"mai̯ˈrasi (villages: sisir, murano, mai̯mai̯, lobo)",nucl1594,Mairasi,zrs,Papunesia,-3.4511,134.071,Mairasic,,Grace1955pdf50,p.55 [of pdf]
+nucl1594-4,Faranjao,nucl1594,Mairasi,zrs,Papunesia,-3.4511,134.071,Mairasic,,Cowan1953,p.37
 nucl1595-1,Armatti,nucl1595,Kwerba,kwe,Papunesia,-2.2137,138.486,Greater Kwerba,,Stokhof1983Vol5.2,p.82
 nucl1620-1,Wahgi (Minj and south Wahgi region),nucl1620,Wahgi,wgi,Papunesia,-6.11629,144.665,Nuclear Trans New Guinea,13 CSQs.,Lean1986Vol09,p.54
 nucl1622-1,Marind,nucl1622,Marind,mrz,Papunesia,-8.15651,140.009,Anim,,Galis1955,p.168
 nucl1622-2,Merauke,nucl1622,Marind,mrz,Papunesia,-8.15651,140.009,Anim,,Ray1912,pp.340-341
+nucl1622-3,western Coastal Marind (Wambi village),nucl1622,Marind,mrz,Papunesia,-8.15651,140.009,Anim,,Carroll2024,txt file downloaded on 23 October 2024
 nucl1630-1,Barai (Abaro village),nucl1630,Barai,bbb,Papunesia,-9.46246,147.899,Koiarian,S.I.L word list (undated). Village: Abaro (Barai d.).,Lean1986Vol07,p.53
 nucl1630-2,Barai (Umwate/Ufia),nucl1630,Barai,bbb,Papunesia,-9.46246,147.899,Koiarian,"M. Olson, SIL Word List (1975). Village: Naokanane.",Lean1985Vol05,p.45
 nucl1632-1,Sentani,nucl1632,Sentani,set,Papunesia,-2.6013,140.512,Sentanic,,Ray1912,pp.340-341
@@ -1855,6 +2029,7 @@ odia1239-2,Busa,odia1239,Odiai,bhf,Papunesia,-3.82276,141.336,Odiai,,Laycock1971
 odia1239-3,Busan,odia1239,Odiai,bhf,Papunesia,-3.82276,141.336,Odiai,,Conrad1975,pp.26-29
 ogea1238-1,Erima,ogea1238,Ogea,eri,Papunesia,-5.37766,145.71,Nuclear Trans New Guinea,,Zgraggen1980RaiCoast,p.92
 oira1263-1,Oirata,oira1263,Oirata,oia,Papunesia,-8.09044,127.201,Austronesian,,Taber1993,pp.418-419
+oira1263-2,Oirata,oira1263,Oirata,oia,Papunesia,-8.09044,127.201,Timor-Alor-Pantar,,vanEngelenhoven2010,p.11
 okol1241-1,Kolod,okol1241,Okolod,kqv,Papunesia,4.53989,115.753,Austronesian,,Lobel2016,pp.234-239
 oksa1245-1,Oksapmin (from CSQs),oksa1245,Oksapmin,opm,Papunesia,-5.20797,142.177,Nuclear Trans New Guinea,"5 CSQs. Villages: Divanap, Ranimap (2), Tekin, Bume.",LeanSandaun,p.50
 oksa1245-2,Oksapmin (from SIL word list),oksa1245,Oksapmin,opm,Papunesia,-5.20797,142.177,Nuclear Trans New Guinea,SIL Word List (1968).,LeanSandaun,p.50
@@ -1891,6 +2066,7 @@ orok1269-3,Orokaiva (Waseda dialect),orok1269,Orokaiva,okv,Papunesia,-8.79019,14
 orya1242-1,Sawé,orya1242,Orya,ury,Papunesia,-2.76483,139.89,Tor-Orya,,Stokhof1983Vol5.2,p.121
 orya1242-2,Saweh,orya1242,Orya,ury,Papunesia,-2.76483,139.89,Tor-Orya,,Galis1955,p.161
 otda1235-1,Ot Danum Dayak,otda1235,Ot Danum,otd,Papunesia,-0.3955,113.469,Austronesian,,Stokhof1986Vol8,p.13
+ouma1237-1,Ouma,ouma1237,Ouma,oum,Papunesia,-10.2288,149.101,Austronesian,,Dutton1976,p.600
 owin1240-1,Owiniga,owin1240,Owiniga,owi,Papunesia,-4.47476,141.697,Left May,,Conrad1975,pp.21-24
 owin1240-2,Samo,owin1240,Owiniga,owi,Papunesia,-4.47476,141.697,Left May,,Laycock1970D06,p.830
 paam1238-1,Pama,paam1238,Paama,pma,Papunesia,-16.47548,168.23693,Austronesian,,Codrington1885,p.235
@@ -1903,6 +2079,7 @@ pakt1239-1,Pak,pakt1239,Pak-Tong,pkg,Papunesia,-2.05269,147.767,Austronesian,,Bl
 pakt1239-2,Pak-Tong,pakt1239,Pak-Tong,pkg,Papunesia,-2.05269,147.767,Austronesian,1 CSQ. Village: Mokara.,Lean1985Vol02,p.18
 pala1344-1,Palauan,pala1344,Palauan,pau,Papunesia,7.34138,134.476678,Austronesian,,Grace1955pdf42,p.31
 pall1244-1,Abasakur,pall1244,Pal,abw,Papunesia,-4.756,145.24,Nuclear Trans New Guinea,,Zgraggen1980NorthernAdelbert,p.92
+palu1252-1,Palu’e,palu1252,Palu'e,ple,Papunesia,-8.32877,121.718,Austronesian,,Elias2018,pp.120-121
 palu1253-1,Murut Paluan,palu1253,Paluan,plz,Papunesia,5.02715,116.346,Austronesian,,Lobel2016,pp.234-239
 pamo1252-1,Bareë (mentioned in JB 1934),pamo1252,Pamona,pmf,Papunesia,-1.62663,121.268,Austronesian,,Stokhof1984Vol7.3,p.99
 pamo1252-2,Bareë (mentioned in NBG 1897),pamo1252,Pamona,pmf,Papunesia,-1.62663,121.268,Austronesian,,Stokhof1984Vol7.3,p.113
@@ -1912,14 +2089,17 @@ pang1290-1,Pangasinan,pang1290,Pangasinan,pag,Papunesia,15.9377,120.365,Austrone
 pani1258-1,Panim,pani1258,Panim,pnr,Papunesia,-5.21388,145.752,Nuclear Trans New Guinea,,Ray1919,p.329
 pani1258-2,Panim,pani1258,Panim,pnr,Papunesia,-5.21388,145.752,Nuclear Trans New Guinea,,Zgraggen1980Mabuso,p.92
 papa1265-1,Papapana,papa1265,Papapana,ppn,Papunesia,-5.92283,155.289,Austronesian,"Allen and Hurd, SIL Wordlist, (1963); Teperoi village.",Lean1985Vol03,p.42
+papa1265-2,Papapana,papa1265,Papapana,ppn,Papunesia,-5.92283,155.289,Austronesian,,Smith-Dennis2020,p.193
 papa1268-1,Papar,papa1268,Papar,dpp,Papunesia,5.57378,115.58,Austronesian,,Lobel2016,pp.234-239
 papi1255-1,Papi,papi1255,Papi,ppe,Papunesia,-4.4725,142.011,Papi,SIL Word List (1972). Village: Paupe.,LeanEastSepik,p.19
 papi1255-2,Papi,papi1255,Papi,ppe,Papunesia,-4.4725,142.011,Papi,,Laycock1971D33,p.4754
 papi1255-3,Paupe,papi1255,Papi,ppe,Papunesia,-4.4725,142.011,Papi,,Conrad1975,pp.26-29
 papu1250-1,Papua Malay,papu1250,Papuan Malay,pmy,Papunesia,-2.53482,139.651,Austronesian,,Paauw2009,p.190
+papu1251-1,Papuma,papu1251,Papuma,ppm,Papunesia,-1.77301,135.907,Austronesian,,Anceaux1961,pp.72-76
 para1306-1,Paranan (Palanenyo),para1306,Paranan,prf,Papunesia,17,122.372,Austronesian,,Headland1965Paranan,pp.3-7
 para1307-1,Parawen,para1307,Parawen,prw,Papunesia,-5.0112,145.418,Nuclear Trans New Guinea,,Zgraggen1980NorthernAdelbert,p.92
 pare1271-1,Pa,pare1271,Pare,ppt,Papunesia,-6.46878,141.658,Kamula-Elevala,[unknown],Lean1986Vol12,"pp.29, 95"
+pass1247-1,Abenaho,pass1247,Pass Valley Yali,yac,Papunesia,-3.76869,139.26,Nuclear Trans New Guinea,,Fahner1979,p.157
 pata1260-1,Patani,pata1260,Patani,ptn,Papunesia,0.34096,128.634,Austronesian,,Stokhof1980Vol2,pp.291-292
 pate1247-1,Mumeng,pate1247,Patep,ptp,Papunesia,-6.91988,146.639,Austronesian,,Smith1988,p.73
 pate1247-2,Mumeng (Patep dialect),pate1247,Patep,ptp,Papunesia,-6.91988,146.639,Austronesian,IMP/SIL Questionnaire (1978). Patep dialect.,LeanMorobe,p.36
@@ -1965,9 +2145,21 @@ pitc1234-1,Norfolk,pitc1234,Pitcairn-Norfolk,pih,Papunesia,-24.379858,-128.32407
 piuu1237-1,Piu,piuu1237,Piu,pix,Papunesia,-6.96694,146.455,Austronesian,SIL Word List (1965). Village: Piu.,LeanMorobe,p.33
 piuu1237-2,Piu,piuu1237,Piu,pix,Papunesia,-6.96694,146.455,Austronesian,,Smith1988,pp.73-74
 plat1254-1,Hova,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Jully1901,passim
-plat1254-2,Taimorona,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Jully1901,passim
-plat1254-3,Malagasy,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Codrington1885,"pp.237-239, 243, 250"
+plat1254-10,"Vàkinankàratra, Cent.",plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Sibree1897,pp.108-109
+plat1254-11,"Betsiléo, Ambòhimàhasòa (S.C.)",plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Sibree1897,pp.108-109
+plat1254-12,do. Ambàlavao do. [= “doubtful” ?],plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Sibree1897,pp.108-109
+plat1254-13,do. Ambòhimandròso do. [= “doubtful” ?],plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Sibree1897,pp.108-109
+plat1254-2,Betsiléo,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Jully1901,passim
+plat1254-3,Taimorona,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Jully1901,passim
+plat1254-4,Malagasy,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Codrington1885,"pp.237-239, 243, 250"
+plat1254-5,Ambàlanjànkòmby. N. W. Co.,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Sibree1897,pp.108-109
+plat1254-6,"Fierènana, S. W. Co.",plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Sibree1897,pp.108-109
+plat1254-7,"Mèvatanàna, N. W. Cent.",plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Sibree1897,pp.108-109
+plat1254-8,"Antsihànaka, (E.); N.E. Cent.",plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Sibree1897,pp.108-109
+plat1254-9,"Antsihànaka, (W.), do. [= “doubtful” ?]",plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian,,Sibree1897,pp.108-109
+poll1238-1,Pollapese,poll1238,Pollapese,,Papunesia,7.638875,149.428723,Austronesian,,Crippen2009,p.11
 pomm1237-1,Pom,pomm1237,Pom,pmo,Papunesia,-1.64224,135.619,Austronesian,,Galis1955,p.140
+pomm1237-2,Pom,pomm1237,Pom,pmo,Papunesia,-1.64224,135.619,Austronesian,,Anceaux1961,pp.72-76
 pona1250-1,Ponam,pona1250,Ponam,ncc,Papunesia,-1.91705,146.887,Austronesian,2 CSQs; Field Notes (1978). Ponam Island.,Lean1985Vol02,p.41
 poro1253-1,Porohanon,poro1253,Porohanon,prh,Papunesia,10.6726,124.454,Austronesian,,Daguman1987,pp.3-7
 pouy1238-1,Bouye,pouy1238,Pouye,bye,Papunesia,-3.72704,141.864,Sepik,,Laycock1967C02,p.69
@@ -1977,6 +2169,7 @@ pula1267-1,Pulabu,pula1267,Pulabu,pup,Papunesia,-5.59558,145.738,Nuclear Trans N
 puna1275-1,House Punan Bah,puna1275,Punan Bah-Biau,pna,Papunesia,2.27377,113.156,Austronesian,,Urquhart1955,p.195
 puna1278-1,House Punan Batu,puna1278,Punan Batu 1,pnm,Papunesia,2.65327,113.93,Austronesian,,Urquhart1955,p.195
 pura1253-1,Mogao,pura1253,Puragi,pru,Papunesia,-2.05779,132.304,South Bird's Head Family,,Galis1955,p.136
+pura1253-2,Puragi,pura1253,Puragi,pru,Papunesia,-2.05779,132.304,South Bird's Head Family,,Cowan1953,p.22
 pura1257-1,Purari,pura1257,Purari,iar,Papunesia,-7.59133,145.036,Purari,,Holmes1913,p.131
 pura1257-2,Purari (Ara'ava Community School),pura1257,Purari,iar,Papunesia,-7.59133,145.036,Purari,1 CSQ (Ara'ava Community School).,Lean1986Vol11,p.37
 pura1257-3,Purari (Kapai village),pura1257,Purari,iar,Papunesia,-7.59133,145.036,Purari,SIL Word List (1975). Village: Kapai.,Lean1986Vol11,p.37
@@ -2014,6 +2207,7 @@ rata1244-1,Ratahan,rata1244,Ratahan,rth,Papunesia,1.07592,124.858,Austronesian,,
 rawa1267-1,Rawa (Guhu village),rawa1267,Rawa,rwo,Papunesia,-5.83155,145.937,Nuclear Trans New Guinea,1 CSQ. Village: Guhu.,LeanMadang,p.71
 rawa1267-2,Rawa (Tauta village),rawa1267,Rawa,rwo,Papunesia,-5.83155,145.937,Nuclear Trans New Guinea,IMP/SIL (1978); SIL Word List (1964). Village: Tauta.,LeanMadang,p.71
 rawo1244-1,Rawo,rawo1244,Rawo,rwa,Papunesia,-2.84201,141.603,Sko,,Laycock1970D04,p.538
+rema1238-1,Rema (Wereave village),rema1238,Rema,bow,Papunesia,-8.41526,141.034,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 remp1241-1,Garus (Pap.) A'é̱-Dialect,remp1241,Rempi,rmp,Papunesia,-5.02487,145.782,Nuclear Trans New Guinea,,Kasprus1942,pp.746-747
 remp1241-2,Rempi,remp1241,Rempi,rmp,Papunesia,-5.02487,145.782,Nuclear Trans New Guinea,1 CSQ. Village: Bomasa.,LeanMadang,pp.42-43
 remp1241-3,Rempin,remp1241,Rempi,rmp,Papunesia,-5.02487,145.782,Nuclear Trans New Guinea,,Ray1919,p.330
@@ -2028,13 +2222,23 @@ romk1240-1,Iski (Misingi village),romk1240,Romkun,rmk,Papunesia,-4.58919,144.689
 romk1240-2,Iski (Romakun village),romk1240,Romkun,rmk,Papunesia,-4.58919,144.689,Lower Sepik-Ramu,,Tousch2013,
 romk1240-3,Iski (Yamu 2 village),romk1240,Romkun,rmk,Papunesia,-4.58919,144.689,Lower Sepik-Ramu,,Tousch2013,
 romk1240-4,Romkun,romk1240,Romkun,rmk,Papunesia,-4.58919,144.689,Lower Sepik-Ramu,,Zgraggen1972,pp.215-219
+rong1269-1,Rongga - restricted numerals,rong1269,Rongga,ror,Papunesia,-8.84604,120.702,Austronesian,,Arka2010,passim
+rong1269-2,Rongga - regular numerals,rong1269,Rongga,ror,Papunesia,-8.84604,120.702,Austronesian,,Arka2010,passim
+rong1269-3,Rongga (quinary-decimal numerals),rong1269,Rongga,ror,Papunesia,-8.84604,120.702,Austronesian,,Elias2020,pp.326-327
+rong1269-4,Rongga (quaternary numerals),rong1269,Rongga,ror,Papunesia,-8.84604,120.702,Austronesian,,Elias2020,p.327
+rong1269-5,Rongga (non-productive numerals) [after Arka (2016:127-128)],rong1269,Rongga,ror,Papunesia,-8.84604,120.702,Austronesian,,Elias2020,p.328
+rong1269-6,Rongga,rong1269,Rongga,ror,Papunesia,-8.84604,120.702,Austronesian,,Elias2018,pp.120-121
+rong1269-7,Rongga (restricted system),rong1269,Rongga,ror,Papunesia,-8.84604,120.702,Austronesian,,Arka2016,pp.127-128
+rong1269-8,Rongga (regular system),rong1269,Rongga,ror,Papunesia,-8.84604,120.702,Austronesian,,Arka2016,pp.128-132
 ronj1237-1,Roinji,ronj1237,Ronji,roe,Papunesia,-5.80782,146.731,Austronesian,,Smith1988,p.62
 ronj1237-2,Ronji,ronj1237,Ronji,roe,Papunesia,-5.80782,146.731,Austronesian,,Carter2012,p.60
 ronj1237-3,Roinji (Roinji village),ronj1237,Ronji,roe,Papunesia,-5.80782,146.731,Austronesian,,Lincoln1976,pp.2-5
 roon1237-1,Rón,roon1237,Roon,rnn,Papunesia,-2.43005,134.556,Austronesian,,Galis1955,p.139
 roon1237-2,Ron,roon1237,Roon,rnn,Papunesia,-2.43005,134.556,Austronesian,,Codrington1885,p.225
+roon1237-3,Ron,roon1237,Roon,rnn,Papunesia,-2.43005,134.556,Austronesian,,Anceaux1961,pp.72-76
 roto1249-1,Rotokas,roto1249,Rotokas,roo,Papunesia,-5.94339,155.154,North Bougainville,1 CSQ. Village: Hatetara.,Lean1985Vol03,p.41
 roto1249-2,Rotokas (Togarao village),roto1249,Rotokas,roo,Papunesia,-5.94339,155.154,North Bougainville,SIL (1975). Village: Togarao.,LeanBougainville,p.34
+roto1249-3,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),roto1249,Rotokas,roo,Papunesia,-5.94339,155.154,North Bougainville,,Brown2021,p.31
 rotu1241-1,Rotuma,rotu1241,Rotuman,rtm,Papunesia,-12.5008,177.066,Austronesian,,Codrington1885,"pp.236, 407"
 rumu1243-1,Kairi,rumu1243,Rumu,klq,Papunesia,-7.17149,144.179,Turama-Kikori,SIL Word List (1975). Village: Kopi.,Lean1986Vol11,p.17
 rumu1243-2,Kopi (Rumu),rumu1243,Rumu,klq,Papunesia,-7.17149,144.179,Turama-Kikori,,Bullock2015,p.66
@@ -2054,6 +2258,8 @@ saep1240-2,Saep,saep1240,Saep,spd,Papunesia,-5.64812,146.078,Nuclear Trans New G
 safe1240-1,Safeyoka,safe1240,Safeyoka,apz,Papunesia,-7.05417,146.09,Angan,,Smith1988,p.101
 safe1240-2,Safeyoka (from IMP/SIL),safe1240,Safeyoka,apz,Papunesia,-7.05417,146.09,Angan,IMP/SIL Questionnaire (1978).,LeanMorobe,pp.61-62
 safe1240-3,Safeyoka (from SIL word list),safe1240,Safeyoka,apz,Papunesia,-7.05417,146.09,Angan,SIL Word List (1972).,LeanMorobe,p.62
+saja1241-1,Sadjau Bassaps (Boelongan),saja1241,Sajau-Latti,sjb,Papunesia,2.43432,117.401,Austronesian,,Rutten1916,p.251
+saka1291-1,"Ankavàndra, W. Cent.",saka1291,West Malagasy Sakalava,skg,Africa,-20.28,44.32,Austronesian,,Sibree1897,pp.108-109
 saka1292-1,Sakam,saka1292,Sakam,skm,Papunesia,-6.18726,146.702,Nuclear Trans New Guinea,,Smith1988,pp.96-97
 salt1242-1,Chimbu (Salt-Yui dialect),salt1242,Salt-Yui,sll,Papunesia,-6.26519,145.021,Nuclear Trans New Guinea,S.I.L word list (1975). Village: Oinima.,Lean1986Vol09,p.68
 sama1240-1,Tamaja,sama1240,Samarokena,tmj,Papunesia,-1.84878,138.34,Greater Kwerba,,Galis1955,p.143
@@ -2105,12 +2311,15 @@ sebo1238-2,House Punan Bah Malei,sebo1238,Sebop,sib,Papunesia,3.42701,114.178,Au
 sebo1238-3,Lirong,sebo1238,Sebop,sib,Papunesia,3.42701,114.178,Austronesian,,Ray1913,"pp.60, 62"
 sebo1238-4,Long Pokun,sebo1238,Sebop,sib,Papunesia,3.42701,114.178,Austronesian,,Ray1913,"pp.60, 62"
 sebo1238-5,Sibop,sebo1238,Sebop,sib,Papunesia,3.42701,114.178,Austronesian,,Ray1913,"pp.60, 62"
+sedo1237-1,Sedoa,sedo1237,Sedoa,tvw,Papunesia,-1.37295,120.378,Austronesian,,Barr1979,p.96
 sege1235-1,Waliam,sege1235,Seget,sbg,Papunesia,-1.36931,131.218,West Bird's Head,,Galis1955,p.137
 sege1235-2,Kamuˈn̥a (= mɔsaˈna),sege1235,Seget,sbg,Papunesia,-1.36931,131.218,West Bird's Head,,Grace1956pdf37,p.2 [of pdf]
+sege1235-3,Mosana,sege1235,Seget,sbg,Papunesia,-1.36931,131.218,West Bird's Head,,Cowan1953,p.41
 seim1238-1,Seimat,seim1238,Seimat,ssg,Papunesia,-1.2666667,144.25,Austronesian,SIL Word List (undated). Similam Island.,LeanManus,p.46
 seim1238-2,Seimat ,seim1238,Seimat,ssg,Papunesia,-1.2666667,144.25,Austronesian,,Blust2021,"pp.24, 30, 31"
 seit1239-1,Hila,seit1239,Seit-Kaitetu,hik,Papunesia,-3.6111,128.068,Austronesian,,vanHoevell1877,pp.26-27
 seka1247-1,"səˈkar (ugar, kokas)",seka1247,Sekar,skz,Papunesia,-2.65849,132.469,Austronesian,,Grace1955pdf50,p.126
+seka1247-2,Sekar,seka1247,Sekar,skz,Papunesia,-2.65849,132.469,Austronesian,,Cowan1953,p.31
 seka1248-1,Sekapan,seka1248,Sekapan,skp,Papunesia,2.47567,113.562,Austronesian,,Urquhart1955,p.195
 seko1242-1,Seko (Tengah),seko1242,Seko Tengah,sko,Papunesia,-2.22069,119.823,Austronesian,,Grimes1987,pp.129-135
 sela1260-1,Salayar,sela1260,Selayar,sly,Papunesia,-6.10145,120.496,Austronesian,,Stokhof1984Vol7.3,p.195
@@ -2127,6 +2336,7 @@ sene1263-1,Sene,sene1263,Sene,sej,Papunesia,-6.3859,147.807,Nuclear Trans New Gu
 seng1281-1,A Kinum and Apui,seng1281,Sengseng,ssz,Papunesia,-6.16474,149.784,Austronesian,,Chinnery1928,p.99
 seng1281-2,Pasismauna (Sengseng dialect),seng1281,Sengseng,ssz,Papunesia,-6.16474,149.784,Austronesian,"Wakefield and Whitacre, SIL Word List, 1980. Village: Onebio.",Lean1985Vol04,p.59
 seng1281-3,Asengseng,seng1281,Sengseng,ssz,Papunesia,-6.16474,149.784,Austronesian,,Throop1980,"pp.231, 238"
+seng1284-1,Sengo,seng1284,Sengo,spk,Papunesia,-4.02247,142.956,Ndu,,Staalsen1975,p.14
 seng1285-1,Tami-groep Tabu,seng1285,Senggi,snu,Papunesia,-3.41983,140.77,Border,,Galis1955,p.163
 sepa1241-1,Sepa,sepa1241,Sepa (Papua New Guinea),spe,Papunesia,-4.27,144.965,Austronesian,,Laycock1976,p.416
 sepa1241-2,Sepa (from CSQs),sepa1241,Sepa (Papua New Guinea),spe,Papunesia,-4.27,144.965,Austronesian,"2 CSQs. Villages: Sepa, Wanam.",LeanMadang,p.8
@@ -2136,11 +2346,15 @@ sepa1242-2,Sepa (Taluti) Seram,sepa1242,Sepa (Indonesia),spb,Papunesia,-3.36682,
 sepa1242-3,Tamilouw (Taluti) Seram,sepa1242,Sepa (Indonesia),spb,Papunesia,-3.36682,129.243,Austronesian,,Stokhof1981Vol3.1,pp.127-128
 sepe1240-1,Akukem,sepe1240,Sepen,spm,Papunesia,-4.22789,144.809,Lower Sepik-Ramu,,Daniels2010,p.96
 sepe1240-2,Sepen,sepe1240,Sepen,spm,Papunesia,-4.22789,144.809,Lower Sepik-Ramu,,Zgraggen1972,pp.215-219
+sepi1255-1,Iwam,sepi1255,Sepik Iwam,iws,Papunesia,-4.30928,142.117,Sepik,SIL Word List (undated). Village: Hauna (Yauenian).,LeanEastSepik,p.17
 sera1260-1,Sera,sera1260,Sera,sry,Papunesia,-2.9854,141.951,Austronesian,,Laycock1970D01,p.94
 sera1260-2,Sera,sera1260,Sera,sry,Papunesia,-2.9854,141.951,Austronesian,,Laycock1976,p.416
 seri1255-1,Serili,seri1255,Serili,sve,Papunesia,-8.11241,129.901,Austronesian,,Taber1993,pp.418-419
+seri1255-2,Serili,seri1255,Serili,sve,Papunesia,-8.11241,129.901,Austronesian,,vanDijk2021,pp.158-167
 seru1244-1,Serui-Laut,seru1244,Serui-Laut,seu,Papunesia,-1.87766,136.252,Austronesian,,Galis1955,p.141
 seru1244-2,"a dialect of Seroei, near Port Dorey [given by Latham]",seru1244,Serui-Laut,seu,Papunesia,-1.87766,136.252,Austronesian,,Codrington1885,p.225
+seru1244-3,Serui-Laut,seru1244,Serui-Laut,seu,Papunesia,-1.87766,136.252,Austronesian,,Anceaux1961,pp.72-76
+seru1244-4,Wadapi-Laut,seru1244,Serui-Laut,seu,Papunesia,-1.87766,136.252,Austronesian,,Anceaux1961,pp.72-76
 seru1245-1,Serua,seru1245,Serua,srw,Papunesia,-6.31107,130.017294,Austronesian,,Taber1993,pp.418-419
 seru1246-1,Murut Serudong,seru1246,Serudung Murut,srk,Papunesia,4.39954,117.279,Austronesian,,Lobel2016,pp.234-239
 seta1245-1,Seta,seta1245,Seta,stf,Papunesia,-3.42155,141.748,Nuclear Torricelli,,Laycock1967C07,p.39
@@ -2160,10 +2374,12 @@ siaw1243-1,Musan,siaw1243,Siawi,mmp,Papunesia,-4.05312,141.42,Amto-Musan,,Conrad
 siaw1243-2,Musian,siaw1243,Siawi,mmp,Papunesia,-4.05312,141.42,Amto-Musan,SIL Word List (undated). Village: Seiawi.,LeanSandaun,p.29
 sibe1248-1,Nagovisi,sibe1248,Sibe (Nasioi),nco,Papunesia,-6.43149,155.412,South Bougainville,"5 CSQs. Villages: Momoganali, Sianeki, Panam.",Lean1985Vol03,p.64
 sibe1248-2,Nagovisi (Turuba village),sibe1248,Sibe (Nasioi),nco,Papunesia,-6.43149,155.412,South Bougainville,SIL Word List (1975). Village: Turuba.,LeanBougainville,p.9
+sibe1248-3,Nagovisi (based on Decker 1981; Evans 2009; The Rosetta Project digital archive 2010 [referred to as ‘Sibe’]),sibe1248,Sibe (Nasioi),nco,Papunesia,-6.43149,155.412,South Bougainville,,Brown2021,p.31
 sibu1258-1,Siduan,sibu1258,Sibu Melanau,sdx,Papunesia,2.26758,111.763,Austronesian,,Ray1913,"pp.58, 61"
 siha1245-1,Sihan,siha1245,Sihan (Gum),snr,Papunesia,-5.28029,145.574,Nuclear Trans New Guinea,,Zgraggen1980Mabuso,p.92
 sika1262-1,Sikka (Central Flores),sika1262,Sika,ski,Papunesia,-8.67302,122.38,Austronesian,,Stokhof1983Vol6,p.249
 sika1262-2,Sikka (Flores),sika1262,Sika,ski,Papunesia,-8.67302,122.38,Austronesian,,Stokhof1983Vol6,p.213
+sika1262-3,Sika,sika1262,Sika,ski,Papunesia,-8.67302,122.38,Austronesian,,Elias2018,pp.120-121
 sika1263-1,Tori,sika1263,Sikaritai,tty,Papunesia,-2.80285,138.287,Lakes Plain,,Galis1955,p.143
 siku1242-1,Salang and Sigulè (from van der Linde),siku1242,Sikule,skh,Papunesia,2.69113,95.9636,Austronesian,,Stokhof1987Vol10.3,pp.54-55
 siku1242-2,Sigulei and Salang (from Hotz),siku1242,Sikule,skh,Papunesia,2.69113,95.9636,Austronesian,,Stokhof1987Vol10.3,p.69
@@ -2172,12 +2388,14 @@ sile1255-2,Sirva,sile1255,Sirva,sbq,Papunesia,-4.98243,145.225,Nuclear Trans New
 sile1255-3,Sileibi,sile1255,Sirva,sbq,Papunesia,-4.98243,145.225,Nuclear Trans New Guinea,,Zgraggen1980SouthernAdelbert,p.46
 sili1247-1,Siliput,sili1247,Siliput,mkc,Papunesia,-3.60838,142.397,Nuclear Torricelli,SIL Word List (1980). Village: Seleput.,LeanSandaun,p.34
 sili1247-2,Siliput,sili1247,Siliput,mkc,Papunesia,-3.60838,142.397,Nuclear Torricelli,,Laycock1967C09,p.52
+sili1249-1,Kiniageima Amo,sili1249,Silimo,wul,Papunesia,-4.52544,139.003,Nuclear Trans New Guinea,,Bromley1967,pp.306-307
 silo1240-1,Silopi,silo1240,Silopi,xsp,Papunesia,-5.12302,145.586,Nuclear Trans New Guinea,,Zgraggen1980Mabuso,p.92
 simb1255-1,Simbari,simb1255,Simbari,smb,Papunesia,-7.02259,145.603,Angan,[unknown],Lean1986Vol11,"pp.40, 60"
 sime1241-1,Lêkon,sime1241,Simeulue,smr,Papunesia,2.50288,96.2757,Austronesian,,Stokhof1987Vol10.3,pp.40-41
 sime1241-2,"Seumalur, Tapah area, Seumalur Besar",sime1241,Simeulue,smr,Papunesia,2.50288,96.2757,Austronesian,,Stokhof1987Vol10.3,p.100
 sime1241-3,Tapah,sime1241,Simeulue,smr,Papunesia,2.50288,96.2757,Austronesian,,Stokhof1987Vol10.3,pp.26-27
 sime1242-1,Nasioi (Korpei sub-dialect),sime1242,Simeku,smz,Papunesia,-6.23022,155.423,South Bougainville,"2 CSQs. Villages: Borumai, Sirobai.",Lean1985Vol03,p.53
+sime1242-2,Simeku,sime1242,Simeku,smz,Papunesia,-6.23022,155.423,South Bougainville,,Brown2021,p.31
 sina1266-1,Sinagoro (Balawaia dialect),sina1266,Sinaugoro,snc,Papunesia,-9.79791,147.861,Austronesian,4 CSQs.,Lean1986Vol07,p.70
 sina1266-2,Sinagoro (Taboro dialect),sina1266,Sinaugoro,snc,Papunesia,-9.79791,147.861,Austronesian,4 CSQs.,Lean1986Vol07,p.70
 sina1269-1,Galu,sina1269,Galu,siu,Papunesia,-3.42446,142.367,Nuclear Torricelli,,Laycock1967C10,p.69
@@ -2201,6 +2419,7 @@ siss1243-2,Sissano,siss1243,Sissano,sso,Papunesia,-3.01976,142.049,Austronesian,
 siss1243-3,Sissano,siss1243,Sissano,sso,Papunesia,-3.01976,142.049,Austronesian,,Laycock1976,p.416
 siss1243-4,Sissano,siss1243,Sissano,sso,Papunesia,-3.01976,142.049,Austronesian,,Ray1919,p.328
 siwa1245-1,Siwai,siwa1245,Siwai,siw,Papunesia,-6.6429,155.452,South Bougainville,"15 CSQs. Villages: Kunu, Naronai, Maisua, Kaparo, Usokoli, Kumuki, Kakatokori, Maisua, Haisi, Koropo, Purikon.",Lean1985Vol03,p.67
+smar1235-1,Smerki (Rawa Biru village),smar1235,Smärky Kanum,kxq,Papunesia,-8.91812,140.897,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 sobe1238-1,Sarmi,sobe1238,Sobei,sob,Papunesia,-1.86998,138.75,Austronesian,,Stokhof1983Vol5.2,p.64
 sobe1238-2,Sobei-groep Sarmi,sobe1238,Sobei,sob,Papunesia,-1.86998,138.75,Austronesian,,Galis1955,p.142
 sobe1238-3,Sobei,sobe1238,Sobei,sob,Papunesia,-1.86998,138.75,Austronesian,,Grace1955pdf48,p.32
@@ -2210,6 +2429,7 @@ solo1258-2,Arawe (Palingmete village),solo1258,Solong,aaw,Papunesia,-5.86129,148
 solo1258-3,Arawe (Pililo village),solo1258,Solong,aaw,Papunesia,-5.86129,148.825,Austronesian,1 IMP. Village: Pililo (Pililo Island).,Lean1985Vol04,p.88
 solo1258-4,Pililo - Island of S. coast of N. Britain,solo1258,Solong,aaw,Papunesia,-5.86129,148.825,Austronesian,,Grace1955pdf45,p.11
 somm1240-1,Som,somm1240,Som,smc,Papunesia,-6.07366,146.651,Nuclear Trans New Guinea,,Smith1988,p.97
+soni1260-1,Sunia,soni1260,Sonia,siq,Papunesia,-6.42736,142.589,Bosavi,,Shaw1986,p.66
 sopp1247-1,Usino (from CSQ),sopp1247,Sop,urw,Papunesia,-5.49605,145.361,Nuclear Trans New Guinea,1 CSQ.,LeanMadang,p.55
 sopp1247-2,"Usino (from SIL word list, 1969)",sopp1247,Sop,urw,Papunesia,-5.49605,145.361,Nuclear Trans New Guinea,SIL Word List (1969). Village: Usino.,LeanMadang,p.55
 sopp1247-3,"Usino (from SIL word list, 1977)",sopp1247,Sop,urw,Papunesia,-5.49605,145.361,Nuclear Trans New Guinea,SIL Word List (1977). Village: Usino.,LeanMadang,p.55
@@ -2219,6 +2439,9 @@ sori1242-1,Sori,sori1242,Sori-Harengan,sbh,Papunesia,-1.98384,146.642,Austronesi
 sori1242-2,Sori-Harengan (Harengan dialect),sori1242,Sori-Harengan,sbh,Papunesia,-1.98384,146.642,Austronesian,1 CSQ. Harengan Island.,Lean1985Vol02,p.46
 sori1242-3,Sori-Harengan (Sori dialect),sori1242,Sori-Harengan,sbh,Papunesia,-1.98384,146.642,Austronesian,1 CSQ. Village: Sori 1.,Lean1985Vol02,p.46
 sosk1235-1,Kwongai (Sawos),sosk1235,Sos Kundi,sdk,Papunesia,-3.99024,143.396,Ndu,,Laycock1971D27,p.3804
+sosk1235-2,Kwaruwi,sosk1235,Sos Kundi,sdk,Papunesia,-3.99024,143.396,Ndu,,Staalsen1975,p.14
+sota1242-1,Ngarna (Sota village),sota1242,Sota Kanum,krz,Papunesia,-8.40452,140.969,Yam,,Carroll2024,txt file downloaded on 23 October 2024
+sota1242-2,Nggarna (Sota village),sota1242,Sota Kanum,krz,Papunesia,-8.40452,140.969,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 sout2859-1,Southeast Ambrym,sout2859,Southeast Ambrym,tvk,Papunesia,-16.2975,168.211,Austronesian,,Parker1970,passim
 sout2866-1,South Marquesan - Hiva Oa,sout2866,South Marquesan,mqm,Papunesia,-9.75663,-138.979,Austronesian,,Charpentier2015,pp.1825-1843
 sout2866-2,South Marquesan - Fatu Hiva,sout2866,South Marquesan,mqm,Papunesia,-9.75663,-138.979,Austronesian,,Charpentier2015,pp.1825-1843
@@ -2233,6 +2456,12 @@ sout2912-1,Viracnon (Bikol),sout2912,Coastal-Virac Bikol,bln,Papunesia,13.6989,1
 sout2916-1,Canipaan Palawan,sout2916,Southwest Palawano,plv,Papunesia,8.67624,117.36,Austronesian,,Thiessen1980,pp.72-78
 sout2918-1,Sama Sitaŋkai,sout2918,Southern Sama,ssb,Papunesia,4.755836,119.483887,Austronesian,,Arnaud1998,pp.863-879 [word list item numbers]
 sout2920-1,Betsimisaraka du Sud,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian,,Ruud1955,pp.47-48
+sout2920-2,"Mòramànga, E. Cent.",sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian,,Sibree1897,pp.108-109
+sout2920-3,"Vàtomàndry, E. Co.",sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian,,Sibree1897,pp.108-109
+sout2920-4,"Tànimàndry, E. Co.",sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian,,Sibree1897,pp.108-109
+sout2920-5,"Màhanóro, E. Co.",sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian,,Sibree1897,pp.108-109
+sout2920-6,"Mahèla, E. Co.",sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian,,Sibree1897,pp.108-109
+sout2920-7,"Vóhipèno, S. E. Co.",sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian,,Sibree1897,pp.108-109
 sout2940-1,Kaôh,sout2940,South Muyu,kts,Papunesia,-6.01385,140.815,Nuclear Trans New Guinea,,Stokhof1982Vol5.1,pp.157-158
 sout2940-2,Kati,sout2940,South Muyu,kts,Papunesia,-6.01385,140.815,Nuclear Trans New Guinea,,Galis1955,p.168
 sout2941-1,Awju Sjiagha,sout2941,South Awyu,aws,Papunesia,-7.36301,139.538,Nuclear Trans New Guinea,,Galis1955,p.168
@@ -2249,6 +2478,7 @@ sout3241-1,Tidung Kalabakan,sout3241,Southern Tidung,itd,Papunesia,4,117.75,Aust
 sout3241-2,Tidung Malinau,sout3241,Southern Tidung,itd,Papunesia,4,117.75,Austronesian,,Lobel2016,pp.234-239
 sout3241-3,Tidung Mensalong,sout3241,Southern Tidung,itd,Papunesia,4,117.75,Austronesian,,Lobel2016,pp.234-239
 sowa1245-1,Waina,sowa1245,Sowanda,sow,Papunesia,-3.28373,140.92,Border,,Smits1994,pp.210-212
+sowa1245-2,Sowanda,sowa1245,Sowanda,sow,Papunesia,-3.28373,140.92,Border,,Seiler1985,p.213
 sril1245-1,Upcountry Sri Lanka Malay,sril1245,Sri Lanka Malay,sci,Eurasia,6.91603,79.864,Austronesian,,Nordhoff2009,p.242
 suab1238-1,Sámálèk,suab1238,Suabo,szp,Papunesia,-2.07971,132.157,Inanwatan,,Galis1955,p.136
 sude1239-1,Sud-Est,sude1239,Sudest,tgo,Papunesia,-11.5229,153.488,Austronesian,1 CSQ. Village: Nanhill (Griffin Point).,Lean1986Vol06,p.112
@@ -2263,6 +2493,7 @@ suen1241-2,Yema-Yarawe,suen1241,Suena,sue,Papunesia,-7.76339,147.534,Nuclear Tra
 suga1249-1,Suganga,suga1249,Suganga,sug,Papunesia,-4.5071,141.2,Nuclear Trans New Guinea,,Laycock1970D14,p.1906
 sugu1243-1,Dusun Talantang,sugu1243,Sugut Dusun,kzs,Papunesia,6.14235,117.176,Austronesian,,Lobel2016,pp.234-239
 suki1245-1,Suki,suki1245,Suki,sui,Papunesia,-8.04783,141.842,Suki-Gogodala,1 CSQ. Village: Aewe (Ewe).,Lean1986Vol12,p.36
+suki1245-2,Suki (Aewe village),suki1245,Suki,sui,Papunesia,-8.04783,141.842,Suki-Gogodala,,Carroll2024,txt file downloaded on 23 October 2024
 suku1264-1,Sukurum,suku1264,Sukurum,zsu,Papunesia,-6.28,146.34187,Austronesian,,Smith1988,p.67
 sula1248-1,Sula Fagudu,sula1248,Sula,szn,Papunesia,-2.30765,125.9656,Austronesian,,Stokhof1980Vol2,pp.77-78
 sula1248-2,Sula Mangoli,sula1248,Sula,szn,Papunesia,-2.30765,125.9656,Austronesian,,Stokhof1980Vol2,p.63
@@ -2339,6 +2570,7 @@ tang1355-4,Tangu (Duapmang village),tang1355,Tanggu,tgu,Papunesia,-4.4621,144.91
 tang1356-1,Tanguat,tang1356,Tanguat,tbs,Papunesia,-4.57282,144.927,Lower Sepik-Ramu,,Zgraggen1972,pp.215-219
 tann1242-1,"Tana (Tanna) [exact language unknown, but seems similar to kwam1252]",tann1242,Tanna,,,-19.5222075,169.3502575,Austronesian,,Codrington1885,"pp.221-223, 235, 239"
 tano1246-1,Tanosy,tano1246,Tanosy Malagasy,txy,Africa,-24.9186,47.1357,Austronesian,,Jully1901,passim
+tano1246-2,"Anòsibè, Bèlànona, S.E.",tano1246,Tanosy Malagasy,txy,Africa,-24.9186,47.1357,Austronesian,,Sibree1897,pp.108-109
 tape1242-1,Tapei (Awim village),tape1242,Tapei,afp,Papunesia,-4.77763,143.337,Arafundi,,Kassell2017,pp.52-53
 tape1242-2,Tapei (Imboin-Awim villages),tape1242,Tapei,afp,Papunesia,-4.77763,143.337,Arafundi,,Kassell2017,pp.52-53
 tarp1240-1,Sufrai,tarp1240,Tarpia,tpf,Papunesia,-2.322279,140.115497,Austronesian,,Galis1955,p.161
@@ -2352,12 +2584,16 @@ tauy1241-1,Tauya,tauy1241,Tauya,tya,Papunesia,-5.74255,145.366,Nuclear Trans New
 tauy1241-2,Tauya,tauy1241,Tauya,tya,Papunesia,-5.74255,145.366,Nuclear Trans New Guinea,,Zgraggen1980SouthernAdelbert,p.46
 tawa1275-1,Kehelala,tawa1275,Tawala,tbo,Papunesia,-10.3115,150.644,Austronesian,"11 CSQs. Villages: Rabae (2), Gwavili, Sikwala, Awaiama, Tuboda, Likaboga, Huhuna, East Cape, Waema, Nigila.",Lean1986Vol06,p.59
 tawa1275-2,Kehelala (Rabe village),tawa1275,Tawala,tbo,Papunesia,-10.3115,150.644,Austronesian,S.I.L word list (1975). Village Rabe.,Lean1986Vol06,p.59
+tawo1244-1,Airo (Dabra),tawo1244,Taworta,tbp,Papunesia,-3.43455,139.061,Lakes Plain,,Menanti2022,p.30
+tawo1244-2,Dasigo (Beigdari),tawo1244,Taworta,tbp,Papunesia,-3.43455,139.061,Lakes Plain,,Menanti2022,p.30
+tawo1244-3,Dibroud (Dabra),tawo1244,Taworta,tbp,Papunesia,-3.43455,139.061,Lakes Plain,,Menanti2022,p.30
 tayo1238-1,Tayo,tayo1238,Tayo,cks,Papunesia,-22.2277,166.546,Indo-European,,Ehrhart1993,pp.134-135
 tehi1237-1,Kaibus,tehi1237,Tehit,kps,Papunesia,-1.51049,131.985,West Bird's Head,,Galis1955,p.136
 tela1241-1,Tela-Masbuar,tela1241,Tela-Masbuar,tvm,Papunesia,-8.01195,129.687,Austronesian,,Taber1993,pp.418-419
 tele1256-1,Telefol,tele1256,Telefol,tlf,Papunesia,-5.07444,141.731,Nuclear Trans New Guinea,IMP/SIL Questionnaire (1978).,LeanSandaun,p.46
 tele1256-2,Telifomin,tele1256,Telefol,tlf,Papunesia,-5.07444,141.731,Nuclear Trans New Guinea,,Kirschbaum1938,p.279
 telu1263-1,Laimu (Taluti) Seram,telu1263,Teluti,tlt,Papunesia,-3.2969,129.663,Austronesian,,Stokhof1981Vol3.1,p.142
+temu1239-1,Temuan,temu1239,Temuan,tmw,Eurasia,2.78176,101.906,Austronesian,,Looi2018,passim
 teng1267-1,Kutai,teng1267,Tenggarong Kutai Malay,vkt,Papunesia,0.71803,117.645,Austronesian,,Suryadikara1984,passim
 teop1238-1,Teop,teop1238,Teop,tio,Papunesia,-5.67474,154.971,Austronesian,"6 CSQs. Villages: Teomahoe, Teop Island, Vainana, Petspets, Suangu.",Lean1985Vol03,p.37
 teop1238-2,Teop (from SIL word list),teop1238,Teop,tio,Papunesia,-5.67474,154.971,Austronesian,"Allen and Hurd, SIL Word List, (1963).",Lean1985Vol03,p.37
@@ -2450,7 +2686,11 @@ toto1304-2,Totoli,toto1304,Totoli,txe,Papunesia,1.14995,120.875,Austronesian,,Hi
 tour1243-1,Doura,tour1243,Toura (Papua New Guinea),don,Papunesia,-9.10008,146.988,Austronesian,1 CSQ. Village: Vekabu. ,LeanCentral,p.8
 towe1240-1,Towei,towe1240,Towei,ttn,Papunesia,-3.87428,140.803,Pauwasi,,Galis1960,p.147
 trim1239-1,Napuk (Bagusa) (Trimurus village),trim1239,Trimuris,tip,Papunesia,-2.15863,138.027,Greater Kwerba,,DeVries1985,"pp.1, 4"
+trin1271-1,Sembaan,trin1271,Tringgus-Sembaan Bidayuh,trx,Papunesia,1.4313,109.95,Austronesian,,Rensch2012,pp.313-396
+trin1271-2,Tringgus Raya,trin1271,Tringgus-Sembaan Bidayuh,trx,Papunesia,1.4313,109.95,Austronesian,,Rensch2012,pp.313-396
+trin1271-3,Tringgus Bireng,trin1271,Tringgus-Sembaan Bidayuh,trx,Papunesia,1.4313,109.95,Austronesian,,Rensch2012,pp.313-396
 trin1273-1,Balait,trin1273,Tring,tgq,Papunesia,1.335,110.036,Austronesian,,Ray1913,"pp.60, 62"
+tsim1257-1,"Màhamànina, S. E.",tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian,,Sibree1897,pp.108-109
 tuam1242-1,Pa’umotu - Takaroa/Takapoto,tuam1242,Tuamotuan,pmt,Papunesia,-16.17259,-146.321755,Austronesian,,Charpentier2015,pp.1825-1843
 tuam1242-2,Pa’umotu - Napuka,tuam1242,Tuamotuan,pmt,Papunesia,-16.17259,-146.321755,Austronesian,,Charpentier2015,pp.1825-1843
 tuam1242-3,Pa’umotu - Fangatau,tuam1242,Tuamotuan,pmt,Papunesia,-16.17259,-146.321755,Austronesian,,Charpentier2015,pp.1825-1843
@@ -2489,6 +2729,7 @@ ulau1237-3,Ulau-Suain,ulau1237,Ulau-Suain,svb,Papunesia,-3.32876,142.845,Austron
 ulau1237-4,Ulau-Sueng,ulau1237,Ulau-Suain,svb,Papunesia,-3.32876,142.845,Austronesian,,Ray1919,p.328
 ulum1237-1,Botteng,ulum1237,Ulumanda',ulm,Papunesia,-3.00933,118.994,Austronesian,,Grimes1987,pp.128-134
 ulum1237-2,Tappalang,ulum1237,Ulumanda',ulm,Papunesia,-3.00933,118.994,Austronesian,,Grimes1987,pp.128-134
+umal1238-1,Òma Lóngh,umal1238,Uma' Lung,ulu,Papunesia,3.25,116.5,Austronesian,,Soriente2006,pp.107-157
 umal1239-1,Kinjin,umal1239,Uma' Lasan,xky,Papunesia,2.14141,114.205,Austronesian,,Ray1913,"pp.60, 62"
 umal1239-2,Lepu Sawa,umal1239,Uma' Lasan,xky,Papunesia,2.14141,114.205,Austronesian,,Ray1913,"pp.60, 62"
 umal1239-3,Long Aki,umal1239,Uma' Lasan,xky,Papunesia,2.14141,114.205,Austronesian,,Ray1913,"pp.60, 62"
@@ -2497,11 +2738,17 @@ umal1239-5,Malang,umal1239,Uma' Lasan,xky,Papunesia,2.14141,114.205,Austronesian
 uman1240-1,Gwedena,uman1240,Umanakaina,gdn,Papunesia,-9.89671,149.658,Dagan,"2 CSQs. Villages: Ikara, Bonenepi.",Lean1986Vol06,p.23
 uman1240-2,Gwedena (Nubunubu village),uman1240,Umanakaina,gdn,Papunesia,-9.89671,149.658,Dagan,S.I.L word list (1973). Village: Nubunubu.,Lean1986Vol06,p.23
 umbu1258-1,Hagen (Gawigl (Kaugel) dialect),umbu1258,Umbu-Ungu,ubu,Papunesia,-5.9513,143.97,Nuclear Trans New Guinea,27 CSQs. Villages within Tambul Sub-Province and Ialibu Sub-Province.,Lean1986Vol09,p.47
+umed1238-1,Punda,umed1238,Umeda-Punda,upi,Papunesia,-3.34565,141.157,Border,,Seiler1985,p.213
 unaa1239-1,Oranjegebergte,unaa1239,Una,mtg,Papunesia,-4.69676,140.1,Nuclear Trans New Guinea,,Galis1955,p.167
+unde1235-1,Banava,unde1235,Unde Kaili,unz,Papunesia,-0.85876,119.673,Austronesian,,Barr1979,p.93
 unea1237-1,Bali-Vitu (‘Unea’),unea1237,Uneapa,bbn,Papunesia,-4.89383,149.141,Austronesian,"1 IMP, 4 CSQs. Villages: Tamangone, Penata Ketinerave, Kumburi, Malangae, Makiri.",Lean1985Vol04,p.82
 unea1237-2,Bali,unea1237,Uneapa,bbn,Papunesia,-4.89383,149.141,Austronesian,,Johnston1980,p.118
+unii1234-1,Uni 1,unii1234,Uni,uni,Papunesia,-3.09369,142.027703,Sko,,Miller2017,p.19
+unii1234-2,Uni 2,unii1234,Uni,uni,Papunesia,-3.09369,142.027703,Sko,,Miller2017,p.19
+unse1236-1,Rabaul Creole German (Unserdeutsch),unse1236,Unserdeutsch,uln,Papunesia,-4.19566,152.183,Indo-European,,Volker1983,"pp.19, 39, 45, 58, 59"
 unub1234-1,Unubahe,unub1234,Unubahe,unu,Papunesia,-10.3652,150.2683,Austronesian,,Rueck,p.9
 uppe1427-1,Sungai Kuamut,uppe1427,Upper Kinabatangan,dmg,Papunesia,5.31911,116.901,Austronesian,,Lobel2016,pp.234-239
+uppe1430-1,Upper Pyramid,uppe1430,Upper Grand Valley Dani,dna,Papunesia,-3.94368,138.901,Nuclear Trans New Guinea,,Bromley1967,pp.306-307
 urap1240-1,Baining (Uramot dialect),urap1240,Ura (Papua New Guinea),uro,Papunesia,-4.64226,151.953,Baining,"SIL Word List, 1975. Village: Gaulim.",Lean1985Vol04,p.31
 urat1244-1,Urat,urat1244,Urat,urt,Papunesia,-3.60065,142.79,Nuclear Torricelli,,Laycock1967C04,p.59
 urat1244-2,Urat (from CSQ),urat1244,Urat,urt,Papunesia,-3.60065,142.79,Nuclear Torricelli,1 CSQ. Village: Tumam.,LeanEastSepik,p.2
@@ -2548,6 +2795,7 @@ vito1235-2,Takar,vito1235,Vitou,vto,Papunesia,-2.1111,139.1098,Tor-Orya,,Ray1912
 vure1239-1,"Vanua Lava, Vureas (Vuras)",vure1239,Vurës,msn,Papunesia,-13.905677,167.451412,Austronesian,,Codrington1885,"pp.235, 349"
 wabb1237-1,Wab (Wab village),wabb1237,Wab,wab,Papunesia,-5.61216,146.461,Austronesian,,Lincoln1976,pp.2-5
 wabo1240-1,Wabo,wabo1240,Wabo,wbb,Papunesia,-1.77297,136.757,Austronesian,,Galis1955,p.141
+wabo1240-2,Wabo,wabo1240,Wabo,wbb,Papunesia,-1.77297,136.757,Austronesian,,Anceaux1961,pp.72-76
 wabo1241-1,Wabuda,wabo1241,Waboda,kmx,Papunesia,-8.41651,143.501,Kiwaian,SIL Word List (1975). Village: Maipani.,Lean1986Vol12,p.88
 wada1263-1,Wadaginam,wada1263,Wadaginam,wdg,Papunesia,-4.52754,144.972,Nuclear Trans New Guinea,,Zgraggen1980SouthernAdelbert,p.46
 waer1237-1,Mbaen,waer1237,Kolor,wrx,Papunesia,-8.78645,120.70299,Austronesian,,Antonius1994,pp.28-29
@@ -2559,15 +2807,19 @@ wagi1249-1,Kamba,wagi1249,Wagi (Papua New Guinea),fad,Papunesia,-5.17834,145.726
 wagi1249-2,Mis,wagi1249,Wagi (Papua New Guinea),fad,Papunesia,-5.17834,145.726,Nuclear Trans New Guinea,,Ray1919,p.330
 wagi1249-3,Kamba,wagi1249,Wagi (Papua New Guinea),fad,Papunesia,-5.17834,145.726,Nuclear Trans New Guinea,,Zgraggen1980Mabuso,p.92
 waha1238-1,Uma’ Pawe,waha1238,Eastern Lowland Kenyah,whk,Papunesia,1.56635,116.655,Austronesian,,Smith2015,pp.351-353
+waha1238-2,Lebu’ Kulit,waha1238,Eastern Lowland Kenyah,whk,Papunesia,1.56635,116.655,Austronesian,,Soriente2006,pp.273-312
 waig1244-1,Ambel,waig1244,Waigeo,wgo,Papunesia,-0.17957,130.917,Austronesian,,Remijsen2001,"pp.147, 152"
 waig1244-2,Ambèr,waig1244,Waigeo,wgo,Papunesia,-0.17957,130.917,Austronesian,,Galis1955,p.138
 waig1244-3,Amber,waig1244,Waigeo,wgo,Papunesia,-0.17957,130.917,Austronesian,,Grace1956pdf34,p.8 [of pdf]
+waig1244-4,Amber van Worem,waig1244,Waigeo,wgo,Papunesia,-0.17957,130.917,Austronesian,,Cowan1953,p.44
+waig1244-5,Amber van Noord-Waigeo,waig1244,Waigeo,wgo,Papunesia,-0.17957,130.917,Austronesian,,Cowan1953,p.44
 waim1251-1,Roro,waim1251,Waima,rro,Papunesia,-8.67145,146.544,Austronesian,20 CSQ. Village lying in four dialect areas.,Lean1986Vol07,p.22
 waim1251-2,Yule Island,waim1251,Waima,rro,Papunesia,-8.67145,146.544,Austronesian,,Codrington1885,p.225
 waio1238-1,Waioli,waio1238,Waioli,wli,Papunesia,1.2341,127.494,North Halmahera,,Fortgens1905,p.34
 wakd1237-1,Kumamba,wakd1237,Wakde,wkd,Papunesia,-1.98457,139.008,Austronesian,,Ray1912,pp.340-341
 wakd1237-2,Sobei-groep Wakde,wakd1237,Wakde,wkd,Papunesia,-1.98457,139.008,Austronesian,,Galis1955,p.142
 wakd1237-3,moar I. (wakdé),wakd1237,Wakde,wkd,Papunesia,-1.98457,139.008,Austronesian,,Grace1955pdf23,p.13 [of pdf]
+wala1269-1,Pyramid-Wodo,wala1269,Walak,wlw,Papunesia,-3.8238,138.84,Nuclear Trans New Guinea,,Bromley1967,pp.306-307
 wama1247-1,Wamas,wama1247,Wamas,wmc,Papunesia,-4.97757,145.541,Nuclear Trans New Guinea,,Zgraggen1980Mabuso,p.92
 wamb1259-1,Upper Uwimerah,wamb1259,Wambon,wms,Papunesia,-5.44334,140.48,Nuclear Trans New Guinea,,Stokhof1982Vol5.1,p.120
 wamp1247-1,Wampar,wamp1247,Wampar,lbq,Papunesia,-6.67364,146.662,Austronesian,,Smith1988,pp.68-69
@@ -2582,24 +2834,36 @@ wana1269-1,Wanambre,wana1269,Mokati,wnb,Papunesia,-4.78822,145.419,Nuclear Trans
 wana1273-1,Jelmek,wana1273,Wanam Yelmek,,Papunesia,-7.451,139.108,Bulaka River,,Galis1955,p.168
 wana1273-2,Wanam,wana1273,Wanam Yelmek,,Papunesia,-7.451,139.108,Bulaka River,,Gregor2021,p.27
 wana1273-3,Yelmek,wana1273,Wanam Yelmek,,Papunesia,-7.451,139.108,Bulaka River,,Gregor2021,pp.91-92
+wana1273-4,"Yelmek, from Drabbe (1954)",wana1273,Wanam Yelmek,,Papunesia,-7.451,139.108,Bulaka River,,Carroll2024,txt file downloaded on 23 October 2024
+wana1273-5,Yelmek (Wanam village),wana1273,Wanam Yelmek,,Papunesia,-7.451,139.108,Bulaka River,,Carroll2024,txt file downloaded on 23 October 2024
 wand1267-1,Wandáma,wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian,,Galis1955,p.140
+wand1267-10,Wandamens,wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian,,Cowan1953,"pp.23, 28"
+wand1267-11,Wamessa,wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian,,Cowan1953,p.28
+wand1267-12,Wandamen,wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian,,Anceaux1961,pp.72-76
 wand1267-2,Wandammen,wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian,,Ray1912,pp.340-341
 wand1267-3,Wandesi <Windesi>,wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian,,Stokhof1982Vol5.1,p.57
 wand1267-4,Wendèsi,wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian,,Galis1955,p.140
 wand1267-5,Windesi (N. New Guinea),wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian,,Stokhof1982Vol5.1,pp.74-75
 wand1267-6,Wamesa,wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian,,Grace1956pdf27,p.9 [of pdf]
 wand1267-7,wandamen - yakati (village),wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian,,Grace1955pdf50,p.55 [of pdf]
+wand1267-8,Bintuni,wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian,,Cowan1953,p.23
+wand1267-9,Windesisch,wand1267,Wandamen,wad,Papunesia,-2.25622,133.996,Austronesian,,Cowan1953,"pp.23, 28"
 want1252-1,Bam,want1252,Wantoat,wnc,Papunesia,-6.15216,146.513,Nuclear Trans New Guinea,,Smith1988,p.93
 want1252-2,Wantoat,want1252,Wantoat,wnc,Papunesia,-6.15216,146.513,Nuclear Trans New Guinea,,Smith1988,pp.93-94
 want1252-3,Wantoat (from IMP/SIL),want1252,Wantoat,wnc,Papunesia,-6.15216,146.513,Nuclear Trans New Guinea,IMP/SIL Questionnaire (1978).,LeanMorobe,p.83
 want1252-4,Wantoat (Matap village),want1252,Wantoat,wnc,Papunesia,-6.15216,146.513,Nuclear Trans New Guinea,1 CSQ. Village: Matap.,LeanMorobe,p.83
 want1252-5,Yagawak,want1252,Wantoat,wnc,Papunesia,-6.15216,146.513,Nuclear Trans New Guinea,,Smith1988,p.94
 wara1294-1,Bangu,wara1294,Anta-Komnzo-Wára-Wérè-Kémä,tci,Papunesia,-8.64917,141.52,Yam,,Ray1912,pp.340-341
-wara1294-2,Komnzo,wara1294,Anta-Komnzo-Wára-Wérè-Kémä,tci,Papunesia,-8.64917,141.52,Yam,,Doehler2018,p.94
+wara1294-2,Komnzo (ritualised),wara1294,Anta-Komnzo-Wára-Wérè-Kémä,tci,Papunesia,-8.64917,141.52,Yam,,Doehler2018,p.94
+wara1294-3,Komnzo (restricted),wara1294,Anta-Komnzo-Wára-Wérè-Kémä,tci,Papunesia,-8.64917,141.52,Yam,,Doehler2018,p.94
+wara1294-4,Kema (Wäménefér village),wara1294,Anta-Komnzo-Wára-Wérè-Kémä,tci,Papunesia,-8.64917,141.52,Yam,,Carroll2024,txt file downloaded on 23 October 2024
+wara1294-5,Komnzo (Masu village),wara1294,Anta-Komnzo-Wára-Wérè-Kémä,tci,Papunesia,-8.64917,141.52,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 wara1299-1,Bicolano - Bulan,wara1299,Waray Sorsogon,srv,Papunesia,12.6795,124.015,Austronesian,,Nickell1978,pp.3-7
 wara1302-1,Sumo,wara1302,Bauni,bpe,Papunesia,-3.07263,142.012,Sko,,Laycock1970D02,p.193
 wara1302-2,Warapu,wara1302,Bauni,bpe,Papunesia,-3.07263,142.012,Sko,3 CSQs. Village: Warapu.,LeanSandaun,p.6
 wara1302-3,Warapu,wara1302,Bauni,bpe,Papunesia,-3.07263,142.012,Sko,,Laycock1970D01,p.94
+wara1302-4,Bauni 1 (in Pou),wara1302,Bauni,bpe,Papunesia,-3.07263,142.012,Sko,,Miller2017,p.19
+wara1302-5,Bauni (in Barapu),wara1302,Bauni,bpe,Papunesia,-3.07263,142.012,Sko,,Miller2017,p.19
 ware1253-1,Warembori,ware1253,Warembori,wsa,Papunesia,-1.65941,137.566,Austronesian,,Galis1955,p.142
 ware1253-2,Warembori,ware1253,Warembori,wsa,Papunesia,-1.65941,137.566,Austronesian,,Donohue1999,p.53
 wari1266-1,Tami-groep Ampas,wari1266,Waris,wrs,Papunesia,-3.139,140.931,Border,,Galis1955,p.163
@@ -2607,11 +2871,14 @@ wari1266-2,Tami-groep Waris,wari1266,Waris,wrs,Papunesia,-3.139,140.931,Border,,
 wari1266-3,Waris,wari1266,Waris,wrs,Papunesia,-3.139,140.931,Border,,Laycock1970D12,p.1628
 wari1266-4,Waris (from IMP/SIL),wari1266,Waris,wrs,Papunesia,-3.139,140.931,Border,IMP/SIL Questionnaire (1978).,LeanSandaun,p.17
 wari1266-5,Waris (from SIL word list),wari1266,Waris,wrs,Papunesia,-3.139,140.931,Border,SIL Word List (1980).,LeanSandaun,p.17
+wari1266-6,Waris,wari1266,Waris,wrs,Papunesia,-3.139,140.931,Border,,Seiler1985,p.213
+wark1247-1,Warkaj,wark1247,Warkay-Bipim,bgv,Papunesia,-5.7716,138.638,Anim,,Voorhoeve1971,pp.112-113
 waro1242-1,Waropen,waro1242,Waropen,wrp,Papunesia,-2.31142,136.633,Austronesian,,Galis1955,p.140
 waro1242-2,Waropen Coast,waro1242,Waropen,wrp,Papunesia,-2.31142,136.633,Austronesian,,Stokhof1982Vol5.1,p.85
 waro1242-3,Waropen: village Góti <Sóti?>,waro1242,Waropen,wrp,Papunesia,-2.31142,136.633,Austronesian,,Stokhof1982Vol5.1,pp.96-97
 waro1242-4,Waropin,waro1242,Waropen,wrp,Papunesia,-2.31142,136.633,Austronesian,,Ray1912,pp.340-341
 waro1242-5,varopen [waropen] (Wonti village),waro1242,Waropen,wrp,Papunesia,-2.31142,136.633,Austronesian,,Grace1955pdf20,p.9
+waro1242-6,Waropen,waro1242,Waropen,wrp,Papunesia,-2.31142,136.633,Austronesian,,Anceaux1961,pp.72-76
 waru1267-1,Waruna,waru1267,Waruna,wrv,Papunesia,-8.23565,142.47,Suki-Gogodala,,Ray1923,p.345
 wase1252-1,Wasembo,wase1252,Wasembo,gsp,Papunesia,-6.01318,145.969,Nuclear Trans New Guinea,,Smith1988,p.98
 wask1241-1,Waskia (from CSQs),wask1241,Waskia,wsk,Papunesia,-4.57978,145.979,Nuclear Trans New Guinea,"5 CSQs. Villages: Kaul, Langlang, Kuburne, Kaviak, Bangame.",LeanMadang,p.24
@@ -2635,6 +2902,7 @@ weli1239-1,Weliki,weli1239,Weliki,klh,Papunesia,-5.98588,147.137,Nuclear Trans N
 weri1253-1,Weri,weri1253,Weri,wer,Papunesia,-7.71834,146.914,Goilalan,,Smith1988,pp.103-104
 weri1253-2,Weri (from IMP/SIL),weri1253,Weri,wer,Papunesia,-7.71834,146.914,Goilalan,IMP/SIL (1978).,LeanMorobe,p.67
 weri1253-3,Weri (Waria dialect),weri1253,Weri,wer,Papunesia,-7.71834,146.914,Goilalan,1 CSQ. Waria dialect.,LeanMorobe,pp.67-68
+west2535-1,Iblatmunta,west2535,West Masela,mss,Papunesia,-8.1804,129.833,Austronesian,,vanDijk2021,pp.158-167
 west2548-1,West Damar,west2548,West Damar,drn,Papunesia,-7.12065,128.585,Austronesian,,Taber1993,pp.418-419
 west2557-1,Western Subanen,west2557,Western Subanon,suc,Papunesia,7.79964,122.341,Austronesian,,Hapalla1992,"pp.56, 58"
 west2557-2,Western Subanon,west2557,Western Subanon,suc,Papunesia,7.79964,122.341,Austronesian,,Lobel2013,pp.319-356
@@ -2648,6 +2916,7 @@ west2594-3,Ndani-groep Ibele,west2594,Western Dani,dnw,Papunesia,-3.77127,138.21
 west2594-4,Ndani-groep Ndani,west2594,Western Dani,dnw,Papunesia,-3.77127,138.217,Nuclear Trans New Guinea,,Galis1955,p.165
 west2594-5,Ndani-groep Timorini,west2594,Western Dani,dnw,Papunesia,-3.77127,138.217,Nuclear Trans New Guinea,,Galis1955,p.165
 west2594-6,Timorini (Swart Valley),west2594,Western Dani,dnw,Papunesia,-3.77127,138.217,Nuclear Trans New Guinea,,Stokhof1983Vol5.2,p.210
+west2594-7,Pyramid Western Dani (taken from Bromley 1961: 305-306),west2594,Western Dani,dnw,Papunesia,-3.77127,138.217,Nuclear Trans New Guinea,,Fahner1979,p.157
 west2599-1,Kewa (Western dialect),west2599,West Kewa,kew,Papunesia,-6.32097,143.73,Nuclear Trans New Guinea,,Franklin1968,p.32
 west2600-1,Bobawa,west2600,West Makian,mqs,Papunesia,0.45332,127.63,North Halmahera,,Teljeur1982,pp.145-146
 west2600-2,Malapa,west2600,West Makian,mqs,Papunesia,0.45332,127.63,North Halmahera,,Teljeur1982,pp.145-146
@@ -2663,12 +2932,14 @@ wipi1242-1,Gidra,wipi1242,Wipi,gdr,Papunesia,-8.79741,143.064,Eastern Trans-Fly,
 wipi1242-2,Jibu,wipi1242,Wipi,gdr,Papunesia,-8.79741,143.064,Eastern Trans-Fly,,Ray1912,pp.340-341
 wiru1244-1,Wiru (4-cycle system),wiru1244,Wiru,wiu,Papunesia,-6.35863,144.214,Wiru,7 CSQs. (Villages in Pangia Sub-Province).,Lean1986Vol10,p.49
 wiru1244-2,Wiru (body-part tally-system),wiru1244,Wiru,wiu,Papunesia,-6.35863,144.214,Wiru,7 CSQs. (Villages in Pangia Sub-Province).,Lean1986Vol10,p.49
+woga1249-1,Wogamusin,woga1249,Wogamusin,wog,Papunesia,-4.22936,142.401,Sepik,,Laycock1968,p.63
 woge1237-1,Keule,woge1237,Wogeo,woc,Papunesia,-3.20238,144.089,Austronesian,,Ray1919,p.328
 woge1237-2,Wogeo,woge1237,Wogeo,woc,Papunesia,-3.20238,144.089,Austronesian,,Laycock1976,p.416
 woge1237-3,Wogeo,woge1237,Wogeo,woc,Papunesia,-3.20238,144.089,Austronesian,,Ray1919,p.328
 woge1237-4,Wogeo (Koil Island),woge1237,Wogeo,woc,Papunesia,-3.20238,144.089,Austronesian,1 CSQ. Koil Island.,LeanEastSepik,p.54
 woge1237-5,Wogeo (Vokeo Island),woge1237,Wogeo,woc,Papunesia,-3.20238,144.089,Austronesian,2 CSQs. Vokeo Island.,LeanEastSepik,p.54
 woge1237-6,Wogeo (wogeva),woge1237,Wogeo,woc,Papunesia,-3.20238,144.089,Austronesian,,Grace1955pdf43,p.56
+woii1237-1,Woi,woii1237,Woi,wbw,Papunesia,-1.62746,135.484,Austronesian,,Anceaux1961,pp.72-76
 wola1243-1,Wolani,wola1243,Wolani,wod,Papunesia,-3.41642,136.703,Nuclear Trans New Guinea,,Galis1955,p.165
 woli1241-1,The island of Buton,woli1241,Wolio,wlo,Papunesia,-5.33,122.67,Austronesian,,Stokhof1985Vol7.4,p.138
 woli1241-2,"Wolio, (the island of) Buton",woli1241,Wolio,wlo,Papunesia,-5.33,122.67,Austronesian,,Stokhof1985Vol7.4,p.157
@@ -2702,6 +2973,7 @@ yagw1240-1,Yagwoia,yagw1240,Yagwoia,ygw,Papunesia,-7.14042,145.854,Angan,,Smith1
 yaha1247-1,Yahang,yaha1247,Yahang,rhp,Papunesia,-3.73035,142.4,Nuclear Torricelli,2 CSQs. Village: Namblo.,LeanSandaun,p.36
 yaha1247-2,Yahang,yaha1247,Yahang,rhp,Papunesia,-3.73035,142.4,Nuclear Torricelli,,Laycock1967C11,p.11
 yaha1248-1,Neriga,yaha1248,Yahadian,ner,Papunesia,-1.94317,132.096,Konda-Yahadian,,Galis1955,p.137
+yaha1248-2,Jahadian,yaha1248,Yahadian,ner,Papunesia,-1.94317,132.096,Konda-Yahadian,,Cowan1953,p.18
 yaka1275-1,Yakaikeke - Diruna village,yaka1275,Yakaikeke,ykk,Papunesia,-10.0852,149.982,Austronesian,,Budita1997,"pp.7, 18 [of pdf]"
 yala1266-1,Lima (Atamano): Seram,yala1266,Yalahatan-Haruru-Awaiya,jal,Papunesia,-3.3619,129.315,Austronesian,,Stokhof1981Vol3.2,pp.63-64
 yale1246-1,Nagatiman,yale1246,Yale,nce,Papunesia,-3.79762,141.566,Yale,,Conrad1975,pp.26-29
@@ -2736,12 +3008,14 @@ yaum1237-1,Yau [Morobe],yaum1237,Yau-Nungon,yuw,Papunesia,-6.08274,146.841,Nucle
 yaur1239-1,Jaur,yaur1239,Yaur,jau,Papunesia,-3.32519,134.879,Austronesian,,Ray1912,pp.340-341
 yaur1239-2,Jaur,yaur1239,Yaur,jau,Papunesia,-3.32519,134.879,Austronesian,,Galis1955,p.141
 yaur1239-3,Yaur A (Irian Jaya),yaur1239,Yaur,jau,Papunesia,-3.32519,134.879,Austronesian,,Stokhof1987Vol11,p.204
+yaur1239-4,Jaur,yaur1239,Yaur,jau,Papunesia,-3.32519,134.879,Austronesian,,Cowan1953,p.5
 yaus1235-1,Yau [West Sepik],yaus1235,Yau (Sandaun Province),yyu,Papunesia,-3.52064,142.04228,Nuclear Torricelli,,Laycock1967C02,p.50
 yawe1241-1,Yabiyufa,yawe1241,Yaweyuha,yby,Papunesia,-6.1868,145.359,Nuclear Trans New Guinea,,Scott1978,"pp.181, 182, 188, 193, 194"
 yawe1241-2,Yabiyufa,yawe1241,Yaweyuha,yby,Papunesia,-6.1868,145.359,Nuclear Trans New Guinea,"3 CSQs. Villages: Wasaro, Keiya, Yabiyufa.",Lean1986Vol08,p.21
 yawe1241-3,Yabiyufa (Masumave village),yawe1241,Yaweyuha,yby,Papunesia,-6.1868,145.359,Nuclear Trans New Guinea,S.I.L word list (1965). Village: Masumave.,Lean1986Vol08,p.21
 yawi1238-1,Wosawari,yawi1238,Yawiyo,ybx,Papunesia,-4.58133,142.112,Walioic,,Conrad1975,pp.26-29
 yeii1239-1,Jéi,yeii1239,Yei,jei,Papunesia,-7.87489,140.863,Yam,,Galis1955,p.167
+yeii1239-2,Yei (Po village),yeii1239,Yei,jei,Papunesia,-7.87489,140.863,Yam,,Carroll2024,txt file downloaded on 23 October 2024
 yeko1240-1,Yekora,yeko1240,Yekora,ykr,Papunesia,-7.86248,147.463,Nuclear Trans New Guinea,1 CSQ. Village: Sapa.,LeanMorobe,p.72
 yeko1240-2,Yekora,yeko1240,Yekora,ykr,Papunesia,-7.86248,147.463,Nuclear Trans New Guinea,,Smith1988,pp.105-106
 yele1255-1,Rossel Island: Kwai,yele1255,Yele,yle,Papunesia,-11.3796,154.127,Yele,,Ray1938EasternLouisiade,p.378
@@ -2762,10 +3036,12 @@ yess1239-1,Kaiserin Augusta River (1),yess1239,Yessan-Mayo,yss,Papunesia,-4.1572
 yess1239-2,Mayo (Yessan-Mayo dialect),yess1239,Yessan-Mayo,yss,Papunesia,-4.15721,142.574,Sepik,"IMP/SIL Questionnaire (1978). Yessan-Mayo d. (Also: Foreman (1974, pp.84-6).",LeanEastSepik,p.9
 yetf1238-1,Biksi,yetf1238,Yetfa,yet,Papunesia,-4.05884,140.653,Yetfa,,Laycock1970D15,p.2044
 yetf1238-2,Biksi,yetf1238,Yetfa,yet,Papunesia,-4.05884,140.653,Yetfa,,Conrad1975,pp.26-29
+yila1234-1,Vernacular Atayalic Japanese,yila1234,Vernacular Atayalic Japanese,ycr,Papunesia,24.381274,121.574283,Japonic,,Tan2023,pp.383-384
 yill1241-1,Yil,yill1241,Yil,yll,Papunesia,-3.46501,142.178,Nuclear Torricelli,,Laycock1967C05,p.31
 yima1243-1,Yimas,yima1243,Yimas,yee,Papunesia,-4.71731,143.572,Lower Sepik-Ramu,,Laycock1971D21,p.3012
 yima1244-1,Yimas-Arafundi Pidgin,yima1244,Yimas-Arafundi-Pidgin,,Papunesia,-4.883724,143.673827,Pidgin,,Foley2013,p.107
 yiss1240-1,Yis,yiss1240,Yis,yis,Papunesia,-3.57371,141.88,Nuclear Torricelli,,Laycock1967C05,p.13
+yoba1237-1,Yoba,yoba1237,Yoba,yob,Papunesia,-10.2167,149.283,Austronesian,,Dutton1976,p.600
 yoid1240-1,Yoidik,yoid1240,Yoidik,ydk,Papunesia,-4.94044,145.758,Nuclear Trans New Guinea,,Zgraggen1980Mabuso,p.92
 yong1280-1,Yonggom,yong1280,Yonggom,yon,Papunesia,-6.42956,141.213,Nuclear Trans New Guinea,"3 CSQs. Villages: Dome (2), Komokbin.",Lean1986Vol12,p.24
 yopn1238-1,Isan,yopn1238,Yopno,yut,Papunesia,-5.94085,146.661,Nuclear Trans New Guinea,1 CSQ. Village: Isan.,LeanMadang,pp.84-85
