@@ -1,19 +1,19 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Barlow, Russell (ed.). 2024. Numerals of the Pacific: A collection of numeral terms in Austronesian and Papuan languages.",
+    "dc:bibliographicCitation": "Barlow, Russell (ed.). 2025. Numerals of the Pacific: A collection of numeral terms in Austronesian and Papuan languages.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Barlow's \"Numerals of the Pacific\" from 2024",
+    "dc:title": "CLDF dataset derived from Barlow's \"Numerals of the Pacific\" from 2025",
     "dcat:accessURL": "https://github.com/numeralbank/barlowpacific",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/numeralbank/barlowpacific",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.6-128-gd9ff71c",
+            "dc:created": "v1.6-131-ge3549fd",
             "dc:title": "Repository"
         },
         {
