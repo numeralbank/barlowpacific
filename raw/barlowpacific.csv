@@ -1939,6 +1939,62 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,rorombosisa,,FALSE,Garde2015,p.129,,apma1240,Apma (spirit-being numerals) [from Gray (2013:92)],apma1240-1
 9,seselua,,FALSE,Garde2015,p.129,,apma1240,Apma (spirit-being numerals) [from Gray (2013:92)],apma1240-1
 10,bwalu,,FALSE,Garde2015,p.129,,apma1240,Apma (spirit-being numerals) [from Gray (2013:92)],apma1240-1
+1,bwaleh,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+2,kairi,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+3,kaitil,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+4,kaivas,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+5,kailim,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+6,lapwaleh,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+6,[te]lapwaleh,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+7,laviri,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+7,[te]laviri,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+8,laptil,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+8,[te]laptil,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+9,lavas,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+9,[te]lavas,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+10,sangwul,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+10,[te]sangwul,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
+1,bwaleh,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+2,karu,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+3,katsil,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+4,kavet,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+5,kalim,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+6,[te]lapwaleh,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+7,[te]laviru,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+8,[te]laptsil,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+9,[te]lapet,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+10,[te]sangwul,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+11,[te]sangwul vepnan bwaleh,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+12,[te]sangwul vepnan karu,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+20,ngawul karu,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+20,ngawul katsil,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+42,ngawul kavet vepnan karu,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+75,ngawul telaviru vepnan kalim,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+100,ngawul [te]sangwul,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+100,[te]wudelu [va bwaleh],old,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+200,[te]wudelu va karu,old,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+1000,[te]vataa [va bwaleh],old,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+2000,[te]vataa va karu,old,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
+1,bwaleh,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
+2,karu,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
+3,katsil,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
+4,kavet,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
+5,kalim,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
+6,[te]lapwaleh,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
+7,[te]laviru,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
+8,[te]laptsil,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
+9,[te]lapet,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
+10,[te]sangwul,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
+1,gonaleha,"A typical set of devils’ numbers, recalled by an elderly Apma speaker",FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
+2,gonarua,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
+3,gonatsila,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
+4,gonaveta,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
+5,gonalima,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
+6,lowangga,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
+7,dulambana,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
+8,rorombosisa,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
+9,seselua,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
+10,bwalutem,"Old people in some areas of Pentecost remember sequences of ‘devils’ numbers’ that are very different from the ordinary numbers. In the old days, it is claimed, people working in their gardens would hear devils in the bushes counting to their children using these numbers. Some sets of devils’ numbers are attributed to specific mythological figures. The numbers often have an archaic sound to them, although it is unlikely that they simply represent an older form of numbering.",FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
 1,wa,(indefinite marker?),FALSE,Barlow2021,p.87,,apma1241,Ap Ma (Yamen village),apma1241-1
 1,mba,,FALSE,Barlow2021,p.87,,apma1241,Ap Ma (Yamen village),apma1241-1
 1,mboa,(< mba-wa ‘a/one one’?),FALSE,Barlow2021,p.87,,apma1241,Ap Ma (Yamen village),apma1241-1
@@ -4876,6 +4932,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1000,[wan] taosen,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
 1972,wan taosen naen antret seventi tu,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
 200000,tu antret taosen,,FALSE,Guy1975,pp.26-27,,bisl1239,Bichelamar,bisl1239-1
+1,wan,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
+2,tu,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
+3,tri,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
+4,fo,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
+5,faef,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
+6,sikis,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
+7,seven,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
+8,eit,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
+9,naen,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
+10,ten,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
 1,habila,PE *menda,FALSE,Franklin2012,p.51,,biso1243,Bisorio,biso1243-1
 1,hanana,PE *menda,FALSE,Franklin2012,p.51,,biso1243,Bisorio,biso1243-1
 2,labo,PE *lyambo,FALSE,Franklin2012,p.51,,biso1243,Bisorio,biso1243-1
@@ -11205,6 +11271,50 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 120,"vudolua vatuwa, vena ŋavul gairua","[<navul>, with <n> in italics]; The unit above [hundred is] vena; ve is probably a Noun, the pile above, vena its pile above",FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
 1000,tari,,FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
 1000,vudolua vasaŋvul,"[<vasanvul>, with <n> in italics]; Beyond this sum is vudolua vasaŋvul [vasanvul, with <n> in italics] tamleŋ [<tamlen>, with <n> in italics] ten times hundred to confusion.",FALSE,Codrington1885,"pp.232-233, 236, 440",,hano1246,"Pentecost or Whitsuntide, Arag",hano1246-1
+1,haituv,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
+2,hairu,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
+3,haitol,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
+4,haivat,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
+5,hailim,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
+6,haion,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
+7,haibit,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
+8,haivwel,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
+9,haisiv,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
+10,sangvul,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
+1,gaituvwa,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
+2,gairua,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
+3,gaitolu,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
+4,gaivasi,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
+5,gailima,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
+6,gaiono,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
+7,gaibitu,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
+8,gaivwelu,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
+9,gaisivo,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
+10,hangvulu,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
+1,tea,"used in counting (tea, rua, tolu)",FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+1,gaituvwa,used as a quantifier (ige gaituvwa ‘one fish’),FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+2,[gai]rua,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+3,[gai]tolu,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+4,[gai]vasi,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+5,[gai]lima,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+6,[gai]ono,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+7,[gai]bitu,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+8,[gai]vwelu,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+9,[gai]sivo,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+10,hangvulu,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+11,hangvul domuan gaituvwa,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+12,hangvul domuan gairua,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+20,ngavul gairua,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+30,ngavul gaitolu,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+42,ngavul gaivasi domuan gairua,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+75,ngavul gaibitu domuan gailima,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+100,ngawul hangvulu,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+100,vudolua [va tuvwa],old,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+200,vudolua va rua,old,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+1000,tari [va tuvwa],old,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+1000,vasangvulu,old,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+2000,tari [va rua],old,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
+2000,vasangvul va rua,old,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
 1,usa,,FALSE,Arnaud1998,pp.863-878 [word list item numbers],,hanu1241,Maŋyan-Hanunoo,hanu1241-1
 2,duwa,,FALSE,Arnaud1998,pp.863-878 [word list item numbers],,hanu1241,Maŋyan-Hanunoo,hanu1241-1
 3,tulo,,FALSE,Arnaud1998,pp.863-878 [word list item numbers],,hanu1241,Maŋyan-Hanunoo,hanu1241-1
@@ -20363,6 +20473,39 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,lima,,FALSE,LeanMadang,p.4,SIL Word List (1975).,mana1295,Manam (from SIL word list),mana1295-5
 7,lima rua,5 + 2,FALSE,LeanMadang,p.4,SIL Word List (1975).,mana1295,Manam (from SIL word list),mana1295-5
 10,kulemoa,,FALSE,LeanMadang,p.4,SIL Word List (1975).,mana1295,Manam (from SIL word list),mana1295-5
+1,teʔe,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+2,rua,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+3,toli,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+4,wati,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+4,usi,used only when caught fish are counted,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+4,ʔuboatutu,used when counting coconuts or breadfruit,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+4,paitaʔi,"used when counting betelnuts, pepper catkins, breadfruit seeds, canarium nuts, and New Guinea walnuts",FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+5,lima,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+6,lima teʔe,"When the object counted is expressed, the numbers optionally contain -be ‘and’ after lima ‘five’",FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+7,lima rua,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+8,lima toli,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+9,lima wati,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+10,ʔulemwa,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+11,ʔulemwa-be teʔe,be ‘and’,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+12,ʔulemwa-be rua,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+13,ʔulemwa-be toli,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+16,ʔulemwa-be lima-be teʔe,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+17,ʔulemwa-be lima-be rua,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+20,tamota (teʔe),"The word for ‘twenty’ is pronounced variously, even by the same informant, as támota or tamóata (tamoata also means ‘person’, i.e., ten fingers and ten toes). Occasionally, after saying tamóata, an informant would correct himself to támota. When informants were presented with the two forms, they invariably said that the correct form for ‘twenty’ was támota and not tamóata.",FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+20,ʔulemwa rua,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+21,tamota teʔe-be teʔe,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+21,ʔulemwa rua-be teʔe,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+28,tamota teʔe-be lima-be toli,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+28,ʔulemwa rua-be lima-be toli,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+30,tamota teʔe-be ʔulemwa,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+30,ʔulemwa toli,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+39,tamota teʔe-be ʔulemwa-be lima-be wati,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+39,ʔulemwa toli-be lima-be wati,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+40,tamota rua,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+40,ʔulemwa wati,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+50,tamota rua-be ʔulemwa,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+50,ʔulemwa lima,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
+100,tamota lima,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
 1,kēla,,FALSE,Ray1919,p.330,,mana1298,Kaiserin Augusta River (3),mana1298-1
 2,vēti,,FALSE,Ray1919,p.330,,mana1298,Kaiserin Augusta River (3),mana1298-1
 3,mongu,,FALSE,Ray1919,p.330,,mana1298,Kaiserin Augusta River (3),mana1298-1
@@ -20644,6 +20787,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,e ta’i rau,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
 1000,mano,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
 1000,e ta’i mano,,FALSE,Charpentier2015,pp.1825-1843,,mang1401,Mangarevan - Mangareva,mang1401-1
+1,E tahi,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
+2,E rua,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
+3,E toru,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
+4,E ha,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
+5,E rima,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
+6,E ono,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
+7,E hitu,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
+8,E varu,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
+9,E iva,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
+10,Rogouru,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
 1,omʷale,all front & back vowels quite high [written at the top of the page],FALSE,Grace1955pdfSpirax,p.10 [of pdf],,mang1403,Lumurioŋ (aenbul [Kembul on map]),mang1403-1
 2,aini,,FALSE,Grace1955pdfSpirax,p.10 [of pdf],,mang1403,Lumurioŋ (aenbul [Kembul on map]),mang1403-1
 3,me·,,FALSE,Grace1955pdfSpirax,p.10 [of pdf],,mang1403,Lumurioŋ (aenbul [Kembul on map]),mang1403-1
@@ -20876,6 +21029,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,tekau,,FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
 100,ngahuru,nga cannot be thus explained,FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
 1000,tini,"many, or ten thousand",FALSE,Codrington1885,"pp.227, 237, 246, 248-249",,maor1246,Maori,maor1246-1
+1,Tahi,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
+2,Rua,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
+3,Toru,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
+4,Wha,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
+5,Rima,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
+6,Ono,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
+7,Whitu,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
+8,Waru,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
+9,Iwa,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
+10,Tekau,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
+10,(ngahuru),,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
 1,guranangge,,FALSE,LeanMadang,p.80,1 CSQ. Village: Mebu.,mapa1244,Mebu,mapa1244-1
 2,elaha,,FALSE,LeanMadang,p.80,1 CSQ. Village: Mebu.,mapa1244,Mebu,mapa1244-1
 3,kabusa,,FALSE,LeanMadang,p.80,1 CSQ. Village: Mebu.,mapa1244,Mebu,mapa1244-1
@@ -21122,6 +21286,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 30,tekau me onohuu,,FALSE,Codrington1885,p.227,,marq1246,Marquesas,marq1246-1
 40,e ua tekau,two score,FALSE,Codrington1885,p.227,,marq1246,Marquesas,marq1246-1
 100,e imma tekau,five score,FALSE,Codrington1885,p.227,,marq1246,Marquesas,marq1246-1
+1,A tahi,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
+2,A ùa,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
+3,A toù,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
+4,A ha,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
+5,A ima,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
+6,A ono,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
+7,A hitu,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
+8,A vaù,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
+9,A iva,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
+10,Onohuù,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
 1,oˈsɑ,,FALSE,Walton2003Balatok,pp.3-7,,masa1307,"Masadiit (Balatok), Kilong-olaw (Boliney, Abra)",masa1307-1
 2,t͡suʷɑ,,FALSE,Walton2003Balatok,pp.3-7,,masa1307,"Masadiit (Balatok), Kilong-olaw (Boliney, Abra)",masa1307-1
 3,tuˈl̯u,,FALSE,Walton2003Balatok,pp.3-7,,masa1307,"Masadiit (Balatok), Kilong-olaw (Boliney, Abra)",masa1307-1
@@ -25301,6 +25475,28 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,lisul,,FALSE,Codrington1885,p.458,,nort2839,Embululi [given by Bishop Patteson],nort2839-2
 9,iafer,,FALSE,Codrington1885,p.458,,nort2839,Embululi [given by Bishop Patteson],nort2839-2
 10,ahu,,FALSE,Codrington1885,p.458,,nort2839,Embululi [given by Bishop Patteson],nort2839-2
+1,hu,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
+2,ru,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
+3,sul,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
+4,virr,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
+5,lim,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
+6,liuse,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
+7,liuru,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
+8,liusul,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
+9,yaferr,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
+10,sangul,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
+15,sangul a lim,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
+20,wingil be rum,"cf. wingil ‘lots, a large amount’",FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
+1,hu,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
+2,ru,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
+3,sul,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
+4,yirr,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
+5,lim,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
+6,leuse,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
+7,leuru,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
+8,leusul,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
+9,laferr,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
+10,sangil,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
 0,a’ehe mea,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
 1,tahi,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
 2,e ’ua,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Nuku Hiva,nort2845-1
@@ -26747,6 +26943,162 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,o tolu,,FALSE,Codrington1885,p.235,,paam1238,Pama,paam1238-1
 9,o hati,,FALSE,Codrington1885,p.235,,paam1238,Pama,paam1238-1
 10,ha lua lim,,FALSE,Codrington1885,p.235,,paam1238,Pama,paam1238-1
+1,tāi,/taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+2,elu,/elua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+3,etel,/etelu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+4,ehat,/ehati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+5,elim,/elima/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+6,lahitāi,/lahi=taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+7,laulu,/lau+lua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+8,lautel,/lau+telu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+9,lauhat,/lau+hati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+10,hālualim,/haalualime/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+11,tāi dan tāi,/taai dano taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+12,tāi dan elu,/taai dano elua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+13,tāi dan etel,/taai dano etelu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+14,tāi dan ehat,/taai dano ehati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+15,tāi dan elim,/taai dano elima/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+16,tāi dan lahitāi,/taai dano lahi=taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+17,tāi dan laulu,/taai dano lau+lua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+18,tāi dan lautel,/taai dano lau+telu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+19,tāi dan lauhat,/taai dano lau+hati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+20,hanu mau,/hanuu mau/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+21,hanu sav tāi,/hanuu savo taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+22,hanu sav elu,/hanuu savo elua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+23,hanu sav etel,/hanuu savo etelu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+24,hanu sav ehat,/hanuu savo ehati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+25,hanu sav elim,/hanuu savo elima/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+26,hanu sav lahitāi,/hanuu savo lahi=taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+27,hanu sav laulu,/hanuu savo lau+lua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+28,hanu sav lautel,/hanuu savo lau+telu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+29,hanu sav lauhat,/hanuu savo lau+hati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+30,hanu sav hālualim,/hanuu savo haalualime/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+31,hanu sav tāi dan tāi,/hanuu savo taai dano taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+32,hanu sav tāi dan elu,/hanuu savo taai dano elua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+33,hanu sav tāi dan etel,/hanuu savo taai dano etelu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+34,hanu sav tāi dan ehat,/hanuu savo taai dano ehati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+35,hanu sav tāi dan elim,/hanuu savo taai dano elima/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+36,hanu sav tāi dan lahitāi,/hanuu savo taai dano lahi=taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+37,hanu sav tāi dan laulu,/hanuu savo taai dano lau+lua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+38,hanu sav tāi dan lautel,/hanuu savo taai dano lau+telu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+39,hanu sav tāi dan lauhat,/hanuu savo taai dano lau+hati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+40,hanu mau elu,/hanuu mau elua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+41,hanu mau elu hanu sav tāi,/hanuu mau elua hanuu savo taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+42,hanu mau elu hanu sav elu,/hanuu mau elua hanuu savo elua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+43,hanu mau elu hanu sav etel,/hanuu mau elua hanuu savo etelu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+44,hanu mau elu hanu sav ehat,/hanuu mau elua hanuu savo ehati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+45,hanu mau elu hanu sav elim,/hanuu mau elua hanuu savo elima/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+46,hanu mau elu hanu sav lahitāi,/hanuu mau elua hanuu savo lahi=taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+47,hanu mau elu hanu sav laulu,/hanuu mau elua hanuu savo lau+lua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+48,hanu mau elu hanu sav lautel,/hanuu mau elua hanuu savo lau+telu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+49,hanu mau elu hanu sav lauhat,/hanuu mau elua hanuu savo lau+hati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+50,hanu mau elu hanu sav hālualim,/hanuu mau elua hanuu savo haalualime/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+51,hanu mau elu hanu sav tāi dan tāi,/hanuu mau elua hanuu savo taai dano taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+52,hanu mau elu hanu sav tāi dan elu,/hanuu mau elua hanuu savo taai dano elua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+53,hanu mau elu hanu sav tāi dan etel,/hanuu mau elua hanuu savo taai dano etelu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+54,hanu mau elu hanu sav tāi dan ehat,/hanuu mau elua hanuu savo taai dano ehati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+55,hanu mau elu hanu sav tāi dan elim,/hanuu mau elua hanuu savo taai dano elima/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+56,hanu mau elu hanu sav tāi dan lahitāi,/hanuu mau elua hanuu savo taai dano lahi=taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+57,hanu mau elu hanu sav tāi dan laulu,/hanuu mau elua hanuu savo taai dano lau+lua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+58,hanu mau elu hanu sav tāi dan lautel,/hanuu mau elua hanuu savo taai dano lau+telu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+59,hanu mau elu hanu sav tāi dan lauhat,/hanuu mau elua hanuu savo taai dano lau+hati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+60,hanu mau etel,/hanuu mau etelu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
+1,tā,/taa/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+1,tāi,/taai/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+2,elu,PNCV: *rua ; /lue/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+2,lualu,Derived from: elu [by reduplication] ; /lua-lue/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+3,etel,PNCV *tolu ; /telu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+3,retel,Derived from: etel [by reduplication] ; /re-telu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+4,ehat,PNCV: *vati ; /hati,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+4,hathat,Derived from: ehat [by reduplication] ; /hati-hati/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+5,elim,PNCV: *lima ; /lime/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+6,ahitāi,/ahitaai/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+7,oulu,/oulu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+8,outel,/outelu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+9,ouhat,/ouhati/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+10,hālualim,/haalualime/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+11,tāi dan tāi,/taai dano taai/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+12,tāi dan elu,/taai dano elue/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+13,tāi dan etel,/taai dano etelu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+14,tāi dan ehat,/taai dano ehati/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+15,tāi dan elim,/taai dano elime/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+16,tāi dan ahitāi,/taai dano ahitaai/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+17,tāi dan oulu,/taai dano oulue/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+18,tāi dan outel,/taai dano outelu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+19,tāi dan ouhat,/taai dano lauhati/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+20,hanu mau,/hanuo mau/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+21,hanu sav tāi,/hanuo savo taai/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+22,hanu sav elu,/hanuo savo elue/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+23,hanu sav etel,/hanuo savo etelu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+24,hanu sav ehat,/hanuo savo ehati/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+25,hanu sav elim,/hanuo savo elime/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+26,hanu sav ahitāi,/hanuo savo ahitaai/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+27,hanu sav oulu,/hanuo savo ouhati/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+28,hanu sav outel,/hanuo savo outelu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+29,hanu sav ouhat,/hanuo savo ouhati/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+30,hanu sav hālualim,/hanuo savo haalualime/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+31,hanu sav tāi dan tāi,/hanuo savo taai dano taai/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+40,hanu mau elu,/hanuo mau elue/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+50,hanu mau elu hanu sav hālualim,/hanuo mau elue hanuo savo haalualime/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+60,hanu mau etel,/hanuo mau etelu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
+1,tā,/taa/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+1,tāi,/taai/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+2,elu,PNCV: *rua ; /lue/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+2,lualu,Derived from: elu [by reduplication] ; /lua-lue/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+3,etel,PNCV *tolu ; /telu/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+3,retel,Derived from: etel [by reduplication] ; /re-telu/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+4,ehat,PNCV: *vati ; /hati,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+4,hatihat,Derived from: ehat [by reduplication],FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+5,elim,PNCV: *lima ; /lime/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+6,lahitāi,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+7,laulu,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+8,lautel,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+9,lauhat,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+10,hālualim,/haalualime/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+11,tāi dan tāi,/taai dano taai/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+12,tāi dan elu,/taai dano elue/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+13,tāi dan etel,/taai dano etelu/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+14,tāi dan ehat,/taai dano ehati/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+15,tāi dan elim,/taai dano elime/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+16,tāi dan lahitāi,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+17,tāi dan laulu,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+18,tāi dan lautel,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+19,tāi dan lauhat,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+20,hanu mau,/hanuo mau/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+21,hanu sav tāi,/hanuo savo taai/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+22,hanu sav elu,/hanuo savo elue/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+23,hanu sav etel,/hanuo savo etelu/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+24,hanu sav ehat,/hanuo savo ehati/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+25,hanu sav elim,/hanuo savo elime/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+26,hanu sav lahitāi,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+27,hanu sav laulu,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+28,hanu sav lautel,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+29,hanu sav lauhat,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+30,hanu sav hālualim,/hanuo savo haalualime/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+31,hanu sav tāi dan tāi,/hanuo savo taai dano taai/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+40,hanu mau elu,/hanuo mau elue/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+50,hanu mau elu hanu sav hālualim,/hanuo mau elue hanuo savo haalualime/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+60,hanu mau etel,/hanuo mau etelu/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
+1,tāga,/taagaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+2,luāga,/luaagaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+3,teluga,/telugaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+4,hatuga,/hatugaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+5,limaga,/limagaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+6,kuana,PNCV: *ono ; /kuanaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+7,tīti,/tiitii/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+8,vālo,PNCV: *walu ; /vaaloo/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+9,tēga,/teegaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+10,luri,/lurii/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+11,soga,/sogaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+12,berua,/berua/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+13,beruai,/beruai/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+14,peta,/petaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+15,petai,/petai/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+16,vimoma,/vimomaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+17,uerie,/ueriee/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+18,masa,/masaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+19,nabu,/nabuu/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
+20,sogai,/sogai/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
 1,bɑy,,FALSE,Laycock1970D04,p.498,,pagi1244,Pagei,pagi1244-1
 2,sɑmpək,,FALSE,Laycock1970D04,p.498,,pagi1244,Pagei,pagi1244-1
 3,sɑmpək ᵐbɑy,,FALSE,Laycock1970D04,p.498,,pagi1244,Pagei,pagi1244-1
@@ -29153,6 +29505,69 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,walo,,FALSE,Garde2015,pp.125-126,,saaa1241,Sa (Kastom village decimal counting),saaa1241-2
 9,suan,,FALSE,Garde2015,pp.125-126,,saaa1241,Sa (Kastom village decimal counting),saaa1241-2
 10,tendu,,FALSE,Garde2015,pp.125-126,,saaa1241,Sa (Kastom village decimal counting),saaa1241-2
+1,asia,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
+2,alu,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
+3,atiol,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
+4,afiet,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
+5,alim,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
+6,lusia,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
+7,ielu,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
+8,ietiol,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
+9,iapat,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
+10,siangful,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
+1,sʰuf,,FALSE,Gray2012,p.34,,saaa1241,Sa (Northern),saaa1241-4
+2,[be]ru,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
+3,[be]jil,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
+4,[be]fêt,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
+5,[be]lim,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
+6,[be]lefsʰuf,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
+7,[be]lefru,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
+8,[be]lefjil,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
+9,[be]liapat,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
+10,sangful,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
+1,[be]su,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
+2,[be]ru,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
+3,[be]têl,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
+4,[be]êt,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
+5,[be]lim,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
+6,[be]lijia,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
+6,[be]lesu,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
+7,[be]lêôru,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
+8,[be]lêtêl,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
+9,[be]liapat,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
+10,sungul,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
+1,su,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+2,[be]ru,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+3,[be]têl,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+4,[be]êt,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+5,[be]lim,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+6,[be]lijia,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+6,[be]lesu,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+7,[be]lêôru,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+8,[be]lêtêl,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+9,[be]liapat,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+10,sôngul,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+11,nul su aê su,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+12,nul su aê beru,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+20,nul beru,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+30,nul betêl,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+42,nul beêt aê beru,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+75,nul belêôru aê belim,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+100,nul sôngul su,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+100,môrôban [an su],"old; These words are no longer actively used, and there is disagreement about their meanings. Although many speakers believe that môrôbwan is ‘hundred’ and mamtar ‘thousand’, which fits with the equivalent terms in neighbouring languages, the Gospel translators use these two terms the other way round (môrôbwan an belim, ‘five thousand’).",FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+200,môrôban [an] beru,old,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+1000,mamtar [an su],old,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+2000,mamtar [an] beru,old,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
+1,hu,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
+2,[be]ru,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
+3,[be]têl,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
+4,[be]êt,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
+5,[be]lim,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
+6,[be]lêtê,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
+7,[be]lêôru,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
+8,[be]lêtêl,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
+9,[be]liapat,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
+10,hungêl,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
 1,satu,,FALSE,Aye2005,pp.79-80,,saba1263,Bazaar Malay,saba1263-1
 2,dua,,FALSE,Aye2005,pp.79-80,,saba1263,Bazaar Malay,saba1263-1
 3,tiga,,FALSE,Aye2005,pp.79-80,,saba1263,Bazaar Malay,saba1263-1
@@ -30554,6 +30969,28 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 30,tilaupuloh,,FALSE,Urquhart1955,p.195,,seka1248,Sekapan,seka1248-1
 100,jiatu,,FALSE,Urquhart1955,p.195,,seka1248,Sekapan,seka1248-1
 1000,jaribu,,FALSE,Urquhart1955,p.195,,seka1248,Sekapan,seka1248-1
+1,alvwal,old,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+1,alvial,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+2,aru,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+3,aziol,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+4,aviet,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+5,alim,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+6,lavwal,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+7,livru,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+8,liptól,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+9,liapet,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+10,seᵐbrenok,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+11,seᵐbrenok nan alvwal,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+12,seᵐbrenok nan aru,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+20,mavwul aru,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+30,mavwul aziol,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+42,mavwul aviet nan aru,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+75,mavwul livru nan alim,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+100,mavwul seᵐbrenok,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+100,amróᵐb [alvwal],old,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+200,amróᵐb aru,old,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+1000,atar [alvwal],old,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
+2000,atar aru,old,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
 1,mesaʔ,,FALSE,Grimes1987,pp.129-135,,seko1242,Seko (Tengah),seko1242-1
 2,duʷa,,FALSE,Grimes1987,pp.129-135,,seko1242,Seko (Tengah),seko1242-1
 3,italu,,FALSE,Grimes1987,pp.129-135,,seko1242,Seko (Tengah),seko1242-1
@@ -32408,6 +32845,26 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 2,etoa,,FALSE,Codrington1885,p.222,,sout2949,Fly River,sout2949-4
 3,netoa-nau,,FALSE,Codrington1885,p.222,,sout2949,Fly River,sout2949-4
 4,netoa-netoa,,FALSE,Codrington1885,p.222,,sout2949,Fly River,sout2949-4
+1,tual,"It does not match any Pentecost language known today, although it most closely resembles Sowa.",FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
+2,elu,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
+3,etol,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
+4,epiet,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
+5,elim,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
+6,lowat,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
+7,liplu,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
+8,liptol,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
+9,lapat,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
+10,siamnoh,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
+1,wantua,"These numerals resemble Raga’s, being part of a purely decimal numbering system, without the base-5 component found in the numbering system of modern Sa and other Pentecost languages",FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
+2,rua,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
+3,tol,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
+4,fa,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
+5,lima,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
+6,ondo,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
+7,bitu,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
+8,bwalo,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
+9,suan,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
+10,du,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
 1,saʔ,,FALSE,Lobel2016,pp.234-239,,sout3241,Tidung Kalabakan,sout3241-1
 2,duo,,FALSE,Lobel2016,pp.234-239,,sout3241,Tidung Kalabakan,sout3241-1
 3,talu,,FALSE,Lobel2016,pp.234-239,,sout3241,Tidung Kalabakan,sout3241-1
@@ -32461,6 +32918,28 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,saratus,,FALSE,Lobel2016,pp.234-239,,sout3241,Tidung Mensalong,sout3241-3
 200,duo ratus,,FALSE,Lobel2016,pp.234-239,,sout3241,Tidung Mensalong,sout3241-3
 1000,səribu,,FALSE,Lobel2016,pp.234-239,,sout3241,Tidung Mensalong,sout3241-3
+1,tuwal,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+1,izuwal,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+2,iru,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+3,izól,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+4,ivét,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+5,ilim,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+6,lówal,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+7,léwru,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+8,léptól,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+9,lakpat,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+10,sebrenok,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+11,sebrenok nan izuwal,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+12,sebrenok nan iru,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+20,mawul iru,"This form of numbering is agreed upon by the local Sowa enthusiasts with whom I worked. However, David Walsh’s notes suggest that mawul is used only for numbers 20-49, with numbers 50-100 beginning ngawul, and that the linkage is pwasén (‘half’) rather than nan.",FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+30,mawul izól,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+42,mawul ivét nan iru,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+75,mawul léwru nan ilim,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+100,mwaul sebrenok,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+100,amrób [izuwal],old,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+200,amrób iru,old,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+1000,[v]ataa [izual],old,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
+2000,[v]ataa iru,old,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
 1,mogulk,,FALSE,Smits1994,pp.210-212,,sowa1245,Waina,sowa1245-1
 2,samboga,,FALSE,Smits1994,pp.210-212,,sowa1245,Waina,sowa1245-1
 3,samba monggo,,FALSE,Smits1994,pp.210-212,,sowa1245,Waina,sowa1245-1
@@ -33121,6 +33600,23 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 46,(e) maha ’ahuru mā ono,,FALSE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
 100,(hō’ē) hānere,hānere < English hundred,TRUE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
 1000,(hō’ē) tauatini,tauatini < English thousand,TRUE,Charpentier2015,pp.1825-1843,,tahi1242,Tahitian - Tahiti,tahi1242-3
+1,Hoe,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+1,(tahi),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+2,Piti,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+2,(rua),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+3,Toru,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+4,Maha,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+4,(ha),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+5,Pae,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+5,(rima),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+6,Ono,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+6,(fene),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+7,Hitu,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+8,Vaù,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+8,(varu),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+9,Iva,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+10,Ahuru,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+10,(hoe ahuru),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
 1,nɑmbɑr,,FALSE,Zgraggen1972,pp.215-219,,taia1239,Gapun,taia1239-1
 2,senɑ,,FALSE,Zgraggen1972,pp.215-219,,taia1239,Gapun,taia1239-1
 3,mɑnɑ́u̯,,FALSE,Zgraggen1972,pp.215-219,,taia1239,Gapun,taia1239-1
@@ -35856,6 +36352,81 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 46,maha ’ahuru mā ono,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
 100,haŋere,< English hundred,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
 1000,tauatini,< English thousand,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
+2,MEA,(Hao Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
+3,KAHITIHITI,(Anaa Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
+3,KUONI,(Hao Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
+4,TAONI,(Hao Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
+5,UIA,(Hao Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
+6,AĒA,(Anaa Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
+6,TUAHĪ,(Anaa Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
+7,KĪHOKE,(Hao Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
+9,ITI,(Anaa Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
+9,RAŊAIVA,(Anaa Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
+9,PONA,(Hao Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
+10,ŊĀURU,(Hao Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
+10,HAKARAKI,[no island/dialect given],FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
+1,O rari,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
+2,E ite,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
+3,E geti,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
+4,E ope,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
+5,E miha,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
+5,(keka),,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
+6,E hene,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
+7,E hite,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
+8,E hava,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
+9,E nipa,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
+10,Fakaraki,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
+10,(horihori),,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
+1,A tahi,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
+2,E mea,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
+3,Kuoni,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
+4,Taoni,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
+5,Uia,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
+6,Aea,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
+7,Kihoke,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
+8,E hava,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
+9,Ponapona,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
+10,Tukenohi,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
+1,E rari,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
+2,E ite,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
+3,E geti,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
+4,E ha,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
+5,E rima,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
+6,E hene,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
+7,E hite,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
+8,E varu,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
+9,E nipa,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
+10,Fakaraki,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
+1,E tahi,"In the eastern part of the Group by preference they use A ite, A geti, A ope, etc., as in Napuka Island.",FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
+2,E ite,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
+3,E toru,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
+4,E fa,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
+5,E rima,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
+6,E ope,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
+7,E hitu,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
+8,E varu,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
+9,E iva,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
+10,E gahuru,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
+1,Ka rari,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
+2,Ka ite,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
+3,Ka geti,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
+4,Ka ope,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
+5,Ka mihe,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
+6,Ka hene,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
+7,Ka tika,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
+8,Ka hava,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
+9,Gohuru,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
+10,Tapahi reka,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
+2,taikaite,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: a system of counting by pairs,tuam1242-16
+4,getiope,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: a system of counting by pairs,tuam1242-16
+6,miehone,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: a system of counting by pairs,tuam1242-16
+8,tuepeka,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: a system of counting by pairs,tuam1242-16
+10,horihori,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: a system of counting by pairs,tuam1242-16
+2,e rari e kite,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: another system of counting by pairs,tuam1242-17
+4,e geti e ope,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: another system of counting by pairs,tuam1242-17
+6,e miha-hene,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: another system of counting by pairs,tuam1242-17
+8,e hite e hava,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: another system of counting by pairs,tuam1242-17
+10,e nipa e fakaraki,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: another system of counting by pairs,tuam1242-17
 0,aore,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
 0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
 1,ka rari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
@@ -36353,6 +36924,26 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 6,akeykalun-patai,,FALSE,Ray1919,p.328,,ulau1237,Ulau-Sueng,ulau1237-4
 10,ewut’-patai,,FALSE,Ray1919,p.328,,ulau1237,Ulau-Sueng,ulau1237-4
 20,ewut’ro,,FALSE,Ray1919,p.328,,ulau1237,Ulau-Sueng,ulau1237-4
+1,Soth,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+2,fang,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+3,lim,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+4,roch,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+5,le,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+6,iel,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+7,sau,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+8,fath,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+9,li,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+10,warong,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+11,titi,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+12,hafta,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+13,fali,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+14,powa,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+15,langwe,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+16,marue,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+17,chou,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+18,wela,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+19,hauti,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
+20,hauta,"The numbers here used in counting are not Palauan, Yapese, Ulithian, Woleaian, Puluwatan, Trukese, or any other language of the Carolines of which I am aware. Melchethal said that he did not know where they came from, but a suggestion that they are nonsense words came from the narrator himself, Taiethau, who said that he did not know their origin but remembered them because they are used by children. However, he was the one who taught the children! He said that children use the numbers in fun.",FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
 1,mesa,,FALSE,Grimes1987,pp.128-134,,ulum1237,Botteng,ulum1237-1
 2,duʷa,,FALSE,Grimes1987,pp.128-134,,ulum1237,Botteng,ulum1237-1
 3,t̠allu,,FALSE,Grimes1987,pp.128-134,,ulum1237,Botteng,ulum1237-1
@@ -39764,594 +40355,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,wan,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
-2,tu,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
-3,tri,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
-4,fo,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
-5,faef,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
-6,sikis,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
-7,seven,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
-8,eit,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
-9,naen,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
-10,ten,,FALSE,Gray2012,"pp.29, 34, 108",,bisl1239,Bislama,bisl1239-2
-1,haituv,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
-2,hairu,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
-3,haitol,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
-4,haivat,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
-5,hailim,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
-6,haion,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
-7,haibit,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
-8,haivwel,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
-9,haisiv,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
-10,sangvul,,FALSE,Gray2012,p.29,,hano1246,Nggasai,hano1246-2
-1,gaituvwa,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
-2,gairua,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
-3,gaitolu,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
-4,gaivasi,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
-5,gailima,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
-6,gaiono,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
-7,gaibitu,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
-8,gaivwelu,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
-9,gaisivo,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
-10,hangvulu,,FALSE,Gray2012,p.29,,hano1246,Modern Raga,hano1246-3
-1,asia,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
-2,alu,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
-3,atiol,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
-4,afiet,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
-5,alim,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
-6,lusia,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
-7,ielu,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
-8,ietiol,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
-9,iapat,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
-10,siangful,,FALSE,Gray2012,p.34,,saaa1241,Doltes,saaa1241-3
-1,sʰuf,,FALSE,Gray2012,p.34,,saaa1241,Sa (Northern),saaa1241-4
-2,[be]ru,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
-3,[be]jil,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
-4,[be]fêt,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
-5,[be]lim,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
-6,[be]lefsʰuf,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
-7,[be]lefru,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
-8,[be]lefjil,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
-9,[be]liapat,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
-10,sangful,,FALSE,Gray2012,"pp.34, 108",,saaa1241,Sa (Northern),saaa1241-4
-1,tual,"It does not match any Pentecost language known today, although it most closely resembles Sowa.",FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
-2,elu,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
-3,etol,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
-4,epiet,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
-5,elim,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
-6,lowat,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
-7,liplu,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
-8,liptol,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
-9,lapat,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
-10,siamnoh,,FALSE,Gray2012,p.34,,sout3188,"mysterious Pentecost language (from Ray 1926:418, from MacDonald 1889:54-55)",sout3188-1
-1,wantua,"These numerals resemble Raga’s, being part of a purely decimal numbering system, without the base-5 component found in the numbering system of modern Sa and other Pentecost languages",FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
-2,rua,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
-3,tol,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
-4,fa,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
-5,lima,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
-6,ondo,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
-7,bitu,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
-8,bwalo,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
-9,suan,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
-10,du,,FALSE,Gray2012,p.34,,sout3188,believed to be in an extinct South Pentecost dialect (from Murray Garde),sout3188-2
-1,tea,"used in counting (tea, rua, tolu)",FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-1,gaituvwa,used as a quantifier (ige gaituvwa ‘one fish’),FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-2,[gai]rua,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-3,[gai]tolu,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-4,[gai]vasi,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-5,[gai]lima,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-6,[gai]ono,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-7,[gai]bitu,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-8,[gai]vwelu,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-9,[gai]sivo,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-10,hangvulu,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-11,hangvul domuan gaituvwa,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-12,hangvul domuan gairua,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-20,ngavul gairua,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-30,ngavul gaitolu,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-42,ngavul gaivasi domuan gairua,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-75,ngavul gaibitu domuan gailima,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-100,ngawul hangvulu,,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-100,vudolua [va tuvwa],old,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-200,vudolua va rua,old,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-1000,tari [va tuvwa],old,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-1000,vasangvulu,old,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-2000,tari [va rua],old,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-2000,vasangvul va rua,old,FALSE,Gray2012,pp.108-110,,hano1246,Raga,hano1246-4
-1,bwaleh,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-2,kairi,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-3,kaitil,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-4,kaivas,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-5,kailim,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-6,lapwaleh,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-6,[te]lapwaleh,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-7,laviri,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-7,[te]laviri,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-8,laptil,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-8,[te]laptil,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-9,lavas,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-9,[te]lavas,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-10,sangwul,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-10,[te]sangwul,,FALSE,Gray2012,"pp.29, 108",,apma1240,Apma (Suru Kavian),apma1240-2
-1,bwaleh,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-2,karu,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-3,katsil,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-4,kavet,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-5,kalim,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-6,[te]lapwaleh,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-7,[te]laviru,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-8,[te]laptsil,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-9,[te]lapet,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-10,[te]sangwul,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-11,[te]sangwul vepnan bwaleh,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-12,[te]sangwul vepnan karu,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-20,ngawul karu,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-20,ngawul katsil,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-42,ngawul kavet vepnan karu,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-75,ngawul telaviru vepnan kalim,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-100,ngawul [te]sangwul,,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-100,[te]wudelu [va bwaleh],old,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-200,[te]wudelu va karu,old,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-1000,[te]vataa [va bwaleh],old,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-2000,[te]vataa va karu,old,FALSE,Gray2012,pp.108-110,,apma1240,Apma (Suru Mwerani),apma1240-3
-1,bwaleh,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
-2,karu,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
-3,katsil,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
-4,kavet,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
-5,kalim,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
-6,[te]lapwaleh,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
-7,[te]laviru,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
-8,[te]laptsil,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
-9,[te]lapet,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
-10,[te]sangwul,,FALSE,Gray2012,p.108,,apma1240,Apma (Suru Rabwanga),apma1240-4
-1,tuwal,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-1,izuwal,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-2,iru,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-3,izól,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-4,ivét,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-5,ilim,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-6,lówal,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-7,léwru,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-8,léptól,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-9,lakpat,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-10,sebrenok,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-11,sebrenok nan izuwal,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-12,sebrenok nan iru,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-20,mawul iru,"This form of numbering is agreed upon by the local Sowa enthusiasts with whom I worked. However, David Walsh’s notes suggest that mawul is used only for numbers 20-49, with numbers 50-100 beginning ngawul, and that the linkage is pwasén (‘half’) rather than nan.",FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-30,mawul izól,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-42,mawul ivét nan iru,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-75,mawul léwru nan ilim,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-100,mwaul sebrenok,,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-100,amrób [izuwal],old,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-200,amrób iru,old,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-1000,[v]ataa [izual],old,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-2000,[v]ataa iru,old,FALSE,Gray2012,pp.108-110,,sowa1244,Sowa,sowa1244-1
-1,alvwal,old,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-1,alvial,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-2,aru,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-3,aziol,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-4,aviet,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-5,alim,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-6,lavwal,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-7,livru,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-8,liptól,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-9,liapet,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-10,seᵐbrenok,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-11,seᵐbrenok nan alvwal,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-12,seᵐbrenok nan aru,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-20,mavwul aru,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-30,mavwul aziol,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-42,mavwul aviet nan aru,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-75,mavwul livru nan alim,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-100,mavwul seᵐbrenok,,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-100,amróᵐb [alvwal],old,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-200,amróᵐb aru,old,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-1000,atar [alvwal],old,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-2000,atar aru,old,FALSE,Gray2012,"pp.34, 108-110",,seke1241,Ske,seke1241-1
-1,[be]su,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
-2,[be]ru,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
-3,[be]têl,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
-4,[be]êt,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
-5,[be]lim,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
-6,[be]lijia,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
-6,[be]lesu,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
-7,[be]lêôru,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
-8,[be]lêtêl,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
-9,[be]liapat,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
-10,sungul,,FALSE,Gray2012,p.108,,saaa1241,Sa (Western),saaa1241-5
-1,su,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-2,[be]ru,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-3,[be]têl,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-4,[be]êt,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-5,[be]lim,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-6,[be]lijia,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-6,[be]lesu,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-7,[be]lêôru,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-8,[be]lêtêl,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-9,[be]liapat,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-10,sôngul,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-11,nul su aê su,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-12,nul su aê beru,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-20,nul beru,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-30,nul betêl,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-42,nul beêt aê beru,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-75,nul belêôru aê belim,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-100,nul sôngul su,,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-100,môrôban [an su],"old; These words are no longer actively used, and there is disagreement about their meanings. Although many speakers believe that môrôbwan is ‘hundred’ and mamtar ‘thousand’, which fits with the equivalent terms in neighbouring languages, the Gospel translators use these two terms the other way round (môrôbwan an belim, ‘five thousand’).",FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-200,môrôban [an] beru,old,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-1000,mamtar [an su],old,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-2000,mamtar [an] beru,old,FALSE,Gray2012,pp.108-110,,saaa1241,Sa (Eastern),saaa1241-6
-1,hu,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
-2,[be]ru,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
-3,[be]têl,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
-4,[be]êt,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
-5,[be]lim,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
-6,[be]lêtê,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
-7,[be]lêôru,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
-8,[be]lêtêl,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
-9,[be]liapat,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
-10,hungêl,,FALSE,Gray2012,p.108,,saaa1241,Sa (Southern),saaa1241-7
-1,gonaleha,"A typical set of devils’ numbers, recalled by an elderly Apma speaker",FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
-2,gonarua,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
-3,gonatsila,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
-4,gonaveta,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
-5,gonalima,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
-6,lowangga,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
-7,dulambana,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
-8,rorombosisa,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
-9,seselua,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
-10,bwalutem,"Old people in some areas of Pentecost remember sequences of ‘devils’ numbers’ that are very different from the ordinary numbers. In the old days, it is claimed, people working in their gardens would hear devils in the bushes counting to their children using these numbers. Some sets of devils’ numbers are attributed to specific mythological figures. The numbers often have an archaic sound to them, although it is unlikely that they simply represent an older form of numbering.",FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
-1,tāi,/taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-2,elu,/elua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-3,etel,/etelu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-4,ehat,/ehati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-5,elim,/elima/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-6,lahitāi,/lahi=taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-7,laulu,/lau+lua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-8,lautel,/lau+telu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-9,lauhat,/lau+hati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-10,hālualim,/haalualime/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-11,tāi dan tāi,/taai dano taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-12,tāi dan elu,/taai dano elua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-13,tāi dan etel,/taai dano etelu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-14,tāi dan ehat,/taai dano ehati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-15,tāi dan elim,/taai dano elima/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-16,tāi dan lahitāi,/taai dano lahi=taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-17,tāi dan laulu,/taai dano lau+lua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-18,tāi dan lautel,/taai dano lau+telu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-19,tāi dan lauhat,/taai dano lau+hati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-20,hanu mau,/hanuu mau/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-21,hanu sav tāi,/hanuu savo taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-22,hanu sav elu,/hanuu savo elua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-23,hanu sav etel,/hanuu savo etelu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-24,hanu sav ehat,/hanuu savo ehati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-25,hanu sav elim,/hanuu savo elima/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-26,hanu sav lahitāi,/hanuu savo lahi=taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-27,hanu sav laulu,/hanuu savo lau+lua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-28,hanu sav lautel,/hanuu savo lau+telu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-29,hanu sav lauhat,/hanuu savo lau+hati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-30,hanu sav hālualim,/hanuu savo haalualime/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-31,hanu sav tāi dan tāi,/hanuu savo taai dano taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-32,hanu sav tāi dan elu,/hanuu savo taai dano elua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-33,hanu sav tāi dan etel,/hanuu savo taai dano etelu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-34,hanu sav tāi dan ehat,/hanuu savo taai dano ehati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-35,hanu sav tāi dan elim,/hanuu savo taai dano elima/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-36,hanu sav tāi dan lahitāi,/hanuu savo taai dano lahi=taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-37,hanu sav tāi dan laulu,/hanuu savo taai dano lau+lua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-38,hanu sav tāi dan lautel,/hanuu savo taai dano lau+telu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-39,hanu sav tāi dan lauhat,/hanuu savo taai dano lau+hati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-40,hanu mau elu,/hanuu mau elua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-41,hanu mau elu hanu sav tāi,/hanuu mau elua hanuu savo taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-42,hanu mau elu hanu sav elu,/hanuu mau elua hanuu savo elua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-43,hanu mau elu hanu sav etel,/hanuu mau elua hanuu savo etelu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-44,hanu mau elu hanu sav ehat,/hanuu mau elua hanuu savo ehati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-45,hanu mau elu hanu sav elim,/hanuu mau elua hanuu savo elima/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-46,hanu mau elu hanu sav lahitāi,/hanuu mau elua hanuu savo lahi=taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-47,hanu mau elu hanu sav laulu,/hanuu mau elua hanuu savo lau+lua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-48,hanu mau elu hanu sav lautel,/hanuu mau elua hanuu savo lau+telu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-49,hanu mau elu hanu sav lauhat,/hanuu mau elua hanuu savo lau+hati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-50,hanu mau elu hanu sav hālualim,/hanuu mau elua hanuu savo haalualime/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-51,hanu mau elu hanu sav tāi dan tāi,/hanuu mau elua hanuu savo taai dano taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-52,hanu mau elu hanu sav tāi dan elu,/hanuu mau elua hanuu savo taai dano elua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-53,hanu mau elu hanu sav tāi dan etel,/hanuu mau elua hanuu savo taai dano etelu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-54,hanu mau elu hanu sav tāi dan ehat,/hanuu mau elua hanuu savo taai dano ehati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-55,hanu mau elu hanu sav tāi dan elim,/hanuu mau elua hanuu savo taai dano elima/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-56,hanu mau elu hanu sav tāi dan lahitāi,/hanuu mau elua hanuu savo taai dano lahi=taai/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-57,hanu mau elu hanu sav tāi dan laulu,/hanuu mau elua hanuu savo taai dano lau+lua/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-58,hanu mau elu hanu sav tāi dan lautel,/hanuu mau elua hanuu savo taai dano lau+telu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-59,hanu mau elu hanu sav tāi dan lauhat,/hanuu mau elua hanuu savo taai dano lau+hati/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-60,hanu mau etel,/hanuu mau etelu/,FALSE,Crowley1982,pp.245-247,,paam1238,Paamese,paam1238-2
-1,tā,/taa/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-1,tāi,/taai/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-2,elu,PNCV: *rua ; /lue/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-2,lualu,Derived from: elu [by reduplication] ; /lua-lue/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-3,etel,PNCV *tolu ; /telu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-3,retel,Derived from: etel [by reduplication] ; /re-telu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-4,ehat,PNCV: *vati ; /hati,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-4,hathat,Derived from: ehat [by reduplication] ; /hati-hati/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-5,elim,PNCV: *lima ; /lime/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-6,ahitāi,/ahitaai/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-7,oulu,/oulu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-8,outel,/outelu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-9,ouhat,/ouhati/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-10,hālualim,/haalualime/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-11,tāi dan tāi,/taai dano taai/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-12,tāi dan elu,/taai dano elue/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-13,tāi dan etel,/taai dano etelu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-14,tāi dan ehat,/taai dano ehati/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-15,tāi dan elim,/taai dano elime/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-16,tāi dan ahitāi,/taai dano ahitaai/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-17,tāi dan oulu,/taai dano oulue/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-18,tāi dan outel,/taai dano outelu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-19,tāi dan ouhat,/taai dano lauhati/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-20,hanu mau,/hanuo mau/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-21,hanu sav tāi,/hanuo savo taai/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-22,hanu sav elu,/hanuo savo elue/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-23,hanu sav etel,/hanuo savo etelu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-24,hanu sav ehat,/hanuo savo ehati/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-25,hanu sav elim,/hanuo savo elime/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-26,hanu sav ahitāi,/hanuo savo ahitaai/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-27,hanu sav oulu,/hanuo savo ouhati/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-28,hanu sav outel,/hanuo savo outelu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-29,hanu sav ouhat,/hanuo savo ouhati/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-30,hanu sav hālualim,/hanuo savo haalualime/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-31,hanu sav tāi dan tāi,/hanuo savo taai dano taai/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-40,hanu mau elu,/hanuo mau elue/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-50,hanu mau elu hanu sav hālualim,/hanuo mau elue hanuo savo haalualime/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-60,hanu mau etel,/hanuo mau etelu/,FALSE,Crowley1992,passim,,paam1238,Northern Paamese,paam1238-3
-1,tā,/taa/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-1,tāi,/taai/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-2,elu,PNCV: *rua ; /lue/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-2,lualu,Derived from: elu [by reduplication] ; /lua-lue/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-3,etel,PNCV *tolu ; /telu/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-3,retel,Derived from: etel [by reduplication] ; /re-telu/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-4,ehat,PNCV: *vati ; /hati,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-4,hatihat,Derived from: ehat [by reduplication],FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-5,elim,PNCV: *lima ; /lime/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-6,lahitāi,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-7,laulu,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-8,lautel,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-9,lauhat,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-10,hālualim,/haalualime/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-11,tāi dan tāi,/taai dano taai/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-12,tāi dan elu,/taai dano elue/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-13,tāi dan etel,/taai dano etelu/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-14,tāi dan ehat,/taai dano ehati/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-15,tāi dan elim,/taai dano elime/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-16,tāi dan lahitāi,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-17,tāi dan laulu,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-18,tāi dan lautel,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-19,tāi dan lauhat,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-20,hanu mau,/hanuo mau/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-21,hanu sav tāi,/hanuo savo taai/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-22,hanu sav elu,/hanuo savo elue/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-23,hanu sav etel,/hanuo savo etelu/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-24,hanu sav ehat,/hanuo savo ehati/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-25,hanu sav elim,/hanuo savo elime/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-26,hanu sav lahitāi,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-27,hanu sav laulu,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-28,hanu sav lautel,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-29,hanu sav lauhat,,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-30,hanu sav hālualim,/hanuo savo haalualime/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-31,hanu sav tāi dan tāi,/hanuo savo taai dano taai/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-40,hanu mau elu,/hanuo mau elue/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-50,hanu mau elu hanu sav hālualim,/hanuo mau elue hanuo savo haalualime/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-60,hanu mau etel,/hanuo mau etelu/,FALSE,Crowley1992,passim,,paam1238,Southern Paamese,paam1238-4
-1,tāga,/taagaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-2,luāga,/luaagaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-3,teluga,/telugaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-4,hatuga,/hatugaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-5,limaga,/limagaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-6,kuana,PNCV: *ono ; /kuanaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-7,tīti,/tiitii/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-8,vālo,PNCV: *walu ; /vaaloo/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-9,tēga,/teegaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-10,luri,/lurii/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-11,soga,/sogaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-12,berua,/berua/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-13,beruai,/beruai/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-14,peta,/petaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-15,petai,/petai/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-16,vimoma,/vimomaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-17,uerie,/ueriee/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-18,masa,/masaa/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-19,nabu,/nabuu/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-20,sogai,/sogai/,FALSE,Crowley1992,passim,,paam1238,Paamese (in lisefsef language),paam1238-5
-1,Soth,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-2,fang,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-3,lim,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-4,roch,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-5,le,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-6,iel,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-7,sau,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-8,fath,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-9,li,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-10,warong,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-11,titi,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-12,hafta,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-13,fali,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-14,powa,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-15,langwe,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-16,marue,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-17,chou,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-18,wela,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-19,hauti,,FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-20,hauta,"The numbers here used in counting are not Palauan, Yapese, Ulithian, Woleaian, Puluwatan, Trukese, or any other language of the Carolines of which I am aware. Melchethal said that he did not know where they came from, but a suggestion that they are nonsense words came from the narrator himself, Taiethau, who said that he did not know their origin but remembered them because they are used by children. However, he was the one who taught the children! He said that children use the numbers in fun.",FALSE,Lessa1980,p.9,,ulit1238,Ulithi: counting used by an old blind woman in a tale,ulit1238-1
-2,MEA,(Hao Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
-3,KAHITIHITI,(Anaa Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
-3,KUONI,(Hao Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
-4,TAONI,(Hao Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
-5,UIA,(Hao Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
-6,AĒA,(Anaa Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
-6,TUAHĪ,(Anaa Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
-7,KĪHOKE,(Hao Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
-9,ITI,(Anaa Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
-9,RAŊAIVA,(Anaa Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
-9,PONA,(Hao Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
-10,ŊĀURU,(Hao Island),FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
-10,HAKARAKI,[no island/dialect given],FALSE,Stimson1964,passim,,tuam1242,Tuamotuan: esoteric counting system,tuam1242-10
-1,hu,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
-2,ru,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
-3,sul,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
-4,virr,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
-5,lim,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
-6,liuse,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
-7,liuru,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
-8,liusul,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
-9,yaferr,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
-10,sangul,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
-15,sangul a lim,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
-20,wingil be rum,"cf. wingil ‘lots, a large amount’",FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Lolihor and Lonhali dialect,nort2839-3
-1,hu,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
-2,ru,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
-3,sul,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
-4,yirr,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
-5,lim,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
-6,leuse,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
-7,leuru,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
-8,leusul,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
-9,laferr,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
-10,sangil,,FALSE,Franjieh2014,passim,,nort2839,North Ambrym: Fonhal dialect,nort2839-4
-1,O rari,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
-2,E ite,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
-3,E geti,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
-4,E ope,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
-5,E miha,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
-5,(keka),,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
-6,E hene,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
-7,E hite,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
-8,E hava,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
-9,E nipa,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
-10,Fakaraki,,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
-10,(horihori),,FALSE,Audran1920,p.43,,tuam1242,Paumotu in general,tuam1242-11
-1,A tahi,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
-2,E mea,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
-3,Kuoni,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
-4,Taoni,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
-5,Uia,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
-6,Aea,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
-7,Kihoke,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
-8,E hava,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
-9,Ponapona,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
-10,Tukenohi,,FALSE,Audran1920,p.43,,tuam1242,Hao in particular,tuam1242-12
-1,E rari,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
-2,E ite,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
-3,E geti,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
-4,E ha,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
-5,E rima,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
-6,E hene,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
-7,E hite,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
-8,E varu,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
-9,E nipa,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
-10,Fakaraki,,FALSE,Audran1920,p.43,,tuam1242,Maragai,tuam1242-13
-1,E tahi,"In the eastern part of the Group by preference they use A ite, A geti, A ope, etc., as in Napuka Island.",FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
-2,E ite,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
-3,E toru,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
-4,E fa,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
-5,E rima,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
-6,E ope,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
-7,E hitu,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
-8,E varu,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
-9,E iva,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
-10,E gahuru,,FALSE,Audran1920,p.43,,tuam1242,Reao,tuam1242-14
-1,Ka rari,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
-2,Ka ite,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
-3,Ka geti,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
-4,Ka ope,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
-5,Ka mihe,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
-6,Ka hene,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
-7,Ka tika,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
-8,Ka hava,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
-9,Gohuru,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
-10,Tapahi reka,,FALSE,Audran1920,p.43,,tuam1242,Napuka,tuam1242-15
-1,E tahi,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
-2,E rua,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
-3,E toru,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
-4,E ha,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
-5,E rima,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
-6,E ono,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
-7,E hitu,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
-8,E varu,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
-9,E iva,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
-10,Rogouru,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
-1,A tahi,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
-2,A ùa,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
-3,A toù,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
-4,A ha,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
-5,A ima,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
-6,A ono,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
-7,A hitu,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
-8,A vaù,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
-9,A iva,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
-10,Onohuù,,FALSE,Audran1920,p.43,,marq1246,Marquisas,marq1246-2
-1,Hoe,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-1,(tahi),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-2,Piti,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-2,(rua),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-3,Toru,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-4,Maha,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-4,(ha),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-5,Pae,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-5,(rima),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-6,Ono,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-6,(fene),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-7,Hitu,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-8,Vaù,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-8,(varu),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-9,Iva,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-10,Ahuru,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-10,(hoe ahuru),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
-1,Tahi,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
-2,Rua,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
-3,Toru,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
-4,Wha,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
-5,Rima,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
-6,Ono,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
-7,Whitu,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
-8,Waru,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
-9,Iwa,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
-10,Tekau,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
-10,(ngahuru),,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
-2,taikaite,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: a system of counting by pairs,tuam1242-16
-4,getiope,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: a system of counting by pairs,tuam1242-16
-6,miehone,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: a system of counting by pairs,tuam1242-16
-8,tuepeka,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: a system of counting by pairs,tuam1242-16
-10,horihori,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: a system of counting by pairs,tuam1242-16
-2,e rari e kite,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: another system of counting by pairs,tuam1242-17
-4,e geti e ope,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: another system of counting by pairs,tuam1242-17
-6,e miha-hene,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: another system of counting by pairs,tuam1242-17
-8,e hite e hava,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: another system of counting by pairs,tuam1242-17
-10,e nipa e fakaraki,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: another system of counting by pairs,tuam1242-17
-1,teʔe,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-2,rua,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-3,toli,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-4,wati,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-4,usi,used only when caught fish are counted,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-4,ʔuboatutu,used when counting coconuts or breadfruit,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-4,paitaʔi,"used when counting betelnuts, pepper catkins, breadfruit seeds, canarium nuts, and New Guinea walnuts",FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-5,lima,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-6,lima teʔe,"When the object counted is expressed, the numbers optionally contain -be ‘and’ after lima ‘five’",FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-7,lima rua,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-8,lima toli,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-9,lima wati,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-10,ʔulemwa,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-11,ʔulemwa-be teʔe,be ‘and’,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-12,ʔulemwa-be rua,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-13,ʔulemwa-be toli,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-16,ʔulemwa-be lima-be teʔe,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-17,ʔulemwa-be lima-be rua,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-20,tamota (teʔe),"The word for ‘twenty’ is pronounced variously, even by the same informant, as támota or tamóata (tamoata also means ‘person’, i.e., ten fingers and ten toes). Occasionally, after saying tamóata, an informant would correct himself to támota. When informants were presented with the two forms, they invariably said that the correct form for ‘twenty’ was támota and not tamóata.",FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-20,ʔulemwa rua,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-21,tamota teʔe-be teʔe,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-21,ʔulemwa rua-be teʔe,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-28,tamota teʔe-be lima-be toli,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-28,ʔulemwa rua-be lima-be toli,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-30,tamota teʔe-be ʔulemwa,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-30,ʔulemwa toli,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-39,tamota teʔe-be ʔulemwa-be lima-be wati,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-39,ʔulemwa toli-be lima-be wati,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-40,tamota rua,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-40,ʔulemwa wati,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-50,tamota rua-be ʔulemwa,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-50,ʔulemwa lima,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
-100,tamota lima,,FALSE,Lichtenberk1983,pp.337-341,,mana1295,Manam,mana1295-6
