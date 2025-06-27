@@ -40355,3 +40355,465 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
+1,embi,[ɛmbi],FALSE,Mariati2016,passim,,sota1242,Kanum Sota,sota1242-3
+2,yenambe,[yenambe],FALSE,Mariati2016,passim,,sota1242,Kanum Sota,sota1242-3
+3,yalwau,[yalwaw],FALSE,Mariati2016,passim,,sota1242,Kanum Sota,sota1242-3
+4,aser,[aser],FALSE,Mariati2016,passim,,sota1242,Kanum Sota,sota1242-3
+5,tombloi,[tomblɔy],FALSE,Mariati2016,passim,,sota1242,Kanum Sota,sota1242-3
+6,tuwapru,[tuwapru],FALSE,Mariati2016,passim,,sota1242,Kanum Sota,sota1242-3
+7,yelan,[This form is uncertain; it was inferred from the following example on p. 82: /neuwle embi yelan sapera/ ‘seminggu ada tujuh hari’],FALSE,Mariati2016,passim,,sota1242,Kanum Sota,sota1242-3
+1,toe,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+2,kie,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+3,noer,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+4,boite,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+5,me,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+6,ombetoe,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+7,ombekie,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+8,ombenoer,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+9,ombeboite,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+10,onki,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+11,onki membetoe,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+12,onki membekie,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+16,onki memombetoe,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+20,onki ro kie,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+100,armat,,FALSE,Ruys1906,pp.330-331,,mpur1239,Amberbackensch,mpur1239-3
+1,diek,,FALSE,Ruys1906,pp.330-331,,abun1252,Karoonsch,abun1252-5
+2,oewe,,FALSE,Ruys1906,pp.330-331,,abun1252,Karoonsch,abun1252-5
+3,krie,,FALSE,Ruys1906,pp.330-331,,abun1252,Karoonsch,abun1252-5
+4,at,,FALSE,Ruys1906,pp.330-331,,abun1252,Karoonsch,abun1252-5
+5,mek,,FALSE,Ruys1906,pp.330-331,,abun1252,Karoonsch,abun1252-5
+6,mat,,FALSE,Ruys1906,pp.330-331,,abun1252,Karoonsch,abun1252-5
+7,miek,,FALSE,Ruys1906,pp.330-331,,abun1252,Karoonsch,abun1252-5
+8,mko,,FALSE,Ruys1906,pp.330-331,,abun1252,Karoonsch,abun1252-5
+9,mesche,,FALSE,Ruys1906,pp.330-331,,abun1252,Karoonsch,abun1252-5
+10,meschoe,,FALSE,Ruys1906,pp.330-331,,abun1252,Karoonsch,abun1252-5
+11,meschoe sipdiek,,FALSE,Ruys1906,pp.330-331,,abun1252,Karoonsch,abun1252-5
+12,meschoe sipoewe,,FALSE,Ruys1906,pp.330-331,,abun1252,Karoonsch,abun1252-5
+16,meschoe sipmat,,FALSE,Ruys1906,pp.330-331,,abun1252,Karoonsch,abun1252-5
+20,meschoe oewe,,FALSE,Ruys1906,pp.330-331,,abun1252,Karoonsch,abun1252-5
+1,soe,,FALSE,Ruys1906,pp.330-331,,karo1303,Karoonsch Dorri,karo1303-1
+2,ei,,FALSE,Ruys1906,pp.330-331,,karo1303,Karoonsch Dorri,karo1303-1
+3,toef,,FALSE,Ruys1906,pp.330-331,,karo1303,Karoonsch Dorri,karo1303-1
+4,tjiet,,FALSE,Ruys1906,pp.330-331,,karo1303,Karoonsch Dorri,karo1303-1
+5,temsoe,,FALSE,Ruys1906,pp.330-331,,karo1303,Karoonsch Dorri,karo1303-1
+6,krimsoe,,FALSE,Ruys1906,pp.330-331,,karo1303,Karoonsch Dorri,karo1303-1
+7,krimei,,FALSE,Ruys1906,pp.330-331,,karo1303,Karoonsch Dorri,karo1303-1
+8,krimtoef,,FALSE,Ruys1906,pp.330-331,,karo1303,Karoonsch Dorri,karo1303-1
+9,krimtjiet,,FALSE,Ruys1906,pp.330-331,,karo1303,Karoonsch Dorri,karo1303-1
+10,tjemeit,,FALSE,Ruys1906,pp.330-331,,karo1303,Karoonsch Dorri,karo1303-1
+11,tjemeit o soe,,FALSE,Ruys1906,pp.330-331,,karo1303,Karoonsch Dorri,karo1303-1
+12,tjemeit o ei,,FALSE,Ruys1906,pp.330-331,,karo1303,Karoonsch Dorri,karo1303-1
+16,tjemeit krimsoe,,FALSE,Ruys1906,pp.330-331,,karo1303,Karoonsch Dorri,karo1303-1
+1,pajengorin,,FALSE,Blevins2024,p.196,,saja1241,Basa Latala (a Punan Sajau song language; from Lansing et al. 2022),saja1241-2
+2,labo,,FALSE,Blevins2024,p.196,,saja1241,Basa Latala (a Punan Sajau song language; from Lansing et al. 2022),saja1241-2
+1,gilem,,FALSE,Blevins2024,p.196,,saja1241,Punan Sajau (from Lansing et al. 2022),saja1241-3
+2,dua,,FALSE,Blevins2024,p.196,,saja1241,Punan Sajau (from Lansing et al. 2022),saja1241-3
+3,tolu,,FALSE,Blevins2024,p.196,,saja1241,Punan Sajau (from Lansing et al. 2022),saja1241-3
+4,apat,,FALSE,Blevins2024,p.196,,saja1241,Punan Sajau (from Lansing et al. 2022),saja1241-3
+5,limo,,FALSE,Blevins2024,p.196,,saja1241,Punan Sajau (from Lansing et al. 2022),saja1241-3
+1,araiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Sakalava (Ambanja),anta1255-7
+2,aroe,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Sakalava (Ambanja),anta1255-7
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Sakalava (Ambanja),anta1255-7
+4,aifatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Sakalava (Ambanja),anta1255-7
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Sakalava (Ambanja),anta1255-7
+1,raika,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Ambatondrazaka),plat1254-14
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Ambatondrazaka),plat1254-14
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Ambatondrazaka),plat1254-14
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Ambatondrazaka),plat1254-14
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Ambatondrazaka),plat1254-14
+1,araiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana (Ambilobe),anta1255-8
+2,aroe,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana (Ambilobe),anta1255-8
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana (Ambilobe),anta1255-8
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana (Ambilobe),anta1255-8
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana (Ambilobe),anta1255-8
+1,raike,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Ambovombe),tand1256-1
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Ambovombe),tand1256-1
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Ambovombe),tand1256-1
+4,efatre,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Ambovombe),tand1256-1
+5,dime,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Ambovombe),tand1256-1
+1,raike,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly (Ampanihy),maha1309-3
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly (Ampanihy),maha1309-3
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly (Ampanihy),maha1309-3
+4,efatse,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly (Ampanihy),maha1309-3
+5,lime,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly (Ampanihy),maha1309-3
+1,raike,,FALSE,Serva2020,pone.0240170.s001.pdf,,mala1537,Mikea (Ampoakafo),mala1537-1
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,mala1537,Mikea (Ampoakafo),mala1537-1
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,mala1537,Mikea (Ampoakafo),mala1537-1
+4,efatse,,FALSE,Serva2020,pone.0240170.s001.pdf,,mala1537,Mikea (Ampoakafo),mala1537-1
+5,lime,,FALSE,Serva2020,pone.0240170.s001.pdf,,mala1537,Mikea (Ampoakafo),mala1537-1
+1,araiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Betsimisaraka (Antalaha),tsim1257-2
+2,aroa,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Betsimisaraka (Antalaha),tsim1257-2
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Betsimisaraka (Antalaha),tsim1257-2
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Betsimisaraka (Antalaha),tsim1257-2
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Betsimisaraka (Antalaha),tsim1257-2
+1,iray,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Antananarivo),plat1254-15
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Antananarivo),plat1254-15
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Antananarivo),plat1254-15
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Antananarivo),plat1254-15
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Antananarivo),plat1254-15
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Betroka),bara1369-3
+2,roy,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Betroka),bara1369-3
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Betroka),bara1369-3
+4,efatsy,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Betroka),bara1369-3
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Betroka),bara1369-3
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,tesa1236,Zafisoro (Farafangana),tesa1236-2
+2,roy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tesa1236,Zafisoro (Farafangana),tesa1236-2
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,tesa1236,Zafisoro (Farafangana),tesa1236-2
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,tesa1236,Zafisoro (Farafangana),tesa1236-2
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tesa1236,Zafisoro (Farafangana),tesa1236-2
+1,araiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Fenoarivo-Est),nort2890-3
+2,aro,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Fenoarivo-Est),nort2890-3
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Fenoarivo-Est),nort2890-3
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Fenoarivo-Est),nort2890-3
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Fenoarivo-Est),nort2890-3
+1,raika,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Fianarantsoa),plat1254-16
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Fianarantsoa),plat1254-16
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Fianarantsoa),plat1254-16
+4,efatsa,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Fianarantsoa),plat1254-16
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Fianarantsoa),plat1254-16
+1,reka,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Mahanoro),sout2920-8
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Mahanoro),sout2920-8
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Mahanoro),sout2920-8
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Mahanoro),sout2920-8
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Mahanoro),sout2920-8
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Maintirano),saka1291-2
+2,roy,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Maintirano),saka1291-2
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Maintirano),saka1291-2
+4,efatsy,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Maintirano),saka1291-2
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Maintirano),saka1291-2
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,mala1537,Sakalava (Mahajanga),mala1537-2
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,mala1537,Sakalava (Mahajanga),mala1537-2
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,mala1537,Sakalava (Mahajanga),mala1537-2
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,mala1537,Sakalava (Mahajanga),mala1537-2
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,mala1537,Sakalava (Mahajanga),mala1537-2
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Antaimoro (Manakara),plat1254-17
+2,roy,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Antaimoro (Manakara),plat1254-17
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Antaimoro (Manakara),plat1254-17
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Antaimoro (Manakara),plat1254-17
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Antaimoro (Manakara),plat1254-17
+1,raika,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Antambohoaka (Mananjary),plat1254-18
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Antambohoaka (Mananjary),plat1254-18
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Antambohoaka (Mananjary),plat1254-18
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Antambohoaka (Mananjary),plat1254-18
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Antambohoaka (Mananjary),plat1254-18
+1,araiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Mandritsara),tsim1257-3
+2,aroa,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Mandritsara),tsim1257-3
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Mandritsara),tsim1257-3
+4,aifatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Mandritsara),tsim1257-3
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Mandritsara),tsim1257-3
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro (Miary),masi1268-2
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro (Miary),masi1268-2
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro (Miary),masi1268-2
+4,efatse,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro (Miary),masi1268-2
+5,limy,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro (Miary),masi1268-2
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Sakalava (Morondava),masi1268-3
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Sakalava (Morondava),masi1268-3
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Sakalava (Morondava),masi1268-3
+4,efatsy,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Sakalava (Morondava),masi1268-3
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Sakalava (Morondava),masi1268-3
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Tolagnaro),tano1246-3
+2,ro,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Tolagnaro),tano1246-3
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Tolagnaro),tano1246-3
+4,efatry,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Tolagnaro),tano1246-3
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Tolagnaro),tano1246-3
+1,raike,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Toliara),masi1268-4
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Toliara),masi1268-4
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Toliara),masi1268-4
+4,efatse,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Toliara),masi1268-4
+5,lime,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Toliara),masi1268-4
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,tesa1236,Antaisaka (Vangaindrano),tesa1236-3
+2,roy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tesa1236,Antaisaka (Vangaindrano),tesa1236-3
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,tesa1236,Antaisaka (Vangaindrano),tesa1236-3
+4,efatry,,FALSE,Serva2020,pone.0240170.s001.pdf,,tesa1236,Antaisaka (Vangaindrano),tesa1236-3
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tesa1236,Antaisaka (Vangaindrano),tesa1236-3
+1,araiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana (Vohemar),anta1255-9
+2,aroe,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana (Vohemar),anta1255-9
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana (Vohemar),anta1255-9
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana (Vohemar),anta1255-9
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana (Vohemar),anta1255-9
+1,raika,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambositra),plat1254-19
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambositra),plat1254-19
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambositra),plat1254-19
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambositra),plat1254-19
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambositra),plat1254-19
+1,raika,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambalavao),plat1254-20
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambalavao),plat1254-20
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambalavao),plat1254-20
+4,efatse,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambalavao),plat1254-20
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambalavao),plat1254-20
+1,raike,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Itampolo),maha1309-4
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Itampolo),maha1309-4
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Itampolo),maha1309-4
+4,efatre,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Itampolo),maha1309-4
+5,lime,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Itampolo),maha1309-4
+1,raike,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Morombe),masi1268-5
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Morombe),masi1268-5
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Morombe),masi1268-5
+4,efatse,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Morombe),masi1268-5
+5,lime,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Morombe),masi1268-5
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Bezaha),tano1246-4
+2,ro,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Bezaha),tano1246-4
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Bezaha),tano1246-4
+4,efasy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Bezaha),tano1246-4
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Bezaha),tano1246-4
+1,iray,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Tanala (Ifanadiana),plat1254-21
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Tanala (Ifanadiana),plat1254-21
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Tanala (Ifanadiana),plat1254-21
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Tanala (Ifanadiana),plat1254-21
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Tanala (Ifanadiana),plat1254-21
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Ranohira),bara1369-4
+2,roy,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Ranohira),bara1369-4
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Ranohira),bara1369-4
+4,efatsy,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Ranohira),bara1369-4
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Ranohira),bara1369-4
+1,raike,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Manorofify),maha1309-5
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Manorofify),maha1309-5
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Manorofify),maha1309-5
+4,efatse,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Manorofify),maha1309-5
+5,lime,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Manorofify),maha1309-5
+1,raike,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Toliara),tand1256-2
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Toliara),tand1256-2
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Toliara),tand1256-2
+4,efatse,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Toliara),tand1256-2
+5,lime,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Toliara),tand1256-2
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Anakao),maha1309-6
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Anakao),maha1309-6
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Anakao),maha1309-6
+4,efatse,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Anakao),maha1309-6
+5,lime,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Antanalana (Anakao),maha1309-6
+1,reka,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Marolambo),sout2920-9
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Marolambo),sout2920-9
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Marolambo),sout2920-9
+4,efara,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Marolambo),sout2920-9
+5,dime,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Marolambo),sout2920-9
+1,araiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Betsimisaraka (Antsiranana),anta1255-10
+2,aroe,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Betsimisaraka (Antsiranana),anta1255-10
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Betsimisaraka (Antsiranana),anta1255-10
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Betsimisaraka (Antsiranana),anta1255-10
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,anta1255,Betsimisaraka (Antsiranana),anta1255-10
+1,reka,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Brickaville),sout2920-10
+2,roy,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Brickaville),sout2920-10
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Brickaville),sout2920-10
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Brickaville),sout2920-10
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Brickaville),sout2920-10
+1,areka,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Toamasina),sout2920-11
+2,aro,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Toamasina),sout2920-11
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Toamasina),sout2920-11
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Toamasina),sout2920-11
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Toamasina),sout2920-11
+1,araiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Mananara),nort2890-4
+2,aro,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Mananara),nort2890-4
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Mananara),nort2890-4
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Mananara),nort2890-4
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Mananara),nort2890-4
+1,araiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Mampikony),tsim1257-4
+2,aroa,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Mampikony),tsim1257-4
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Mampikony),tsim1257-4
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Mampikony),tsim1257-4
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Mampikony),tsim1257-4
+1,araiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Andapa),tsim1257-5
+2,aroa,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Andapa),tsim1257-5
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Andapa),tsim1257-5
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Andapa),tsim1257-5
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Andapa),tsim1257-5
+1,akaiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Nosy Boraha (Ambodifotatra),nort2890-5
+2,aroa,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Nosy Boraha (Ambodifotatra),nort2890-5
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Nosy Boraha (Ambodifotatra),nort2890-5
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Nosy Boraha (Ambodifotatra),nort2890-5
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Nosy Boraha (Ambodifotatra),nort2890-5
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Beroroha),bara1369-5
+2,roy,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Beroroha),bara1369-5
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Beroroha),bara1369-5
+4,efatsy,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Beroroha),bara1369-5
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Beroroha),bara1369-5
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Miandrivazo),saka1291-3
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Miandrivazo),saka1291-3
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Miandrivazo),saka1291-3
+4,efatsy,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Miandrivazo),saka1291-3
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Miandrivazo),saka1291-3
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Morondava),masi1268-6
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Morondava),masi1268-6
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Morondava),masi1268-6
+4,efatry,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Morondava),masi1268-6
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,masi1268,Vezo (Morondava),masi1268-6
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Ihosy),bara1369-6
+2,roy,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Ihosy),bara1369-6
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Ihosy),bara1369-6
+4,efatry,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Ihosy),bara1369-6
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,bara1369,Bara (Ihosy),bara1369-6
+1,araiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Antsohihy),tsim1257-6
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Antsohihy),tsim1257-6
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Antsohihy),tsim1257-6
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Antsohihy),tsim1257-6
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Antsohihy),tsim1257-6
+1,ray,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Maevatanana),plat1254-22
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Maevatanana),plat1254-22
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Maevatanana),plat1254-22
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Maevatanana),plat1254-22
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Maevatanana),plat1254-22
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Besalampy),saka1291-4
+2,roy,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Besalampy),saka1291-4
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Besalampy),saka1291-4
+4,efatry,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Besalampy),saka1291-4
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Besalampy),saka1291-4
+1,reka,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Tanambao Manampotsy),sout2920-12
+2,roy,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Tanambao Manampotsy),sout2920-12
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Tanambao Manampotsy),sout2920-12
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Tanambao Manampotsy),sout2920-12
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Tanambao Manampotsy),sout2920-12
+1,ray,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Morarano Chrome),plat1254-23
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Morarano Chrome),plat1254-23
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Morarano Chrome),plat1254-23
+4,iefatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Morarano Chrome),plat1254-23
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Morarano Chrome),plat1254-23
+1,raika,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambohimahasoa),plat1254-24
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambohimahasoa),plat1254-24
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambohimahasoa),plat1254-24
+4,efatsa,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambohimahasoa),plat1254-24
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Betsileo (Ambohimahasoa),plat1254-24
+1,araiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Maroantsetra),nort2890-6
+2,aro,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Maroantsetra),nort2890-6
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Maroantsetra),nort2890-6
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Maroantsetra),nort2890-6
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,nort2890,Betsimisaraka (Maroantsetra),nort2890-6
+1,ray,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Analavory),plat1254-25
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Analavory),plat1254-25
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Analavory),plat1254-25
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Analavory),plat1254-25
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Merina (Analavory),plat1254-25
+1,reka,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Sahavato),sout2920-13
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Sahavato),sout2920-13
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Sahavato),sout2920-13
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Sahavato),sout2920-13
+5,dime,,FALSE,Serva2020,pone.0240170.s001.pdf,,sout2920,Betsimisaraka (Sahavato),sout2920-13
+1,raike,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly (Ejeda),maha1309-7
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly (Ejeda),maha1309-7
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly (Ejeda),maha1309-7
+4,efatse,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly (Ejeda),maha1309-7
+5,lime,,FALSE,Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly (Ejeda),maha1309-7
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Belamoty),tano1246-5
+2,ro,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Belamoty),tano1246-5
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Belamoty),tano1246-5
+4,efasy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Belamoty),tano1246-5
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tano1246,Antanosy (Belamoty),tano1246-5
+1,iray,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Andilamena),plat1254-26
+2,roa,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Andilamena),plat1254-26
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Andilamena),plat1254-26
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Andilamena),plat1254-26
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,plat1254,Sihanaka (Andilamena),plat1254-26
+1,raike,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Tsihombe),tand1256-3
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Tsihombe),tand1256-3
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Tsihombe),tand1256-3
+4,efatse,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Tsihombe),tand1256-3
+5,dime,,FALSE,Serva2020,pone.0240170.s001.pdf,,tand1256,Antandroy (Tsihombe),tand1256-3
+1,raiky,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Belon'i Tsiribihina),saka1291-5
+2,roe,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Belon'i Tsiribihina),saka1291-5
+3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Belon'i Tsiribihina),saka1291-5
+4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Belon'i Tsiribihina),saka1291-5
+5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,saka1291,Sakalava (Belon'i Tsiribihina),saka1291-5
+1,embipe,,FALSE,Mariati2021,passim,,sota1242,Kanum Sota,sota1242-4
+2,yenambe,,FALSE,Mariati2021,passim,,sota1242,Kanum Sota,sota1242-4
+3,yalwau,,FALSE,Mariati2021,passim,,sota1242,Kanum Sota,sota1242-4
+4,aser,,FALSE,Mariati2021,passim,,sota1242,Kanum Sota,sota1242-4
+5,tambloi,,FALSE,Mariati2021,passim,,sota1242,Kanum Sota,sota1242-4
+1,waai,"base form, used in counting",FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+2,iolua,"base form, used in counting",FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+3,soluso,"base form, used in counting",FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+1,waai-o,mo class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+2,io-o-lua,mo class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+3,soluso,mo class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+1,waai-o,o class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+2,io-o-lua,o class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+3,sa-o-lusa-o,o class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+1,waai-he,he class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+2,ie-he-lia,he class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+3,se-he-lisa-ha,he class [given in an example as <jehelia>],FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+1,waai-fo,fo class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+2,ie-fe-lia,fo class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+3,se-fe-lise-fo,fo class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+1,waai-sapo,sapo class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+2,io-sapo-lua,sapo class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+3,se-sapo-lusa-po,sapo class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+1,waai-tano,tano class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+2,io-tano-lua,tano class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+3,se-sano-luta-no,tano class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+1,waai-pe,pe class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+2,ie-pe-lia,pe class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+3,se-pe-lise-pe,pe class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+1,waai-pla,pla class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+2,ie-fliafeli,pla class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+3,s-fe-lis-fla,pla class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+1,waai-mse,se (F) class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+2,ielia,se (F) class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+3,selisa,se (F) class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+1,waai-mwe,we (M) class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+2,ielia,we (M) class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+3,selisa,we (M) class,FALSE,Loiseau2022,p.60,,tuwa1242,Tuwari,tuwa1242-2
+1,ˈcuwa,,FALSE,Saupia2023,p.19,,mali1283,Malimpung,mali1283-1
+2,duwa,,FALSE,Saupia2023,p.19,,mali1283,Malimpung,mali1283-1
+3,ˈtallu,,FALSE,Saupia2023,p.19,,mali1283,Malimpung,mali1283-1
+4,aɁpa,,FALSE,Saupia2023,p.19,,mali1283,Malimpung,mali1283-1
+5,ˈlima,,FALSE,Saupia2023,p.19,,mali1283,Malimpung,mali1283-1
+6,ˈanaŋ,,FALSE,Saupia2023,p.19,,mali1283,Malimpung,mali1283-1
+7,ˈpitu,,FALSE,Saupia2023,p.19,,mali1283,Malimpung,mali1283-1
+8,ˈkaɾua,,FALSE,Saupia2023,p.19,,mali1283,Malimpung,mali1283-1
+9,ˈkaseɾa,,FALSE,Saupia2023,p.19,,mali1283,Malimpung,mali1283-1
+10,ˈsapulo,,FALSE,Saupia2023,p.19,,mali1283,Malimpung,mali1283-1
+11,ˈsapulo cuwa,,FALSE,Saupia2023,p.19,,mali1283,Malimpung,mali1283-1
+100,ˈseɾatu,,FALSE,Saupia2023,p.19,,mali1283,Malimpung,mali1283-1
+1000,ˈsesabu,,FALSE,Saupia2023,p.19,,mali1283,Malimpung,mali1283-1
+1,arapʊtat,,FALSE,Carter2023,p.59,,mura1271,Asat (Yagomi),mura1271-2
+2,jirit,,FALSE,Carter2023,p.59,,mura1271,Asat (Yagomi),mura1271-2
+3,anpʊ,,FALSE,Carter2023,p.59,,mura1271,Asat (Yagomi),mura1271-2
+4,"jirim, ɡoi jirim",,FALSE,Carter2023,p.59,,mura1271,Asat (Yagomi),mura1271-2
+5,"kra daɡum, kra daum",,FALSE,Carter2023,p.59,,mura1271,Asat (Yagomi),mura1271-2
+10,kra daum,,FALSE,Carter2023,p.59,,mura1271,Asat (Yagomi),mura1271-2
+1,jɛsɛnaŋ,,FALSE,Carter2023,p.59,,yago1240,Tandɨ (Yagomi),yago1240-2
+2,jat,,FALSE,Carter2023,p.59,,yago1240,Tandɨ (Yagomi),yago1240-2
+3,anpa,,FALSE,Carter2023,p.59,,yago1240,Tandɨ (Yagomi),yago1240-2
+4,it jatnaŋn,,FALSE,Carter2023,p.59,,yago1240,Tandɨ (Yagomi),yago1240-2
+5,ɔriŋ jasanaŋ,,FALSE,Carter2023,p.59,,yago1240,Tandɨ (Yagomi),yago1240-2
+10,ɔriŋ jatjat,,FALSE,Carter2023,p.59,,yago1240,Tandɨ (Yagomi),yago1240-2
+1,desɨnɨŋ,,FALSE,Carter2023,p.59,,dege1247,Sidbi/Andik (Seure),dege1247-4
+2,jat,,FALSE,Carter2023,p.59,,dege1247,Sidbi/Andik (Seure),dege1247-4
+3,alpɨŋ,,FALSE,Carter2023,p.59,,dege1247,Sidbi/Andik (Seure),dege1247-4
+4,taltal,,FALSE,Carter2023,p.59,,dege1247,Sidbi/Andik (Seure),dege1247-4
+5,suŋiŋ,,FALSE,Carter2023,p.59,,dege1247,Sidbi/Andik (Seure),dege1247-4
+10,ojakŋiŋ,,FALSE,Carter2023,p.59,,dege1247,Sidbi/Andik (Seure),dege1247-4
+1,desənɘŋ,,FALSE,Carter2023,p.59,,dege1247,Degenang (Sel),dege1247-5
+2,jak,,FALSE,Carter2023,p.59,,dege1247,Degenang (Sel),dege1247-5
+3,alɘŋ,,FALSE,Carter2023,p.59,,dege1247,Degenang (Sel),dege1247-5
+4,taltal,,FALSE,Carter2023,p.59,,dege1247,Degenang (Sel),dege1247-5
+5,onuŋik,,FALSE,Carter2023,p.59,,dege1247,Degenang (Sel),dege1247-5
+10,onuŋik tɘmɘŋ,,FALSE,Carter2023,p.59,,dege1247,Degenang (Sel),dege1247-5
+1,sakai,,FALSE,Carter2023,p.59,,fora1245,Forak (Mamgak),fora1245-2
+2,jam,,FALSE,Carter2023,p.59,,fora1245,Forak (Mamgak),fora1245-2
+3,jasiɡaʔ,,FALSE,Carter2023,p.59,,fora1245,Forak (Mamgak),fora1245-2
+4,sɛlbaʔstai,,FALSE,Carter2023,p.59,,fora1245,Forak (Mamgak),fora1245-2
+5,sɛbaʔstai suwuŋai skai,,FALSE,Carter2023,p.59,,fora1245,Forak (Mamgak),fora1245-2
+10,suwuŋai,,FALSE,Carter2023,p.59,,fora1245,Forak (Mamgak),fora1245-2
+1,apɨtak,,FALSE,Carter2023,p.59,,mura1271,Muratayak (Faigurup),mura1271-3
+2,jirit,,FALSE,Carter2023,p.59,,mura1271,Muratayak (Faigurup),mura1271-3
+3,alpɨ,,FALSE,Carter2023,p.59,,mura1271,Muratayak (Faigurup),mura1271-3
+4,kraɡak,,FALSE,Carter2023,p.59,,mura1271,Muratayak (Faigurup),mura1271-3
+5,kradaum,,FALSE,Carter2023,p.59,,mura1271,Muratayak (Faigurup),mura1271-3
+10,kradaumdaum,,FALSE,Carter2023,p.59,,mura1271,Muratayak (Talmiro),mura1271-3
+1,ara patak,,FALSE,Carter2023,p.59,,mura1271,Muratayak (Talmiro),mura1271-4
+2,jirit,,FALSE,Carter2023,p.59,,mura1271,Muratayak (Talmiro),mura1271-4
+3,alpɨ,,FALSE,Carter2023,p.59,,mura1271,Muratayak (Talmiro),mura1271-4
+4,ɡo jirit,,FALSE,Carter2023,p.59,,mura1271,Muratayak (Talmiro),mura1271-4
+5,ɡo jirit arafatak,,FALSE,Carter2023,p.59,,mura1271,Muratayak (Talmiro),mura1271-4
+10,kra daum,,FALSE,Carter2023,p.59,,mura1271,Muratayak (Talmiro),mura1271-4
+1,tatuŋa:na,,FALSE,Carter2023,p.59,,mala1487,Dagarup Pano,mala1487-7
+2,dru,,FALSE,Carter2023,p.59,,mala1487,Dagarup Pano,mala1487-7
+3,tɔl,,FALSE,Carter2023,p.59,,mala1487,Dagarup Pano,mala1487-7
+1,uro,"The Owininga word for ‘one’ is, perhaps unexpectedly, the by far least substantiated numeral between one and five in Sienesisi Emebi Sisasino Emebi (1988), with no more than one occurrence.",FALSE,LundgrenBurman2024,p.41,,owin1240,Owininga,owin1240-3
+2,simapi,,FALSE,LundgrenBurman2024,p.41,,owin1240,Owininga,owin1240-3
+3,soumapi,,FALSE,LundgrenBurman2024,p.41,,owin1240,Owininga,owin1240-3
+4,sünekame,,FALSE,LundgrenBurman2024,p.41,,owin1240,Owininga,owin1240-3
+5,nomo kerare,"As can be seen in the examples above, all numerals of five or more contain the word ‘nomo’ which means ‘hand’.",FALSE,LundgrenBurman2024,p.41,,owin1240,Owininga,owin1240-3
+6,nomo kerare sesi,"The first occurrence of both six and seven in the ESV – the sixth and seventh day in the first and second book of Genesis – are both translated as ‘namo kerare sesi’ in Owininga, i.e. the numeral that is postulated above as six. This does, however, seem to be an error as this translation of seven is an anomaly.",FALSE,LundgrenBurman2024,p.41,,owin1240,Owininga,owin1240-3
+7,nomo kerare nano,"The fact that there are multiple examples of seven being translated to ‘nomo kerare nano’, with the one deviation of it being translated to ‘nomo kerare sesi’ – which is well substantiated as meaning six –both heavily imply that the correct translation of seven is ‘nomo kerare nano’, which is why it is postulated above as such. [cf. /na-no/ ‘2.SG-GEN’]",FALSE,LundgrenBurman2024,p.41,,owin1240,Owininga,owin1240-3
+8,nomo kerare sesi nano (akae) simapi,"There is only one occurrence of this, why it is unclear what words are part of the numeral, and what words are unrelated.",FALSE,LundgrenBurman2024,p.41,,owin1240,Owininga,owin1240-3
+10,nomo sima kerare,"Every numeral ten and above contains the word ‘sima’, which possibly could be a shortened form of ‘simapi’, i.e. ‘two’. For ‘two hands’ to mean ten would also be a logical continuation of ‘hand’ meaning five.",FALSE,LundgrenBurman2024,p.41,,owin1240,Owininga,owin1240-3
+12,nomo sima kerare nano simapi,,FALSE,LundgrenBurman2024,p.41,,owin1240,Owininga,owin1240-3
