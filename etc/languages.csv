@@ -20,6 +20,7 @@ abun1252-1,Karón,Galis1955,p.139,,abun1252,Abun,kgr,Papunesia,-0.57073,132.416,
 abun1252-2,Mádik,Galis1955,p.139,,abun1252,Abun,kgr,Papunesia,-0.57073,132.416,Abun
 abun1252-3,Karôn,Cowan1953,p.14,,abun1252,Abun,kgr,Papunesia,-0.57073,132.416,Abun
 abun1252-4,Madik,Cowan1953,p.14,,abun1252,Abun,kgr,Papunesia,-0.57073,132.416,Abun
+abun1252-5,Karoonsch,Ruys1906,pp.330-331,,abun1252,Abun,kgr,Papunesia,-0.57073,132.416,Abun
 abuu1241-1,Adjora,Zgraggen1972,pp.215-219,,abuu1241,Abu,ado,Papunesia,-4.24027,144.474,Ramu
 abuu1241-2,Adjora (Gwɨn),Laycock1971D20,p.2772,,abuu1241,Abu,ado,Papunesia,-4.24027,144.474,Ramu
 abuu1241-3,Porapora #2 (Adjora),Laycock1971D19,p.2684,,abuu1241,Abu,ado,Papunesia,-4.24027,144.474,Ramu
@@ -145,11 +146,15 @@ ansu1237-1,Ansus,Galis1955,p.140,,ansu1237,Ansus,and,Papunesia,-1.7543,135.866,A
 ansu1237-2,Ansoes,Grace1955pdf49,p.85,,ansu1237,Ansus,and,Papunesia,-1.7543,135.866,Austronesian
 ansu1237-3,Ansus,Anceaux1961,pp.72-76,,ansu1237,Ansus,and,Papunesia,-1.7543,135.866,Austronesian
 anta1255-1,Sakalava,ThomasFattier1982,p.120,,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian
+anta1255-10,Betsimisaraka (Antsiranana),Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian
 anta1255-2,Tankarana,Jully1901,passim,,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian
 anta1255-3,"Antômboka, N.",Sibree1897,pp.108-109,,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian
 anta1255-4,"Ihàrana, N.E. Co.",Sibree1897,pp.108-109,,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian
 anta1255-5,"Anòrontsànga, N. W. Co.",Sibree1897,pp.108-109,,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian
 anta1255-6,Ankoàla; N. W. Co.,Sibree1897,pp.108-109,,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian
+anta1255-7,Sakalava (Ambanja),Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian
+anta1255-8,Antankarana (Ambilobe),Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian
+anta1255-9,Antankarana (Vohemar),Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian
 anuk1239-1,Anuki,Lean1986Vol06,p.29,S.I.L word list (1975). Village: Pem.,anuk1239,Anuki,aui,Papunesia,-9.6692,149.822,Austronesian
 anus1237-1,Sobei-groep Anus,Galis1955,p.143,,anus1237,Korur,auq,Papunesia,-2.26271,139.502,Austronesian
 anus1237-2,koru ˈfanu - anus,Grace1955pdf25,p.2 [of pdf],,anus1237,Korur,auq,Papunesia,-2.26271,139.502,Austronesian
@@ -294,6 +299,10 @@ bant1286-1,Bantik (mentioned in JB 1939),Stokhof1983Vol7.2,pp.300-301,,bant1286,
 bant1286-2,Bantik (mentioned in NGB 1897),Stokhof1983Vol7.2,p.294,,bant1286,Bantik,bnq,Papunesia,1.44586,124.846,Austronesian
 bara1369-1,Bara,Rabenilaina1974,p.323,,bara1369,Bara Malagasy,bhr,Africa,-23.9716,45.5937,Austronesian
 bara1369-2,"Bara, Ihòsy, S. Cent.",Sibree1897,pp.108-109,,bara1369,Bara Malagasy,bhr,Africa,-23.9716,45.5937,Austronesian
+bara1369-3,Bara (Betroka),Serva2020,pone.0240170.s001.pdf,,bara1369,Bara Malagasy,bhr,Africa,-23.9716,45.5937,Austronesian
+bara1369-4,Bara (Ranohira),Serva2020,pone.0240170.s001.pdf,,bara1369,Bara Malagasy,bhr,Africa,-23.9716,45.5937,Austronesian
+bara1369-5,Bara (Beroroha),Serva2020,pone.0240170.s001.pdf,,bara1369,Bara Malagasy,bhr,Africa,-23.9716,45.5937,Austronesian
+bara1369-6,Bara (Ihosy),Serva2020,pone.0240170.s001.pdf,,bara1369,Bara Malagasy,bhr,Africa,-23.9716,45.5937,Austronesian
 bara1370-1,Kayan,Urquhart1955,p.195,,bara1370,Baram Kayan,kys,Papunesia,3.51211,114.482,Austronesian
 bara1370-2,Long Naah Kayan,Smith2015,pp.351-353,,bara1370,Baram Kayan,kys,Papunesia,3.51211,114.482,Austronesian
 bara1371-1,Baras,Yamaguchi2003,p.20,,bara1371,Baras,brs,Papunesia,-1.5667,119.342,Austronesian
@@ -605,6 +614,8 @@ dedu1240-3,Dedua (from SIL word list),LeanMorobe,p.29,SIL Word List (1975).,dedu
 dege1247-1,Degenan,LeanMadang,pp.80-81,1 CSQ. Village: Sel.,dege1247,Degenan,dge,Papunesia,-5.70892,146.572,Nuclear Trans New Guinea
 dege1247-2,Sel,Lincoln1976,p.121,,dege1247,Degenan,dge,Papunesia,-5.70892,146.572,Nuclear Trans New Guinea
 dege1247-3,Degenan (Sel village),Carter2012,p.50,,dege1247,Degenan,dge,Papunesia,-5.70892,146.572,Nuclear Trans New Guinea
+dege1247-4,Sidbi/Andik (Seure),Carter2023,p.59,,dege1247,Degenan,dge,Papunesia,-5.70892,146.572,Nuclear Trans New Guinea
+dege1247-5,Degenang (Sel),Carter2023,p.59,,dege1247,Degenan,dge,Papunesia,-5.70892,146.572,Nuclear Trans New Guinea
 dehu1237-1,Lifu,Codrington1885,"pp.226, 232, 236, 244",,dehu1237,Dehu,dhv,Papunesia,-20.8892,167.229,Austronesian
 dela1251-1,Òe-nale,Jonker1908,passim,,dela1251,Dela-Oenale,row,Papunesia,-10.8469,122.852,Austronesian
 demm1245-1,Dem,Stokhof1983Vol5.2,p.220,,demm1245,Dem,dem,Papunesia,-3.72183,137.632,Dem
@@ -751,6 +762,7 @@ foii1241-2,Foe,Franklin2001,pp.152-153,,foii1241,Foi,foi,Papunesia,-6.47258,143.
 folo1238-1,Folopa,Anderson2010,pp.44-45,,folo1238,Folopa,ppo,Papunesia,-6.86321,144.458,Teberan
 folo1238-2,Podopa,Lean1986Vol11,p.30,SIL Word List (1966). Village: Gena.,folo1238,Folopa,ppo,Papunesia,-6.86321,144.458,Teberan
 fora1245-1,Forak (Mamgak/Sariŋ village),Carter2012,p.50,,fora1245,Forak,frq,Papunesia,-5.69079,146.541,Nuclear Trans New Guinea
+fora1245-2,Forak (Mamgak),Carter2023,p.59,,fora1245,Forak,frq,Papunesia,-5.69079,146.541,Nuclear Trans New Guinea
 ford1242-1,Fordata,Stokhof1981Vol3.1,p.44,,ford1242,Fordata,frd,Papunesia,-7.28902,131.511,Austronesian
 fore1270-1,Fore,Scott1978,"pp.181, 182, 188, 193, 194",,fore1270,Fore,for,Papunesia,-6.64473,145.5065,Nuclear Trans New Guinea
 fore1270-2,Fore (3 dialect areas),Lean1986Vol08,p.51,12 CSQs (from the 3 dialect areas).,fore1270,Fore,for,Papunesia,-6.64473,145.5065,Nuclear Trans New Guinea
@@ -1087,6 +1099,7 @@ kark1258-3,Yuri (Kambriap village),LeanSandaun,p.23,1 CSQ. Village: Kambriap.,ka
 karn1252-1,Barim,Smith1988,pp.58-59,,karn1252,Karnai,bbv,Papunesia,-5.74133,147.917,Austronesian
 karn1252-2,"Barim, Rock Island",Chinnery1928,pp.99-100,,karn1252,Karnai,bbv,Papunesia,-5.74133,147.917,Austronesian
 karn1252-3,Karnai,Carter2012,p.59,,karn1252,Karnai,bbv,Papunesia,-5.74133,147.917,Austronesian
+karo1303-1,Karoonsch Dorri,Ruys1906,pp.330-331,,karo1303,Karon Dori,kgw,Papunesia,-0.7871,132.663,Maybratic
 kasi1256-1,Kasiguranin (Casiguran Dialect),Headland1972,pp.3-7,,kasi1256,Kasiguranin,ksn,Papunesia,16.1881,122.118,Austronesian
 kasi1256-2,Casiguran,Vanoverbergh1937,"pp.110, 116",,kasi1256,Kasiguranin,ksn,Papunesia,16.1881,122.118,Austronesian
 kasu1251-1,Kasua,Lean1986Vol10,"pp.23, 52",[unknown],kasu1251,Kasua,khs,Papunesia,-6.64861,142.993,Bosavi
@@ -1447,6 +1460,11 @@ mago1248-2,Magori,Dutton1976,p.600,,mago1248,Magori,zgr,Papunesia,-10.2321,149.2
 magu1243-1,Maguindanao,Arnaud1998,pp.863-878 [word list item numbers],,magu1243,Maguindanao,mdh,Papunesia,6.9453,124.509,Austronesian
 maha1309-1,Mahafaly,PonsBallesteros2012,p.3,,maha1309,Mahafaly-Antanalana Malagasy,,Africa,-24.2,44.5,Austronesian
 maha1309-2,Sakalava (Mahafaly),Jully1901,passim,,maha1309,Mahafaly-Antanalana Malagasy,,Africa,-24.2,44.5,Austronesian
+maha1309-3,Mahafaly (Ampanihy),Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly-Antanalana Malagasy,,Africa,-24.2,44.5,Austronesian
+maha1309-4,Antanalana (Itampolo),Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly-Antanalana Malagasy,,Africa,-24.2,44.5,Austronesian
+maha1309-5,Antanalana (Manorofify),Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly-Antanalana Malagasy,,Africa,-24.2,44.5,Austronesian
+maha1309-6,Antanalana (Anakao),Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly-Antanalana Malagasy,,Africa,-24.2,44.5,Austronesian
+maha1309-7,Mahafaly (Ejeda),Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly-Antanalana Malagasy,,Africa,-24.2,44.5,Austronesian
 mahi1249-1,Mahigi,Cridland1924,p.58,,mahi1249,Mahigi,,Papunesia,-7.684709,143.234891,Anim
 maia1253-1,Tani (Alisuab village),LeanMadang,p.15,SIL Word List (1975). Village: Alisuab.,maia1253,Maiani,tnh,Papunesia,-4.55066,145.239,Nuclear Trans New Guinea
 maia1253-2,Tani (from CSQs),LeanMadang,p.15,"2 CSQs. Villages: Rarin, Simbine.",maia1253,Maiani,tnh,Papunesia,-4.55066,145.239,Nuclear Trans New Guinea
@@ -1503,6 +1521,7 @@ mala1487-3,Pano-Malasanga,Carter2012,p.59,,mala1487,Malasanga,mqz,Papunesia,-5.9
 mala1487-4,Pano-Singorokai,Carter2012,p.60,,mala1487,Malasanga,mqz,Papunesia,-5.9401,147.058,Austronesian
 mala1487-5,Malasaŋa (Malasaŋa village),Lincoln1976,pp.2-5,,mala1487,Malasanga,mqz,Papunesia,-5.9401,147.058,Austronesian
 mala1487-6,Malasaŋa (Siŋorakai village),Lincoln1976,pp.2-5,,mala1487,Malasanga,mqz,Papunesia,-5.9401,147.058,Austronesian
+mala1487-7,Dagarup Pano,Carter2023,p.59,,mala1487,Malasanga,mqz,Papunesia,-5.9401,147.058,Austronesian
 mala1489-1,Malalamai,LeanMadang,p.81,1 CSQ. Village: Malalamai.,mala1489,Malalamai,mmt,Papunesia,-5.77495,146.642,Austronesian
 mala1489-2,Malamai (Bonga village),Carter2012,p.60,,mala1489,Malalamai,mmt,Papunesia,-5.77495,146.642,Austronesian
 mala1489-3,Malamai (Malamai village),Carter2012,p.60,,mala1489,Malalamai,mmt,Papunesia,-5.77495,146.642,Austronesian
@@ -1517,6 +1536,8 @@ mala1533-2,Tugu Schuchardt 1891,Maurer2011,pp.34-35,,mala1533,Malacca-Batavia Po
 mala1533-3,Tugu 1937 manuscript,Maurer2011,pp.34-35,,mala1533,Malacca-Batavia Portuguese Creole,mcm,Eurasia,2.188087,102.262059,Indo-European
 mala1533-4,Tugu Wallace 1978,Maurer2011,pp.34-35,,mala1533,Malacca-Batavia Portuguese Creole,mcm,Eurasia,2.188087,102.262059,Indo-European
 mala1534-1,Malaweg,Reid1987,p.6,,mala1534,Malaweg,,Papunesia,17.844833,121.391322,Austronesian
+mala1537-1,Mikea (Ampoakafo),Serva2020,pone.0240170.s001.pdf,,mala1537,Malagasic,,Africa,-20.32626042,46.60401563,Austronesian
+mala1537-2,Sakalava (Mahajanga),Serva2020,pone.0240170.s001.pdf,,mala1537,Malagasic,,Africa,-20.32626042,46.60401563,Austronesian
 mala1539-1,"Malikolo [exact language unknown, but seems similar to port1285]",Codrington1885,"pp.225, 235, 245",,mala1539,Malakula,,Papunesia,-16.1281006299147,167.390832297129,Austronesian
 male1289-1,Kilenge,Lean1985Vol04,p.94,"Kettenis, IMP data (1977). See also Kettenis (1978).",male1289,Maleu-Kilenge,mgl,Papunesia,-5.61613,148.445,Austronesian
 male1289-2,Maleu,Lean1985Vol04,p.97,"2 CSQs. Villages: Gie, Aimaga.",male1289,Maleu-Kilenge,mgl,Papunesia,-5.61613,148.445,Austronesian
@@ -1530,6 +1551,7 @@ male1291-4,Koliku,Ray1919,p.329,,male1291,Male (Papua New Guinea),mdc,Papunesia,
 male1291-5,Male,Ray1919,p.329,,male1291,Male (Papua New Guinea),mdc,Papunesia,-5.49975,145.757,Nuclear Trans New Guinea
 male1291-6,Male,Zgraggen1980RaiCoast,p.92,,male1291,Male (Papua New Guinea),mdc,Papunesia,-5.49975,145.757,Nuclear Trans New Guinea
 male1291-7,Manikam,Ray1919,p.329,,male1291,Male (Papua New Guinea),mdc,Papunesia,-5.49975,145.757,Nuclear Trans New Guinea
+mali1283-1,Malimpung,Saupia2023,p.19,,mali1283,Malimpung,mli,Papunesia,-3.6996,119.76,Austronesian
 malo1245-1,Malol,vandenBerg2021,p.20,,malo1245,Malol,mbk,Papunesia,-3.11695,142.244,Austronesian
 mama1276-1,Kada Toraja,Stokhof1984Vol7.3,p.67,,mama1276,Mamasa,mqj,Papunesia,-3.0811,119.484,Austronesian
 mama1276-2,Toraja (Mamasa dialect),Arnaud1998,pp.863-879 [word list item numbers],,mama1276,Mamasa,mqj,Papunesia,-3.0811,119.484,Austronesian
@@ -1619,6 +1641,11 @@ masi1265-2,Masimasi,Grace1955pdf49,p.89,,masi1265,Masimasi,ism,Papunesia,-2.0071
 masi1266-1,Bonfia Seram,Stokhof1982Vol3.3,pp.26-27,,masi1266,Masiwang,bnf,Papunesia,-3.29547,130.601,Austronesian
 masi1266-2,Masiwang,Collins1986,"pp.127-128, 130",,masi1266,Masiwang,bnf,Papunesia,-3.29547,130.601,Austronesian
 masi1268-1,Malgaches (Sakalava dialect),Dahl1968,p.14,,masi1268,Masikoro Malagasy,msh,Africa,-22.5582,43.8156,Austronesian
+masi1268-2,Masikoro (Miary),Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro Malagasy,msh,Africa,-22.5582,43.8156,Austronesian
+masi1268-3,Sakalava (Morondava),Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro Malagasy,msh,Africa,-22.5582,43.8156,Austronesian
+masi1268-4,Vezo (Toliara),Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro Malagasy,msh,Africa,-22.5582,43.8156,Austronesian
+masi1268-5,Vezo (Morombe),Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro Malagasy,msh,Africa,-22.5582,43.8156,Austronesian
+masi1268-6,Vezo (Morondava),Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro Malagasy,msh,Africa,-22.5582,43.8156,Austronesian
 mass1263-1,Massep (Massep village),Hurd1979,p.3,,mass1263,Massep,mvs,Papunesia,-1.74679,138.294,Massep
 matb1237-1,Matbat,Remijsen2001,"pp.140, 145",,matb1237,Matbat,xmt,Papunesia,-1.8801,130.075,Austronesian
 matb1237-2,Bahasa Tanah (Misool),Grace1956pdf32,p.3 [of pdf],,matb1237,Matbat,xmt,Papunesia,-1.8801,130.075,Austronesian
@@ -1772,6 +1799,7 @@ mouw1234-3,Omati (Gihiteri),Bullock2015,pp.53-54,,mouw1234,Mouwase,jmw,Papunesia
 moya1235-1,"Muyadan, Itneg",Walton2003Manabo,pp.3-7,,moya1235,Moyadan Itneg,ity,Papunesia,17.4232,120.702,Austronesian
 mpur1239-1,Amberbaken,Galis1955,p.139,,mpur1239,Mpur,akc,Papunesia,-0.7489,133.166,Mpur
 mpur1239-2,Amberbaken,Cowan1953,p.13,,mpur1239,Mpur,akc,Papunesia,-0.7489,133.166,Mpur
+mpur1239-3,Amberbackensch,Ruys1906,pp.330-331,,mpur1239,Mpur,akc,Papunesia,-0.7489,133.166,Mpur
 mtir1235-1,Inagta - Sta Niño/Sta Cruz + Ipil,Nickell1979,pp.3-7,,mtir1235,Mt. Iriga Agta,agz,Papunesia,13.4566,123.463,Austronesian
 mtir1235-2,San Ramon Agta,Anonymous1984Bicol,pp.2-5,,mtir1235,Mt. Iriga Agta,agz,Papunesia,13.4566,123.463,Austronesian
 mtir1236-1,Rugnot (Itbɨg),Wolfenden1978,pp.3-7,,mtir1236,Mt. Iraya Agta,atl,Papunesia,13.4588,123.552,Austronesian
@@ -1790,6 +1818,10 @@ mung1269-1,Munggui,Anceaux1961,pp.72-76,,mung1269,Munggui,mth,Papunesia,-1.66773
 mung1272-1,Munkip,Smith1988,p.88,,mung1272,Mungkip,mpv,Papunesia,-6.46208,146.747,Nuclear Trans New Guinea
 muni1257-1,Munit,Zgraggen1980Mabuso,p.92,,muni1257,Munit,mtc,Papunesia,-5.24329,145.548,Nuclear Trans New Guinea
 mura1271-1,Muratayak (Kepoiak village),Carter2012,p.50,,mura1271,Muratayak,asx,Papunesia,-5.74416,146.54,Nuclear Trans New Guinea
+mura1271-2,Asat (Yagomi),Carter2023,p.59,,mura1271,Muratayak,asx,Papunesia,-5.74416,146.54,Nuclear Trans New Guinea
+mura1271-3,Muratayak (Faigurup),Carter2023,p.59,,mura1271,Muratayak,asx,Papunesia,-5.74416,146.54,Nuclear Trans New Guinea
+mura1271-3,Muratayak (Talmiro),Carter2023,p.59,,mura1271,Muratayak,asx,Papunesia,-5.74416,146.54,Nuclear Trans New Guinea
+mura1271-4,Muratayak (Talmiro),Carter2023,p.59,,mura1271,Muratayak,asx,Papunesia,-5.74416,146.54,Nuclear Trans New Guinea
 muri1259-1,Ngorek (Murik),Smith2015,pp.351-353,,muri1259,Murik (Malaysia),mxr,Papunesia,3.7519,114.434,Austronesian
 muri1260-1,Murik (Darapap),Laycock1971D24,p.3340,,muri1260,Murik (Papua New Guinea),mtf,Papunesia,-3.86959,144.166,Lower Sepik
 muri1260-2,Murik (from CSQs),LeanEastSepik,p.57,"2 CSQs. Villages: Kaup, Aramut.",muri1260,Murik (Papua New Guinea),mtf,Papunesia,-3.86959,144.166,Lower Sepik
@@ -1980,6 +2012,10 @@ nort2885-1,Northern Subanen,Lobel2013,pp.319-356,,nort2885,Northern Subanen,stb,
 nort2885-2,"Subanun, Salog",Thiessen1973,pp.3-7,,nort2885,Northern Subanen,stb,Papunesia,8.5232,123.588,Austronesian
 nort2890-1,Betsimisaraka,Jully1901,passim,,nort2890,Northern Betsimisaraka Malagasy,bmm,Africa,-19.9184,48.812,Austronesian
 nort2890-2,"Vòhidótra, E. Co.",Sibree1897,pp.108-109,,nort2890,Northern Betsimisaraka Malagasy,bmm,Africa,-19.9184,48.812,Austronesian
+nort2890-3,Betsimisaraka (Fenoarivo-Est),Serva2020,pone.0240170.s001.pdf,,nort2890,Northern Betsimisaraka Malagasy,bmm,Africa,-19.9184,48.812,Austronesian
+nort2890-4,Betsimisaraka (Mananara),Serva2020,pone.0240170.s001.pdf,,nort2890,Northern Betsimisaraka Malagasy,bmm,Africa,-19.9184,48.812,Austronesian
+nort2890-5,Nosy Boraha (Ambodifotatra),Serva2020,pone.0240170.s001.pdf,,nort2890,Northern Betsimisaraka Malagasy,bmm,Africa,-19.9184,48.812,Austronesian
+nort2890-6,Betsimisaraka (Maroantsetra),Serva2020,pone.0240170.s001.pdf,,nort2890,Northern Betsimisaraka Malagasy,bmm,Africa,-19.9184,48.812,Austronesian
 nort2916-1,Kati,Galis1960,p.135,,nort2916,North Muyu,kti,Papunesia,-5.55319,140.84,Nuclear Trans New Guinea
 nort2916-2,Muyu,Stokhof1982Vol5.1,p.170,,nort2916,North Muyu,kti,Papunesia,-5.55319,140.84,Nuclear Trans New Guinea
 nort2917-1,Kaja-kaja (downstream of Zwaluw),Feuilleteau1915,pp.91-92,,nort2917,Momogo-Pupis-Irogo,nks,Papunesia,-4.89854,138.405,Nuclear Trans New Guinea
@@ -2083,6 +2119,7 @@ otda1235-1,Ot Danum Dayak,Stokhof1986Vol8,p.13,,otda1235,Ot Danum,otd,Papunesia,
 ouma1237-1,Ouma,Dutton1976,p.600,,ouma1237,Ouma,oum,Papunesia,-10.2288,149.101,Austronesian
 owin1240-1,Owiniga,Conrad1975,pp.21-24,,owin1240,Owiniga,owi,Papunesia,-4.47476,141.697,Left May
 owin1240-2,Samo,Laycock1970D06,p.830,,owin1240,Owiniga,owi,Papunesia,-4.47476,141.697,Left May
+owin1240-3,Owininga,LundgrenBurman2024,p.41,,owin1240,Owiniga,owi,Papunesia,-4.47476,141.697,Left May
 paam1238-1,Pama,Codrington1885,p.235,,paam1238,Paama,pma,Papunesia,-16.47548,168.23693,Austronesian
 paam1238-2,Paamese,Crowley1982,pp.245-247,,paam1238,Paama,pma,Papunesia,-16.47548,168.23693,Austronesian
 paam1238-3,Northern Paamese,Crowley1992,passim,,paam1238,Paama,pma,Papunesia,-16.47548,168.23693,Austronesian
@@ -2167,7 +2204,20 @@ plat1254-10,"Vàkinankàratra, Cent.",Sibree1897,pp.108-109,,plat1254,Plateau Ma
 plat1254-11,"Betsiléo, Ambòhimàhasòa (S.C.)",Sibree1897,pp.108-109,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
 plat1254-12,do. Ambàlavao do. [= “doubtful” ?],Sibree1897,pp.108-109,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
 plat1254-13,do. Ambòhimandròso do. [= “doubtful” ?],Sibree1897,pp.108-109,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
+plat1254-14,Sihanaka (Ambatondrazaka),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
+plat1254-15,Merina (Antananarivo),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
+plat1254-16,Betsileo (Fianarantsoa),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
+plat1254-17,Antaimoro (Manakara),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
+plat1254-18,Antambohoaka (Mananjary),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
+plat1254-19,Betsileo (Ambositra),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
 plat1254-2,Betsiléo,Jully1901,passim,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
+plat1254-20,Betsileo (Ambalavao),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
+plat1254-21,Tanala (Ifanadiana),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
+plat1254-22,Merina (Maevatanana),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
+plat1254-23,Sihanaka (Morarano Chrome),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
+plat1254-24,Betsileo (Ambohimahasoa),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
+plat1254-25,Merina (Analavory),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
+plat1254-26,Sihanaka (Andilamena),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
 plat1254-3,Taimorona,Jully1901,passim,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
 plat1254-4,Malagasy,Codrington1885,"pp.237-239, 243, 250",,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
 plat1254-5,Ambàlanjànkòmby. N. W. Co.,Sibree1897,pp.108-109,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
@@ -2283,7 +2333,13 @@ safe1240-1,Safeyoka,Smith1988,p.101,,safe1240,Safeyoka,apz,Papunesia,-7.05417,14
 safe1240-2,Safeyoka (from IMP/SIL),LeanMorobe,pp.61-62,IMP/SIL Questionnaire (1978).,safe1240,Safeyoka,apz,Papunesia,-7.05417,146.09,Angan
 safe1240-3,Safeyoka (from SIL word list),LeanMorobe,p.62,SIL Word List (1972).,safe1240,Safeyoka,apz,Papunesia,-7.05417,146.09,Angan
 saja1241-1,Sadjau Bassaps (Boelongan),Rutten1916,p.251,,saja1241,Sajau-Latti,sjb,Papunesia,2.43432,117.401,Austronesian
+saja1241-2,Basa Latala (a Punan Sajau song language; from Lansing et al. 2022),Blevins2024,p.196,,saja1241,Sajau-Latti,sjb,Papunesia,2.43432,117.401,Austronesian
+saja1241-3,Punan Sajau (from Lansing et al. 2022),Blevins2024,p.196,,saja1241,Sajau-Latti,sjb,Papunesia,2.43432,117.401,Austronesian
 saka1291-1,"Ankavàndra, W. Cent.",Sibree1897,pp.108-109,,saka1291,West Malagasy Sakalava,skg,Africa,-20.28,44.32,Austronesian
+saka1291-2,Sakalava (Maintirano),Serva2020,pone.0240170.s001.pdf,,saka1291,West Malagasy Sakalava,skg,Africa,-20.28,44.32,Austronesian
+saka1291-3,Sakalava (Miandrivazo),Serva2020,pone.0240170.s001.pdf,,saka1291,West Malagasy Sakalava,skg,Africa,-20.28,44.32,Austronesian
+saka1291-4,Sakalava (Besalampy),Serva2020,pone.0240170.s001.pdf,,saka1291,West Malagasy Sakalava,skg,Africa,-20.28,44.32,Austronesian
+saka1291-5,Sakalava (Belon'i Tsiribihina),Serva2020,pone.0240170.s001.pdf,,saka1291,West Malagasy Sakalava,skg,Africa,-20.28,44.32,Austronesian
 saka1292-1,Sakam,Smith1988,pp.96-97,,saka1292,Sakam,skm,Papunesia,-6.18726,146.702,Nuclear Trans New Guinea
 salt1242-1,Chimbu (Salt-Yui dialect),Lean1986Vol09,p.68,S.I.L word list (1975). Village: Oinima.,salt1242,Salt-Yui,sll,Papunesia,-6.26519,145.021,Nuclear Trans New Guinea
 sama1240-1,Tamaja,Galis1955,p.143,,sama1240,Samarokena,tmj,Papunesia,-1.84878,138.34,Greater Kwerba
@@ -2467,6 +2523,8 @@ sosk1235-1,Kwongai (Sawos),Laycock1971D27,p.3804,,sosk1235,Sos Kundi,sdk,Papunes
 sosk1235-2,Kwaruwi,Staalsen1975,p.14,,sosk1235,Sos Kundi,sdk,Papunesia,-3.99024,143.396,Ndu
 sota1242-1,Ngarna (Sota village),Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Sota Kanum,krz,Papunesia,-8.40452,140.969,Yam
 sota1242-2,Nggarna (Sota village),Carroll2024,txt file downloaded on 23 October 2024,,sota1242,Sota Kanum,krz,Papunesia,-8.40452,140.969,Yam
+sota1242-3,Kanum Sota,Mariati2016,passim,,sota1242,Sota Kanum,krz,Papunesia,-8.40452,140.969,Yam
+sota1242-4,Kanum Sota,Mariati2021,passim,,sota1242,Sota Kanum,krz,Papunesia,-8.40452,140.969,Yam
 sout2859-1,Southeast Ambrym,Parker1970,passim,,sout2859,Southeast Ambrym,tvk,Papunesia,-16.2975,168.211,Austronesian
 sout2866-1,South Marquesan - Hiva Oa,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan,mqm,Papunesia,-9.75663,-138.979,Austronesian
 sout2866-2,South Marquesan - Fatu Hiva,Charpentier2015,pp.1825-1843,,sout2866,South Marquesan,mqm,Papunesia,-9.75663,-138.979,Austronesian
@@ -2481,12 +2539,18 @@ sout2912-1,Viracnon (Bikol),Meman1990,p.6,,sout2912,Coastal-Virac Bikol,bln,Papu
 sout2916-1,Canipaan Palawan,Thiessen1980,pp.72-78,,sout2916,Southwest Palawano,plv,Papunesia,8.67624,117.36,Austronesian
 sout2918-1,Sama Sitaŋkai,Arnaud1998,pp.863-879 [word list item numbers],,sout2918,Southern Sama,ssb,Papunesia,4.755836,119.483887,Austronesian
 sout2920-1,Betsimisaraka du Sud,Ruud1955,pp.47-48,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
+sout2920-10,Betsimisaraka (Brickaville),Serva2020,pone.0240170.s001.pdf,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
+sout2920-11,Betsimisaraka (Toamasina),Serva2020,pone.0240170.s001.pdf,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
+sout2920-12,Betsimisaraka (Tanambao Manampotsy),Serva2020,pone.0240170.s001.pdf,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
+sout2920-13,Betsimisaraka (Sahavato),Serva2020,pone.0240170.s001.pdf,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
 sout2920-2,"Mòramànga, E. Cent.",Sibree1897,pp.108-109,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
 sout2920-3,"Vàtomàndry, E. Co.",Sibree1897,pp.108-109,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
 sout2920-4,"Tànimàndry, E. Co.",Sibree1897,pp.108-109,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
 sout2920-5,"Màhanóro, E. Co.",Sibree1897,pp.108-109,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
 sout2920-6,"Mahèla, E. Co.",Sibree1897,pp.108-109,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
 sout2920-7,"Vóhipèno, S. E. Co.",Sibree1897,pp.108-109,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
+sout2920-8,Betsimisaraka (Mahanoro),Serva2020,pone.0240170.s001.pdf,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
+sout2920-9,Betsimisaraka (Marolambo),Serva2020,pone.0240170.s001.pdf,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
 sout2940-1,Kaôh,Stokhof1982Vol5.1,pp.157-158,,sout2940,South Muyu,kts,Papunesia,-6.01385,140.815,Nuclear Trans New Guinea
 sout2940-2,Kati,Galis1955,p.168,,sout2940,South Muyu,kts,Papunesia,-6.01385,140.815,Nuclear Trans New Guinea
 sout2941-1,Awju Sjiagha,Galis1955,p.168,,sout2941,South Awyu,aws,Papunesia,-7.36301,139.538,Nuclear Trans New Guinea
@@ -2587,6 +2651,9 @@ tana1288-1,Sumèri,Galis1960,p.139,,tana1288,Tanahmerah,tcm,Papunesia,-2.5523,13
 tana1288-2,Tanah Merah,Grace1955pdf50,p.55 [of pdf],,tana1288,Tanahmerah,tcm,Papunesia,-2.5523,133.18,Tanahmerah
 tand1253-1,Tandia,Ray1912,pp.340-341,,tand1253,Tandia,tni,Papunesia,-2.84228,134.532,Austronesian
 tand1253-2,Tandia,Galis1955,p.140,,tand1253,Tandia,tni,Papunesia,-2.84228,134.532,Austronesian
+tand1256-1,Antandroy (Ambovombe),Serva2020,pone.0240170.s001.pdf,,tand1256,Tandroy Malagasy,tdx,Africa,-24.80155,45.9,Austronesian
+tand1256-2,Antandroy (Toliara),Serva2020,pone.0240170.s001.pdf,,tand1256,Tandroy Malagasy,tdx,Africa,-24.80155,45.9,Austronesian
+tand1256-3,Antandroy (Tsihombe),Serva2020,pone.0240170.s001.pdf,,tand1256,Tandroy Malagasy,tdx,Africa,-24.80155,45.9,Austronesian
 tand1258-1,Naturalis,Zorc1977,pp.101-102,,tand1258,Tandaganon,tgn,Papunesia,8.9815,126.186,Austronesian
 tand1258-2,Naturalis (Tagù),Zorc1972Naturalis,p.2 [of pdf],,tand1258,Tandaganon,tgn,Papunesia,8.9815,126.186,Austronesian
 tang1348-1,Tangga,Maurer1966,p.79,,tang1348,Tangga,tgg,Papunesia,-4.08824,153.611,Austronesian
@@ -2600,6 +2667,9 @@ tang1356-1,Tanguat,Zgraggen1972,pp.215-219,,tang1356,Tanguat,tbs,Papunesia,-4.57
 tann1242-1,"Tana (Tanna) [exact language unknown, but seems similar to kwam1252]",Codrington1885,"pp.221-223, 235, 239",,tann1242,Tanna,,Papunesia,-19.5222075,169.3502575,Austronesian
 tano1246-1,Tanosy,Jully1901,passim,,tano1246,Tanosy Malagasy,txy,Africa,-24.9186,47.1357,Austronesian
 tano1246-2,"Anòsibè, Bèlànona, S.E.",Sibree1897,pp.108-109,,tano1246,Tanosy Malagasy,txy,Africa,-24.9186,47.1357,Austronesian
+tano1246-3,Antanosy (Tolagnaro),Serva2020,pone.0240170.s001.pdf,,tano1246,Tanosy Malagasy,txy,Africa,-24.9186,47.1357,Austronesian
+tano1246-4,Antanosy (Bezaha),Serva2020,pone.0240170.s001.pdf,,tano1246,Tanosy Malagasy,txy,Africa,-24.9186,47.1357,Austronesian
+tano1246-5,Antanosy (Belamoty),Serva2020,pone.0240170.s001.pdf,,tano1246,Tanosy Malagasy,txy,Africa,-24.9186,47.1357,Austronesian
 tape1242-1,Tapei (Awim village),Kassell2017,pp.52-53,,tape1242,Tapei,afp,Papunesia,-4.77763,143.337,Arafundi
 tape1242-2,Tapei (Imboin-Awim villages),Kassell2017,pp.52-53,,tape1242,Tapei,afp,Papunesia,-4.77763,143.337,Arafundi
 tarp1240-1,Sufrai,Galis1955,p.161,,tarp1240,Tarpia,tpf,Papunesia,-2.322279,140.115497,Austronesian
@@ -2634,6 +2704,8 @@ term1237-3,Korbaffo,Jonker1908,passim,,term1237,Termanu,twu,Papunesia,-10.7326,1
 tern1247-1,Ternate,Teljeur1982,pp.145-146,,tern1247,Ternate,tft,Papunesia,0.80562,127.333,North Halmahera
 tern1248-1,Chabacano de Ternate,Sippola2011,p.120,,tern1248,Ternateño,tmg,Papunesia,14.28,120.72,Indo-European
 tesa1236-1,Antaisaka,Deschamps1936,p.106,,tesa1236,Tesaka Malagasy,tkg,Africa,-23.3,47.33,Austronesian
+tesa1236-2,Zafisoro (Farafangana),Serva2020,pone.0240170.s001.pdf,,tesa1236,Tesaka Malagasy,tkg,Africa,-23.3,47.33,Austronesian
+tesa1236-3,Antaisaka (Vangaindrano),Serva2020,pone.0240170.s001.pdf,,tesa1236,Tesaka Malagasy,tkg,Africa,-23.3,47.33,Austronesian
 tetu1246-1,"Belu/Tetum (C. Timor, Lesser Sunda Islands)",Stokhof1983Vol6,p.96,,tetu1246,Tetun Dili,tdt,Papunesia,-8.58405,125.583,Austronesian
 tetu1246-2,Belu/Tetum (Timor) (mentioned in NBG 1896),Stokhof1983Vol6,pp.67-68,,tetu1246,Tetun Dili,tdt,Papunesia,-8.58405,125.583,Austronesian
 tetu1246-3,Belu/Tetum (Timor) (mentioned in NBG 1905),Stokhof1983Vol6,p.80,,tetu1246,Tetun Dili,tdt,Papunesia,-8.58405,125.583,Austronesian
@@ -2720,6 +2792,11 @@ trin1271-2,Tringgus Raya,Rensch2012,pp.313-396,,trin1271,Tringgus-Sembaan Bidayu
 trin1271-3,Tringgus Bireng,Rensch2012,pp.313-396,,trin1271,Tringgus-Sembaan Bidayuh,trx,Papunesia,1.4313,109.95,Austronesian
 trin1273-1,Balait,Ray1913,"pp.60, 62",,trin1273,Tring,tgq,Papunesia,1.335,110.036,Austronesian
 tsim1257-1,"Màhamànina, S. E.",Sibree1897,pp.108-109,,tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian
+tsim1257-2,Betsimisaraka (Antalaha),Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian
+tsim1257-3,Tsimihety (Mandritsara),Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian
+tsim1257-4,Tsimihety (Mampikony),Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian
+tsim1257-5,Tsimihety (Andapa),Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian
+tsim1257-6,Tsimihety (Antsohihy),Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian
 tuam1242-1,Pa’umotu - Takaroa/Takapoto,Charpentier2015,pp.1825-1843,,tuam1242,Tuamotuan,pmt,Papunesia,-16.17259,-146.321755,Austronesian
 tuam1242-10,Tuamotuan: esoteric counting system,Stimson1964,passim,,tuam1242,Tuamotuan,pmt,Papunesia,-16.17259,-146.321755,Austronesian
 tuam1242-11,Paumotu in general,Audran1920,p.43,,tuam1242,Tuamotuan,pmt,Papunesia,-16.17259,-146.321755,Austronesian
@@ -2753,6 +2830,7 @@ tung1293-1,Tarunggare,Galis1955,p.141,,tung1293,Tunggare,trt,Papunesia,-3.37462,
 tung1293-2,Tarunggareh,Stokhof1983Vol5.2,p.36,,tung1293,Tunggare,trt,Papunesia,-3.37462,135.551,Geelvink Bay
 tung1293-3,"Tarunggareh, Siriwo and Warenai area",Stokhof1983Vol5.2,p.41,,tung1293,Tunggare,trt,Papunesia,-3.37462,135.551,Geelvink Bay
 tuwa1242-1,Tuwari,LeanSandaun,p.48,SIL Word List (1981). Village: Tuware.,tuwa1242,Tuwari,tww,Papunesia,-4.80315,142.095,Walioic
+tuwa1242-2,Tuwari,Loiseau2022,p.60,,tuwa1242,Tuwari,tww,Papunesia,-4.80315,142.095,Walioic
 tuwa1243-1,Ifugaw (Kiangan dialect),Vanoverbergh1937,"pp.114, 120",,tuwa1243,Tuwali Ifugao,ifk,Papunesia,16.6646,121.113,Austronesian
 uare1241-1,Kwale,Lean1986Vol07,p.57,2 CSQs. Village: Geresi (Garia d.).,uare1241,Uare,ksj,Papunesia,-9.69571,147.687,Kwalean
 ubir1237-1,Ubir,Lean1985Vol05,p.66,"5 CSQs. Villages: Wanigela (2), Kewansasap (3).",ubir1237,Ubir,ubr,Papunesia,-9.59044,149.396,Austronesian
@@ -3007,6 +3085,7 @@ yaga1260-1,Yagaria,Lean1986Vol08,p.27,"6 CSQs. Villages: Fima, Hagavena, Kami, L
 yaga1260-2,Yagaria,Scott1978,"pp.181, 182, 188, 193, 194",,yaga1260,Yagaria,ygr,Papunesia,-6.32432,145.388,Nuclear Trans New Guinea
 yaga1260-3,Yagaria (Numu-Haga village),Lean1986Vol08,p.27,S.I.L word list (1972). Village: Numugu-Haga.,yaga1260,Yagaria,ygr,Papunesia,-6.32432,145.388,Nuclear Trans New Guinea
 yago1240-1,Yagomi,Lincoln1976,p.121,,yago1240,Tanda-Yagomi,ygm,Papunesia,-5.74049,146.603,Nuclear Trans New Guinea
+yago1240-2,Tandɨ (Yagomi),Carter2023,p.59,,yago1240,Tanda-Yagomi,ygm,Papunesia,-5.74049,146.603,Nuclear Trans New Guinea
 yagw1240-1,Yagwoia,Smith1988,p.102,,yagw1240,Yagwoia,ygw,Papunesia,-7.14042,145.854,Angan
 yaha1247-1,Yahang,LeanSandaun,p.36,2 CSQs. Village: Namblo.,yaha1247,Yahang,rhp,Papunesia,-3.73035,142.4,Nuclear Torricelli
 yaha1247-2,Yahang,Laycock1967C11,p.11,,yaha1247,Yahang,rhp,Papunesia,-3.73035,142.4,Nuclear Torricelli
@@ -3096,82 +3175,3 @@ ziaa1250-3,Zia,Smith1988,p.106,,ziaa1250,Zia,zia,Papunesia,-7.95814,147.579,Nucl
 ziaa1250-4,Zia (Dona village),LeanMorobe,p.73,SIL Word List (1975). Village: Dona.,ziaa1250,Zia,zia,Papunesia,-7.95814,147.579,Nuclear Trans New Guinea
 ziaa1250-5,Zia (Siu village),LeanMorobe,pp.73-74,2 CSQs. Village: Siu.,ziaa1250,Zia,zia,Papunesia,-7.95814,147.579,Nuclear Trans New Guinea
 zima1244-1,Zimakani (Begua dialect),Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani,zik,Papunesia,-7.3701,141.452,Anim
-abun1252-5,Karoonsch,Ruys1906,pp.330-331,,abun1252,Abun,kgr,Papunesia,-0.57073,132.416,Abun
-anta1255-10,Betsimisaraka (Antsiranana),Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian
-anta1255-7,Sakalava (Ambanja),Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian
-anta1255-8,Antankarana (Ambilobe),Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian
-anta1255-9,Antankarana (Vohemar),Serva2020,pone.0240170.s001.pdf,,anta1255,Antankarana Malagasy,xmv,Africa,-13.2164,49.2402,Austronesian
-bara1369-3,Bara (Betroka),Serva2020,pone.0240170.s001.pdf,,bara1369,Bara Malagasy,bhr,Africa,-23.9716,45.5937,Austronesian
-bara1369-4,Bara (Ranohira),Serva2020,pone.0240170.s001.pdf,,bara1369,Bara Malagasy,bhr,Africa,-23.9716,45.5937,Austronesian
-bara1369-5,Bara (Beroroha),Serva2020,pone.0240170.s001.pdf,,bara1369,Bara Malagasy,bhr,Africa,-23.9716,45.5937,Austronesian
-bara1369-6,Bara (Ihosy),Serva2020,pone.0240170.s001.pdf,,bara1369,Bara Malagasy,bhr,Africa,-23.9716,45.5937,Austronesian
-dege1247-4,Sidbi/Andik (Seure),Carter2023,p.59,,dege1247,Degenan,dge,Papunesia,-5.70892,146.572,Nuclear Trans New Guinea
-dege1247-5,Degenang (Sel),Carter2023,p.59,,dege1247,Degenan,dge,Papunesia,-5.70892,146.572,Nuclear Trans New Guinea
-fora1245-2,Forak (Mamgak),Carter2023,p.59,,fora1245,Forak,frq,Papunesia,-5.69079,146.541,Nuclear Trans New Guinea
-karo1303-1,Karoonsch Dorri,Ruys1906,pp.330-331,,karo1303,Karon Dori,kgw,Papunesia,-0.7871,132.663,Maybratic
-maha1309-3,Mahafaly (Ampanihy),Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly-Antanalana Malagasy,,Africa,-24.2,44.5,Austronesian
-maha1309-4,Antanalana (Itampolo),Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly-Antanalana Malagasy,,Africa,-24.2,44.5,Austronesian
-maha1309-5,Antanalana (Manorofify),Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly-Antanalana Malagasy,,Africa,-24.2,44.5,Austronesian
-maha1309-6,Antanalana (Anakao),Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly-Antanalana Malagasy,,Africa,-24.2,44.5,Austronesian
-maha1309-7,Mahafaly (Ejeda),Serva2020,pone.0240170.s001.pdf,,maha1309,Mahafaly-Antanalana Malagasy,,Africa,-24.2,44.5,Austronesian
-mala1487-7,Dagarup Pano,Carter2023,p.59,,mala1487,Malasanga,mqz,Papunesia,-5.9401,147.058,Austronesian
-mala1537-1,Mikea (Ampoakafo),Serva2020,pone.0240170.s001.pdf,,mala1537,Malagasic,,Africa,-20.32626042,46.60401563,Austronesian
-mala1537-2,Sakalava (Mahajanga),Serva2020,pone.0240170.s001.pdf,,mala1537,Malagasic,,Africa,-20.32626042,46.60401563,Austronesian
-mali1283-1,Malimpung,Saupia2023,p.19,,mali1283,Malimpung,mli,Papunesia,-3.6996,119.76,Austronesian
-masi1268-2,Masikoro (Miary),Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro Malagasy,msh,Africa,-22.5582,43.8156,Austronesian
-masi1268-3,Sakalava (Morondava),Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro Malagasy,msh,Africa,-22.5582,43.8156,Austronesian
-masi1268-4,Vezo (Toliara),Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro Malagasy,msh,Africa,-22.5582,43.8156,Austronesian
-masi1268-5,Vezo (Morombe),Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro Malagasy,msh,Africa,-22.5582,43.8156,Austronesian
-masi1268-6,Vezo (Morondava),Serva2020,pone.0240170.s001.pdf,,masi1268,Masikoro Malagasy,msh,Africa,-22.5582,43.8156,Austronesian
-mpur1239-3,Amberbackensch,Ruys1906,pp.330-331,,mpur1239,Mpur,akc,Papunesia,-0.7489,133.166,Mpur
-mura1271-2,Asat (Yagomi),Carter2023,p.59,,mura1271,Muratayak,asx,Papunesia,-5.74416,146.54,Nuclear Trans New Guinea
-mura1271-3,Muratayak (Faigurup),Carter2023,p.59,,mura1271,Muratayak,asx,Papunesia,-5.74416,146.54,Nuclear Trans New Guinea
-mura1271-3,Muratayak (Talmiro),Carter2023,p.59,,mura1271,Muratayak,asx,Papunesia,-5.74416,146.54,Nuclear Trans New Guinea
-mura1271-4,Muratayak (Talmiro),Carter2023,p.59,,mura1271,Muratayak,asx,Papunesia,-5.74416,146.54,Nuclear Trans New Guinea
-nort2890-3,Betsimisaraka (Fenoarivo-Est),Serva2020,pone.0240170.s001.pdf,,nort2890,Northern Betsimisaraka Malagasy,bmm,Africa,-19.9184,48.812,Austronesian
-nort2890-4,Betsimisaraka (Mananara),Serva2020,pone.0240170.s001.pdf,,nort2890,Northern Betsimisaraka Malagasy,bmm,Africa,-19.9184,48.812,Austronesian
-nort2890-5,Nosy Boraha (Ambodifotatra),Serva2020,pone.0240170.s001.pdf,,nort2890,Northern Betsimisaraka Malagasy,bmm,Africa,-19.9184,48.812,Austronesian
-nort2890-6,Betsimisaraka (Maroantsetra),Serva2020,pone.0240170.s001.pdf,,nort2890,Northern Betsimisaraka Malagasy,bmm,Africa,-19.9184,48.812,Austronesian
-owin1240-3,Owininga,LundgrenBurman2024,p.41,,owin1240,Owiniga,owi,Papunesia,-4.47476,141.697,Left May
-plat1254-14,Sihanaka (Ambatondrazaka),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
-plat1254-15,Merina (Antananarivo),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
-plat1254-16,Betsileo (Fianarantsoa),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
-plat1254-17,Antaimoro (Manakara),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
-plat1254-18,Antambohoaka (Mananjary),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
-plat1254-19,Betsileo (Ambositra),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
-plat1254-20,Betsileo (Ambalavao),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
-plat1254-21,Tanala (Ifanadiana),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
-plat1254-22,Merina (Maevatanana),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
-plat1254-23,Sihanaka (Morarano Chrome),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
-plat1254-24,Betsileo (Ambohimahasoa),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
-plat1254-25,Merina (Analavory),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
-plat1254-26,Sihanaka (Andilamena),Serva2020,pone.0240170.s001.pdf,,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
-saja1241-2,Basa Latala (a Punan Sajau song language; from Lansing et al. 2022),Blevins2024,p.196,,saja1241,Sajau-Latti,sjb,Papunesia,2.43432,117.401,Austronesian
-saja1241-3,Punan Sajau (from Lansing et al. 2022),Blevins2024,p.196,,saja1241,Sajau-Latti,sjb,Papunesia,2.43432,117.401,Austronesian
-saka1291-2,Sakalava (Maintirano),Serva2020,pone.0240170.s001.pdf,,saka1291,West Malagasy Sakalava,skg,Africa,-20.28,44.32,Austronesian
-saka1291-3,Sakalava (Miandrivazo),Serva2020,pone.0240170.s001.pdf,,saka1291,West Malagasy Sakalava,skg,Africa,-20.28,44.32,Austronesian
-saka1291-4,Sakalava (Besalampy),Serva2020,pone.0240170.s001.pdf,,saka1291,West Malagasy Sakalava,skg,Africa,-20.28,44.32,Austronesian
-saka1291-5,Sakalava (Belon'i Tsiribihina),Serva2020,pone.0240170.s001.pdf,,saka1291,West Malagasy Sakalava,skg,Africa,-20.28,44.32,Austronesian
-sota1242-3,Kanum Sota,Mariati2016,passim,,sota1242,Sota Kanum,krz,Papunesia,-8.40452,140.969,Yam
-sota1242-4,Kanum Sota,Mariati2021,passim,,sota1242,Sota Kanum,krz,Papunesia,-8.40452,140.969,Yam
-sout2920-10,Betsimisaraka (Brickaville),Serva2020,pone.0240170.s001.pdf,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
-sout2920-11,Betsimisaraka (Toamasina),Serva2020,pone.0240170.s001.pdf,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
-sout2920-12,Betsimisaraka (Tanambao Manampotsy),Serva2020,pone.0240170.s001.pdf,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
-sout2920-13,Betsimisaraka (Sahavato),Serva2020,pone.0240170.s001.pdf,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
-sout2920-8,Betsimisaraka (Mahanoro),Serva2020,pone.0240170.s001.pdf,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
-sout2920-9,Betsimisaraka (Marolambo),Serva2020,pone.0240170.s001.pdf,,sout2920,Southern Betsimisaraka Malagasy,bzc,Africa,-22.8,47.82,Austronesian
-tand1256-1,Antandroy (Ambovombe),Serva2020,pone.0240170.s001.pdf,,tand1256,Tandroy Malagasy,tdx,Africa,-24.80155,45.9,Austronesian
-tand1256-2,Antandroy (Toliara),Serva2020,pone.0240170.s001.pdf,,tand1256,Tandroy Malagasy,tdx,Africa,-24.80155,45.9,Austronesian
-tand1256-3,Antandroy (Tsihombe),Serva2020,pone.0240170.s001.pdf,,tand1256,Tandroy Malagasy,tdx,Africa,-24.80155,45.9,Austronesian
-tano1246-3,Antanosy (Tolagnaro),Serva2020,pone.0240170.s001.pdf,,tano1246,Tanosy Malagasy,txy,Africa,-24.9186,47.1357,Austronesian
-tano1246-4,Antanosy (Bezaha),Serva2020,pone.0240170.s001.pdf,,tano1246,Tanosy Malagasy,txy,Africa,-24.9186,47.1357,Austronesian
-tano1246-5,Antanosy (Belamoty),Serva2020,pone.0240170.s001.pdf,,tano1246,Tanosy Malagasy,txy,Africa,-24.9186,47.1357,Austronesian
-tesa1236-2,Zafisoro (Farafangana),Serva2020,pone.0240170.s001.pdf,,tesa1236,Tesaka Malagasy,tkg,Africa,-23.3,47.33,Austronesian
-tesa1236-3,Antaisaka (Vangaindrano),Serva2020,pone.0240170.s001.pdf,,tesa1236,Tesaka Malagasy,tkg,Africa,-23.3,47.33,Austronesian
-tsim1257-2,Betsimisaraka (Antalaha),Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian
-tsim1257-3,Tsimihety (Mandritsara),Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian
-tsim1257-4,Tsimihety (Mampikony),Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian
-tsim1257-5,Tsimihety (Andapa),Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian
-tsim1257-6,Tsimihety (Antsohihy),Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian
-tuwa1242-2,Tuwari,Loiseau2022,p.60,,tuwa1242,Tuwari,tww,Papunesia,-4.80315,142.095,Walioic
-yago1240-2,Tandɨ (Yagomi),Carter2023,p.59,,yago1240,Tanda-Yagomi,ygm,Papunesia,-5.74049,146.603,Nuclear Trans New Guinea
