@@ -92,6 +92,7 @@ amba1269-2,Aion (No. 1. Porapora),Laycock1971D21,p.2964,,amba1269,Ambakich,aew,P
 amba1269-3,Ambakich,Potter2008,p.64,,amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Keram
 amba1269-4,Ambakich (Yaut village),Barlow2021,pp.72-73,,amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Keram
 amba1269-5,Ambakich (field notes),Barlow2018Ambakich,,,amba1269,Ambakich,aew,Papunesia,-4.23181,144.285,Keram
+amba1270-1,Aoba,Hagen1889,p.319,,amba1270,Ambae,,Papunesia,-15.3902,167.8485,Austronesian
 ambe1248-1,Ambelau: Buru,Stokhof1982Vol3.4,p.59,,ambe1248,Ambelau,amv,Papunesia,-3.85919,127.196,Austronesian
 ambo1250-1,Ambon Malay,Paauw2009,p.190,,ambo1250,Ambonese Malay,abs,Papunesia,-3.71342,128.184,Austronesian
 ambo1250-2,Ambon Maleis,Stokhof1982Vol3.3,pp.210-211,,ambo1250,Ambonese Malay,abs,Papunesia,-3.71342,128.184,Austronesian
@@ -382,6 +383,8 @@ bian1252-3,Biangai (Werewere village),LeanMorobe,p.66,"IMP/SIL (1978), SIL Word 
 biem1237-1,Bam,LeanEastSepik,p.55,"2 CSQs. Kadovar Is. (1), Bam Is. (1).",biem1237,Biem,bmc,Papunesia,-3.61342,144.816,Austronesian
 biem1237-2,Bam,Laycock1976,p.416,,biem1237,Biem,bmc,Papunesia,-3.61342,144.816,Austronesian
 biem1237-3,Blupblup (ruprup),Grace1955pdf43,p.47,,biem1237,Biem,bmc,Papunesia,-3.61342,144.816,Austronesian
+bier1244-1,Apee (Western side of Tasiwo),Steel1880,p.470,,bier1244,Bierebo,bnk,Papunesia,-16.6663,168.154,Austronesian
+bier1244-2,Apee: Western side of Tasiwo (from Steel 1880),Early1994,p.35,,bier1244,Bierebo,bnk,Papunesia,-16.6663,168.154,Austronesian
 biga1238-1,Biga,Remijsen2001,"pp.140, 145",,biga1238,Biga,bhc,Papunesia,-1.99574,130.272,Austronesian
 biga1238-2,Biga (Misool),Grace1956pdf32,p.3 [of pdf],,biga1238,Biga,bhc,Papunesia,-1.99574,130.272,Austronesian
 biha1246-1,Bih,Nguyen2013,p.31,,biha1246,Bih,ibh,Eurasia,12.483333,108.016667,Austronesian
@@ -714,11 +717,15 @@ engg1245-2,Enganho,Codrington1885,p.226,,engg1245,Enggano,eno,Papunesia,-5.38846
 enre1239-1,Endékan,Arnaud1998,pp.863-879 [word list item numbers],,enre1239,Enrekang,ptt,Papunesia,-3.53848,119.66,Austronesian
 enre1239-2,Masenrempulu (Enrekang),Grimes1987,pp.129-135,,enre1239,Enrekang,ptt,Papunesia,-3.53848,119.66,Austronesian
 epii1237-1,"Epi (system used by a spirit in a story) [exact language unknown, but possibly lewo1242]",Riddle1916,p.24,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
+epii1237-10,Apee: Northern part of Tasiwo (from Steel 1880),Early1994,p.35,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
 epii1237-2,"Epi [exact language unknown, but possibly lewo1242]",Riddle1916,p.24,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
 epii1237-3,"Api [exact language unknown, but seems similar to lewo1242]",Codrington1885,"pp.222, 235, 244-245",,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
 epii1237-4,"Api, Tasiko (West coast) [possibly bier1244]",Codrington1885,pp.469-470,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
 epii1237-5,"Api, Tasiko (West coast) [possibly maii1238]",Codrington1885,p.470,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
 epii1237-6,"Api, Tasiko (North-west coast) [is this a system used by spirits?]",Codrington1885,p.470,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
+epii1237-7,Apee (North-Western parts of Tasiwo),Steel1880,p.470,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
+epii1237-8,Apee (Northern parts of Tasiwo),Steel1880,p.470,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
+epii1237-9,Apee: North-Western part of Tasiwo (from Steel 1880),Early1994,p.35,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
 erav1244-1,Kewa (Southern dialect),Franklin1968,p.32,,erav1244,Erave,kjy,Papunesia,-6.55011,143.918,Nuclear Trans New Guinea
 erav1244-2,South Kewa (Pole),Franklin2001,pp.152-153,,erav1244,Erave,kjy,Papunesia,-6.55011,143.918,Nuclear Trans New Guinea
 eree1241-1,Ere,Blust2021,"pp.25, 30, 32, 38",,eree1241,Ere,twp,Papunesia,-2.15569,147.083,Austronesian
@@ -879,6 +886,7 @@ hano1246-1,"Pentecost or Whitsuntide, Arag",Codrington1885,"pp.232-233, 236, 440
 hano1246-2,Nggasai,Gray2012,p.29,,hano1246,Hano,lml,Papunesia,-15.5432,168.167,Austronesian
 hano1246-3,Modern Raga,Gray2012,p.29,,hano1246,Hano,lml,Papunesia,-15.5432,168.167,Austronesian
 hano1246-4,Raga,Gray2012,pp.108-110,,hano1246,Hano,lml,Papunesia,-15.5432,168.167,Austronesian
+hano1246-5,"Whitsuntide or Aragha (Vunmarama, North End)",Steel1880,p.472,,hano1246,Hano,lml,Papunesia,-15.5432,168.167,Austronesian
 hanu1241-1,Maŋyan-Hanunoo,Arnaud1998,pp.863-878 [word list item numbers],,hanu1241,Hanunoo,hnn,Papunesia,12.4159,121.221,Austronesian
 haru1244-1,Haruku,Stokhof1982Vol3.3,pp.147-148,,haru1244,Haruku,hrk,Papunesia,-3.57029,128.476,Austronesian
 haru1244-2,Pelauw Haruku,Stokhof1982Vol3.3,p.121,,haru1244,Haruku,hrk,Papunesia,-3.57029,128.476,Austronesian
@@ -1391,6 +1399,9 @@ leti1246-2,Leti,vanEngelenhoven2004,p.164,,leti1246,Leti (Indonesia),lti,Papunes
 lewo1242-1,Lewo (counting system for spirit-creatures),Early1994,p.219,,lewo1242,Lewo,lww,Papunesia,-16.7612,168.334,Austronesian
 lewo1242-2,Lewo,Early1994,pp.220-223,,lewo1242,Lewo,lww,Papunesia,-16.7612,168.334,Austronesian
 lewo1242-3,Nikaura,Riddle1916,p.24,,lewo1242,Lewo,lww,Papunesia,-16.7612,168.334,Austronesian
+lewo1242-4,Api S.-E.,Hagen1889,p.319,,lewo1242,Lewo,lww,Papunesia,-16.7612,168.334,Austronesian
+lewo1242-5,Lewo (from Hagen and Pineau 1889),Early1994,p.496,,lewo1242,Lewo,lww,Papunesia,-16.7612,168.334,Austronesian
+lewo1242-6,Lewo (from Ray 1893),Early1994,pp.499-500,,lewo1242,Lewo,lww,Papunesia,-16.7612,168.334,Austronesian
 lian1255-1,Seti,Collins1986,pp.127-128,,lian1255,Liana-Seti,ste,Papunesia,-3.11832,129.899,Austronesian
 lihi1237-1,Lihir,Lean1985Vol01,p.51,"5 CSQs; Field Notes 1974. Villages: Lataul, Lakamelen, Makapa, Ton (Lihir Island.), Bulamue (Masahet Island.).",lihi1237,Lihir,lih,Papunesia,-3.18895,152.606,Austronesian
 liki1241-1,Moar,Ray1912,pp.340-341,,liki1241,Liki,lio,Papunesia,-1.60652,138.731,Austronesian
@@ -1419,6 +1430,7 @@ loni1238-4,Loniu (from SIL word list: 1975),LeanManus,p.25,SIL Word List (1975).
 lonw1238-1,North Ambrym (spirit numbers) [from Paton (1971)],Garde2015,p.129,,lonw1238,Lonwolwol,crc,Papunesia,-16.2286,168.016,Austronesian
 lonw1238-2,Ambrym,Paton1971,p.19,,lonw1238,Lonwolwol,crc,Papunesia,-16.2286,168.016,Austronesian
 lonw1238-3,Ambrym,Codrington1885,"pp.224-225, 235, 458",,lonw1238,Lonwolwol,crc,Papunesia,-16.2286,168.016,Austronesian
+lonw1238-4,Ambrym O. (Tribu de Panté),Hagen1889,p.319,,lonw1238,Lonwolwol,crc,Papunesia,-16.2286,168.016,Austronesian
 lote1237-1,Uvol,LeanEastNewBritain,p.31,"2 CSQs. Villages: Inahele, Pilematana.",lote1237,Lote,uvl,Papunesia,-5.954,150.911,Austronesian
 lote1237-2,uvol,Grace1955pdf44,p.96,,lote1237,Lote,uvl,Papunesia,-5.954,150.911,Austronesian
 lote1237-3,Uvol,Rath1980,p.206,,lote1237,Lote,uvl,Papunesia,-5.954,150.911,Austronesian
@@ -1621,6 +1633,7 @@ mapo1242-4,Mapos Buang,Hooley1970,pp.170-171,,mapo1242,Mapos Buang,bzh,Papunesia
 mara1397-1,Natabui,Galis1960,p.142,,mara1397,Marau,mvr,Papunesia,-1.66738,135.797,Austronesian
 mara1397-2,Marau,Anceaux1961,pp.72-76,,mara1397,Marau,mvr,Papunesia,-1.66738,135.797,Austronesian
 mare1261-1,Maremgi,Galis1955,p.161,,mare1261,Maremgi,mrx,Papunesia,-2.31915,139.673,Tor-Orya
+mari1426-1,Aurora N. (Tribu de Bangoro),Hagen1889,p.319,,mari1426,Sunwadia,mrb,Papunesia,-14.970047,168.057941,Austronesian
 mari1428-1,Ham,LeanMadang,p.41,SIL Word List (1975). Village: Mair.,mari1428,Marik,dad,Papunesia,-5.349,145.59,Austronesian
 mari1428-2,Ham (Ato village),Lincoln1976,pp.2-5,,mari1428,Marik,dad,Papunesia,-5.349,145.59,Austronesian
 mari1429-1,Mari,LeanMadang,p.72,SIL Word List (1968). Village: Sankian.,mari1429,Mari (Madang Province),hob,Papunesia,-5.97399,145.828,Austronesian
@@ -1997,6 +2010,7 @@ noma1262-1,Nomane,Lean1986Vol09,p.70,"2 CSQs. Villages: Nomane, Kurigaba.",noma1
 nomu1240-1,Nomu,Smith1988,p.83,,nomu1240,Nomu,noh,Papunesia,-6.10429,147.5,Nuclear Trans New Guinea
 nort2828-1,North Moluccan Malay,Paauw2009,p.190,,nort2828,North Moluccan Malay,max,Papunesia,-0.86437,128.323,Austronesian
 nort2836-1,"Three Hills Island, Sesake",Codrington1885,"pp.222, 235, 238, 469",,nort2836,North Efate,llp,Papunesia,-17.5774,168.375,Austronesian
+nort2836-2,Sandwich (Port Havannah),Hagen1889,p.319,,nort2836,North Efate,llp,Papunesia,-17.5774,168.375,Austronesian
 nort2839-1,North Ambrym (imperfect decimal),Garde2015,p.129,,nort2839,North Ambrym,mmg,Papunesia,-16.1741,168.14,Austronesian
 nort2839-2,Embululi [given by Bishop Patteson],Codrington1885,p.458,,nort2839,North Ambrym,mmg,Papunesia,-16.1741,168.14,Austronesian
 nort2839-3,North Ambrym: Lolihor and Lonhali dialect,Franjieh2014,passim,,nort2839,North Ambrym,mmg,Papunesia,-16.1741,168.14,Austronesian
@@ -2126,6 +2140,7 @@ paam1238-2,Paamese,Crowley1982,pp.245-247,,paam1238,Paama,pma,Papunesia,-16.4754
 paam1238-3,Northern Paamese,Crowley1992,passim,,paam1238,Paama,pma,Papunesia,-16.47548,168.23693,Austronesian
 paam1238-4,Southern Paamese,Crowley1992,passim,,paam1238,Paama,pma,Papunesia,-16.47548,168.23693,Austronesian
 paam1238-5,Paamese (in lisefsef language),Crowley1992,passim,,paam1238,Paama,pma,Papunesia,-16.47548,168.23693,Austronesian
+paam1238-6,Paama,Steel1880,p.471,,paam1238,Paama,pma,Papunesia,-16.47548,168.23693,Austronesian
 pagi1244-1,Pagei,Laycock1970D04,p.498,,pagi1244,Pagi,pgi,Papunesia,-3.04649,141.246,Border
 pagi1244-2,Pagi,LeanSandaun,p.16,SIL Word List (1980). Village: Imbrinis.,pagi1244,Pagi,pgi,Papunesia,-3.04649,141.246,Border
 pagu1249-1,Pagu,Stokhof1980Vol2,p.198,,pagu1249,Pagu,pgu,Papunesia,1.2134,127.78,North Halmahera
@@ -2322,6 +2337,7 @@ saaa1241-4,Sa (Northern),Gray2012,"pp.34, 108",,saaa1241,Sa,sax,Papunesia,-15.95
 saaa1241-5,Sa (Western),Gray2012,p.108,,saaa1241,Sa,sax,Papunesia,-15.9534,168.228,Austronesian
 saaa1241-6,Sa (Eastern),Gray2012,pp.108-110,,saaa1241,Sa,sax,Papunesia,-15.9534,168.228,Austronesian
 saaa1241-7,Sa (Southern),Gray2012,p.108,,saaa1241,Sa,sax,Papunesia,-15.9534,168.228,Austronesian
+saaa1241-8,Pentecote S. (Tribu de Nineboulo),Hagen1889,p.319,,saaa1241,Sa,sax,Papunesia,-15.9534,168.228,Austronesian
 saba1263-1,Bazaar Malay,Aye2005,pp.79-80,,saba1263,Sabah Malay,msi,Papunesia,4.64808,117.024,Austronesian
 saba1267-1,Bisaya,Ray1913,pp.61-62,,saba1267,Sabah Bisaya,bsy,Papunesia,5.30433,115.512,Austronesian
 saba1267-2,Limbang Bisaya,Lobel2016,pp.234-239,,saba1267,Sabah Bisaya,bsy,Papunesia,5.30433,115.512,Austronesian
@@ -2751,6 +2767,7 @@ tola1247-2,Mekongga,Stokhof1985Vol7.4,pp.87-88,,tola1247,Tolaki,lbw,Papunesia,-4
 tola1247-3,"Tolelaki, Kendari",Stokhof1985Vol7.4,p.38,,tola1247,Tolaki,lbw,Papunesia,-4.03577,121.888,Austronesian
 tola1247-4,Tolaki (Celebes),Stokhof1987Vol11,p.193,,tola1247,Tolaki,lbw,Papunesia,-4.03577,121.888,Austronesian
 tolo1255-1,"Espiritu Santo, Marina",Codrington1885,"pp.232, 235, 244, 448-449",,tolo1255,Tolomako,tlm,Papunesia,-15.1569,166.772,Austronesian
+tolo1255-2,Santo S.E. (Tribu de Tikipi),Hagen1889,p.319,,tolo1255,Tolomako,tlm,Papunesia,-15.1569,166.772,Austronesian
 toma1248-1,Tomadio-Campalagian,Stokhof1985Vol7.4,pp.247-248,,toma1248,Tomadino,tdi,Papunesia,-2.56493,121.944,Austronesian
 tomb1243-1,Tombulu (from P. A. Wintjes),Stokhof1983Vol7.2,p.40,,tomb1243,Tombulu,tom,Papunesia,1.39715,124.754,Austronesian
 tomb1243-2,Tombulu (recorded in the town of Tomohon),Stokhof1983Vol7.2,p.30,,tomb1243,Tombulu,tom,Papunesia,1.39715,124.754,Austronesian
@@ -2901,6 +2918,7 @@ vani1248-1,Vanimo,LeanSandaun,p.3,"7 CSQs. Villages: Waromo (4), Vanimo (2), Yak
 vani1248-2,Vanimo,Laycock1970D03,p.322,,vani1248,Vanimo,vam,Papunesia,-2.68501,141.258,Sko
 vani1248-3,Wanimo,Ray1919,p.330,,vani1248,Vanimo,vam,Papunesia,-2.68501,141.258,Sko
 vani1248-4,Yako,Ray1919,p.331,,vani1248,Vanimo,vam,Papunesia,-2.68501,141.258,Sko
+vaoo1237-1,Mallicolo N. (tribu du Fooa),Hagen1889,p.319,,vaoo1237,Vao-Vovo,vao,Papunesia,-15.898299,167.309973,Austronesian
 vehe1237-1,Vehes,Smith1988,p.74,,vehe1237,Vehes,val,Papunesia,-6.92151,146.895,Austronesian
 vehi1234-1,colloquial Malay of Singapore [from Mr. Wallace],Codrington1885,pp.230-231,,vehi1234,Vehicular Malay,,Papunesia,-0.519317033613174,109.132732670432,Austronesian
 vera1241-1,"Vanua Lava, Pak",Codrington1885,"pp.235, 337",,vera1241,Vera'a,vra,Papunesia,-13.892528,167.428701,Austronesian
@@ -3176,21 +3194,3 @@ ziaa1250-3,Zia,Smith1988,p.106,,ziaa1250,Zia,zia,Papunesia,-7.95814,147.579,Nucl
 ziaa1250-4,Zia (Dona village),LeanMorobe,p.73,SIL Word List (1975). Village: Dona.,ziaa1250,Zia,zia,Papunesia,-7.95814,147.579,Nuclear Trans New Guinea
 ziaa1250-5,Zia (Siu village),LeanMorobe,pp.73-74,2 CSQs. Village: Siu.,ziaa1250,Zia,zia,Papunesia,-7.95814,147.579,Nuclear Trans New Guinea
 zima1244-1,Zimakani (Begua dialect),Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani,zik,Papunesia,-7.3701,141.452,Anim
-amba1270-1,Aoba,Hagen1889,p.319,,amba1270,Ambae,,Papunesia,-15.3902,167.8485,Austronesian
-bier1244-1,Apee (Western side of Tasiwo),Steel1880,p.470,,bier1244,Bierebo,bnk,Papunesia,-16.6663,168.154,Austronesian
-bier1244-2,Apee: Western side of Tasiwo (from Steel 1880),Early1994,p.35,,bier1244,Bierebo,bnk,Papunesia,-16.6663,168.154,Austronesian
-epii1237-10,Apee: Northern part of Tasiwo (from Steel 1880),Early1994,p.35,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
-epii1237-7,Apee (North-Western parts of Tasiwo),Steel1880,p.470,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
-epii1237-8,Apee (Northern parts of Tasiwo),Steel1880,p.470,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
-epii1237-9,Apee: North-Western part of Tasiwo (from Steel 1880),Early1994,p.35,,epii1237,Epi,,Papunesia,-16.71345017,168.2113396,Austronesian
-hano1246-5,"Whitsuntide or Aragha (Vunmarama, North End)",Steel1880,p.472,,hano1246,Hano,lml,Papunesia,-15.5432,168.167,Austronesian
-lewo1242-4,Api S.-E.,Hagen1889,p.319,,lewo1242,Lewo,lww,Papunesia,-16.7612,168.334,Austronesian
-lewo1242-5,Lewo (from Hagen and Pineau 1889),Early1994,p.496,,lewo1242,Lewo,lww,Papunesia,-16.7612,168.334,Austronesian
-lewo1242-6,Lewo (from Ray 1893),Early1994,pp.499-500,,lewo1242,Lewo,lww,Papunesia,-16.7612,168.334,Austronesian
-lonw1238-4,Ambrym O. (Tribu de Panté),Hagen1889,p.319,,lonw1238,Lonwolwol,crc,Papunesia,-16.2286,168.016,Austronesian
-mari1426-1,Aurora N. (Tribu de Bangoro),Hagen1889,p.319,,mari1426,Sunwadia,mrb,Papunesia,-14.970047,168.057941,Austronesian
-nort2836-2,Sandwich (Port Havannah),Hagen1889,p.319,,nort2836,North Efate,llp,Papunesia,-17.5774,168.375,Austronesian
-paam1238-6,Paama,Steel1880,p.471,,paam1238,Paama,pma,Papunesia,-16.47548,168.23693,Austronesian
-saaa1241-8,Pentecote S. (Tribu de Nineboulo),Hagen1889,p.319,,saaa1241,Sa,sax,Papunesia,-15.9534,168.228,Austronesian
-tolo1255-2,Santo S.E. (Tribu de Tikipi),Hagen1889,p.319,,tolo1255,Tolomako,tlm,Papunesia,-15.1569,166.772,Austronesian
-vaoo1237-1,Mallicolo N. (tribu du Fooa),Hagen1889,p.319,,vaoo1237,Vao-Vovo,vao,Papunesia,-15.898299,167.309973,Austronesian
