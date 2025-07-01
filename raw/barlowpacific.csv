@@ -40827,3 +40827,189 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
+1,ta,"The following specimens were kindly furnished by the Rev. R. H. Codririgton, M.A., of the Melanesian mission, and were the work of the lamented Bishop Patteson",FALSE,Steel1880,p.470,,bier1244,Apee (Western side of Tasiwo),bier1244-1
+2,chua,,FALSE,Steel1880,p.470,,bier1244,Apee (Western side of Tasiwo),bier1244-1
+3,tolu,,FALSE,Steel1880,p.470,,bier1244,Apee (Western side of Tasiwo),bier1244-1
+4,veri,,FALSE,Steel1880,p.470,,bier1244,Apee (Western side of Tasiwo),bier1244-1
+5,chima,,FALSE,Steel1880,p.470,,bier1244,Apee (Western side of Tasiwo),bier1244-1
+6,ora,,FALSE,Steel1880,p.470,,bier1244,Apee (Western side of Tasiwo),bier1244-1
+7,olua,,FALSE,Steel1880,p.470,,bier1244,Apee (Western side of Tasiwo),bier1244-1
+8,o rolu,,FALSE,Steel1880,p.470,,bier1244,Apee (Western side of Tasiwo),bier1244-1
+9,o veri,,FALSE,Steel1880,p.470,,bier1244,Apee (Western side of Tasiwo),bier1244-1
+10,lua lima,,FALSE,Steel1880,p.470,,bier1244,Apee (Western side of Tasiwo),bier1244-1
+1,tai,"The following specimens were kindly furnished by the Rev. R. H. Codririgton, M.A., of the Melanesian mission, and were the work of the lamented Bishop Patteson",FALSE,Steel1880,p.470,,epii1237,Apee (North-Western parts of Tasiwo),epii1237-7
+2,lua,,FALSE,Steel1880,p.470,,epii1237,Apee (North-Western parts of Tasiwo),epii1237-7
+3,selu,,FALSE,Steel1880,p.470,,epii1237,Apee (North-Western parts of Tasiwo),epii1237-7
+4,vari,,FALSE,Steel1880,p.470,,epii1237,Apee (North-Western parts of Tasiwo),epii1237-7
+5,lima,,FALSE,Steel1880,p.470,,epii1237,Apee (North-Western parts of Tasiwo),epii1237-7
+6,oraga,,FALSE,Steel1880,p.470,,epii1237,Apee (North-Western parts of Tasiwo),epii1237-7
+7,o lua,,FALSE,Steel1880,p.470,,epii1237,Apee (North-Western parts of Tasiwo),epii1237-7
+8,o relu,,FALSE,Steel1880,p.470,,epii1237,Apee (North-Western parts of Tasiwo),epii1237-7
+9,a vari,,FALSE,Steel1880,p.470,,epii1237,Apee (North-Western parts of Tasiwo),epii1237-7
+10,lua lima,,FALSE,Steel1880,p.470,,epii1237,Apee (North-Western parts of Tasiwo),epii1237-7
+1,peni,"The following specimens were kindly furnished by the Rev. R. H. Codririgton, M.A., of the Melanesian mission, and were the work of the lamented Bishop Patteson",FALSE,Steel1880,p.470,,epii1237,Apee (North-Western parts of Tasiwo),epii1237-7
+2,viago,,FALSE,Steel1880,p.470,,epii1237,Apee (Northern parts of Tasiwo),epii1237-8
+3,pun sulu,,FALSE,Steel1880,p.470,,epii1237,Apee (Northern parts of Tasiwo),epii1237-8
+4,puŋ vire,"[<pun vire>, with <n> in italics]",FALSE,Steel1880,p.470,,epii1237,Apee (Northern parts of Tasiwo),epii1237-8
+5,pun lima,,FALSE,Steel1880,p.470,,epii1237,Apee (Northern parts of Tasiwo),epii1237-8
+6,po raka,,FALSE,Steel1880,p.470,,epii1237,Apee (Northern parts of Tasiwo),epii1237-8
+6,poa raka,,FALSE,Steel1880,p.470,,epii1237,Apee (Northern parts of Tasiwo),epii1237-8
+7,o lua,,FALSE,Steel1880,p.470,,epii1237,Apee (Northern parts of Tasiwo),epii1237-8
+8,o rolu,,FALSE,Steel1880,p.470,,epii1237,Apee (Northern parts of Tasiwo),epii1237-8
+9,ka vari,,FALSE,Steel1880,p.470,,epii1237,Apee (Northern parts of Tasiwo),epii1237-8
+10,lua lima,,FALSE,Steel1880,p.470,,epii1237,Apee (Northern parts of Tasiwo),epii1237-8
+1,tai,"The following specimens were kindly furnished by the Rev. R. H. Codririgton, M.A., of the Melanesian mission, and were the work of the lamented Bishop Patteson",FALSE,Steel1880,p.471,,paam1238,Paama,paam1238-6
+2,elua,,FALSE,Steel1880,p.471,,paam1238,Paama,paam1238-6
+3,e tɛlu,"[<e tolu>, with <o> in italics]",FALSE,Steel1880,p.471,,paam1238,Paama,paam1238-6
+4,e hati,,FALSE,Steel1880,p.471,,paam1238,Paama,paam1238-6
+5,e lime,,FALSE,Steel1880,p.471,,paam1238,Paama,paam1238-6
+6,a hitai,,FALSE,Steel1880,p.471,,paam1238,Paama,paam1238-6
+7,o lu,,FALSE,Steel1880,p.471,,paam1238,Paama,paam1238-6
+8,o tɛlu,"[<o tolu>, with <o> in italics]",FALSE,Steel1880,p.471,,paam1238,Paama,paam1238-6
+9,o hati,,FALSE,Steel1880,p.471,,paam1238,Paama,paam1238-6
+10,ha lua lim,,FALSE,Steel1880,p.471,,paam1238,Paama,paam1238-6
+1,tea,,FALSE,Steel1880,p.472,,hano1246,"Whitsuntide or Aragha (Vunmarama, North End)",hano1246-5
+2,rua,,FALSE,Steel1880,p.472,,hano1246,"Whitsuntide or Aragha (Vunmarama, North End)",hano1246-5
+3,tolu,,FALSE,Steel1880,p.472,,hano1246,"Whitsuntide or Aragha (Vunmarama, North End)",hano1246-5
+4,fasi,,FALSE,Steel1880,p.472,,hano1246,"Whitsuntide or Aragha (Vunmarama, North End)",hano1246-5
+5,lima,,FALSE,Steel1880,p.472,,hano1246,"Whitsuntide or Aragha (Vunmarama, North End)",hano1246-5
+6,ono,,FALSE,Steel1880,p.472,,hano1246,"Whitsuntide or Aragha (Vunmarama, North End)",hano1246-5
+7,vitu,,FALSE,Steel1880,p.472,,hano1246,"Whitsuntide or Aragha (Vunmarama, North End)",hano1246-5
+8,welu,,FALSE,Steel1880,p.472,,hano1246,"Whitsuntide or Aragha (Vunmarama, North End)",hano1246-5
+9,siwo,,FALSE,Steel1880,p.472,,hano1246,"Whitsuntide or Aragha (Vunmarama, North End)",hano1246-5
+10,haŋwul,"[<hanwul>, with <n> in italics]",FALSE,Steel1880,p.472,,hano1246,"Whitsuntide or Aragha (Vunmarama, North End)",hano1246-5
+1,ta,Speakers today identify [these numerals] as being the dialect of Bierebo that is spoken in Bonkovia village.,FALSE,Early1994,p.35,,bier1244,Apee: Western side of Tasiwo (from Steel 1880),bier1244-2
+2,chua,,FALSE,Early1994,p.35,,bier1244,Apee: Western side of Tasiwo (from Steel 1880),bier1244-2
+3,tolu,,FALSE,Early1994,p.35,,bier1244,Apee: Western side of Tasiwo (from Steel 1880),bier1244-2
+4,veri,,FALSE,Early1994,p.35,,bier1244,Apee: Western side of Tasiwo (from Steel 1880),bier1244-2
+5,chima,,FALSE,Early1994,p.35,,bier1244,Apee: Western side of Tasiwo (from Steel 1880),bier1244-2
+6,ora,,FALSE,Early1994,p.35,,bier1244,Apee: Western side of Tasiwo (from Steel 1880),bier1244-2
+7,olua,,FALSE,Early1994,p.35,,bier1244,Apee: Western side of Tasiwo (from Steel 1880),bier1244-2
+8,o rolu,,FALSE,Early1994,p.35,,bier1244,Apee: Western side of Tasiwo (from Steel 1880),bier1244-2
+9,o veri,,FALSE,Early1994,p.35,,bier1244,Apee: Western side of Tasiwo (from Steel 1880),bier1244-2
+10,lualima,,FALSE,Early1994,p.35,,bier1244,Apee: Western side of Tasiwo (from Steel 1880),bier1244-2
+1,tai,,FALSE,Early1994,p.35,,epii1237,Apee: North-Western part of Tasiwo (from Steel 1880),epii1237-9
+2,lua,,FALSE,Early1994,p.35,,epii1237,Apee: North-Western part of Tasiwo (from Steel 1880),epii1237-9
+3,selu,"selu ‘three’ is diagnostic of Lamen, and nowhere else on Epi, but other forms make it look like the dialect of Lewo spoken in Visina village",FALSE,Early1994,p.35,,epii1237,Apee: North-Western part of Tasiwo (from Steel 1880),epii1237-9
+4,vari,,FALSE,Early1994,p.35,,epii1237,Apee: North-Western part of Tasiwo (from Steel 1880),epii1237-9
+5,lima,,FALSE,Early1994,p.35,,epii1237,Apee: North-Western part of Tasiwo (from Steel 1880),epii1237-9
+6,oraga,,FALSE,Early1994,p.35,,epii1237,Apee: North-Western part of Tasiwo (from Steel 1880),epii1237-9
+7,o lua,,FALSE,Early1994,p.35,,epii1237,Apee: North-Western part of Tasiwo (from Steel 1880),epii1237-9
+8,o relu,,FALSE,Early1994,p.35,,epii1237,Apee: North-Western part of Tasiwo (from Steel 1880),epii1237-9
+9,avari,,FALSE,Early1994,p.35,,epii1237,Apee: North-Western part of Tasiwo (from Steel 1880),epii1237-9
+10,lualima,,FALSE,Early1994,p.35,,epii1237,Apee: North-Western part of Tasiwo (from Steel 1880),epii1237-9
+1,peni,‘tomorrow’,FALSE,Early1994,p.35,,epii1237,Apee: Northern part of Tasiwo (from Steel 1880),epii1237-10
+2,viago,‘day after tomorrow’,FALSE,Early1994,p.35,,epii1237,Apee: Northern part of Tasiwo (from Steel 1880),epii1237-10
+3,pun sulu,‘third day’,FALSE,Early1994,p.35,,epii1237,Apee: Northern part of Tasiwo (from Steel 1880),epii1237-10
+4,puŋ vire,"‘fourth day’ [<pun vire>, with <n> in italics]",FALSE,Early1994,p.35,,epii1237,Apee: Northern part of Tasiwo (from Steel 1880),epii1237-10
+5,pun lima,‘fifth day’,FALSE,Early1994,p.35,,epii1237,Apee: Northern part of Tasiwo (from Steel 1880),epii1237-10
+6,po(a) raka,,FALSE,Early1994,p.35,,epii1237,Apee: Northern part of Tasiwo (from Steel 1880),epii1237-10
+7,o lua,,FALSE,Early1994,p.35,,epii1237,Apee: Northern part of Tasiwo (from Steel 1880),epii1237-10
+8,o rolu,,FALSE,Early1994,p.35,,epii1237,Apee: Northern part of Tasiwo (from Steel 1880),epii1237-10
+9,ka vari,,FALSE,Early1994,p.35,,epii1237,Apee: Northern part of Tasiwo (from Steel 1880),epii1237-10
+10,lua lima,"Some speakers identify some of [these numerals] as being old forms of the dialect of Bierebo from Yopuna, while others see them as reflecting the speech of the old village of Fae, from which the current community of Revaliu derives, whose modern language is regarded to be a dialect of Baki. In both cases, it is thought that the forms are not the regular counting system, but that of spirit-creatures",FALSE,Early1994,p.35,,epii1237,Apee: Northern part of Tasiwo (from Steel 1880),epii1237-10
+1,étéa,,FALSE,Hagen1889,p.319,,vaoo1237,Mallicolo N. (tribu du Fooa),vaoo1237-1
+2,éroua,,FALSE,Hagen1889,p.319,,vaoo1237,Mallicolo N. (tribu du Fooa),vaoo1237-1
+3,étolou,,FALSE,Hagen1889,p.319,,vaoo1237,Mallicolo N. (tribu du Fooa),vaoo1237-1
+4,ézata,,FALSE,Hagen1889,p.319,,vaoo1237,Mallicolo N. (tribu du Fooa),vaoo1237-1
+5,élimé,,FALSE,Hagen1889,p.319,,vaoo1237,Mallicolo N. (tribu du Fooa),vaoo1237-1
+6,éïoua,,FALSE,Hagen1889,p.319,,vaoo1237,Mallicolo N. (tribu du Fooa),vaoo1237-1
+7,épitou,,FALSE,Hagen1889,p.319,,vaoo1237,Mallicolo N. (tribu du Fooa),vaoo1237-1
+8,oualou,,FALSE,Hagen1889,p.319,,vaoo1237,Mallicolo N. (tribu du Fooa),vaoo1237-1
+9,éïpé,,FALSE,Hagen1889,p.319,,vaoo1237,Mallicolo N. (tribu du Fooa),vaoo1237-1
+10,agnanbolou,,FALSE,Hagen1889,p.319,,vaoo1237,Mallicolo N. (tribu du Fooa),vaoo1237-1
+1,sigaé,,FALSE,Hagen1889,p.319,,nort2836,Sandwich (Port Havannah),nort2836-2
+2,dououa,,FALSE,Hagen1889,p.319,,nort2836,Sandwich (Port Havannah),nort2836-2
+3,doolo,,FALSE,Hagen1889,p.319,,nort2836,Sandwich (Port Havannah),nort2836-2
+4,faté,,FALSE,Hagen1889,p.319,,nort2836,Sandwich (Port Havannah),nort2836-2
+5,lima,,FALSE,Hagen1889,p.319,,nort2836,Sandwich (Port Havannah),nort2836-2
+6,lazéssa,,FALSE,Hagen1889,p.319,,nort2836,Sandwich (Port Havannah),nort2836-2
+7,laroua,,FALSE,Hagen1889,p.319,,nort2836,Sandwich (Port Havannah),nort2836-2
+8,latabou,,FALSE,Hagen1889,p.319,,nort2836,Sandwich (Port Havannah),nort2836-2
+9,lobéte,,FALSE,Hagen1889,p.319,,nort2836,Sandwich (Port Havannah),nort2836-2
+10,doualima,,FALSE,Hagen1889,p.319,,nort2836,Sandwich (Port Havannah),nort2836-2
+1,taé,,FALSE,Hagen1889,p.319,,lewo1242,Api S.-E.,lewo1242-4
+2,loua,,FALSE,Hagen1889,p.319,,lewo1242,Api S.-E.,lewo1242-4
+3,talou,,FALSE,Hagen1889,p.319,,lewo1242,Api S.-E.,lewo1242-4
+4,uari,,FALSE,Hagen1889,p.319,,lewo1242,Api S.-E.,lewo1242-4
+5,lima,,FALSE,Hagen1889,p.319,,lewo1242,Api S.-E.,lewo1242-4
+6,oraé,,FALSE,Hagen1889,p.319,,lewo1242,Api S.-E.,lewo1242-4
+7,oloua,,FALSE,Hagen1889,p.319,,lewo1242,Api S.-E.,lewo1242-4
+8,oralou,,FALSE,Hagen1889,p.319,,lewo1242,Api S.-E.,lewo1242-4
+9,ouari,,FALSE,Hagen1889,p.319,,lewo1242,Api S.-E.,lewo1242-4
+10,loualima,,FALSE,Hagen1889,p.319,,lewo1242,Api S.-E.,lewo1242-4
+1,ouou,,FALSE,Hagen1889,p.319,,lonw1238,Ambrym O. (Tribu de Panté),lonw1238-4
+2,rou,,FALSE,Hagen1889,p.319,,lonw1238,Ambrym O. (Tribu de Panté),lonw1238-4
+3,sulou,,FALSE,Hagen1889,p.319,,lonw1238,Ambrym O. (Tribu de Panté),lonw1238-4
+4,nieke,,FALSE,Hagen1889,p.319,,lonw1238,Ambrym O. (Tribu de Panté),lonw1238-4
+5,lima,,FALSE,Hagen1889,p.319,,lonw1238,Ambrym O. (Tribu de Panté),lonw1238-4
+6,lisi,,FALSE,Hagen1889,p.319,,lonw1238,Ambrym O. (Tribu de Panté),lonw1238-4
+7,liuoro,,FALSE,Hagen1889,p.319,,lonw1238,Ambrym O. (Tribu de Panté),lonw1238-4
+8,lissul,,FALSE,Hagen1889,p.319,,lonw1238,Ambrym O. (Tribu de Panté),lonw1238-4
+9,safète,,FALSE,Hagen1889,p.319,,lonw1238,Ambrym O. (Tribu de Panté),lonw1238-4
+10,sagnuluc,,FALSE,Hagen1889,p.319,,lonw1238,Ambrym O. (Tribu de Panté),lonw1238-4
+1,assia,,FALSE,Hagen1889,p.319,,saaa1241,Pentecote S. (Tribu de Nineboulo),saaa1241-8
+2,alou,,FALSE,Hagen1889,p.319,,saaa1241,Pentecote S. (Tribu de Nineboulo),saaa1241-8
+3,attioul,,FALSE,Hagen1889,p.319,,saaa1241,Pentecote S. (Tribu de Nineboulo),saaa1241-8
+4,affiet,,FALSE,Hagen1889,p.319,,saaa1241,Pentecote S. (Tribu de Nineboulo),saaa1241-8
+5,alim,,FALSE,Hagen1889,p.319,,saaa1241,Pentecote S. (Tribu de Nineboulo),saaa1241-8
+6,lussia,,FALSE,Hagen1889,p.319,,saaa1241,Pentecote S. (Tribu de Nineboulo),saaa1241-8
+7,yélou,,FALSE,Hagen1889,p.319,,saaa1241,Pentecote S. (Tribu de Nineboulo),saaa1241-8
+8,yétioul,,FALSE,Hagen1889,p.319,,saaa1241,Pentecote S. (Tribu de Nineboulo),saaa1241-8
+9,yapat,,FALSE,Hagen1889,p.319,,saaa1241,Pentecote S. (Tribu de Nineboulo),saaa1241-8
+10,sianfoul,,FALSE,Hagen1889,p.319,,saaa1241,Pentecote S. (Tribu de Nineboulo),saaa1241-8
+1,tea,,FALSE,Hagen1889,p.319,,mari1426,Aurora N. (Tribu de Bangoro),mari1426-1
+2,roua,,FALSE,Hagen1889,p.319,,mari1426,Aurora N. (Tribu de Bangoro),mari1426-1
+3,tolou,,FALSE,Hagen1889,p.319,,mari1426,Aurora N. (Tribu de Bangoro),mari1426-1
+4,faté,,FALSE,Hagen1889,p.319,,mari1426,Aurora N. (Tribu de Bangoro),mari1426-1
+5,lima,,FALSE,Hagen1889,p.319,,mari1426,Aurora N. (Tribu de Bangoro),mari1426-1
+6,onou,,FALSE,Hagen1889,p.319,,mari1426,Aurora N. (Tribu de Bangoro),mari1426-1
+7,fito,,FALSE,Hagen1889,p.319,,mari1426,Aurora N. (Tribu de Bangoro),mari1426-1
+8,oulo,,FALSE,Hagen1889,p.319,,mari1426,Aurora N. (Tribu de Bangoro),mari1426-1
+9,tsibot,,FALSE,Hagen1889,p.319,,mari1426,Aurora N. (Tribu de Bangoro),mari1426-1
+10,sanoolou,,FALSE,Hagen1889,p.319,,mari1426,Aurora N. (Tribu de Bangoro),mari1426-1
+100,ounbolo,,FALSE,Hagen1889,p.319,,mari1426,Aurora N. (Tribu de Bangoro),mari1426-1
+1,téa,,FALSE,Hagen1889,p.319,,amba1270,Aoba,amba1270-1
+2,roué,,FALSE,Hagen1889,p.319,,amba1270,Aoba,amba1270-1
+3,tolou,,FALSE,Hagen1889,p.319,,amba1270,Aoba,amba1270-1
+4,faté,,FALSE,Hagen1889,p.319,,amba1270,Aoba,amba1270-1
+5,lima,,FALSE,Hagen1889,p.319,,amba1270,Aoba,amba1270-1
+6,ono,,FALSE,Hagen1889,p.319,,amba1270,Aoba,amba1270-1
+7,pitou,,FALSE,Hagen1889,p.319,,amba1270,Aoba,amba1270-1
+8,oualo,,FALSE,Hagen1889,p.319,,amba1270,Aoba,amba1270-1
+9,siouo,,FALSE,Hagen1889,p.319,,amba1270,Aoba,amba1270-1
+10,sangaboulo,,FALSE,Hagen1889,p.319,,amba1270,Aoba,amba1270-1
+100,pounoloué,,FALSE,Hagen1889,p.319,,amba1270,Aoba,amba1270-1
+200,pounoloue-raoué,,FALSE,Hagen1889,p.319,,amba1270,Aoba,amba1270-1
+1,téba,,FALSE,Hagen1889,p.319,,tolo1255,Santo S.E. (Tribu de Tikipi),tolo1255-2
+2,roua,,FALSE,Hagen1889,p.319,,tolo1255,Santo S.E. (Tribu de Tikipi),tolo1255-2
+3,motolou,,FALSE,Hagen1889,p.319,,tolo1255,Santo S.E. (Tribu de Tikipi),tolo1255-2
+4,vaté,,FALSE,Hagen1889,p.319,,tolo1255,Santo S.E. (Tribu de Tikipi),tolo1255-2
+5,lima,,FALSE,Hagen1889,p.319,,tolo1255,Santo S.E. (Tribu de Tikipi),tolo1255-2
+6,limarabé,,FALSE,Hagen1889,p.319,,tolo1255,Santo S.E. (Tribu de Tikipi),tolo1255-2
+7,limalabéroua,,FALSE,Hagen1889,p.319,,tolo1255,Santo S.E. (Tribu de Tikipi),tolo1255-2
+8,limalapaté,,FALSE,Hagen1889,p.319,,tolo1255,Santo S.E. (Tribu de Tikipi),tolo1255-2
+9,limaravéto,,FALSE,Hagen1889,p.319,,tolo1255,Santo S.E. (Tribu de Tikipi),tolo1255-2
+10,ablatéa,,FALSE,Hagen1889,p.319,,tolo1255,Santo S.E. (Tribu de Tikipi),tolo1255-2
+100,ablatolou,,FALSE,Hagen1889,p.319,,tolo1255,Santo S.E. (Tribu de Tikipi),tolo1255-2
+1,taé,/tae/,FALSE,Early1994,p.496,,lewo1242,Lewo (from Hagen and Pineau 1889),lewo1242-5
+2,loua,/lua/,FALSE,Early1994,p.496,,lewo1242,Lewo (from Hagen and Pineau 1889),lewo1242-5
+3,talou,/talu/,FALSE,Early1994,p.496,,lewo1242,Lewo (from Hagen and Pineau 1889),lewo1242-5
+4,uari,/uari/,FALSE,Early1994,p.496,,lewo1242,Lewo (from Hagen and Pineau 1889),lewo1242-5
+5,lima,/lima/ ; exactly the same form as the adjacent word in the adjoining list for the Havannah Harbour language (a north Efate dialect),FALSE,Early1994,p.496,,lewo1242,Lewo (from Hagen and Pineau 1889),lewo1242-5
+6,oraé,/orae/,FALSE,Early1994,p.496,,lewo1242,Lewo (from Hagen and Pineau 1889),lewo1242-5
+7,oloua,/olua/,FALSE,Early1994,p.496,,lewo1242,Lewo (from Hagen and Pineau 1889),lewo1242-5
+8,oralou,/oralu/,FALSE,Early1994,p.496,,lewo1242,Lewo (from Hagen and Pineau 1889),lewo1242-5
+9,ouari,/ouari/,FALSE,Early1994,p.496,,lewo1242,Lewo (from Hagen and Pineau 1889),lewo1242-5
+10,loualima,/lualima/,FALSE,Early1994,p.496,,lewo1242,Lewo (from Hagen and Pineau 1889),lewo1242-5
+1,tai,,FALSE,Early1994,pp.499-500,,lewo1242,Lewo (from Ray 1893),lewo1242-6
+1,taga,,FALSE,Early1994,pp.499-500,,lewo1242,Lewo (from Ray 1893),lewo1242-6
+2,lua,,FALSE,Early1994,pp.499-500,,lewo1242,Lewo (from Ray 1893),lewo1242-6
+3,tolu,,FALSE,Early1994,pp.499-500,,lewo1242,Lewo (from Ray 1893),lewo1242-6
+4,vaeri,,FALSE,Early1994,pp.499-500,,lewo1242,Lewo (from Ray 1893),lewo1242-6
+5,lima,,FALSE,Early1994,pp.499-500,,lewo1242,Lewo (from Ray 1893),lewo1242-6
+6,o-rai,,FALSE,Early1994,pp.499-500,,lewo1242,Lewo (from Ray 1893),lewo1242-6
+7,o-lua,,FALSE,Early1994,pp.499-500,,lewo1242,Lewo (from Ray 1893),lewo1242-6
+8,o-rolu,,FALSE,Early1994,pp.499-500,,lewo1242,Lewo (from Ray 1893),lewo1242-6
+9,o-vaeri,,FALSE,Early1994,pp.499-500,,lewo1242,Lewo (from Ray 1893),lewo1242-6
+10,lua-lima,,FALSE,Early1994,pp.499-500,,lewo1242,Lewo (from Ray 1893),lewo1242-6
