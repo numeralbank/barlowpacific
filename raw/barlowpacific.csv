@@ -2041,6 +2041,52 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,rorombosisa,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
 9,seselua,,FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
 10,bwalutem,"Old people in some areas of Pentecost remember sequences of ‘devils’ numbers’ that are very different from the ordinary numbers. In the old days, it is claimed, people working in their gardens would hear devils in the bushes counting to their children using these numbers. Some sets of devils’ numbers are attributed to specific mythological figures. The numbers often have an archaic sound to them, although it is unlikely that they simply represent an older form of numbering.",FALSE,Gray2012,p.110,,apma1240,Apma (devils’ numbers),apma1240-5
+1,bwaleh,Counting numbers are simply used in counting; they do not fit in with any syntactic structure.,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+2,karu,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+3,katsil,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+4,kavet,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+5,kalim,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+6,labwaleh,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+7,laviru,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+8,labtsil,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+9,labet,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+10,sangwul,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+11,sangwul vebnan bwaleh,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+12,sangwul vebnan karu,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+20,ngawul karu,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+21,ngawul karu vebnan bwaleh,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+22,ngawul karu vebnan karu,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+30,ngawul katsil,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+31,ngawul katsil vebnan bwaleh,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+100,ngawul sangwul,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+101,ngawul sangwul vebnan bwaleh,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+110,ngawul sangwul vebnan sangwul,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+200,ngawul sangwul va karu,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+201,ngawul sangwul va karu bi bwaleh,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma counting numbers,apma1240-6
+1000,ngawul sangwul va sangwul,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+1,bwaleh,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+2,karu,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+3,katsil,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+4,kavet,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+5,kalim,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+6,telabwaleh,"cardinal numbers are almost identical in form to counting numbers, with the exception of the numbers from six through nineteen, which take the te- ‘type 2 adjective (ADJ2)/perfective (PFV)’ prefix. This prefix reflects their functioning status as stative verbs or type 2 adjectives within the syntax.",FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+7,telaviru,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+8,telabtsil,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+9,telabet,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+10,tesangwul,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+11,tesangwul vebnan bwaleh,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+12,tesangwul vebnan karu,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+20,ngawul karu,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+21,ngawul karu vebnan bwaleh,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+22,ngawul karu vebnan karu,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+30,ngawul katsil,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+31,ngawul katsil vebnan bwaleh,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+100,ngawul sangwul,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+101,ngawul sangwul vebnan bwaleh,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+110,ngawul sangwul vebnan sangwul,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+200,ngawul sangwul va karu,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+201,ngawul sangwul va karu bi bwaleh,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
+1000,ngawul sangwul va sangwul,,FALSE,Schneider2010,pp.114-115,,apma1240,Apma cardinal numbers,apma1240-7
 1,wa,(indefinite marker?),FALSE,Barlow2021,p.87,,apma1241,Ap Ma (Yamen village),apma1241-1
 1,mba,,FALSE,Barlow2021,p.87,,apma1241,Ap Ma (Yamen village),apma1241-1
 1,mboa,(< mba-wa ‘a/one one’?),FALSE,Barlow2021,p.87,,apma1241,Ap Ma (Yamen village),apma1241-1
