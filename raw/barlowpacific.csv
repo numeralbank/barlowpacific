@@ -15928,6 +15928,95 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,tautautautaukuɽapɛ,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
 10,tautautautautau,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
 20,anijˈa,,FALSE,Menanti2022,p.30,,kosa1251,Kosare (Naira),kosa1251-2
+1,sra,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+2,lo,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+3,tol,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+4,ahng,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+5,luhm,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+6,on,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+7,it,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+8,oal,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+9,yuk,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+10,si-nguhul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+20,lo-ngoul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+30,tol-ngoul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+40,a-ngaul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+50,luhm-ngaul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+60,on-ngoul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+70,it-nguhul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+80,al-nguhul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+90,yuh-nguhul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+100,sio-fok,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+200,lo-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+300,tol-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+400,ahng-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+500,luhm-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+600,on-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+700,it-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+800,al-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+900,yuh-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+10000,singuhul tausin,The word tausin and milion are borrowed from English.,TRUE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+100000,siofok tausin,The word tausin and milion are borrowed from English.,TRUE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
+1,soko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+2,lukoac,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+3,tolko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+3,tolkoe,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+4,yoko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+5,luhmko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+5,luhmkoe,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+6,onko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+6,onkoe,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+7,itko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+7,itkoe,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+8,oalko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+8,oalkoe,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+9,yuh,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+11,singuhul soko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+22,longoul lukoac,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+24,longoul yoko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+2376,luo tausin tolfoko itnguhul onkoe,The word tausin and milion are borrowed from English.,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
+1,sie,the number sie is used in a fraction or in a partitive expression.,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+1,se,The form se is used when the number follows a noun,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+2,luo,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+3,tolu,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+4,ahkosr,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+5,limekohsr,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+6,onkohsr,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+7,itkohsr,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+8,oalkosr,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+8,oalkuhsr,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+9,yuh,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+11,singuhul sie,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+22,longoul luo,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+24,longoul ahkosr,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+241,lofoko angngahul sie,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+1000,tausin se,The word tausin and milion are borrowed from English.,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+2000,tausin luo,,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+2376,luo tausin tolfoko itnguhul onkosr,,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+4000,tausin ahkosr,,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+1000000,milion se,The word tausin and milion are borrowed from English.,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+2000000,milion luo,,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+3000000,milion tolu,,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
+1,šắka,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
+2,rŏ́ka,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
+3,tŭ́rtur,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
+4,pắta,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
+5,sī́re,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
+6,sipā́re,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
+7,rḗti,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
+8,rḗta,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
+9,sĭ́rsir,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
+10,eä̆́,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
+1,sī́ro,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
+2,mắtan,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
+3,tŏ́fa,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
+4,ṅel,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
+5,nom,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
+6,kaṅ,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
+7,sī́e,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
+8,šắk,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
+9,šắk,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
+10,lū́o,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
 1,satoe,,FALSE,Stokhof1986Vol8,pp.203-204,,kota1275,Dialect spoken in the West Kutei,kota1275-1
 2,doea,,FALSE,Stokhof1986Vol8,pp.203-204,,kota1275,Dialect spoken in the West Kutei,kota1275-1
 3,teloe,,FALSE,Stokhof1986Vol8,pp.203-204,,kota1275,Dialect spoken in the West Kutei,kota1275-1
@@ -41059,92 +41148,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,sra,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-2,lo,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-3,tol,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-4,ahng,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-5,luhm,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-6,on,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-7,it,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-8,oal,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-9,yuk,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-10,si-nguhul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-20,lo-ngoul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-30,tol-ngoul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-40,a-ngaul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-50,luhm-ngaul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-60,on-ngoul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-70,it-nguhul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-80,al-nguhul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-90,yuh-nguhul,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-100,sio-fok,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-200,lo-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-300,tol-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-400,ahng-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-500,luhm-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-600,on-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-700,it-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-800,al-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-900,yuh-foko,,FALSE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-10000,singuhul tausin,The word tausin and milion are borrowed from English.,TRUE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-100000,siofok tausin,The word tausin and milion are borrowed from English.,TRUE,Lee1975,"pp.118-119, 124-125",,kosr1238,Kusaiean: serial counting numbers,kosr1238-1
-1,soko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-2,lukoac,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-3,tolko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-3,tolkoe,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-4,yoko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-5,luhmko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-5,luhmkoe,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-6,onko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-6,onkoe,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-7,itko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-7,itkoe,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-8,oalko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-8,oalkoe,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-9,yuh,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-11,singuhul soko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-22,longoul lukoac,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-24,longoul yoko,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-2376,luo tausin tolfoko itnguhul onkoe,The word tausin and milion are borrowed from English.,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: soko cardinal numbers,kosr1238-2
-1,sie,the number sie is used in a fraction or in a partitive expression.,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-1,se,The form se is used when the number follows a noun,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-2,luo,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-3,tolu,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-4,ahkosr,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-5,limekohsr,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-6,onkohsr,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-7,itkohsr,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-8,oalkosr,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-8,oalkuhsr,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-9,yuh,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-11,singuhul sie,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-22,longoul luo,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-24,longoul ahkosr,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-241,lofoko angngahul sie,,FALSE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-1000,tausin se,The word tausin and milion are borrowed from English.,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-2000,tausin luo,,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-2376,luo tausin tolfoko itnguhul onkosr,,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-4000,tausin ahkosr,,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-1000000,milion se,The word tausin and milion are borrowed from English.,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-2000000,milion luo,,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-3000000,milion tolu,,TRUE,Lee1975,"pp.119, 124, 125",,kosr1238,Kusaiean: sie cardinal numbers,kosr1238-3
-1,šắka,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
-2,rŏ́ka,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
-3,tŭ́rtur,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
-4,pắta,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
-5,sī́re,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
-6,sipā́re,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
-7,rḗti,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
-8,rḗta,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
-9,sĭ́rsir,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
-10,eä̆́,,FALSE,Sarfert1920,p.452,,kosr1238,Kušae: Kōt (spirit) counting in a story ,kosr1238-4
-1,sī́ro,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
-2,mắtan,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
-3,tŏ́fa,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
-4,ṅel,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
-5,nom,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
-6,kaṅ,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
-7,sī́e,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
-8,šắk,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
-9,šắk,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
-10,lū́o,,FALSE,Sarfert1920,p.495,,kosr1238,Kušae: forms used in a game played in the sand,kosr1238-5
