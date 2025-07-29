@@ -41148,3 +41148,367 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
+1,udéq,,FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+2,sué,,FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+3,telu,,FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+4,apaq,,FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+5,lemé,,FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+6,enéng,,FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+7,pitu,,FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+8,buturai,,FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+9,lemé-apaq,,FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+10,pulu,,FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+20,purun sué,(2 x 10),FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+30,purun telu,(3 x 10),FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+40,purun apaq,(4 x 10),FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+50,purun lemé,(5 x 10),FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+60,purun enéng,(6 x 10),FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+70,purun pitu,(7 x 10),FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+80,purun buturai,(8 x 10),FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+90,purun lemé-apaq,(9 x 10),FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+100,ratu,,FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
+1,telu,the child’s number one (telu) is the adult number three,FALSE,Barnes1980,pp.197-198,,keda1252,Kédang children’s numbers,keda1252-2
+2,lubaq,,FALSE,Barnes1980,pp.197-198,,keda1252,Kédang children’s numbers,keda1252-2
+3,letéq,"metathesis (letéq, telu); letéq means ‘to erect’",FALSE,Barnes1980,pp.197-198,,keda1252,Kédang children’s numbers,keda1252-2
+4,lapéq,,FALSE,Barnes1980,pp.197-198,,keda1252,Kédang children’s numbers,keda1252-2
+5,béang,"rhyme (béang, méang); béang is a crow",FALSE,Barnes1980,pp.197-198,,keda1252,Kédang children’s numbers,keda1252-2
+6,méang,"rhyme (béang, méang); méang differs only slightly from méan, a superlative",FALSE,Barnes1980,pp.197-198,,keda1252,Kédang children’s numbers,keda1252-2
+7,melang,,FALSE,Barnes1980,pp.197-198,,keda1252,Kédang children’s numbers,keda1252-2
+8,sekiq,"vowel contrast (sekiq, sukoq)",FALSE,Barnes1980,pp.197-198,,keda1252,Kédang children’s numbers,keda1252-2
+9,sukoq,,FALSE,Barnes1980,pp.197-198,,keda1252,Kédang children’s numbers,keda1252-2
+10,lubong,"Kédang children however have their own set of distinctive names for the numbers one to ten ... Perhaps I should record that my source for Kédang children’s numbers was an illiterate man aged over seventy years,but whose youngest daughter was ten.",FALSE,Barnes1980,pp.197-198,,keda1252,Kédang children’s numbers,keda1252-2
+1,udéq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+2,sué,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+3,telu,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+4,apaq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+5,lemé,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+6,enéng,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+7,pitu,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+8,buturai,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+9,lemé-apaq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+10,pulu,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+11,pulaq-udéq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+12,pulaq-sué,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+13,pulaq-telu,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+14,pulaq-apaq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+15,pulaq-lemé,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+16,pulaq-enéng,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+17,pulaq-pitu,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+18,pulaq-buturai,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+19,pulaq-lemé-apaq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+20,purun sué,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+21,purun sué ilaq udéq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+22,purun sué ilaq sué,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+23,purun sué ilaq telu,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+24,purun sué ilaq apaq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+25,purun sué ilaq lemé,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+26,purun sué ilaq enéng,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+27,purun sué ilaq pitu,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+28,purun sué ilaq buturai,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+29,purun sué ilaq lemé-apaq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+30,purun telu,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+40,purun apaq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+50,purun lemé,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+60,purun enéng,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+70,purun pitu,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+80,purun buturai,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+90,purun lemé-apaq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+100,ratuq udéq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+101,ratuq udéq uluq udéq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+102,ratuq udéq uluq sué,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+103,ratuq udéq uluq telu,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+104,ratuq udéq uluq apaq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+105,ratuq udéq uluq lemé,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+106,ratuq udéq uluq enéng,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+107,ratuq udéq uluq pitu,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+108,ratuq udéq uluq buturai,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+109,ratuq udéq uluq lemé-apaq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+110,ratuq udéq purun udéq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+111,ratuq udéq pulaq udéq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+200,ratuq sué,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+300,ratuq telu,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+374,ratuq telu purun pitu ilaq apaq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+400,ratuq apaq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+500,ratuq lemé,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+600,ratuq enéng,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+700,ratuq pitu,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+800,ratuq buturai,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+900,ratuq lemé-apaq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+1000,ribu udéq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+3701,ribu telu ratuq pitu uluq udéq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+5679,ribu lemé ratuq enéng purun pitu ilaq lemé-apaq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+10000,selaq udéq,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+15327,selaq udéq ribu lemé ratuq telu purun sué ilaq pitu,,FALSE,Barnes1982,p.3,,keda1252,Kédang cardinal numbers,keda1252-3
+1,>udeq,"The cardinal numerals 1 to 10 may be used either on their own or in combination with one of two possible counters, uren or uluq. Uren is also a general classifier and is employed for any countable noun. Uluq also means ‘seed’, ‘kernel’, ‘stone’, and in addition to its function as a counter for the numbers 1 to 10 it is also used as a classifier for round objects. Both uren and uluq precede the numerals.",FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+2,sue,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+3,tèlu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+4,>apaq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+5,leme,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+6,>`enèng,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+7,pitu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+8,buturai,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+9,leme >apaq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+10,pulu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+11,pulaq >udeq,"The numerals 11 to 19 are construed as ‘ten-one’, ‘ten-two’, et cetera. The term representing ‘ten’ in these constructions is pulaq.",FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+11,pulu >ilaq >udeq,"An alternative way of expressing the [numerals 11 to 19] is pulu ‘ten’ followed by the numbers 1 to 9, in which case the units 1 to 9 must be preceded by the counter >ilaq.",FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+12,pulaq sue,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+12,pulu >ilaq sue,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+13,pulaq tèlu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+13,pulu >ilaq tèlu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+14,pulaq >apaq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+14,pulu >ilaq >apaq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+15,pulaq leme,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+15,pulu >ilaq leme,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+16,pulaq >ènèng,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+16,pulu >ilaq ènèng,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+17,pulaq pitu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+17,pulu >ilaq pitu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+18,pulaq buturai,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+18,pulu >ilaq buturai,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+19,pulaq leme >apaq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+19,pulu >ilaq leme >apaq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+20,purun sue,Numerals from 20 to 99 have the structure ‘counter for tens - numeral - counter for units - numeral’. The respective counters are purun for tens and >ilaq for units.,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+21,purun sue >ilaq >udeq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+22,purun sue >ilaq sue,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+23,purun sue >ilaq tèlu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+24,purun sue >ilaq >apaq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+25,purun sue >ilaq leme,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+26,purun sue >ilaq ènèng,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+27,purun sue >ilaq pitu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+28,purun sue >ilaq buturai,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+29,purun sue >ilaq >ilaq leme >apaq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+30,purun tèlu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+40,purun >apaq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+50,purun leme,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+100,ratuq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+100,rauq >udeq,‘hundred-one’,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+101,ratuq >udeq uren >udeq,"In analogy to the constructions of numbers up to 100, the units in 101 to 109 can again be accompanied by the counters uren or uluq.",FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+101,ratuq >udeq ulua >udeq,"In analogy to the constructions of numbers up to 100, the units in 101 to 109 can again be accompanied by the counters uren or uluq.",FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+102,ratuq >udeq uren sue,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+102,ratuq >udeq ulua sue,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+103,ratuq >udeq uren tèlu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+103,ratuq >udeq ulua tèlu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+110,ratuq >udeq uren pulu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+110,ratuq >udeq ulua >udeq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+111,ratuq >udeq pulaq >udeq,"From 111 onwards all units have as counter >ilaq. The tens in 111 to 119 take the same counters as the numbers 11 to 19, pulaq or pulu",FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+111,ratuq >udeq pulu >ilaq >udeq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+112,ratuq >udeq pulaq sue,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+112,ratuq >udeq pulu >ilaq sue,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+113,ratuq >udeq pulaq tèlu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+113,ratuq >udeq pulu >ilaq tèlu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+120,ratuq >udeq purun sue,tens from 120 onwards again have purun,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+121,ratuq >udeq purun sue >ilaq >udeq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+122,ratuq >udeq purun sue >ilaq sue,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+123,ratuq >udeq purun sue >ilaq tèlu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+233,ratuq sue purun tèlu >ilaq tèlu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+234,ratuq sue purun tèlu >ilaq >apaq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+235,ratuq sue purun tèlu >ilaq leme,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+236,ratuq sue purun tèlu >ilaq ènèng,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+1000,ribu,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+1000,ribu >udeq,‘thousand-one’ is more common,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+1001,ribu >udeq uren >udeq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+1001,ribu >udeq uluq >udeq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+1031,ribu >udeq purun tèlu >ilaq >udeq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+1031,ribu >udeq purun tèlu uluq >udeq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+1989,ribu >udeq ratuq leme >apaq purun buturai >ilaq leme >apaq,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+10000,selaq,The highest numeral is selaq ‘ten thousand’,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+20000,selaq sue,Numbers above ten thousand are represented as multiples of ten thousands: ‘ten thousand-two’,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+30000,selaq tèlu,‘ten thousand-three’,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+200006,selaq purun sue uluq >ènèng,,FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+206000,selaq purun sue ribu >ènèng,"Numbers in this region, however, are used very rarely. They are usually replaced by ribu ribu ribu ‘thousands and thousands and thousands’.",FALSE,Samely1991,pp.96-98,,keda1252,Kedang,keda1252-4
+1,sa'asa,The plain forms are used to form the last number in a complex number ... and (with modification) to show the number of participants in an intradirective action,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+2,dua,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+3,tolu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+4,gana,"In Southern Tukang Besi, of Tomea and Binongko, the historically irregular gana (< Malay gənap, ‘complete’?) does not occur, and the historically more conservative pa'a is used with the meaning ‘four.’",FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+5,lima,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+6,no'o,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+7,pitu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+8,alu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+9,sia,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+10,ompulu,"Note that the numeral ‘one’ uses a special form when it attaches to -hulu ‘ten’; rather than the expected sa-, as seen in sa-hatu ‘100’, sa-riwu ‘1,000’, and all the numeral + classifier combinations, it and the following -hulu appears as a suppletive form, ompulu.",FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+11,ompulu sa'asa,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+12,ompulu dua,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+13,ompulu tolu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+14,ompulu gana,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+15,ompulu lima,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+16,ompulu no'o,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+17,ompulu pitu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+18,ompulu alu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+19,ompulu sia,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+20,duahulu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+21,duahulu 'asa,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+22,duahulu dua,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+23,duahulu tolu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+24,duahulu gana,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+25,duahulu lima,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+30,tolohulu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+31,tolohulu sa'asa,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+40,hatohulu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+50,limahulu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+60,nomohulu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+70,hituhulu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+80,aluhulu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+90,siahulu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+100,sahatu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+200,duahatu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+300,toluhatu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+400,hatohatu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+500,limahatu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+600,nomohatu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+700,hituhatu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+1000,sariwu,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+1966,sa-riwu sia-hatu nomo-hulu no'o,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+1000000,sajuta,,FALSE,Donohue1999TukangBesi,pp.107-109,,tuka1248,Tukang Besi: free,tuka1248-1
+1,sa-,"The prefixed forms are used with classifiers, and with the higher numbers (10, 100,...) to form complex numbers",FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: prefix,tuka1248-2
+2,dua-,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: prefix,tuka1248-2
+3,tolu-,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: prefix,tuka1248-2
+4,hato-,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: prefix,tuka1248-2
+5,lima-,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: prefix,tuka1248-2
+6,nomo-,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: prefix,tuka1248-2
+7,hitu-,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: prefix,tuka1248-2
+8,alu-,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: prefix,tuka1248-2
+9,sia-,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: prefix,tuka1248-2
+1,sa'asa,"The reduplicated forms are also used for counting (‘How many chickens do I have? One, two, three...’) by some speakers, though others (the older generation) use the plain forms, and yet others always use classifiers with the prefixed set of numerals. The most common pattern amongst younger speakers seems to be to use the unreduplicated forms, except for the number one, which is often given as sa'asa when counting.",FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: ‘reduplicated’,tuka1248-3
+2,dodua,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: ‘reduplicated’,tuka1248-3
+3,totolu,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: ‘reduplicated’,tuka1248-3
+4,gana,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: ‘reduplicated’,tuka1248-3
+5,lolima,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: ‘reduplicated’,tuka1248-3
+6,nono'o,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: ‘reduplicated’,tuka1248-3
+7,popitu,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: ‘reduplicated’,tuka1248-3
+8,oalu,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: ‘reduplicated’,tuka1248-3
+9,sosia,,FALSE,Donohue1999TukangBesi,pp.107-108,,tuka1248,Tukang Besi: ‘reduplicated’,tuka1248-3
+1,randa,"‘chest’ [< randa nu lima ‘palm’]; In addition to the regular set of base-ten numerals, there is a counting system that involves the use of the fingers and palm of the right hand, originally (and still primarily) used for determining fortune at sea, it is used by many people as a means of normal counting as well.",FALSE,Donohue1999TukangBesi,p.111,,tuka1248,Tukang Besi: kampalei,tuka1248-4
+2,to'oge,‘big’ [< wunga to'oge ‘thumb’],FALSE,Donohue1999TukangBesi,p.111,,tuka1248,Tukang Besi: kampalei,tuka1248-4
+3,saha,‘indicate’ [< wungansaha ‘index finger’],FALSE,Donohue1999TukangBesi,p.111,,tuka1248,Tukang Besi: kampalei,tuka1248-4
+4,tonga,‘middle’ [< wungantonga ‘middle finger’],FALSE,Donohue1999TukangBesi,p.111,,tuka1248,Tukang Besi: kampalei,tuka1248-4
+5,ja'o,"‘bad’ [< wunganja'o ‘ring finger’]; Alternative names exist for the wunga ja'o ‘bad finger’, such as wunga homali ‘cursing finger’.",FALSE,Donohue1999TukangBesi,p.111,,tuka1248,Tukang Besi: kampalei,tuka1248-4
+6,kili,‘small’ [< wungancili ‘little finger’],FALSE,Donohue1999TukangBesi,p.111,,tuka1248,Tukang Besi: kampalei,tuka1248-4
+7,randa,"‘chest’ [< randa nu lima ‘palm’]; After arriving back at the palm, the thumb, on a second circuit, becomes 8, and so on, so that the palm is then 13, 19, 25, etc. These numbers may be referred to using the normal number set, or using the names of the fingers",FALSE,Donohue1999TukangBesi,p.111,,tuka1248,Tukang Besi: kampalei,tuka1248-4
+1,ar,,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+2,nomuri,as modifier of nouns,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+2,aras,,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+2,naraen,as modifier of nouns,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+3,naien,,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+4,nagala,,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+5,muanam,,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+6,gutnamur,,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+7,gamura,,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+8,gamin,,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+9,gamiala,,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+10,manaburuan,"The dual and plural forms for manaburuan ‘ten’ are manaburualaβien and manaburualap, respectively.",FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+11,manaburuan ga nomurit,conjunction ga ‘and’,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+14,manaburuan ga nagala,,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+27,naraen manaburualaβien ga gamura,manaburualaβien ‘ten.DL’,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+29,naraen manaburualaβien ga gamiala,,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+39,naien ma manaburualap ga gamiala,manaburualap ‘ten.PL’,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+57,muanam ma manaburualap ga gamura,,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+238,naraen manaburualaβien ma manaburualap ga naien ma manaburualap ga gamin,,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+999,gamiala ma manaburualap ma manaburualap ga gamiala ma manaaburualap ga gamiala,,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+1992,manaburuan ma manaburualap ma manaburualap ga gamiala ma manaburualap ma manaburualap ga gamiala ma manaburualap ga naraen,Numerals over 1000 are extremely rare except for year counting. It is possible to construct these numbers by further reduplication of manaburuan 'ten'. But speakers almost always switch to Tok Pisin for obvious reasons of economy.,FALSE,Chung1996,"pp.24, 62",,kuot1243,Kuot,kuot1243-2
+1,ar,counting,FALSE,Lindström2002,"pp.84, 98, 139, 141, 144, 200, 235",,kuot1243,Kuot,kuot1243-3
+1,namurit,"attributive; Some numerals can be analysed as compounds of the locative preposition na ‘in, at’ with erstwhile nouns.",FALSE,Lindström2002,"pp.84, 98, 139, 141, 144, 200, 235",,kuot1243,Kuot,kuot1243-3
+1,ba,Non ‘some’ and ba “one” belong to the noun phrase and are to do with specificity.,FALSE,Lindström2002,"pp.84, 98, 139, 141, 144, 200, 235",,kuot1243,Kuot,kuot1243-3
+2,aras,counting,FALSE,Lindström2002,"pp.84, 98, 139, 141, 144, 200, 235",,kuot1243,Kuot,kuot1243-3
+2,narain,attributive,FALSE,Lindström2002,"pp.84, 98, 139, 141, 144, 200, 235",,kuot1243,Kuot,kuot1243-3
+8,gamin,,FALSE,Lindström2002,"pp.84, 98, 139, 141, 144, 200, 235",,kuot1243,Kuot,kuot1243-3
+10,mənaburuan,"nsg: mənaburualap, dl: mənaburualapien",FALSE,Lindström2002,"pp.84, 98, 139, 141, 144, 200, 235",,kuot1243,Kuot,kuot1243-3
+1,mö,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+2,miö,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+3,pyili,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+4,pari,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+5,limi,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+6,wini,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+7,pidi,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+8,wale,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+9,tya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+10,ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+11,mö ngwa,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+12,ma miö,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+13,ma pyili,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+20,ma ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+20,yulemiö,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+21,yulemiö ngwa,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+22,yulemiö miö,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+23,yulemiö pyili,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+30,yulemiö ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+30,yipyili,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+31,yipyili mö ngwa,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+32,yipyili ma miö,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+33,yipyili ma pyili,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+40,yipyili ma ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+40,yalapari,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+50,yalapari ma ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+50,yili,"In actual counting the fifties are taken separately; that is, having reached 50 the word yili is said with emphasis, and counting commences again from 1, not from 51. Having reached 50 again, the two fifties are put together to make 100 yönö ya. The term yili is an end-term, which can be used for other numbers that may be subsequently added. It is the word ordinarily used for many, and it occurs again as the first of the set of terms for the thousands.",FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+60,yili ya,"the terms for 60, 70, 80, and 90 are rather a blemish on a notation which is otherwise systematically decimal.",FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+70,yili yulemiö,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+80,yili yipyili,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+90,yili yalapari,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+100,yönö ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+101,yönö ya ma mö ngwa,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+110,yönö ya ma ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+120,yönö ya ma yulemiö,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+200,miö yönö ya,"Evidently the terms miö, pyalö, ... yönö have the meaning ‘twice,’ ‘three times’...‘ten times’",FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+300,pyalö yönö ya,"Evidently the terms miö, pyalö, ... yönö have the meaning ‘twice,’ ‘three times’...‘ten times’",FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+400,parö yönö ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+500,limö yönö ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+600,wönö yönö ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+700,pidö yönö ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+800,walö yönö ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+900,toa yönö ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+1000,yönö yönö ya,"Evidently the terms miö, pyalö, ... yönö have the meaning ‘twice,’ ‘three times’...‘ten times’",FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+2000,miö yönö yönö ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+10000,yönö yönö yönö ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+10000,mai yönö yönö yönö ya,,FALSE,Armstrong1928,pp.77-78,,yele1255,Rossel,yele1255-6
+1000,yili,"The thousands may also be counted as follows; Although the series yili, dwong, . . .mwadi mwadab is given for the thousands, it was said that it might also be used for the hundreds or the tens of thousands.",FALSE,Armstrong1928,p.78,,yele1255,Rossel: counting thousands,yele1255-7
+2000,dwong,,FALSE,Armstrong1928,p.78,,yele1255,Rossel: counting thousands,yele1255-7
+3000,teme,,FALSE,Armstrong1928,p.78,,yele1255,Rossel: counting thousands,yele1255-7
+4000,dab,,FALSE,Armstrong1928,p.78,,yele1255,Rossel: counting thousands,yele1255-7
+5000,mwayili,,FALSE,Armstrong1928,p.78,,yele1255,Rossel: counting thousands,yele1255-7
+6000,mwadwong,,FALSE,Armstrong1928,p.78,,yele1255,Rossel: counting thousands,yele1255-7
+7000,mwateme,,FALSE,Armstrong1928,p.78,,yele1255,Rossel: counting thousands,yele1255-7
+8000,mwadab,,FALSE,Armstrong1928,p.78,,yele1255,Rossel: counting thousands,yele1255-7
+9000,mwadi,,FALSE,Armstrong1928,p.78,,yele1255,Rossel: counting thousands,yele1255-7
+10000,mwadi mwadab,"A curious feature of this last series of terms, the combination of the terms for 8000 and 9000 to express 10,000, is explained in the legend, which attributes the invention of counting to Wonajo, who wished to count the nkö that he had made. Having counted up to 9000 he grew weary, and, unable to think of a fresh word for 10,000 adopted the novel, if unmathematical, device of using in juxtaposition the words for the last two thousands.",FALSE,Armstrong1928,p.78,,yele1255,Rossel: counting thousands,yele1255-7
+1,wö,"The series of terms ... which, excepting wö, appear above as multiplicatives, twice, thrice, four times, etc., are used in pig and man feasts to denote the ndap values connected with different parts of the pig or man, and indirectly to denote the pig parts and the nko values which are also associated with them. The meaning of the terms, as used in these cases, would be rendered best by first, second, etc., or No. 1, No. 2, etc.",FALSE,Armstrong1928,p.79,,yele1255,Rossel: in feasts to denote ndap values,yele1255-8
+2,miömo,,FALSE,Armstrong1928,p.79,,yele1255,Rossel: in feasts to denote ndap values,yele1255-8
+2,(miö),,FALSE,Armstrong1928,p.79,,yele1255,Rossel: in feasts to denote ndap values,yele1255-8
+3,pyalö,,FALSE,Armstrong1928,p.79,,yele1255,Rossel: in feasts to denote ndap values,yele1255-8
+4,parö,,FALSE,Armstrong1928,p.79,,yele1255,Rossel: in feasts to denote ndap values,yele1255-8
+4,(padö),,FALSE,Armstrong1928,p.79,,yele1255,Rossel: in feasts to denote ndap values,yele1255-8
+5,limö,,FALSE,Armstrong1928,p.79,,yele1255,Rossel: in feasts to denote ndap values,yele1255-8
+6,wönö,,FALSE,Armstrong1928,p.79,,yele1255,Rossel: in feasts to denote ndap values,yele1255-8
+7,pi,,FALSE,Armstrong1928,p.79,,yele1255,Rossel: in feasts to denote ndap values,yele1255-8
+7,(pidö),,FALSE,Armstrong1928,p.79,,yele1255,Rossel: in feasts to denote ndap values,yele1255-8
+8,walö,,FALSE,Armstrong1928,p.79,,yele1255,Rossel: in feasts to denote ndap values,yele1255-8
+9,toa,,FALSE,Armstrong1928,p.79,,yele1255,Rossel: in feasts to denote ndap values,yele1255-8
+10,yönö,,FALSE,Armstrong1928,p.79,,yele1255,Rossel: in feasts to denote ndap values,yele1255-8
+1,ngmê,,FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+1,ngmidi,,FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+2,miyó,,FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+3,pyile,,FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+4,paadi,< POc *pati,TRUE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+5,limi,< POc *limá,TRUE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+6,wéni,[probably < POc] *onom [cf. ordinal wono(ni) ‘sixth’],TRUE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+7,pyudu,?< POc *pitu,TRUE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+8,waali,< POc *walu,TRUE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+9,chu,(POc *siwa),FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+10,y:a,,FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+11,y:a mê ngmê,"[cf. repetition marker mê ‘again’, p.193]",FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+12,y:a mê miyó,,FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+13,y:a mê pyile,,FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+20,my:oo y:a,(2 x 10),FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+22,my:oo y:a mê miyó,,FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+30,pyolo y:a,(3rd 10),FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+40,pyodo y:a,(4th 10),FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+50,limo y:a,,FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+60,wono y:a,,FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+70,pyodo y:a,,FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+80,wolo y:a,,FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+90,t:ono y:a,,FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+100,yono y:a,(10th 10),FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+105,yono y:a mê lîmî,(10th 10 plus 5),FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+150,yono y:a mê lumo y:a,(10th 10 plus 5th 10),FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+200,my:oo yono y:a,(2nd 10th 10),FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+300,pyolo yono y:a,(3rd 10th 10),FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+1000,yono yono y:a,(10th (10th 10)),FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
+10000,yono yono yono y:a,,FALSE,Levinson2022,pp.111-113,,yele1255,Yélî Dnye,yele1255-9
