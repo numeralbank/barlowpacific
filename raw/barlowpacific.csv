@@ -27203,6 +27203,68 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,Kapa,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,oira1263,Oirata,oira1263-2
 9,Siwa,[loaned from Austronesian],FALSE,vanEngelenhoven2010,p.11,,oira1263,Oirata,oira1263-2
 10,Ta’an,,FALSE,vanEngelenhoven2010,p.11,,oira1263,Oirata,oira1263-2
+1,Uani,There is apparently no difference in function between the shorter and the longer forms of the cardinal numbers.,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+1,auni,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+1,aun,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+1,aunu,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+1,un,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+2,Ei,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+2,ejeene,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+2,eene,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+2,ene,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+2,een,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+3,Utu,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+3,utueen(e),,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+3,uteen(e),,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+4,Pat(a),,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+4,pateen(e),,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+5,Limi,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+5,limeen(e),,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+6,Nēme,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+6,nemeen(e),,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+7,Pitu,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+7,pitueen(e),,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+7,pituen(e),,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+8,Kapa,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+8,kapeen(e),,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+8,kapaen(e),,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+9,Siwa,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+9,siween(e),,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+9,siwaen(e),,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+10,Taanaun(i),,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+11,Taanauni rianauni,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+12,Taanauni rianeene,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+13,Taanauni rianutu,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+14,Taanauni rianpata,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+15,Taanauni rianlimi,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+16,Taanauni riannēme,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+17,Taanauni rianpitu,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+18,Taanauni riankapa,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+19,Taanauni riansiwa,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+20,Taaneene,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+21,Taaneene rianauni,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+22,Taaneene rianeene,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+30,Taanutu,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+31,Taanutu rianauni,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+40,Taanpata,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+50,Taanlima,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+60,Taannēme,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+70,Taanpitu,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+80,Taankapa,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+90,Taansiwa,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+100,Ra’auni,(hundreds: rariun),FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+101,Ra’auni rianauni,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+200,Raeene,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+300,Ra’utu,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+1000,Riunauni,,FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+2000,Riuneene,"N.B. The larger numbers (probably all numbers above 1000) are never used, of course, but have been construed by the interpreter.",FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+10000,Salinauni,"N.B. The larger numbers (probably all numbers above 1000) are never used, of course, but have been construed by the interpreter.",FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+11000,Salinauni riunauni,"N.B. The larger numbers (probably all numbers above 1000) are never used, of course, but have been construed by the interpreter.",FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+20000,Salineene,"N.B. The larger numbers (probably all numbers above 1000) are never used, of course, but have been construed by the interpreter.",FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+100000,Salintaanupur,"N.B. The larger numbers (probably all numbers above 1000) are never used, of course, but have been construed by the interpreter.",FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+200000,Salintaanei,"N.B. The larger numbers (probably all numbers above 1000) are never used, of course, but have been construed by the interpreter.",FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+300000,Salintaanutu,"N.B. The larger numbers (probably all numbers above 1000) are never used, of course, but have been construed by the interpreter.",FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
+1000000,Salinrauni,"N.B. The larger numbers (probably all numbers above 1000) are never used, of course, but have been construed by the interpreter.",FALSE,deJosselindeJong1937,pp.195-196,,oira1263,Oirata,oira1263-3
 1,saaʔ,,FALSE,Lobel2016,pp.234-239,,okol1241,Kolod,okol1241-1
 1,doonoʔ,,FALSE,Lobel2016,pp.234-239,,okol1241,Kolod,okol1241-1
 2,duo,,FALSE,Lobel2016,pp.234-239,,okol1241,Kolod,okol1241-1
