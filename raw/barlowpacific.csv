@@ -36047,6 +36047,45 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,atus,,FALSE,Lobel2016,pp.234-239,,timu1262,Murut Timugon,timu1262-1
 200,duə nga atus,,FALSE,Lobel2016,pp.234-239,,timu1262,Murut Timugon,timu1262-1
 1000,saribu,,FALSE,Lobel2016,pp.234-239,,timu1262,Murut Timugon,timu1262-1
+1,saa,‘one (in series)’,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+1,saaq,‘one (in series)’,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+1,rondoq,‘one (alone); the other (of two)’,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+2,ruo,,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+3,talu,,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+4,apat,,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+5,limo,,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+6,onom,,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+7,tuluq,,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+8,baluq,,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+9,siam,,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+10,mopor,ngoopor ‘tens’,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+10,koopor,ka- form,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+11,mopor am saa,one-ten and one ‘eleven (in series)’,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+11,mopor am rondoq,one-ten and one ‘eleven (only)’,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+12,mopor am ruo,one-ten and two,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+20,ruo ngoopor,two tens,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+21,ruo ngoopor am saa,two tens and one ‘twenty-one (in series)’,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+100,matus,ngaatus ‘hundreds’,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+100,kaatus,ka-form,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+101,matus am saa,one-hundred and one ‘one hundred and one (in series)’,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+101,matus am rondoq,one-hundred and one ‘one hundred and one (only)’,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+102,matus am ruo,one-hundred and two,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+110,matus (am) mopor,one-hundred (and) one-ten,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+301,talu ngaatus am rondoq,three hundres and one ‘three hundred and one (only)’,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+500,limo ngaatus,five hundreds,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+1000,saribu,ngaribu ‘thousands’,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+1100,saribu (am) matus,one-thousand (and) one-hundred,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+1918,saribu siam ngaatus mopor am baluq,one-thousand nine hundreds one-ten and eight,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+4005,apat ngaribu am limo,four thousands and frive,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+5010,limo ngaribu (am) mopor,five thousands (and) one-ten,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+5900,limo ngaribu (am) siam ngaatus,five thousands (and) nine hundreds,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+10000,mopor ngaribu,one-ten thousands,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+13000,mopor am talu ngaribu,one-ten and three thousand,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+20000,ruo ngoopor ngaribu,two tens thousands,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+100000,matus ngaribu,one-hundred thousands,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+123000,matus ruo ngoopor am talu ngaribu,one-hundred two tens and three thousands,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+1000000,sajutaq,ngajutaq ‘millions’,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
+10000000000,mopor ngaribu ngajutaq,one-ten thousands millions,FALSE,Prentice1971,pp.172-175,,timu1262,Poros subdialect of Timugon Murut,timu1262-2
 1,pe-es,,FALSE,Lean1985Vol03,p.35,1 CSQ. Village: Tsikort.,tinp1237,"Timputz (Orig sub-language, Dios dialect)",tinp1237-1
 2,bok,,FALSE,Lean1985Vol03,p.35,1 CSQ. Village: Tsikort.,tinp1237,"Timputz (Orig sub-language, Dios dialect)",tinp1237-1
 3,kukan,,FALSE,Lean1985Vol03,p.35,1 CSQ. Village: Tsikort.,tinp1237,"Timputz (Orig sub-language, Dios dialect)",tinp1237-1
