@@ -6437,6 +6437,51 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 12,dahan ’msahin roea,,FALSE,Jansen1933,p.489,,buru1303,Garan-taal,buru1303-3
 20,dahan roea,,FALSE,Jansen1933,p.489,,buru1303,Garan-taal,buru1303-3
 100,_,(no word for this),FALSE,Jansen1933,p.489,,buru1303,Garan-taal,buru1303-3
+1,em-sia-n,< PAN *isa,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+1,emsian,"used to specify, contrast or emphasize the singularity of the referent",FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+1,saa,"In normal discourse the indefinite (specific or non-specific) deictic saa ‘a, one’ (< PAN *asa ‘one’) is more common",FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+2,rua,< PAN *DuSa,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+3,telo,< PAN *telu,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+3,rua geran,"In many mountain areas, saying telo is considered rude (obscene) and so the circumlocution rua geran ‘two plus’ is used to be polite.",FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+4,paa,< PAN *Sepat,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+5,lima,< PAN *lima,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+6,nee,< PAN *enem,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+7,pito,< PAN *pitu,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+8,trua,"Both the synchronic phonological form and the regional comparative evidence indicate an intermediate historical form something like **ka-dua. [p.67: For example, the word for ‘eight’ derives historically in the region at an intermediate historical stage from the word for ‘two’ with a numeral prefix **ka-dua in a sense of ‘minus two’.]",FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+8,[eˀrua],variant,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+8,[etorua],variant,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+9,cia,"Speakers of the Lisela dialect often pronounce the number as [eksia], combining with other comparative evidence to suggest a parent form like *ka-isa > **ka-sia. [p.48: For example, cia ‘nine’ is historically from **ka-sia ‘minus one’ with deletion of the antepenultimate vowel and [ks] > /c/ (cf. also Collins 1981:36 on numerals eight & nine).]",FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+9,[ecia],,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+9,[eˀcia],,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+10,polo,< PAN *puluq,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+11,polo geran emsian,"ten add one; Numbers between multiples of ten are derived by the use of geran ‘more, plus’ between the multiple of ten and the number between one and nine.",FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+12,polo gera rua,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+13,polo geran telo,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+14,polo geran paa,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+15,polo geran lima,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+19,polo geran cia,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+20,porua,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+21,po.rua geran emsian,ten.two add one,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+22,porua gera rua,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+99,polcia geran cia,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+30,poltelo,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+40,polpaa,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+50,polima,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+60,polnee,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+70,polpito,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+80,poltrua,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+80,polotrua,"One also hears the variant polotrua, spreading out the clustering of three consonants.",FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+90,polcia,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+100,utun (emsian),,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+200,utu rua,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+300,utun telo,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+346,utun telo pol.paa geran nee,hundred three ten.four add six,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+900,utun cia,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+1000,raran (emsian),,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+2000,rara rua,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+3000,raran telo,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+5555,raran lima utun po.lima geran lima,thousand five hundred five ten.five add five,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
+10000,raran polo,,FALSE,Grimes1991,"pp.293-294, 298-299",,buru1303,Buru (Masarete dialect),buru1303-4
 1,saaʔ,,FALSE,Lobel2016,pp.234-239,,buru1304,Bulusu,buru1304-1
 2,duo,,FALSE,Lobel2016,pp.234-239,,buru1304,Bulusu,buru1304-1
 3,talu,,FALSE,Lobel2016,pp.234-239,,buru1304,Bulusu,buru1304-1
