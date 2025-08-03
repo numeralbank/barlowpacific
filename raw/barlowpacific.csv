@@ -11771,6 +11771,38 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 11,umi kuma ma lua,"‘ten, the number in company ... two.’",FALSE,Codrington1885,"pp.227, 231",,hawa1245,Sandwich Islands,hawa1245-1
 20,iva kalua,two nines,FALSE,Codrington1885,"pp.227, 231",,hawa1245,Sandwich Islands,hawa1245-1
 30,kana kolu,three kana,FALSE,Codrington1885,"pp.227, 231",,hawa1245,Sandwich Islands,hawa1245-1
+1,tahi,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+2,lua,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+3,tolu,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+4,ha,"For four, the Hawaiians have two terms, ha and tauna",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+4,tauna,"For four, the Hawaiians have two terms, ha and tauna",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+5,lima,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+6,ono,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+7,hitu,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+8,valu,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+9,iwa,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+10,’umi,anahulu (from ŋafulu) signifies a period of ten days,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+10,umi,"the same as Tongan kumi, which means ten fathoms",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+11,umi tuma-ma-tahi,"In Hawaiian, the word tuma, which is rendered in the vocabulary “a number, company, flock,” is introduced before the conjunction [ma]",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+20,iwatalua,"a word compounded of iwa, nine, and lua, two,—though why it should have this meaning cannot well be understood",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+30,tanatolu,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+40,tanahá,"the word ha, four, with a prefix of unknown origin; the genera term",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+40,iato,used in counting pieces of tapa (native cloth),FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+40,ta’au,"or takau, a corruption of tekau; used ... in counting fish",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+42,tanahá tuma-ma-lua,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+50,tanahá me ta umi,"forty with the ten; for larger numbers, me, the usual term for with in that dialect, is employed, followed by the singular article (te or ta), or the plural sign (na)",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+50,tanalima,[introduced by the missionaries],FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+60,tanahá me ta iwatalua,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+60,tanaono,[introduced by the missionaries],FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+70,tanahá me te tanatolu,forty with the thirty,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+70,tanahá me na umi etolu,sometimes ... forty with three tens,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+100,"luatanahá ,e ta iwatalua",two forties and twenty,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+100,haneri,[introduced by the missionaries],TRUE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+200,lima tanahá,"four [sic, for five] forties",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+400,lau,"the words rau and mano, which should properly signify hundred and thousand ... are quadrupled, and stand for four hundred and four thousand",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+4000,mano,"the words rau and mano, which should properly signify hundred and thousand ... are quadrupled, and stand for four hundred and four thousand",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+40000,tini,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
+400000,lehu,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
 1,wan,identical with the indefinite article,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
 2,tu,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
 3,tʃɹi,,FALSE,Velupillai2013,p.255,,hawa1247,Hawaiʻi Creole,hawa1247-1
@@ -21485,6 +21517,25 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,E varu,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
 9,E iva,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
 10,Rogouru,,FALSE,Audran1920,p.43,,mang1401,Mangareva,mang1401-2
+1,tai,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+2,rua,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+3,toru,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+4,a,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+5,rima,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+6,ono,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+7,itu,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+8,varu,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+9,iva,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+10,ŋauru,"In the Mangarevan vocabulary kumi is given as a word for ten, but with no explanation of its use.",FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+20,takau,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+30,takau ma ŋauru,twenty and ten,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+40,rua takau,twice ten,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+50,rua takau ma ŋauru,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+100,rima takau,five times twenty,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+200,rau,"the words rau and mano, which should properly signify hundred and thousand, are doubled in value, and stand for two hundred and two thousand",FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+400,rua rau,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+2000,mano,"the words rau and mano, which should properly signify hundred and thousand, are doubled in value, and stand for two hundred and two thousand",FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
+20000,kiu,"[cf. Tongan kilu ‘hundred thousand’, Samoan ’ilu ‘hundred thousand’, Tahitian iu ‘[two?] million’]",FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
 1,omʷale,all front & back vowels quite high [written at the top of the page],FALSE,Grace1955pdfSpirax,p.10 [of pdf],,mang1403,Lumurioŋ (aenbul [Kembul on map]),mang1403-1
 2,aini,,FALSE,Grace1955pdfSpirax,p.10 [of pdf],,mang1403,Lumurioŋ (aenbul [Kembul on map]),mang1403-1
 3,me·,,FALSE,Grace1955pdfSpirax,p.10 [of pdf],,mang1403,Lumurioŋ (aenbul [Kembul on map]),mang1403-1
@@ -21728,6 +21779,27 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,Iwa,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
 10,Tekau,,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
 10,(ngahuru),,FALSE,Audran1920,p.43,,maor1246,New Zealand,maor1246-2
+1,tahi,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+2,rua,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+3,toru,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+4,wa,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+5,rima,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+6,ono,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+7,witu,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+8,waru,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+9,iwa,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+10,ŋahuru,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+13,ŋahuru ma toru,"The lower numbers are connected with the higher by the conjunction ma, meaning and.",FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+20,tekau,ten pair,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+20,rua ŋahuru,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+30,toru ŋahuru,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+40,wa ŋahuru,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+50,rima ŋahuru,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+100,rau,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+200,rua rau,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+400,wa rau,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+1000,mano,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
+10000,tini,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
 1,guranangge,,FALSE,LeanMadang,p.80,1 CSQ. Village: Mebu.,mapa1244,Mebu,mapa1244-1
 2,elaha,,FALSE,LeanMadang,p.80,1 CSQ. Village: Mebu.,mapa1244,Mebu,mapa1244-1
 3,kabusa,,FALSE,LeanMadang,p.80,1 CSQ. Village: Mebu.,mapa1244,Mebu,mapa1244-1
@@ -26330,6 +26402,33 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1000,tautini,< English thousand,TRUE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
 1000,e ’ima tou ha,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
 1000,mira,,FALSE,Charpentier2015,pp.1825-1843,,nort2845,North Marquesan - Ua Pou,nort2845-3
+1,tahi,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+2,ua,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+3,tou,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+4,ha,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+4,fa,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+4,pona,used only in counting breadfruit,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+5,ima,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+6,ono,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+7,hitu,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+7,fitu,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+8,vau,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+9,iva,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+10,onohuu,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+15,onohuu ma ima,"The lower numbers are connected with the higher by the conjunction ma, meaning and.",FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+20,tekau,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+30,tekau ma onohuu,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+40,tohá,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+40,taufá,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+50,tohá ma onohuu,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+100,ua tohá ma tekau,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+200,ima tohá,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+400,au,"the words rau and mano, which should properly signify hundred and thousand ... are quadrupled, and stand for four hundred and four thousand",FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+400,tauau,used only in counting breadfruit,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+4000,mano,"the words rau and mano, which should properly signify hundred and thousand ... are quadrupled, and stand for four hundred and four thousand",FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+40000,tini,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+400000,tufá,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
+4000000,pohi,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
 1,bicits,,FALSE,Smith1988,p.68,,nort2857,Unank,nort2857-1
 2,siruc,,FALSE,Smith1988,p.68,,nort2857,Unank,nort2857-1
 3,siruabits,,FALSE,Smith1988,p.68,,nort2857,Unank,nort2857-1
@@ -29790,6 +29889,20 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,(mahi),,FALSE,Ray1913,p.59,,rara1235,Lara,rara1235-1
 9,(pire),,FALSE,Ray1913,p.59,,rara1235,Lara,rara1235-1
 10,(sapuloh),,FALSE,Ray1913,p.59,,rara1235,Lara,rara1235-1
+1,tai,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
+2,rua,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
+3,toru,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
+4,a,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
+5,rima,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
+6,ono,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
+7,itu,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
+8,varu,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
+9,iva,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
+10,ŋauru,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
+14,ŋauru ma a,"The lower numbers are connected with the higher by the conjunction ma, meaning and.",FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
+200,rau,"the words rau and mano, which should properly signify hundred and thousand, are doubled in value, and stand for two hundred and two thousand",FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
+2000,mano,"the words rau and mano, which should properly signify hundred and thousand, are doubled in value, and stand for two hundred and two thousand",FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
+20000,tini,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
 1,sa,,FALSE,Stokhof1983Vol7.2,p.280,,rata1244,Ratahan,rata1244-1
 2,'ndoe-a,,FALSE,Stokhof1983Vol7.2,p.280,,rata1244,Ratahan,rata1244-1
 2,ndoe'a,,FALSE,Stokhof1983Vol7.2,p.280,,rata1244,Ratahan,rata1244-1
@@ -30797,6 +30910,36 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,benau-ili benau-ili mesantale,2 + 2 + 1 (‘mesantale’ is translated as ‘one alone’),FALSE,Lean1986Vol12,p.30,SIL Word List (1973). (Samo d.). IMP/SIL Questionnaire,samo1303,Nomad (Samo dialect),samo1303-1
 6,benau-ili benau-ili benau-ili,,FALSE,Lean1986Vol12,p.30,SIL Word List (1973). (Samo d.). IMP/SIL Questionnaire,samo1303,Nomad (Samo dialect),samo1303-1
 10,kwa'imodo,,FALSE,Lean1986Vol12,p.30,SIL Word List (1973). (Samo d.). IMP/SIL Questionnaire,samo1303,Nomad (Samo dialect),samo1303-1
+1,tasi,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+2,lua,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+3,tolu,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+4,fa,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+5,lima,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+6,ono,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+7,fitu,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+8,valu,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+9,iva,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+10,sefulu,"Samoan fulu, ten, ... means likewise hair",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+10,ŋafulu,"Samoan fulu, ten, ... means likewise hair",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+11,sefulu ma tasi,"The lower numbers are connected with the higher by the conjunction ma, meaning and.",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+20,lua fulu,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+20,lua sefulu,"In Samoan, the natives appeared to make, in the tens and hundreds, a difference between the dual and the plural. ... The missionaries, however, employ lua ŋafulu ... and it is likely that the usage of the natives may vary.",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+20,lua ŋafulu,[as used by missionaries],FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+21,lua ŋafulu ma tasi,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+30,tolu ŋafulu,"In Samoan, the natives appeared to make, in the tens and hundreds, a difference between the dual and the plural.",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+40,fa ŋafulu,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+50,lima ŋafulu,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+100,lau,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+100,selau,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+200,lua lau,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+200,lua selau,"In Samoan, the natives appeared to make, in the tens and hundreds, a difference between the dual and the plural. ... The missionaries, however, employ ... lua ŋalau and it is likely that the usage of the natives may vary.",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+300,lua ŋalau,[as used by missionaries],FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+300,tolu ŋalau,"In Samoan, the natives appeared to make, in the tens and hundreds, a difference between the dual and the plural.",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+400,fa ŋalau,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+1000,afe,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+10000,mano,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+100000,ilu,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
+100000,’ilu,"probably the same word with iu in Tahitian, which signifies a million [two million?], and kiu, which, in Mangarevan, stands for twenty thousand, and which we heard used at Fakaafo for a great but indefinite number, (e kiu te tai fale, the houses are very many.)",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
 1,noːtate,,FALSE,Zgraggen1980Mabuso,p.92,,samo1306,Samosa,samo1306-1
 2,ariɡita(tɛ),,FALSE,Zgraggen1980Mabuso,p.92,,samo1306,Samosa,samo1306-1
 1,wan (fela),,FALSE,Muehlhaeusler1978,p.101,,samo1307,Samoan Plantation Pidgin English,samo1307-1
@@ -34630,6 +34773,51 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,Iva,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
 10,Ahuru,,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
 10,(hoe ahuru),,FALSE,Audran1920,p.43,,tahi1242,Tahiti,tahi1242-4
+2,rua,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+2,piti,A few of the Tahitian numerals are ... peculiar; these have been substituted for the common words (which are not altogether obsolete) by a custom termed te pi,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+3,toru,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+4,ha,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+4,maha,A few of the Tahitian numerals are ... peculiar; these have been substituted for the common words (which are not altogether obsolete) by a custom termed te pi,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+5,rima,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+5,pae,A few of the Tahitian numerals are ... peculiar; these have been substituted for the common words (which are not altogether obsolete) by a custom termed te pi,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+6,ono,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+6,fene,A few of the Tahitian numerals are ... peculiar; these have been substituted for the common words (which are not altogether obsolete) by a custom termed te pi ; [p.289: adopted from the neighboring Paumotuan ... hene],TRUE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+7,hitu,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+8,varu,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+8,vau,A few of the Tahitian numerals are ... peculiar; these have been substituted for the common words (which are not altogether obsolete) by a custom termed te pi,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+9,iva,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+10,ahuru,[also umi ‘ten fathoms’],FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+20,ta’au,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+30,ta’au ma ahuru,twenty and ten,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+40,rua ta’au,twice twenty,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+50,rua ta’au ma ahuru,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+100,rima ta’au,five times twenty,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+200,rau,"the words rau and mano, which should properly signify hundred and thousand, are doubled in value, and stand for two hundred and two thousand",FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+400,rua rau,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+2000,mano,"the words rau and mano, which should properly signify hundred and thousand, are doubled in value, and stand for two hundred and two thousand",FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+20000,manotini,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+200000,rehu,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+2000000,iu,"[cf. Tongan kilu ‘hundred thousand’, Samoan ’ilu ‘hundred thousand’, Mangarevan kiu ‘twenty thousand’]",FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
+1,tahi,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
+2,rua,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
+3,toru,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
+4,ha,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
+5,rima,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
+6,ono,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
+7,hitu,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
+8,varu,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
+9,iva,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
+10,ahuru,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
+1,tahi,"The Tahitians, besides the metaphorical expressions already noticed, have another and a more singular mode of displaying their reverence towards their king, by a custom which they term te pi. They cease to employ, in the common language, those words which form a part or the whole of the sovereign’s name, or that of one of his near relatives, and invent new terms to supply their place.",FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
+2,piti,"In other cases, the word substituted is one which had before a meaning nearly related to that of the term disused,— ... piti, together, has replaced rua, two",FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
+3,toru,,FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
+4,maha,"But this alteration affects not only the words themselves, but syllables of similar sound in other words. ... So ha, four, having been changed to maha, the word ahā, split, has been altered to amaha, and murihá, the name of a month, to muiráha.",FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
+5,pae,"In other cases, the word substituted is one which had before a meaning nearly related to that of the term disused,—as ... pae, part, division, instead of rima, five",FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
+6,fene,"Some have been adopted from the neighboring Paumotuan, as ... fene, six, from hene",TRUE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
+7,hitu,,FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
+8,vau,"The mode of alteration, or the manner of forming new terms, seems to be arbitrary. In many cases, the substitutes are made by changing or dropping some letter or letters of the original word,—as ... vau for varu, eight",FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
+9,iva,,FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
+10,ahuru,,FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
 1,nɑmbɑr,,FALSE,Zgraggen1972,pp.215-219,,taia1239,Gapun,taia1239-1
 2,senɑ,,FALSE,Zgraggen1972,pp.215-219,,taia1239,Gapun,taia1239-1
 3,mɑnɑ́u̯,,FALSE,Zgraggen1972,pp.215-219,,taia1239,Gapun,taia1239-1
@@ -36414,6 +36602,23 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,ante heľaǥaľaka osuʔiƀoko,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
 5,ATEHAMO,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
 10,ATE HELAGA HELAGA,,FALSE,Anonymous1975,"pp.3, 8",,toka1244,Yufiyufa = Tokano,toka1244-1
+1,tasi,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+2,lua,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+2,ua,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+3,tolu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+4,fa,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+5,lima,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+6,ono,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+7,fitu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+8,valu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+9,iva,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+10,fulu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+10,ŋafulu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+20,lua ŋafulu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+30,tolu ŋafulu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+40,fa ŋafulu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+50,lima ŋafulu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
+100,lau,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
 0,nating,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
 0,not,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
 0,siro,,FALSE,Dutton1985,pp.42-43,,tokp1240,Tok Pisin (New Guinea Pidgin),tokp1240-1
@@ -36933,6 +37138,31 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,nima,,FALSE,Codrington1885,"pp.229, 246",,tong1325,Tongan (Tonga),tong1325-2
 9,hiva,,FALSE,Codrington1885,"pp.229, 246",,tong1325,Tongan (Tonga),tong1325-2
 10,hongafulu,,FALSE,Codrington1885,"pp.229, 246",,tong1325,Tongan (Tonga),tong1325-2
+1,taha,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+2,ua,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+3,tolu,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+4,fa,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+5,nima,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+6,ono,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+7,fitu,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+8,valu,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+9,hiva,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+10,hoŋofulu,"The word tekumi, pl. ŋakumi, is used in Tongan for ten, in counting ofa, or fathoms,—the common measure of length.",FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+12,hoŋofulu ma ua,"The lower numbers are connected with the higher by the conjunction ma, meaning and.",FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+20,tekau,"ten pair; kau, the root of the Tongan tekau, probably signified originally a parcel or bunch. Tekau would mean, therefore, one parcel, which they consider to be twenty, though this is evidently an arbitrary application,—precisely as with the English score, which means properly any number scored down. The natives of Tonga employ it only in counting yams and fish.",FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+20,uo fulu,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+30,tolu ŋofulu,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+40,fa ŋofulu,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+50,nima ŋofulu,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+100,au,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+100,teau,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+100,tefuhi,"a similar collective term [to tekau, twenty]; it is probably the word fuhi, a sheaf, or bundle, (from the Samoan fusi, to bind,) with the article te prefixed.",FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+200,ua ŋeau,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+400,fa ŋeau,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+1000,afe,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+10000,mano,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+11000,mano mo afe,ma before afe becomes mo,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
+100000,kilu,"probably the same word with iu in Tahitian, which signifies a million [two million?], and kiu, which, in Mangarevan, stands for twenty thousand, and which we heard used at Fakaafo for a great but indefinite number, (e kiu te tai fale, the houses are very many.)",FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
 1,ěsa,,FALSE,Stokhof1983Vol7.2,p.265,,tons1239,Tonsawang,tons1239-1
 2,doea,,FALSE,Stokhof1983Vol7.2,p.265,,tons1239,Tonsawang,tons1239-1
 3,těḷoe,,FALSE,Stokhof1983Vol7.2,p.265,,tons1239,Tonsawang,tons1239-1
@@ -37555,6 +37785,20 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 6,e miha-hene,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: another system of counting by pairs,tuam1242-17
 8,e hite e hava,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: another system of counting by pairs,tuam1242-17
 10,e nipa e fakaraki,,FALSE,Audran1920,p.43,,tuam1242,Paumotu Group: another system of counting by pairs,tuam1242-17
+1,rari,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
+2,ite,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
+3,ŋeti,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
+4,ope,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
+5,ŋeka,"[given as ‘six’ on p.249, apparently an error[",FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
+6,hene,"[given as ‘five’ on p.249, apparently an error[",FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
+7,hito,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
+8,hawa,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
+9,nipa,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
+10,horihori,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
+20,takau (?),ten pair,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
+100,penu,"The Paumotuan word for hundred, penu, means also the head",FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
+1000,mano (?),,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
+1,tahi,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
 0,aore,< Tahitian,TRUE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
 0,kaore,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
 1,ka rari,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Napuka,tuam1242-2
@@ -41700,247 +41944,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,tasi,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-2,lua,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-2,ua,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-3,tolu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-4,fa,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-5,lima,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-6,ono,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-7,fitu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-8,valu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-9,iva,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-10,fulu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-10,ŋafulu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-20,lua ŋafulu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-30,tolu ŋafulu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-40,fa ŋafulu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-50,lima ŋafulu,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-100,lau,,FALSE,Hale1846,pp.246-247,,toke1240,Fakaafo,toke1240-1
-1,tasi,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-2,lua,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-3,tolu,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-4,fa,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-5,lima,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-6,ono,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-7,fitu,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-8,valu,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-9,iva,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-10,sefulu,"Samoan fulu, ten, ... means likewise hair",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-10,ŋafulu,"Samoan fulu, ten, ... means likewise hair",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-11,sefulu ma tasi,"The lower numbers are connected with the higher by the conjunction ma, meaning and.",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-20,lua fulu,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-20,lua sefulu,"In Samoan, the natives appeared to make, in the tens and hundreds, a difference between the dual and the plural. ... The missionaries, however, employ lua ŋafulu ... and it is likely that the usage of the natives may vary.",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-20,lua ŋafulu,[as used by missionaries],FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-21,lua ŋafulu ma tasi,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-30,tolu ŋafulu,"In Samoan, the natives appeared to make, in the tens and hundreds, a difference between the dual and the plural.",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-40,fa ŋafulu,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-50,lima ŋafulu,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-100,lau,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-100,selau,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-200,lua lau,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-200,lua selau,"In Samoan, the natives appeared to make, in the tens and hundreds, a difference between the dual and the plural. ... The missionaries, however, employ ... lua ŋalau and it is likely that the usage of the natives may vary.",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-300,lua ŋalau,[as used by missionaries],FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-300,tolu ŋalau,"In Samoan, the natives appeared to make, in the tens and hundreds, a difference between the dual and the plural.",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-400,fa ŋalau,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-1000,afe,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-10000,mano,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-100000,ilu,,FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-100000,’ilu,"probably the same word with iu in Tahitian, which signifies a million [two million?], and kiu, which, in Mangarevan, stands for twenty thousand, and which we heard used at Fakaafo for a great but indefinite number, (e kiu te tai fale, the houses are very many.)",FALSE,Hale1846,pp.246-250,,samo1305,Samoan,samo1305-1
-1,taha,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-2,ua,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-3,tolu,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-4,fa,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-5,nima,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-6,ono,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-7,fitu,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-8,valu,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-9,hiva,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-10,hoŋofulu,"The word tekumi, pl. ŋakumi, is used in Tongan for ten, in counting ofa, or fathoms,—the common measure of length.",FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-12,hoŋofulu ma ua,"The lower numbers are connected with the higher by the conjunction ma, meaning and.",FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-20,tekau,"ten pair; kau, the root of the Tongan tekau, probably signified originally a parcel or bunch. Tekau would mean, therefore, one parcel, which they consider to be twenty, though this is evidently an arbitrary application,—precisely as with the English score, which means properly any number scored down. The natives of Tonga employ it only in counting yams and fish.",FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-20,uo fulu,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-30,tolu ŋofulu,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-40,fa ŋofulu,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-50,nima ŋofulu,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-100,au,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-100,teau,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-100,tefuhi,"a similar collective term [to tekau, twenty]; it is probably the word fuhi, a sheaf, or bundle, (from the Samoan fusi, to bind,) with the article te prefixed.",FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-200,ua ŋeau,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-400,fa ŋeau,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-1000,afe,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-10000,mano,,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-11000,mano mo afe,ma before afe becomes mo,FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-100000,kilu,"probably the same word with iu in Tahitian, which signifies a million [two million?], and kiu, which, in Mangarevan, stands for twenty thousand, and which we heard used at Fakaafo for a great but indefinite number, (e kiu te tai fale, the houses are very many.)",FALSE,Hale1846,pp.246-250,,tong1325,Tongan,tong1325-3
-1,tahi,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-2,rua,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-3,toru,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-4,wa,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-5,rima,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-6,ono,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-7,witu,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-8,waru,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-9,iwa,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-10,ŋahuru,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-13,ŋahuru ma toru,"The lower numbers are connected with the higher by the conjunction ma, meaning and.",FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-20,tekau,ten pair,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-20,rua ŋahuru,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-30,toru ŋahuru,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-40,wa ŋahuru,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-50,rima ŋahuru,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-100,rau,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-200,rua rau,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-400,wa rau,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-1000,mano,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-10000,tini,,FALSE,Hale1846,pp.246-250,,maor1246,New Zealand,maor1246-3
-1,tai,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
-2,rua,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
-3,toru,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
-4,a,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
-5,rima,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
-6,ono,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
-7,itu,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
-8,varu,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
-9,iva,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
-10,ŋauru,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
-14,ŋauru ma a,"The lower numbers are connected with the higher by the conjunction ma, meaning and.",FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
-200,rau,"the words rau and mano, which should properly signify hundred and thousand, are doubled in value, and stand for two hundred and two thousand",FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
-2000,mano,"the words rau and mano, which should properly signify hundred and thousand, are doubled in value, and stand for two hundred and two thousand",FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
-20000,tini,,FALSE,Hale1846,pp.246-250,,raro1241,Rarotongan,raro1241-1
-1,tai,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-2,rua,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-3,toru,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-4,a,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-5,rima,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-6,ono,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-7,itu,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-8,varu,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-9,iva,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-10,ŋauru,"In the Mangarevan vocabulary kumi is given as a word for ten, but with no explanation of its use.",FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-20,takau,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-30,takau ma ŋauru,twenty and ten,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-40,rua takau,twice ten,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-50,rua takau ma ŋauru,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-100,rima takau,five times twenty,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-200,rau,"the words rau and mano, which should properly signify hundred and thousand, are doubled in value, and stand for two hundred and two thousand",FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-400,rua rau,,FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-2000,mano,"the words rau and mano, which should properly signify hundred and thousand, are doubled in value, and stand for two hundred and two thousand",FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-20000,kiu,"[cf. Tongan kilu ‘hundred thousand’, Samoan ’ilu ‘hundred thousand’, Tahitian iu ‘[two?] million’]",FALSE,Hale1846,pp.246-250,,mang1401,Mangarevan,mang1401-3
-1,rari,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
-2,ite,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
-3,ŋeti,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
-4,ope,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
-5,ŋeka,"[given as ‘six’ on p.249, apparently an error[",FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
-6,hene,"[given as ‘five’ on p.249, apparently an error[",FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
-7,hito,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
-8,hawa,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
-9,nipa,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
-10,horihori,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
-20,takau (?),ten pair,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
-100,penu,"The Paumotuan word for hundred, penu, means also the head",FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
-1000,mano (?),,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
-1,tahi,,FALSE,Hale1846,pp.246-249,,tuam1242,Paumotuan,tuam1242-18
-2,rua,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-2,piti,A few of the Tahitian numerals are ... peculiar; these have been substituted for the common words (which are not altogether obsolete) by a custom termed te pi,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-3,toru,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-4,ha,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-4,maha,A few of the Tahitian numerals are ... peculiar; these have been substituted for the common words (which are not altogether obsolete) by a custom termed te pi,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-5,rima,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-5,pae,A few of the Tahitian numerals are ... peculiar; these have been substituted for the common words (which are not altogether obsolete) by a custom termed te pi,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-6,ono,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-6,fene,A few of the Tahitian numerals are ... peculiar; these have been substituted for the common words (which are not altogether obsolete) by a custom termed te pi ; [p.289: adopted from the neighboring Paumotuan ... hene],TRUE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-7,hitu,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-8,varu,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-8,vau,A few of the Tahitian numerals are ... peculiar; these have been substituted for the common words (which are not altogether obsolete) by a custom termed te pi,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-9,iva,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-10,ahuru,[also umi ‘ten fathoms’],FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-20,ta’au,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-30,ta’au ma ahuru,twenty and ten,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-40,rua ta’au,twice twenty,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-50,rua ta’au ma ahuru,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-100,rima ta’au,five times twenty,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-200,rau,"the words rau and mano, which should properly signify hundred and thousand, are doubled in value, and stand for two hundred and two thousand",FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-400,rua rau,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-2000,mano,"the words rau and mano, which should properly signify hundred and thousand, are doubled in value, and stand for two hundred and two thousand",FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-20000,manotini,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-200000,rehu,,FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-2000000,iu,"[cf. Tongan kilu ‘hundred thousand’, Samoan ’ilu ‘hundred thousand’, Mangarevan kiu ‘twenty thousand’]",FALSE,Hale1846,pp.246-250,,tahi1242,Tahitian,tahi1242-5
-1,tahi,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
-2,rua,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
-3,toru,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
-4,ha,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
-5,rima,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
-6,ono,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
-7,hitu,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
-8,varu,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
-9,iva,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
-10,ahuru,,FALSE,Hale1846,p.289,,tahi1242,Tahitian: original form,tahi1242-6
-1,tahi,"The Tahitians, besides the metaphorical expressions already noticed, have another and a more singular mode of displaying their reverence towards their king, by a custom which they term te pi. They cease to employ, in the common language, those words which form a part or the whole of the sovereign’s name, or that of one of his near relatives, and invent new terms to supply their place.",FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
-2,piti,"In other cases, the word substituted is one which had before a meaning nearly related to that of the term disused,— ... piti, together, has replaced rua, two",FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
-3,toru,,FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
-4,maha,"But this alteration affects not only the words themselves, but syllables of similar sound in other words. ... So ha, four, having been changed to maha, the word ahā, split, has been altered to amaha, and murihá, the name of a month, to muiráha.",FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
-5,pae,"In other cases, the word substituted is one which had before a meaning nearly related to that of the term disused,—as ... pae, part, division, instead of rima, five",FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
-6,fene,"Some have been adopted from the neighboring Paumotuan, as ... fene, six, from hene",TRUE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
-7,hitu,,FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
-8,vau,"The mode of alteration, or the manner of forming new terms, seems to be arbitrary. In many cases, the substitutes are made by changing or dropping some letter or letters of the original word,—as ... vau for varu, eight",FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
-9,iva,,FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
-10,ahuru,,FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
-1,tahi,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-2,lua,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-3,tolu,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-4,ha,"For four, the Hawaiians have two terms, ha and tauna",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-4,tauna,"For four, the Hawaiians have two terms, ha and tauna",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-5,lima,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-6,ono,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-7,hitu,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-8,valu,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-9,iwa,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-10,’umi,anahulu (from ŋafulu) signifies a period of ten days,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-10,umi,"the same as Tongan kumi, which means ten fathoms",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-11,umi tuma-ma-tahi,"In Hawaiian, the word tuma, which is rendered in the vocabulary “a number, company, flock,” is introduced before the conjunction [ma]",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-20,iwatalua,"a word compounded of iwa, nine, and lua, two,—though why it should have this meaning cannot well be understood",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-30,tanatolu,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-40,tanahá,"the word ha, four, with a prefix of unknown origin; the genera term",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-40,iato,used in counting pieces of tapa (native cloth),FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-40,ta’au,"or takau, a corruption of tekau; used ... in counting fish",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-42,tanahá tuma-ma-lua,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-50,tanahá me ta umi,"forty with the ten; for larger numbers, me, the usual term for with in that dialect, is employed, followed by the singular article (te or ta), or the plural sign (na)",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-50,tanalima,[introduced by the missionaries],FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-60,tanahá me ta iwatalua,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-60,tanaono,[introduced by the missionaries],FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-70,tanahá me te tanatolu,forty with the thirty,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-70,tanahá me na umi etolu,sometimes ... forty with three tens,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-100,"luatanahá ,e ta iwatalua",two forties and twenty,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-100,haneri,[introduced by the missionaries],TRUE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-200,lima tanahá,"four [sic, for five] forties",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-400,lau,"the words rau and mano, which should properly signify hundred and thousand ... are quadrupled, and stand for four hundred and four thousand",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-4000,mano,"the words rau and mano, which should properly signify hundred and thousand ... are quadrupled, and stand for four hundred and four thousand",FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-40000,tini,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-400000,lehu,,FALSE,Hale1846,pp.246-250,,hawa1245,Hawaiian,hawa1245-2
-1,tahi,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-2,ua,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-3,tou,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-4,ha,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-4,fa,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-4,pona,used only in counting breadfruit,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-5,ima,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-6,ono,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-7,hitu,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-7,fitu,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-8,vau,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-9,iva,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-10,onohuu,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-15,onohuu ma ima,"The lower numbers are connected with the higher by the conjunction ma, meaning and.",FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-20,tekau,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-30,tekau ma onohuu,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-40,tohá,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-40,taufá,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-50,tohá ma onohuu,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-100,ua tohá ma tekau,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-200,ima tohá,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-400,au,"the words rau and mano, which should properly signify hundred and thousand ... are quadrupled, and stand for four hundred and four thousand",FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-400,tauau,used only in counting breadfruit,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-4000,mano,"the words rau and mano, which should properly signify hundred and thousand ... are quadrupled, and stand for four hundred and four thousand",FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-40000,tini,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-400000,tufá,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
-4000000,pohi,,FALSE,Hale1846,pp.246-250,,nort2845,Nukuhivan,nort2845-4
