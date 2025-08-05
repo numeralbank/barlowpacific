@@ -34818,7 +34818,7 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,vau,"The mode of alteration, or the manner of forming new terms, seems to be arbitrary. In many cases, the substitutes are made by changing or dropping some letter or letters of the original word,—as ... vau for varu, eight",FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
 9,iva,,FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
 10,ahuru,,FALSE,Hale1846,pp.288-289,,tahi1242,Tahitian: present form,tahi1242-7
-1,hō’ē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+1,hōʻē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 1,tahi,"now archaic, but still used by musicians; today used in counting primarily by musicians in starting: “one, two ...,” in other contexts referring either to one [person or thing] or to the other (also used in certain phrases:) ~ little bit of tahi vahi iti",FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 2,piti,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 2,rua,archaic,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
@@ -34833,63 +34833,63 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,vaʻu,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 8,varu,archaic,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 9,iva,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-10,hō’ē-’ahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-10,’ahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-11,hō’ē-’ahuru-mā-hō’ē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-11,’ahuru-mā-hō’ē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-11,’ahuru-maho’e,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-12,’ahuru-mā-piti,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-12,’ahurumā-piti,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-13,hō’ē-’ahuru-mā-toru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-14,’ahuru-mā-maha,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-15,’ahuru-ma-pae,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-15,’ahuru-mā-pae,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-16,hō’ē-’ahuru-mā-ono,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-17,’ahuru-mā-hitu,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-18,’ahuru-mā-va’u,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-19,’ahuru-mā-iva,mā ‘and’ (ancient conjunction still retained in counting),FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-20,piti-’ahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-20,ta’au,"score (twenty, ten pair)",FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-21,piti-’ahuru-mā-hō’ē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-21,piti-’ahuru-mā-pae,[25?],FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-25,E piti-’ahuru mā pae,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-26,Piti-’ahurumā-ono,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-30,e toru ’ahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-30,toru ’ahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-34,toru-’ahuru-mā-maha,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-34,toru-’ahuru-māmaha,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-35,E toru-’ahuru-mā-pae,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-40,maha ’ahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-50,pae ’ahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-55,E pae-’ahuru-māpae,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-60,ono ’ahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-70,hitu-’ahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-80,va’u ’ahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-90,iva ’ahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-100,hō’ē-hānere,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+10,hōʻē-ʻahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+10,ʻahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+11,hōʻē-ʻahuru-mā-hōʻē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+11,ʻahuru-mā-hōʻē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+11,ʻahuru-mahoʻe,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+12,ʻahuru-mā-piti,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+12,ʻahurumā-piti,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+13,hōʻē-ʻahuru-mā-toru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+14,ʻahuru-mā-maha,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+15,ʻahuru-ma-pae,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+15,ʻahuru-mā-pae,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+16,hōʻē-ʻahuru-mā-ono,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+17,ʻahuru-mā-hitu,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+18,ʻahuru-mā-vaʻu,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+19,ʻahuru-mā-iva,mā ‘and’ (ancient conjunction still retained in counting),FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+20,piti-ʻahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+20,taʻau,"score (twenty, ten pair)",FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+21,piti-ʻahuru-mā-hōʻē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+21,piti-ʻahuru-mā-pae,[25?],FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+25,E piti-ʻahuru mā pae,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+26,Piti-ʻahurumā-ono,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+30,e toru ʻahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+30,toru ʻahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+34,toru-ʻahuru-mā-maha,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+34,toru-ʻahuru-māmaha,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+35,E toru-ʻahuru-mā-pae,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+40,maha ʻahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+50,pae ʻahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+55,E pae-ʻahuru-māpae,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+60,ono ʻahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+70,hitu-ʻahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+80,vaʻu ʻahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+90,iva ʻahuru,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+100,hōʻē-hānere,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 100,hānere,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-101,hō’ē-hānere-mā-hō’ē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-111,hō’ē-hānere-’ē-hō’ē-’ahuru-mā-hō’ē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-200,ti’aope,"ten score (two hundred, one hundred pair)",FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+101,hōʻē-hānere-mā-hōʻē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+111,hōʻē-hānere-ʻē-hōʻē-ʻahuru-mā-hōʻē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+200,tiʻaope,"ten score (two hundred, one hundred pair)",FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 200,tīope,"ten score (two hundred, one hundred pair)",FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 400,E maha hānere,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 500,e pae hānere,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-625,Ono-hānere-’ēpiti-’ahuru-mā-hō’ē,[621?],FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+625,Ono-hānere-ʻēpiti-ʻahuru-mā-hōʻē,[621?],FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 1000,tauatini,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 1000,tautini,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 1000,tautani,uncommon; biblical,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 1000,mano,archaic,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-1000,hō’ē-tautini,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-1001,hō’ē-tautini-mā-hō’ē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-1011,hō’ē-tautini-’ē-hō’ē-’ahuru-mā-hō’ē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-1111,hō’ē-tautini-’ē-hō’ē-hānere-’ē-hō’ē-’ahuru-mā-hō’ē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+1000,hōʻē-tautini,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+1001,hōʻē-tautini-mā-hōʻē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+1011,hōʻē-tautini-ʻē-hōʻē-ʻahuru-mā-hōʻē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+1111,hōʻē-tautini-ʻē-hōʻē-hānere-ʻē-hōʻē-ʻahuru-mā-hōʻē,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 2000,e piti tautini,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-10000,hō’ē-’ahuru tauatini,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+10000,hōʻē-ʻahuru tauatini,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 10000,manotini,archaic,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-20000,piti-’ahuru-tauatini,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-100000,hō’ē-hānere tauatini,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-1000000,hō’ē-mirioni,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
-1000000,’iu,archaic,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+20000,piti-ʻahuru-tauatini,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+100000,hōʻē-hānere tauatini,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+1000000,hōʻē-mirioni,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
+1000000,ʻiu,archaic,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 1000000000,miria,,FALSE,Wahlroos2002,"pp.xix-xx, passim",,tahi1242,Tahitian,tahi1242-8
 1,hō’ē,Syn. tahi,FALSE,FareVāna’a2017,passim,,tahi1242,reo tahiti,tahi1242-9
 1,tahi,Etym. PPn *tasi ; syn. hō’ē,FALSE,FareVāna’a2017,passim,,tahi1242,reo tahiti,tahi1242-9
