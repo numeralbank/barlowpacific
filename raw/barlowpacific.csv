@@ -8724,6 +8724,68 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,pwal,,FALSE,Teljeur1982,pp.145-146,,east2440,Kayoa,east2440-1
 9,psiwo,,FALSE,Teljeur1982,pp.145-146,,east2440,Kayoa,east2440-1
 10,yohasó,,FALSE,Teljeur1982,pp.145-146,,east2440,Kayoa,east2440-1
+1,iso,"The label ‘animal’ classifier could be a little misleading here. While generally used to count animals, these classifiers are also used!for counting days and months, whether counting specific days and months, or counting intervals of time measured in days or months. I- is used for a single animal (or day or month), sis= is used for from two to nine animals, days, or months, while beit is used for larger numbers.",FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+2,silhu,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+3,sithol,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+4,sishot,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+5,silhim,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+6,sisoenam,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+7,sishit,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+8,siswal,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+9,sishio,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+10,beit co,"with 10’s of animals, the classifier beit ‘group of animals’ is used",FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+20,beit lu,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+25,beitlu lo silhim,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+30,beit tol,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+100,beitutin co,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+283,beitutin lu lo beitwal lo sithol,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+2000,beitcalan lu,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
+1,ha=so,Ha= takes the form of a proclitic and it is never stressed.,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+2,ha=lu,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+2,halu,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+3,ha=tol,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+4,ha=hot,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+5,ha=lim,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+6,ha=wonam,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+7,ha=hit,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+8,ha=wal,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+9,ha=sio,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+10,ha=yo ha=so,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+10,hayo haso,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+44,hayo hahot lo hahot,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+155,hautin co lo hayo halim lo halim,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+400,hautin hot,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+1994,hacalan co lo utin cio lo hayo hasio lo hahot,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+1998,hacalan co lo hautin cio lo hayo hasio lo hawal,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
+1,i-so,"When counting human beings, the pjrefix i- is used to form the numeral ‘one’, but the procilitic mat= is used for numbers higher than one. 1- is categorised as a prefix while mat= is a proclitic.",FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+1,iso,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+2,mat=lu,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+2,matlu,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+3,mat=tol,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+3,mattol,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+4,mat=hot,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+5,mat=lim,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+6,mat=wonam,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+7,mat=hit,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+8,mat=wal,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+9,mat=cio,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+10,mat=yo ha=so,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+20,matyo halu,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+42,matyo hahot lo matlu,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+100,matutin co,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+118,matutin co lo matyo haso lo matwal,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
+2,motlu,"This classifier is used for small square flat thin things that have been cut or sliced such as waji ‘square shaped glutinous rice cakes’, roti ‘slices of bread’, and kartas ‘sheets of paper’. Mot= is a proclitic and there is no morphophonemic variation to account for.",FALSE,Bowden2001,"pp.248, 258",,east2440,Taba: numerals with the classifier for small flat oblong things,east2440-13
+1000,motcalan co,,FALSE,Bowden2001,"pp.248, 258",,east2440,Taba: numerals with the classifier for small flat oblong things,east2440-13
+1,picú,there is also an archaic set of numbers remembered by many Taba speakers. I was unable to ascertain what purpose this archaic set of numbers had within the Taba quantificational system.,FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
+2,pilú,Some of these forms clearly bear a relationship with the normal numeral roots discussed above (those for ‘two’ and ‘seven’) [cf. p-lu ‘two’ (with default classifier)],FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
+3,pitia,,FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
+4,bokotó,,FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
+5,ngaitó,,FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
+6,tigitó,,FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
+7,mathét,Some of these forms clearly bear a relationship with the normal numeral roots discussed above (those for ‘two’ and ‘seven’) [cf. mat=hit ‘seven’ (with human classifier)],FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
+8,kabelúng,,FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
+9,ragimoi,ragimoi ‘nine’ has similarities with Tematan nyagimoi ‘ten’. The sources of the others remain obscure along with their functions.,TRUE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
+10,dolapecu,"Note, however, that the final stress on many of the forms as well as the alveopalatal affricates found in picú ‘one’ and dolapecu ‘ten’ suggest that other words may have been borrowed.",FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
 1,pso,,FALSE,Teljeur1982,pp.145-146,,east2440,Mailoa,east2440-2
 2,plu,,FALSE,Teljeur1982,pp.145-146,,east2440,Mailoa,east2440-2
 3,ptol,,FALSE,Teljeur1982,pp.145-146,,east2440,Mailoa,east2440-2
@@ -8784,6 +8846,40 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,pwal,,FALSE,Teljeur1982,pp.145-146,,east2440,Tahane,east2440-7
 9,psio,,FALSE,Teljeur1982,pp.145-146,,east2440,Tahane,east2440-7
 10,yahasá,,FALSE,Teljeur1982,pp.145-146,,east2440,Tahane,east2440-7
+1,-so,Taba numerals must always co-occur with a classifier which is preposed to the numeral root.,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
+2,-lu,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
+3,-tol,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
+4,-hot,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
+5,-lim,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
+6,-wonam,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
+6,-oenam,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
+7,-hit,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
+8,-wal,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
+9,-sio,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
+1,pso,"p- (probably derived ulimately from PAN *buah ‘fruit’); Taba is rather unusual in that numeral roots cain never appear without a classifier. In any situation where there is no clear semantic basis I for choosing a classifier it is the p- prefix which is utilised. Such situations include the act of counting, when the person counting has no particular objects in mind (as children might do when learning to count).",FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+2,plu,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+3,ptol,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+4,phot,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+5,plim,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+6,pwonam,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+7,phit,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+8,pwal,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+9,psio,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+10,yo haso,a generic ‘-ty’ form is based upon the classifiers yo + ha where yo ‘ten’ combines with the measure classifier ha.,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+11,yo haso lo pso,"In essence, the numbers appropriate for simple multiples and the numbers from 1-9 are conjoined with the conjunction lo ‘and’.",FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+18,yo haso lo pwal,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+20,yo halu,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+30,yo hatol,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+100,utin co,The classifier for ‘hundred’ is utin. This is derived from the verb -utin ‘to gather’.,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+200,utin lu,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+300,utin tol,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+1000,calan so,"For ‘thousand’, the classifier calan is used. For referring to entities for which the default classifier is appropriate, the classifier calan is used on its own",FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+6000,calan utin wonam,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+10001,calan yo haso lo pso,"The potential ambiguity can be resolved by the use of appropriate intonation, usually a short pause with a non-terminal rising contour at the point where the highest structural level of conjunction is found",FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+11000,calan yo haso lo pso,"The potential ambiguity can be resolved by the use of appropriate intonation, usually a short pause with a non-terminal rising contour at the point where the highest structural level of conjunction is found",FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+525651,Calan utin lim lo yo ha=lu lo p-lim lo utin wonam lo yo ha=lim lo p-so,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+1000000,juta,"Any number up to 999,999 can be formed on indigenous Taba patterns, as discussed above. For numbers of a million or more, however, the Malay borrowing juta ‘million’ is used as a noun",TRUE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
+4000000,juta phot,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
 1,gai tuwale,,FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
 2,rai rue,,FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
 3,gai tolu,,FALSE,Codrington1885,"pp. 232-234, 236, 240, 248",,east2443,"Lepers’ Island, Oba",east2443-1
@@ -12238,6 +12334,36 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,duá fulú,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
 22,duá fulú duá,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
 23,duá fulú talló,,FALSE,Vanoverbergh1937,"pp.112, 118",,iban1267,Ibanag,iban1267-1
+1,itte,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
+2,due,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
+3,tallu,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
+4,appat,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
+5,lima,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
+6,annam,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
+7,pitu,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
+8,ualu,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
+9,siam,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
+10,ma-fulu,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
+1,asa,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
+2,dadoa,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
+3,tatdo,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
+4,apat,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
+5,dima,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
+6,anem,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
+7,pito,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
+8,waho,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
+9,siam,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
+10,asapoho,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
+1,asa,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
+2,dadoa,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
+3,tatdo,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
+4,apat,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
+5,dadima,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
+6,anem,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
+7,papito,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
+8,wawaho,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
+9,sasiyam,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
+10,asapoho,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
 1,moi,,FALSE,Fortgens1905,p.34,,ibuu1240,Ibu,ibuu1240-1
 2,lomodídi,,FALSE,Fortgens1905,p.34,,ibuu1240,Ibu,ibuu1240-1
 3,lane,,FALSE,Fortgens1905,p.34,,ibuu1240,Ibu,ibuu1240-1
@@ -13028,6 +13154,354 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 7,nuwe nuwe nuwe ningka,,FALSE,Smits1994,pp.211-218,,itik1240,Itik,itik1240-1
 8,nouwe nouwe nouwe nouwe,nouwe is given as ‘two’,FALSE,Smits1994,pp.211-218,,itik1240,Itik,itik1240-1
 10,tusesire,,FALSE,Smits1994,pp.211-218,,itik1240,Itik,itik1240-1
+1,aqsa,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
+2,doxa,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
+3,atlo,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
+4,aqpat,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
+5,lima,‘+ hand’,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
+6,aqnem,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
+7,pito,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
+8,waxo,"Terms for counting money are not treated in this paper, but my data show that waxo also means ‘five centavos, 2/5 real.’",FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
+9,siam,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
+10,saapoxo,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
+1,itti,"Sets 7-a, 7-b and 7-c are called among the Itbayat vilavilaŋ no tawo aŋkakohay ‘counting system of people in older times’ or vilavilaŋ no inannoma ‘ancestral way of counting’, and are also known only to a small number of old people. ... aqsa [q→t] > atsa [s→t] > atta (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
+2,doyyi,"doha [h→yy] > doyya (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
+3,illo,"atlo [t→l] > allo (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
+4,ippa,"aqpat [q→p] > appat [t→Ø] > appa (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
+5,malana,The first two syllables are easily traced back to the original form lima,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
+6,iddam,"aqnem [q→t] > atnem [t→d] > adnem [n→d] > addem [e→a] > addam (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’) ... the numbers 6 and 9 ... rhyme",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
+7,birigom,the numbers ... 7 and 8 rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
+8,salagom,the numbers ... 7 and 8 rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
+9,homayam,the numbers 6 and 9 ... rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
+10,kalawi,The phonemes lo of the second syllable of ‘ten’ in Set 7-a may be derived from law in Sets 7-b and 7-c.,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
+1,a’sa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+2,doha,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+3,atlo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+3,tatlo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+4,a’pat,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+5,lima,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+6,a’nem,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+7,pito,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+8,waxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+9,siyam,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+9,s(i)yam,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+10,saapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+11,a’sascharwa,ltbayat numbers from 11 above listed below are obsolete or old-fashioned being replaced by Spanish or recently English numerals. It is constructed as “one at the 2nd stage or step” which is “eleven (11)” and the like.,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+12,dohascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+12,doha’ascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+13,atlwascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+14,a’patascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+15,limascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+16,a’nemascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+17,pitwascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+18,waxwascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+19,(sa)siyamascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+20,dohaapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+21,a’saschatlo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+21,dohaapoxo kano a’sa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+22,dohaschatlo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+22,dohaapoxo kano doha,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+30,atlwapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+31,a’sascha’pat,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+32,dohascha’pat,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+33,atlwascha’pat,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+40,a’patapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+41,a’saschalima,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+42,dohaschalima,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+50,limaapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+60,a’nemapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+70,pitwapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+80,waxwapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+90,siyamapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+100,omyatos,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+100,saayatos,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+100,a’saayatos,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+100,yatos,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+101,a’saayatos kano a’sa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+101,omiyatos kano a’sa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+102,dohaayatos kano (da) doha,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+200,dohaayatos,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+300,atlwayatos,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+400,a’patayatos,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+1000,omrivo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+1000,homrivo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+1000,rivo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+1001,omrivo kano a’sa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+1001,homrivo kano a’sa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+1002,homrivo kano doha,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+1010,omrivo kano saapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+1010,omrivo kano jiis,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+10000,saapoxo a rivo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+100000,a’sa a yatos a rivo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+100000,saayatos a rivo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+100000,omiyatos a rivo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
+1,oono,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+2,doos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+3,tris,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+4,kwatro,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+5,singko,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+6,sayis,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+7,siiti,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+8,oocho,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+9,noybi,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+10,jiis,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+11,onsi,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+12,doosi,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+13,trisi,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+14,katorsi,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+15,kinsi,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+16,disisayis,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+17,disisiiti,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+18,disyoocho,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+19,disinoybi,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+20,bayinti,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+21,bayinti’oono,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+22,bayintidoos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+30,trayinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+31,trayintay’oono,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+32,trayintaydoos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+40,kwarinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+41,kwarintay’oono,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+42,kwarintaydoos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+50,singkwinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+60,sasinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+60,sayisinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+70,sitinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+80,ochinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+90,nobinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+100,sinto,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+101,sinto’oono,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+102,sintodoos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+200,dosintos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+300,trisintos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+400,kwatrosintos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+1000,miil,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+10000,jismiil,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
+1,a’sa,"Numerals for counting persons, animals, or less frequently for things.",FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
+2,dadoha,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
+3,hatlo,solely for “persons”,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
+3,tatlo,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
+4,a’pat,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
+4,ha’pat,solely for “persons”,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
+5,lalima,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
+6,a’nem,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
+6,ha’nem,solely for “persons”,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
+7,papito,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
+8,wawaxo,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
+9,sasiyam,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
+10,sa’saapoxo,This set of numerals are composed by the formula #C₁aC₁- in which C₁ is the initial consonant of the stem and a is inserted in-between.,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
+1,sah,"Aged people like to use them. A lady of 29 years of age in 1977 said that people around her age would use to count things, like guava, etc.",FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
+1,sa,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
+2,doh,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
+3,tlo,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
+4,pat,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
+5,lim,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
+6,nem,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
+7,pit,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
+8,wax,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
+9,sih,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
+10,pox,"It is often said that this set is archaic, but may be used even now.",FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
+1,itti,Aged people know this set and can recite when asked; the ancestor's numerals (vilavlang no apwapo) (numeral-G-ancestor) ... aged people know the set and can recite it with joy when asked,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
+2,doyyi,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
+3,illo,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
+4,ippa,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
+5,malana,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
+6,iddam,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
+7,virigo,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
+8,salago,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
+9,omayam,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
+10,kaloyi,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
+1,itti,Aged people know this set and can recite when asked,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
+2,doyyi,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
+3,illo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
+4,ippa,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
+5,lamana,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
+6,iddam,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
+7,birigo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
+8,salago,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
+9,omayam,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
+10,kalawich,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
+1,itti,Aged people know this set and can recite when asked,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
+2,doyi,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
+3,illo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
+4,ipa,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
+5,malana,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
+6,iddam,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
+7,birigo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
+8,salago,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
+9,omayam,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
+10,kaloyi,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
+1,itti,Aged people know this set and can recite when asked,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
+2,doyyi,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
+3,illo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
+4,ippa,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
+5,malana,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
+6,iddam,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
+7,birigom,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
+8,salagom,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
+9,homayam,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
+10,kalawi,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
+11,te,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
+1,sangasang,Aged people know this set and can recite when asked; the ancestor's numerals (vilavlang no apwapo) (numeral-G-ancestor) ... aged people know the set and can recite it with joy when asked,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
+2,dongodong,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
+3,lotolot,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
+4,patapat,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
+5,limilim,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
+6,nemenem,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
+7,pitipit,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
+8,waxawax,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
+9,sinisin,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
+10,poxopox,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
+1,oono,< uno (Sp.),TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
+2,doos,< dos,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
+3,tris,< tres,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
+4,kwatro,< cuatro,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
+5,siŋko,< cinco,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
+6,sayis,< seis,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
+7,siiti,< siete,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
+8,oočo,< ocho,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
+9,noybi,< nueve,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
+10,ǰiis,< diez,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
+1,asa,Aged people know this set and can recite when asked,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
+2,dwa,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
+3,atdo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
+4,apat,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
+5,dima,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
+6,anem,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
+7,pito,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
+8,waho,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
+9,siyam,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
+10,polo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
+1,ati,Aged people know this set and can recite when asked,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
+2,garawi,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
+3,bisalokton,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
+4,dok,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
+5,pinasil,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
+6,paasil,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
+7,kinilaw,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
+8,parapak,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
+9,saravanda,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
+10,digla,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
+1,ngakasa,the numerals of the departed souls (vilavilang no anito) (numeral-G-departed soul),FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
+2,ngayoda,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
+3,nalyod,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
+4,taptap,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
+5,mila,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
+6,anim,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
+7,sipo,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
+8,xayo,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
+9,miiyas,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
+10,sop,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
+1,masanga,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
+2,mayada,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
+3,talo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
+4,atap,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
+5,mila,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
+6,anim,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
+7,tipo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
+8,xayo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
+9,miga,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
+10,sop,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
+1,nakasa,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
+2,ngayoda,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
+3,lalyot,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
+4,tatap,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
+5,mila,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
+6,mina,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
+7,tipo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
+8,xayo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
+9,miyas,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
+10,soop,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
+1,sa’a,reversed and metathesized numerals (pivilyen a vilavilang) (return-L-numeral) ... usually used by children,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
+2,ha’do,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
+3,(lo’at),,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
+4,(pat’a),,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
+5,(ma’li),,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
+6,(nem’a),,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
+7,(to’pi),,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
+8,xo’wa,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
+9,(amsi),,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
+10,xosapo,(< saapoxo (one-ten) (ten)),FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
+1,as’a,reversed and metathesized numerals (pivilyen a vilavilang) (return-L-numeral) ... usually used by children,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
+2,ahod,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
+3,olta,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
+4,tapa,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
+5,amil,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
+6,mena,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
+7,otip,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
+8,owax,(?oxaw),FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
+9,mayis,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
+10,oxopas,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
+1,sah,"Set 3 is often referred to as an archaic or semi-archaic numbers, and is rarely used. Each number is one syllable, composed of three phonemes. All are CVC except the case of tlo, and mostly made by omitting either an initial or final vowel of the shapes of Set 1.",FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
+2,doh,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
+3,tlo,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
+4,pat,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
+5,lim,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
+6,nem,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
+7,pit,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
+8,wax,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
+9,sih,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
+10,pox,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
+1,asqa,Set 4 is an example of complete reversal of the phonemic shapes of the word base in Set 1 (1-2-3-4 > 4-3-2-1). Some of them behave slightly different as follows:,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
+2,ahod,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
+3,olta,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
+4,tapa,aqpat [q→Ø] > apat [reversal] > tapa,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
+5,amil,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
+6,mena,aqnem [q→Ø] > anem [reversal] > mena,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
+7,otip,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
+8,owax,waxo [reversal of o] > owax,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
+9,mayis,siam [ia→iya] > siyam [reversal] > mayis,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
+10,oxopas,saapoxo [aa→a] > sapoxo [reversal] > oxopas,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
+1,saqa,Set 5 is an example of reversal of the syllabic shape of the original form of Set 1 and the reversal is made in such a way that the last syllable of the original form is transferred to the initial position (1-2-3 > 3-2-1).,FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
+2,haqdo,,FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
+3,[loqat],"not found in the collected data, and ... constructed in accordance with the rule of syllable-reversal",FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
+4,[patqa],"not found in the collected data, and ... constructed in accordance with the rule of syllable-reversal",FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
+5,[maqli],"not found in the collected data, and ... constructed in accordance with the rule of syllable-reversal",FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
+6,[nemqa],"not found in the collected data, and ... constructed in accordance with the rule of syllable-reversal",FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
+7,[toqpi],"not found in the collected data, and ... constructed in accordance with the rule of syllable-reversal",FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
+8,xoqwa,,FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
+9,[amsi],"not found in the collected data, and ... constructed in accordance with the rule of syllable-reversal",FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
+10,xosapo,it seems that the long vowel of the original shape saapoxo is shortened.,FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
+1,ŋakasa,"Sets 6-a and 6-b seem to be known to a very limited number of old people. The old woman who gave me Set 6-a calls it vilavilaŋ no anito ‘counting or number of anito [Supernatural being, ghost, spirit, of which people are usually afraid]’, but she does not know of its use or its significance. It was probably once used as a secret language, for many of the numbers of Sets 6-a and 6-b can be explained by such phenomena as partial reversal of the phonemic shape of the word base (metathesis), loss or change of phonemes, and the like. ... The shape asa (< aqsa) may be extracted from ŋakasa ... but it is hard to explain the remaining part.",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
+2,ŋayoda,The numbers ‘one’ and ‘two’ ... are alliterative. ... see doyyi of Set 7.,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
+3,naliod,unexplainable,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
+4,taptap,aqpat [q→Ø] > apat [p-t metathesis] > atap [a→Ø] > tap [reduplication] > taptap,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
+5,mila,lima [l-m metathesis] > mila,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
+6,anim,[cf. anem ‘six’ in Set 1],FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
+7,sipo,pito [p-t metathesis] > tipo [t→s] > sipo,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
+8,xayo,waxo [w-x metathesis] > xawo [w→y] > xayo,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
+9,miiyas,siam [y-accretion] > siyam [i-lengthening] > siiyam [s-m metathesis] > miiyas,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
+10,sop,saapo₁xo₂ [aa-o₁ metathesis] > sopaaxo [aaxo→Ø] > sop,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
+1,masaŋa,"Sets 6-a and 6-b seem to be known to a very limited number of old people. The old woman who gave me Set 6-a calls it vilavilaŋ no anito ‘counting or number of anito [Supernatural being, ghost, spirit, of which people are usually afraid]’, but she does not know of its use or its significance. It was probably once used as a secret language, for many of the numbers of Sets 6-a and 6-b can be explained by such phenomena as partial reversal of the phonemic shape of the word base (metathesis), loss or change of phonemes, and the like. ... The shape asa (< aqsa) may be extracted from ... masaŋa, but it is hard to explain the remaining part.",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
+2,mayada,The numbers ‘one’ and ‘two’ ... are alliterative. ... see doyyi of Set 7.,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
+3,talo,atlo [a-t metathesis] > talo,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
+4,atap,aqpat [q→Ø] > apat [p-t metathesis] > atap,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
+5,mila,lima [l-m metathesis] > mila,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
+6,anim,[cf. anem ‘six’ in Set 1],FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
+7,tipo,pito [p-t metathesis] > tipo,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
+8,xayo,waxo [w-x metathesis] > xawo [w→y] > xayo,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
+9,miga,siyam [s-m metathesis] > miyas [y→g] > migas [s→Ø] > miga,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
+10,sop,saapo₁xo₂ [aa-o₁ metathesis] > sopaaxo [aaxo→Ø] > sop,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
+1,itti,"Sets 7-a, 7-b and 7-c are called among the Itbayat vilavilaŋ no tawo aŋkakohay ‘counting system of people in older times’ or vilavilaŋ no inannoma ‘ancestral way of counting’, and are also known only to a small number of old people. ... aqsa [q→t] > atsa [s→t] > atta (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
+2,doyyi,"doha [h→yy] > doyya (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
+3,illo,"atlo [t→l] > allo (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
+4,ippa,"aqpat [q→p] > appat [t→Ø] > appa (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
+5,malana,The first two syllables are easily traced back to the original form lima,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
+6,iddam,"aqnem [q→t] > atnem [t→d] > adnem [n→d] > addem [e→a] > addam (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’) ... the numbers 6 and 9 ... rhyme",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
+7,virigo,the numbers ... 7 and 8 rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
+8,salago,the numbers ... 7 and 8 rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
+9,omayam,the numbers 6 and 9 ... rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
+10,kaloyi,The phonemes lo of the second syllable of ‘ten’ in Set 7-a may be derived from law in Sets 7-b and 7-c.,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
+1,itti,"Sets 7-a, 7-b and 7-c are called among the Itbayat vilavilaŋ no tawo aŋkakohay ‘counting system of people in older times’ or vilavilaŋ no inannoma ‘ancestral way of counting’, and are also known only to a small number of old people. ... aqsa [q→t] > atsa [s→t] > atta (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
+2,doyyi,"doha [h→yy] > doyya (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’) ; [final-vowel -i rhymes with itti ‘one’]",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
+3,illo,"atlo [t→l] > allo (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
+4,ippa,"aqpat [q→p] > appat [t→Ø] > appa (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
+5,lamana,The first two syllables are easily traced back to the original form lima ; [final-vowel -a rhymes with ippa ‘four’],FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
+6,iddam,"aqnem [q→t] > atnem [t→d] > adnem [n→d] > addem [e→a] > addam (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’) ... the numbers 6 and 9 ... rhyme",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
+7,birigo,the numbers ... 7 and 8 rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
+8,salago,the numbers ... 7 and 8 rhyme ; [final-vowel -o rhymes with birigo ‘seven’],FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
+9,omayam,the numbers 6 and 9 ... rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
+10,kalawič,The phonemes lo of the second syllable of ‘ten’ in Set 7-a may be derived from law in Sets 7-b and 7-c.,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
 1,sɑkki,,FALSE,Kamp1986,pp.3-7,,iwak1237,I-wak (Labeng),iwak1237-1
 2,tšɨɡwɑ,,FALSE,Kamp1986,pp.3-7,,iwak1237,I-wak (Labeng),iwak1237-1
 3,tudo,,FALSE,Kamp1986,pp.3-7,,iwak1237,I-wak (Labeng),iwak1237-1
@@ -14785,6 +15259,16 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,lima,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
 9,sembilan,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
 50,lima puloh,,FALSE,Dahaman2015,passim,,keda1251,Kedah,keda1251-1
+1,sandai,"in counting-out to select the principal figure in a game a curious old set of numbers is used sometimes. ... In most games a stick is broken up into as many small pieces as there are players; the pieces are drawn at random, the child drawing the shortest piece opens the game.",FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
+2,mandai,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
+3,pětulu,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
+4,pětanda,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
+5,lat lat,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
+6,nabi,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
+7,maliki,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
+8,pakpong,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
+9,sĕrunai,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
+10,dani,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
 1,udéq,,FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
 2,sué,,FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
 3,telu,,FALSE,Barnes1980,p.198,,keda1252,Kédang adult numbers,keda1252-1
@@ -20164,6 +20648,26 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 12,duablas,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
 12,dua blas,,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
 20,dua puloh,two tens,FALSE,Codrington1885,"pp.228-229, 231, 233, 237-238, 240, 243-247",,mala1479,Malay,mala1479-10
+1,sɛ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+1,satəʊ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+2,duwɛ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+3,tiɡɛ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+4,ppaʔ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+5,limɛ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+6,nnaŋ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+7,tujəʊh,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+8,lapaŋ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+9,smilaŋ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+10,s=puləʊh,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+11,s=bəlah,bəlah ‘teens’,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+12,duwɛ bəlah,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+13,tiɡɛ bəlah,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+20,duwɛ puləʊh,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+21,duwɛ puləʊh satəʊ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+30,tiɡɛ puləʊh,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+100,ɣatuh,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+1000,ɣibəʊ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
+1000000,jutɛ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
 1,satoe,,FALSE,Stokhof1987Vol10.1,p.114,,mala1479,Indrapura,mala1479-2
 2,doea,,FALSE,Stokhof1987Vol10.1,p.114,,mala1479,Indrapura,mala1479-2
 3,tiga,,FALSE,Stokhof1987Vol10.1,p.114,,mala1479,Indrapura,mala1479-2
@@ -28610,6 +29114,57 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1000,sɯɣibu,,FALSE,Pakkhem2007,pp.192-283,,patt1249,Pattani Malay (Pathumthani),patt1249-3
 10000,lasɔ,,FALSE,Pakkhem2007,pp.192-283,,patt1249,Pattani Malay (Pathumthani),patt1249-3
 1000000,ɟutɔ,,FALSE,Pakkhem2007,pp.192-283,,patt1249,Pattani Malay (Pathumthani),patt1249-3
+1,sende,"In Kelantan, the following were given to Mr. Skeat",FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
+2,duande,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
+3,patali,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
+4,patande,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
+5,nalan,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
+6,nabi,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
+7,maliki,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
+8,pa’ poh,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
+9,sungai,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
+10,dawe,"In Kedah a somewhat similar list was repeated to the writer as being the ancient numerals of the State. Moreover, some unintelligible words keep recurring in the different games and seem to suggest the existence of a lost language.",FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
+1,sɔ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+1,satu,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+2,duwɔ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+3,tiɡɔ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+4,ppaʔ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+5,limɔ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+6,nnɛ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+7,tujoh,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+8,lapɛ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+9,smilɛ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+10,s=puloh,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+11,s=bəlah,bəlah ‘teens’,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+12,duwɔ bəlah,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+13,tiɡɔ bəlah,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+20,duwɔ puloh,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+21,duwɔ puloh satu,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+30,tiɡɔ puloh,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+100,ɣatoh,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+1000,ɣibu,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+1000000,jutɔ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
+1,sə,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+1,satu,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+2,duwə,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+3,tiɡə,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+4,ppaʔ,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+5,limə,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+6,nnaŋ,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+7,tujoh,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+8,lapaŋ,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+9,smilaŋ,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+9,mmilaŋ,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+10,s=puloh,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+11,s=bəlah,bəlah ‘teens’,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+12,duwə bəlah,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+13,tiɡə bəlah,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+20,duwə puloh,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+21,duwə puloh satu,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+30,tiɡə puloh,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+100,ɣatoh,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+1000,ɣibu,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
+1000000,jutə,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
 1,sae,,FALSE,Stresemann1918,p.59,,paul1238,Paulohi,paul1238-1
 2,rua,,FALSE,Stresemann1918,p.59,,paul1238,Paulohi,paul1238-1
 3,toru,,FALSE,Stresemann1918,p.59,,paul1238,Paulohi,paul1238-1
@@ -41275,6 +41830,17 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,asa puu,,FALSE,Arnaud1998,pp.863-879 [word list item numbers],,yami1254,Yami,yami1254-1
 1000,asa ranaw,,FALSE,Arnaud1998,pp.863-879 [word list item numbers],,yami1254,Yami,yami1254-1
 1000000,məykalaklaksa,,FALSE,Arnaud1998,pp.863-879 [word list item numbers],,yami1254,Yami,yami1254-1
+1,asa,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
+2,dowa,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
+3,tilo,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
+3,atlo,The Yami informant told me that atlo was used to count fish.,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
+4,apat,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
+5,ʎima,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
+6,annem,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
+7,pito,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
+8,wawa,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
+9,siiyam,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
+10,poxo,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
 1,tes,,FALSE,Ray1912,pp.340-341,,yamn1237,Jamna,yamn1237-1
 2,ru,,FALSE,Ray1912,pp.340-341,,yamn1237,Jamna,yamn1237-1
 3,tau,,FALSE,Ray1912,pp.340-341,,yamn1237,Jamna,yamn1237-1
@@ -42066,569 +42632,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,asa,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
-2,dowa,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
-3,tilo,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
-3,atlo,The Yami informant told me that atlo was used to count fish.,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
-4,apat,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
-5,ʎima,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
-6,annem,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
-7,pito,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
-8,wawa,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
-9,siiyam,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
-10,poxo,,FALSE,Yamada1972,p.45,,yami1254,Yami (Imorod),yami1254-2
-1,aqsa,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
-2,doxa,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
-3,atlo,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
-4,aqpat,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
-5,lima,‘+ hand’,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
-6,aqnem,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
-7,pito,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
-8,waxo,"Terms for counting money are not treated in this paper, but my data show that waxo also means ‘five centavos, 2/5 real.’",FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
-9,siam,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
-10,saapoxo,,FALSE,Yamada1972,p.45,,ivat1242,Itbayaten (Mayan): Set 1 - used in daily life,ivat1242-1
-1,asa,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
-2,dadoa,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
-3,tatdo,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
-4,apat,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
-5,dima,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
-6,anem,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
-7,pito,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
-8,waho,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
-9,siam,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
-10,asapoho,,FALSE,Yamada1972,p.45,,ibat1238,Divasay Ivatanen (Vasay),ibat1238-1
-1,asa,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
-2,dadoa,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
-3,tatdo,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
-4,apat,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
-5,dadima,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
-6,anem,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
-7,papito,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
-8,wawaho,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
-9,sasiyam,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
-10,asapoho,,FALSE,Yamada1972,p.45,,ibat1238,Saamorong Ivatanen (Sabtang),ibat1238-2
-1,oono,< uno (Sp.),TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
-2,doos,< dos,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
-3,tris,< tres,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
-4,kwatro,< cuatro,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
-5,siŋko,< cinco,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
-6,sayis,< seis,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
-7,siiti,< siete,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
-8,oočo,< ocho,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
-9,noybi,< nueve,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
-10,ǰiis,< diez,TRUE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 2 - used when one shouts time and counts money,ivat1242-2
-1,sah,"Set 3 is often referred to as an archaic or semi-archaic numbers, and is rarely used. Each number is one syllable, composed of three phonemes. All are CVC except the case of tlo, and mostly made by omitting either an initial or final vowel of the shapes of Set 1.",FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
-2,doh,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
-3,tlo,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
-4,pat,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
-5,lim,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
-6,nem,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
-7,pit,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
-8,wax,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
-9,sih,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
-10,pox,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 3 - archaic or semi-archaic numbers,ivat1242-3
-1,asqa,Set 4 is an example of complete reversal of the phonemic shapes of the word base in Set 1 (1-2-3-4 > 4-3-2-1). Some of them behave slightly different as follows:,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
-2,ahod,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
-3,olta,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
-4,tapa,aqpat [q→Ø] > apat [reversal] > tapa,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
-5,amil,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
-6,mena,aqnem [q→Ø] > anem [reversal] > mena,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
-7,otip,,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
-8,owax,waxo [reversal of o] > owax,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
-9,mayis,siam [ia→iya] > siyam [reversal] > mayis,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
-10,oxopas,saapoxo [aa→a] > sapoxo [reversal] > oxopas,FALSE,Yamada1972,p.46,,ivat1242,Itbayaten: Set 4 - complete reversal of the phonemic shape,ivat1242-4
-1,saqa,Set 5 is an example of reversal of the syllabic shape of the original form of Set 1 and the reversal is made in such a way that the last syllable of the original form is transferred to the initial position (1-2-3 > 3-2-1).,FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
-2,haqdo,,FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
-3,[loqat],"not found in the collected data, and ... constructed in accordance with the rule of syllable-reversal",FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
-4,[patqa],"not found in the collected data, and ... constructed in accordance with the rule of syllable-reversal",FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
-5,[maqli],"not found in the collected data, and ... constructed in accordance with the rule of syllable-reversal",FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
-6,[nemqa],"not found in the collected data, and ... constructed in accordance with the rule of syllable-reversal",FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
-7,[toqpi],"not found in the collected data, and ... constructed in accordance with the rule of syllable-reversal",FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
-8,xoqwa,,FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
-9,[amsi],"not found in the collected data, and ... constructed in accordance with the rule of syllable-reversal",FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
-10,xosapo,it seems that the long vowel of the original shape saapoxo is shortened.,FALSE,Yamada1972,pp.46-47,,ivat1242,Itbayaten: Set 5 - reversal of the syllabic shape,ivat1242-5
-1,ŋakasa,"Sets 6-a and 6-b seem to be known to a very limited number of old people. The old woman who gave me Set 6-a calls it vilavilaŋ no anito ‘counting or number of anito [Supernatural being, ghost, spirit, of which people are usually afraid]’, but she does not know of its use or its significance. It was probably once used as a secret language, for many of the numbers of Sets 6-a and 6-b can be explained by such phenomena as partial reversal of the phonemic shape of the word base (metathesis), loss or change of phonemes, and the like. ... The shape asa (< aqsa) may be extracted from ŋakasa ... but it is hard to explain the remaining part.",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
-2,ŋayoda,The numbers ‘one’ and ‘two’ ... are alliterative. ... see doyyi of Set 7.,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
-3,naliod,unexplainable,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
-4,taptap,aqpat [q→Ø] > apat [p-t metathesis] > atap [a→Ø] > tap [reduplication] > taptap,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
-5,mila,lima [l-m metathesis] > mila,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
-6,anim,[cf. anem ‘six’ in Set 1],FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
-7,sipo,pito [p-t metathesis] > tipo [t→s] > sipo,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
-8,xayo,waxo [w-x metathesis] > xawo [w→y] > xayo,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
-9,miiyas,siam [y-accretion] > siyam [i-lengthening] > siiyam [s-m metathesis] > miiyas,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
-10,sop,saapo₁xo₂ [aa-o₁ metathesis] > sopaaxo [aaxo→Ø] > sop,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-a - counting of anito,ivat1242-6
-1,masaŋa,"Sets 6-a and 6-b seem to be known to a very limited number of old people. The old woman who gave me Set 6-a calls it vilavilaŋ no anito ‘counting or number of anito [Supernatural being, ghost, spirit, of which people are usually afraid]’, but she does not know of its use or its significance. It was probably once used as a secret language, for many of the numbers of Sets 6-a and 6-b can be explained by such phenomena as partial reversal of the phonemic shape of the word base (metathesis), loss or change of phonemes, and the like. ... The shape asa (< aqsa) may be extracted from ... masaŋa, but it is hard to explain the remaining part.",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
-2,mayada,The numbers ‘one’ and ‘two’ ... are alliterative. ... see doyyi of Set 7.,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
-3,talo,atlo [a-t metathesis] > talo,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
-4,atap,aqpat [q→Ø] > apat [p-t metathesis] > atap,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
-5,mila,lima [l-m metathesis] > mila,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
-6,anim,[cf. anem ‘six’ in Set 1],FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
-7,tipo,pito [p-t metathesis] > tipo,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
-8,xayo,waxo [w-x metathesis] > xawo [w→y] > xayo,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
-9,miga,siyam [s-m metathesis] > miyas [y→g] > migas [s→Ø] > miga,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
-10,sop,saapo₁xo₂ [aa-o₁ metathesis] > sopaaxo [aaxo→Ø] > sop,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 6-b - counting of anito,ivat1242-7
-1,itti,"Sets 7-a, 7-b and 7-c are called among the Itbayat vilavilaŋ no tawo aŋkakohay ‘counting system of people in older times’ or vilavilaŋ no inannoma ‘ancestral way of counting’, and are also known only to a small number of old people. ... aqsa [q→t] > atsa [s→t] > atta (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
-2,doyyi,"doha [h→yy] > doyya (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
-3,illo,"atlo [t→l] > allo (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
-4,ippa,"aqpat [q→p] > appat [t→Ø] > appa (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
-5,malana,The first two syllables are easily traced back to the original form lima,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
-6,iddam,"aqnem [q→t] > atnem [t→d] > adnem [n→d] > addem [e→a] > addam (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’) ... the numbers 6 and 9 ... rhyme",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
-7,virigo,the numbers ... 7 and 8 rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
-8,salago,the numbers ... 7 and 8 rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
-9,omayam,the numbers 6 and 9 ... rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
-10,kaloyi,The phonemes lo of the second syllable of ‘ten’ in Set 7-a may be derived from law in Sets 7-b and 7-c.,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-a - ancestral way of counting,ivat1242-8
-1,itti,"Sets 7-a, 7-b and 7-c are called among the Itbayat vilavilaŋ no tawo aŋkakohay ‘counting system of people in older times’ or vilavilaŋ no inannoma ‘ancestral way of counting’, and are also known only to a small number of old people. ... aqsa [q→t] > atsa [s→t] > atta (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
-2,doyyi,"doha [h→yy] > doyya (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’) ; [final-vowel -i rhymes with itti ‘one’]",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
-3,illo,"atlo [t→l] > allo (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
-4,ippa,"aqpat [q→p] > appat [t→Ø] > appa (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
-5,lamana,The first two syllables are easily traced back to the original form lima ; [final-vowel -a rhymes with ippa ‘four’],FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
-6,iddam,"aqnem [q→t] > atnem [t→d] > adnem [n→d] > addem [e→a] > addam (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’) ... the numbers 6 and 9 ... rhyme",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
-7,birigo,the numbers ... 7 and 8 rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
-8,salago,the numbers ... 7 and 8 rhyme ; [final-vowel -o rhymes with birigo ‘seven’],FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
-9,omayam,the numbers 6 and 9 ... rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
-10,kalawič,The phonemes lo of the second syllable of ‘ten’ in Set 7-a may be derived from law in Sets 7-b and 7-c.,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-b - ancestral way of counting,ivat1242-9
-1,itti,"Sets 7-a, 7-b and 7-c are called among the Itbayat vilavilaŋ no tawo aŋkakohay ‘counting system of people in older times’ or vilavilaŋ no inannoma ‘ancestral way of counting’, and are also known only to a small number of old people. ... aqsa [q→t] > atsa [s→t] > atta (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
-2,doyyi,"doha [h→yy] > doyya (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
-3,illo,"atlo [t→l] > allo (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
-4,ippa,"aqpat [q→p] > appat [t→Ø] > appa (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’)",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
-5,malana,The first two syllables are easily traced back to the original form lima,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
-6,iddam,"aqnem [q→t] > atnem [t→d] > adnem [n→d] > addem [e→a] > addam (Suppose a took the place of i in numbers ‘one’, ‘two’, ‘three’, ‘four’, and ‘six’) ... the numbers 6 and 9 ... rhyme",FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
-7,birigom,the numbers ... 7 and 8 rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
-8,salagom,the numbers ... 7 and 8 rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
-9,homayam,the numbers 6 and 9 ... rhyme,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
-10,kalawi,The phonemes lo of the second syllable of ‘ten’ in Set 7-a may be derived from law in Sets 7-b and 7-c.,FALSE,Yamada1972,pp.46-48,,ivat1242,Itbayaten: Set 7-c - ancestral way of counting,ivat1242-10
-1,itte,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
-2,due,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
-3,tallu,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
-4,appat,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
-5,lima,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
-6,annam,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
-7,pitu,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
-8,ualu,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
-9,siam,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
-10,ma-fulu,,FALSE,Yamada1972,p.48,,iban1267,"Ibanag [from Izui, Hisanosuke]",iban1267-2
-1,a’sa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-2,doha,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-3,atlo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-3,tatlo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-4,a’pat,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-5,lima,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-6,a’nem,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-7,pito,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-8,waxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-9,siyam,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-9,s(i)yam,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-10,saapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-11,a’sascharwa,ltbayat numbers from 11 above listed below are obsolete or old-fashioned being replaced by Spanish or recently English numerals. It is constructed as “one at the 2nd stage or step” which is “eleven (11)” and the like.,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-12,dohascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-12,doha’ascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-13,atlwascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-14,a’patascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-15,limascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-16,a’nemascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-17,pitwascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-18,waxwascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-19,(sa)siyamascharwa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-20,dohaapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-21,a’saschatlo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-21,dohaapoxo kano a’sa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-22,dohaschatlo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-22,dohaapoxo kano doha,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-30,atlwapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-31,a’sascha’pat,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-32,dohascha’pat,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-33,atlwascha’pat,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-40,a’patapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-41,a’saschalima,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-42,dohaschalima,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-50,limaapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-60,a’nemapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-70,pitwapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-80,waxwapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-90,siyamapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-100,omyatos,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-100,saayatos,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-100,a’saayatos,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-100,yatos,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-101,a’saayatos kano a’sa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-101,omiyatos kano a’sa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-102,dohaayatos kano (da) doha,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-200,dohaayatos,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-300,atlwayatos,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-400,a’patayatos,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-1000,omrivo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-1000,homrivo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-1000,rivo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-1001,omrivo kano a’sa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-1001,homrivo kano a’sa,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-1002,homrivo kano doha,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-1010,omrivo kano saapoxo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-1010,omrivo kano jiis,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-10000,saapoxo a rivo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-100000,a’sa a yatos a rivo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-100000,saayatos a rivo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-100000,omiyatos a rivo,,FALSE,Yamada2014,"pp.36-37, 179-180, 198-199",,ivat1242,Itbayat: when counting things (indigenous),ivat1242-11
-1,oono,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-2,doos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-3,tris,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-4,kwatro,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-5,singko,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-6,sayis,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-7,siiti,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-8,oocho,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-9,noybi,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-10,jiis,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-11,onsi,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-12,doosi,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-13,trisi,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-14,katorsi,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-15,kinsi,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-16,disisayis,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-17,disisiiti,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-18,disyoocho,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-19,disinoybi,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-20,bayinti,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-21,bayinti’oono,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-22,bayintidoos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-30,trayinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-31,trayintay’oono,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-32,trayintaydoos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-40,kwarinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-41,kwarintay’oono,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-42,kwarintaydoos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-50,singkwinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-60,sasinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-60,sayisinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-70,sitinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-80,ochinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-90,nobinta,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-100,sinto,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-101,sinto’oono,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-102,sintodoos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-200,dosintos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-300,trisintos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-400,kwatrosintos,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-1000,miil,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-10000,jismiil,,TRUE,Yamada2014,"pp.36-37, 198-199",,ivat1242,Itbayat: when counting things (loan words from Spanish),ivat1242-12
-1,a’sa,"Numerals for counting persons, animals, or less frequently for things.",FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
-2,dadoha,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
-3,hatlo,solely for “persons”,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
-3,tatlo,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
-4,a’pat,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
-4,ha’pat,solely for “persons”,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
-5,lalima,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
-6,a’nem,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
-6,ha’nem,solely for “persons”,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
-7,papito,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
-8,wawaxo,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
-9,sasiyam,,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
-10,sa’saapoxo,This set of numerals are composed by the formula #C₁aC₁- in which C₁ is the initial consonant of the stem and a is inserted in-between.,FALSE,Yamada2014,"pp. 37, 199",,ivat1242,Itbayat: numerals for counting animate beings,ivat1242-13
-1,sah,"Aged people like to use them. A lady of 29 years of age in 1977 said that people around her age would use to count things, like guava, etc.",FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
-1,sa,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
-2,doh,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
-3,tlo,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
-4,pat,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
-5,lim,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
-6,nem,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
-7,pit,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
-8,wax,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
-9,sih,,FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
-10,pox,"It is often said that this set is archaic, but may be used even now.",FALSE,Yamada2014,"pp. 9, 37, 180, 201-202",,ivat1242,Itbayat: archaic numerals for counting things nearby,ivat1242-14
-1,itti,Aged people know this set and can recite when asked; the ancestor's numerals (vilavlang no apwapo) (numeral-G-ancestor) ... aged people know the set and can recite it with joy when asked,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
-2,doyyi,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
-3,illo,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
-4,ippa,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
-5,malana,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
-6,iddam,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
-7,virigo,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
-8,salago,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
-9,omayam,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
-10,kaloyi,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (a),ivat1242-15
-1,itti,Aged people know this set and can recite when asked,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
-2,doyyi,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
-3,illo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
-4,ippa,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
-5,lamana,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
-6,iddam,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
-7,birigo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
-8,salago,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
-9,omayam,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
-10,kalawich,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (b),ivat1242-16
-1,itti,Aged people know this set and can recite when asked,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
-2,doyi,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
-3,illo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
-4,ipa,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
-5,malana,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
-6,iddam,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
-7,birigo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
-8,salago,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
-9,omayam,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
-10,kaloyi,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (c),ivat1242-17
-1,itti,Aged people know this set and can recite when asked,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
-2,doyyi,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
-3,illo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
-4,ippa,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
-5,malana,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
-6,iddam,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
-7,birigom,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
-8,salagom,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
-9,homayam,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
-10,kalawi,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
-11,te,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (d),ivat1242-18
-1,sangasang,Aged people know this set and can recite when asked; the ancestor's numerals (vilavlang no apwapo) (numeral-G-ancestor) ... aged people know the set and can recite it with joy when asked,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
-2,dongodong,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
-3,lotolot,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
-4,patapat,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
-5,limilim,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
-6,nemenem,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
-7,pitipit,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
-8,waxawax,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
-9,sinisin,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
-10,poxopox,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: ancestor’s numerals (e),ivat1242-19
-1,asa,Aged people know this set and can recite when asked,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
-2,dwa,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
-3,atdo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
-4,apat,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
-5,dima,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
-6,anem,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
-7,pito,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
-8,waho,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
-9,siyam,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
-10,polo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (f),ivat1242-20
-1,ati,Aged people know this set and can recite when asked,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
-2,garawi,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
-3,bisalokton,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
-4,dok,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
-5,pinasil,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
-6,paasil,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
-7,kinilaw,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
-8,parapak,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
-9,saravanda,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
-10,digla,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: ancestor’s numerals (g),ivat1242-21
-1,ngakasa,the numerals of the departed souls (vilavilang no anito) (numeral-G-departed soul),FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
-2,ngayoda,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
-3,nalyod,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
-4,taptap,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
-5,mila,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
-6,anim,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
-7,sipo,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
-8,xayo,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
-9,miiyas,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
-10,sop,,FALSE,Yamada2014,"pp. 179-180, 202",,ivat1242,Itbayat: numerals of the departed souls (anito’s) (a),ivat1242-22
-1,masanga,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
-2,mayada,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
-3,talo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
-4,atap,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
-5,mila,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
-6,anim,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
-7,tipo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
-8,xayo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
-9,miga,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
-10,sop,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (b),ivat1242-23
-1,nakasa,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
-2,ngayoda,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
-3,lalyot,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
-4,tatap,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
-5,mila,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
-6,mina,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
-7,tipo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
-8,xayo,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
-9,miyas,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
-10,soop,,FALSE,Yamada2014,p. 202,,ivat1242,Itbayat: numerals of the departed souls (anito’s) (c),ivat1242-24
-1,sa’a,reversed and metathesized numerals (pivilyen a vilavilang) (return-L-numeral) ... usually used by children,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
-2,ha’do,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
-3,(lo’at),,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
-4,(pat’a),,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
-5,(ma’li),,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
-6,(nem’a),,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
-7,(to’pi),,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
-8,xo’wa,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
-9,(amsi),,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
-10,xosapo,(< saapoxo (one-ten) (ten)),FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: metathesized numerals,ivat1242-25
-1,as’a,reversed and metathesized numerals (pivilyen a vilavilang) (return-L-numeral) ... usually used by children,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
-2,ahod,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
-3,olta,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
-4,tapa,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
-5,amil,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
-6,mena,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
-7,otip,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
-8,owax,(?oxaw),FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
-9,mayis,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
-10,oxopas,,FALSE,Yamada2014,"pp. 179, 202-203",,ivat1242,Itbayat: reversed numerals,ivat1242-26
-1,-so,Taba numerals must always co-occur with a classifier which is preposed to the numeral root.,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
-2,-lu,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
-3,-tol,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
-4,-hot,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
-5,-lim,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
-6,-wonam,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
-6,-oenam,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
-7,-hit,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
-8,-wal,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
-9,-sio,,FALSE,Bowden2001,p.244,,east2440,Taba: numeral roots,east2440-8
-1,pso,"p- (probably derived ulimately from PAN *buah ‘fruit’); Taba is rather unusual in that numeral roots cain never appear without a classifier. In any situation where there is no clear semantic basis I for choosing a classifier it is the p- prefix which is utilised. Such situations include the act of counting, when the person counting has no particular objects in mind (as children might do when learning to count).",FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-2,plu,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-3,ptol,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-4,phot,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-5,plim,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-6,pwonam,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-7,phit,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-8,pwal,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-9,psio,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-10,yo haso,a generic ‘-ty’ form is based upon the classifiers yo + ha where yo ‘ten’ combines with the measure classifier ha.,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-11,yo haso lo pso,"In essence, the numbers appropriate for simple multiples and the numbers from 1-9 are conjoined with the conjunction lo ‘and’.",FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-18,yo haso lo pwal,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-20,yo halu,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-30,yo hatol,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-100,utin co,The classifier for ‘hundred’ is utin. This is derived from the verb -utin ‘to gather’.,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-200,utin lu,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-300,utin tol,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-1000,calan so,"For ‘thousand’, the classifier calan is used. For referring to entities for which the default classifier is appropriate, the classifier calan is used on its own",FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-6000,calan utin wonam,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-10001,calan yo haso lo pso,"The potential ambiguity can be resolved by the use of appropriate intonation, usually a short pause with a non-terminal rising contour at the point where the highest structural level of conjunction is found",FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-11000,calan yo haso lo pso,"The potential ambiguity can be resolved by the use of appropriate intonation, usually a short pause with a non-terminal rising contour at the point where the highest structural level of conjunction is found",FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-525651,Calan utin lim lo yo ha=lu lo p-lim lo utin wonam lo yo ha=lim lo p-so,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-1000000,juta,"Any number up to 999,999 can be formed on indigenous Taba patterns, as discussed above. For numbers of a million or more, however, the Malay borrowing juta ‘million’ is used as a noun",TRUE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-4000000,juta phot,,FALSE,Bowden2001,pp.244-252,,east2440,Taba: numerals with the default classifier,east2440-9
-1,iso,"The label ‘animal’ classifier could be a little misleading here. While generally used to count animals, these classifiers are also used!for counting days and months, whether counting specific days and months, or counting intervals of time measured in days or months. I- is used for a single animal (or day or month), sis= is used for from two to nine animals, days, or months, while beit is used for larger numbers.",FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-2,silhu,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-3,sithol,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-4,sishot,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-5,silhim,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-6,sisoenam,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-7,sishit,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-8,siswal,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-9,sishio,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-10,beit co,"with 10’s of animals, the classifier beit ‘group of animals’ is used",FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-20,beit lu,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-25,beitlu lo silhim,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-30,beit tol,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-100,beitutin co,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-283,beitutin lu lo beitwal lo sithol,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-2000,beitcalan lu,,FALSE,Bowden2001,"pp.245-249, 256-257",,east2440,Taba: numerals with the ‘animal’ classifier,east2440-10
-1,ha=so,Ha= takes the form of a proclitic and it is never stressed.,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-2,ha=lu,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-2,halu,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-3,ha=tol,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-4,ha=hot,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-5,ha=lim,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-6,ha=wonam,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-7,ha=hit,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-8,ha=wal,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-9,ha=sio,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-10,ha=yo ha=so,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-10,hayo haso,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-44,hayo hahot lo hahot,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-155,hautin co lo hayo halim lo halim,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-400,hautin hot,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-1994,hacalan co lo utin cio lo hayo hasio lo hahot,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-1998,hacalan co lo hautin cio lo hayo hasio lo hawal,,FALSE,Bowden2001,"pp.246-249, 253-255",,east2440,Taba: numerals with the measure classifier,east2440-11
-1,i-so,"When counting human beings, the pjrefix i- is used to form the numeral ‘one’, but the procilitic mat= is used for numbers higher than one. 1- is categorised as a prefix while mat= is a proclitic.",FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-1,iso,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-2,mat=lu,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-2,matlu,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-3,mat=tol,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-3,mattol,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-4,mat=hot,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-5,mat=lim,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-6,mat=wonam,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-7,mat=hit,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-8,mat=wal,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-9,mat=cio,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-10,mat=yo ha=so,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-20,matyo halu,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-42,matyo hahot lo matlu,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-100,matutin co,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-118,matutin co lo matyo haso lo matwal,,FALSE,Bowden2001,"pp.246-249, 255-266",,east2440,Taba: numerals with the human classifier,east2440-12
-2,motlu,"This classifier is used for small square flat thin things that have been cut or sliced such as waji ‘square shaped glutinous rice cakes’, roti ‘slices of bread’, and kartas ‘sheets of paper’. Mot= is a proclitic and there is no morphophonemic variation to account for.",FALSE,Bowden2001,"pp.248, 258",,east2440,Taba: numerals with the classifier for small flat oblong things,east2440-13
-1000,motcalan co,,FALSE,Bowden2001,"pp.248, 258",,east2440,Taba: numerals with the classifier for small flat oblong things,east2440-13
-1,picú,there is also an archaic set of numbers remembered by many Taba speakers. I was unable to ascertain what purpose this archaic set of numbers had within the Taba quantificational system.,FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
-2,pilú,Some of these forms clearly bear a relationship with the normal numeral roots discussed above (those for ‘two’ and ‘seven’) [cf. p-lu ‘two’ (with default classifier)],FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
-3,pitia,,FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
-4,bokotó,,FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
-5,ngaitó,,FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
-6,tigitó,,FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
-7,mathét,Some of these forms clearly bear a relationship with the normal numeral roots discussed above (those for ‘two’ and ‘seven’) [cf. mat=hit ‘seven’ (with human classifier)],FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
-8,kabelúng,,FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
-9,ragimoi,ragimoi ‘nine’ has similarities with Tematan nyagimoi ‘ten’. The sources of the others remain obscure along with their functions.,TRUE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
-10,dolapecu,"Note, however, that the final stress on many of the forms as well as the alveopalatal affricates found in picú ‘one’ and dolapecu ‘ten’ suggest that other words may have been borrowed.",FALSE,Bowden2001,p.269,,east2440,Taba: archaic numerals,east2440-14
-1,sandai,"in counting-out to select the principal figure in a game a curious old set of numbers is used sometimes. ... In most games a stick is broken up into as many small pieces as there are players; the pieces are drawn at random, the child drawing the shortest piece opens the game.",FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
-2,mandai,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
-3,pětulu,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
-4,pětanda,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
-5,lat lat,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
-6,nabi,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
-7,maliki,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
-8,pakpong,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
-9,sĕrunai,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
-10,dani,,FALSE,Wilkinson1910,p.3,,keda1251,Perak: numerals used in the game known as chĕkup-chĕkup puyoh,keda1251-2
-1,sende,"In Kelantan, the following were given to Mr. Skeat",FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
-2,duande,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
-3,patali,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
-4,patande,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
-5,nalan,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
-6,nabi,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
-7,maliki,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
-8,pa’ poh,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
-9,sungai,,FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
-10,dawe,"In Kedah a somewhat similar list was repeated to the writer as being the ancient numerals of the State. Moreover, some unintelligible words keep recurring in the different games and seem to suggest the existence of a lost language.",FALSE,Wilkinson1910,p.4,,patt1249,Kelantan: numerals used in a game,patt1249-4
-1,sɔ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-1,satu,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-2,duwɔ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-3,tiɡɔ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-4,ppaʔ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-5,limɔ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-6,nnɛ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-7,tujoh,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-8,lapɛ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-9,smilɛ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-10,s=puloh,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-11,s=bəlah,bəlah ‘teens’,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-12,duwɔ bəlah,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-13,tiɡɔ bəlah,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-20,duwɔ puloh,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-21,duwɔ puloh satu,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-30,tiɡɔ puloh,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-100,ɣatoh,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-1000,ɣibu,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-1000000,jutɔ,,FALSE,Wu2023,p.222,,patt1249,Kelantan Malay,patt1249-5
-1,sə,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-1,satu,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-2,duwə,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-3,tiɡə,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-4,ppaʔ,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-5,limə,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-6,nnaŋ,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-7,tujoh,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-8,lapaŋ,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-9,smilaŋ,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-9,mmilaŋ,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-10,s=puloh,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-11,s=bəlah,bəlah ‘teens’,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-12,duwə bəlah,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-13,tiɡə bəlah,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-20,duwə puloh,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-21,duwə puloh satu,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-30,tiɡə puloh,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-100,ɣatoh,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-1000,ɣibu,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-1000000,jutə,,FALSE,Wu2023,p.222,,patt1249,Coastal Terengganu Malay,patt1249-6
-1,sɛ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-1,satəʊ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-2,duwɛ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-3,tiɡɛ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-4,ppaʔ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-5,limɛ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-6,nnaŋ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-7,tujəʊh,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-8,lapaŋ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-9,smilaŋ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-10,s=puləʊh,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-11,s=bəlah,bəlah ‘teens’,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-12,duwɛ bəlah,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-13,tiɡɛ bəlah,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-20,duwɛ puləʊh,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-21,duwɛ puləʊh satəʊ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-30,tiɡɛ puləʊh,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-100,ɣatuh,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-1000,ɣibəʊ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
-1000000,jutɛ,,FALSE,Wu2023,p.222,,mala1479,Inland Terengganu Malay,mala1479-11
