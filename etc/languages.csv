@@ -106,6 +106,8 @@ ambu1247-6,Abelem (Wosera dialect: Stapigum village),LeanEastSepik,p.36,SIL Word
 ambu1247-7,Wosera,Staalsen1975,p.14,,ambu1247,Ambulas,abt,Papunesia,-3.7801,143.059,Ndu
 amel1241-1,Amele,LeanMadang,p.54,"2 CSQs. Villages: Amele, Sein.",amel1241,Amele,aey,Papunesia,-5.29126,145.687,Nuclear Trans New Guinea
 amel1241-2,Amele,Zgraggen1980Mabuso,p.92,,amel1241,Amele,aey,Papunesia,-5.29126,145.687,Nuclear Trans New Guinea
+amis1246-1,"Amis, Farangaw dialect - cardinal",Li2006,"pp.135, 140, 141, 148-150",,amis1246,Amis,ami,Papunesia,23.0917,121.348,Austronesian
+amis1246-2,"Amis, Farangaw dialect - human",Li2006,"pp.135, 148-150",,amis1246,Amis,ami,Papunesia,23.0917,121.348,Austronesian
 amol1235-1,Aru,LeanSandaun,p.37,1 CSQ. Village: Sunambu.,amol1235,Mol,alx,Papunesia,-3.46843,142.532,Nuclear Torricelli
 amol1235-2,Aru,Laycock1967C09,p.60,,amol1235,Mol,alx,Papunesia,-3.46843,142.532,Nuclear Torricelli
 ampa1239-1,Ampanang,Knappert1905,pp.615-616,,ampa1239,Ampanang,apg,Papunesia,-0.79259,116.349,Austronesian
@@ -220,6 +222,9 @@ asko1238-3,Eivo (based on The Rosetta Project digital archive 2010 [referred to 
 asss1237-1,As,Grace1955pdf50,p.156,,asss1237,As,asz,Papunesia,-0.75267,131.728,Austronesian
 asue1235-1,Awju Pisa,Galis1955,p.167,,asue1235,Asue Awyu,psa,Papunesia,-5.98341,139.123,Nuclear Trans New Guinea
 asue1235-2,Awyu: Busiri,Kriens2010,pp.48-49,,asue1235,Asue Awyu,psa,Papunesia,-5.98341,139.123,Nuclear Trans New Guinea
+atay1247-1,"Atayal, Mayrinax dialect - cardinal",Li2006,"pp.138, 140-142, 148-150",,atay1247,Atayal,tay,Papunesia,24.5209,121.388,Austronesian
+atay1247-2,"Atayal, Mayrinax dialect - nonhuman",Li2006,"pp.134, 138, 148-150",,atay1247,Atayal,tay,Papunesia,24.5209,121.388,Austronesian
+atay1247-3,"Atayal, Mayrinax dialect - human",Li2006,"pp.134, 138, 148-150",,atay1247,Atayal,tay,Papunesia,24.5209,121.388,Austronesian
 atem1241-1,Mand,Daniels2015,p.455,,atem1241,Mand,ate,Papunesia,-5.08137,144.806,Nuclear Trans New Guinea
 atem1241-2,Mand,Daniels2014Item335,p.33,,atem1241,Mand,ate,Papunesia,-5.08137,144.806,Nuclear Trans New Guinea
 atem1241-3,Atemple,Zgraggen1980SouthernAdelbert,p.46,,atem1241,Mand,ate,Papunesia,-5.08137,144.806,Nuclear Trans New Guinea
@@ -522,6 +527,15 @@ bung1269-1,Bungku,Stokhof1985Vol7.4,p.71,,bung1269,Bungku,bkz,Papunesia,-3.22197
 bung1270-1,Bungain,LeanEastSepik,p.39,"3 CSQs. Villages: Bungain, Musangun, Sinimblai.",bung1270,Bungain,but,Papunesia,-3.69674,143.796,Nuclear Torricelli
 bung1270-2,Bungain,Laycock1970D07,p.984,,bung1270,Bungain,but,Papunesia,-3.69674,143.796,Nuclear Torricelli
 bunn1240-1,Bun,Laycock1971D34,p.5050,,bunn1240,Bun,buv,Papunesia,-4.51885,143.892,Yuat
+bunu1267-1,"Bunun, Takituduh dialect - cardinal",Li2006,"pp.140, 141, 148-150",,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
+bunu1267-2,"Bunun, Takituduh dialect - nonhuman",Li2006,pp.148-150,,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
+bunu1267-3,"Bunun, Takituduh dialect - human",Li2006,pp.148-150,,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
+bunu1267-4,"Bunun, Takbanuaz dialect - cardinal",Li2006,"pp.140, 141, 148-150",,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
+bunu1267-5,"Bunun, Takbanuaz dialect - nonhuman",Li2006,pp.148-150,,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
+bunu1267-6,"Bunun, Takbanuaz dialect - human",Li2006,pp.148-150,,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
+bunu1267-7,"Bunun, Isbukun dialect - cardinal",Li2006,"pp.140, 141, 148-150",,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
+bunu1267-8,"Bunun, Isbukun dialect - nonhuman",Li2006,"pp.134, 148-150",,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
+bunu1267-9,"Bunun, Isbukun dialect - human",Li2006,"pp.134, 148-150",,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
 buol1237-1,Buol,Stokhof1983Vol7.1,p.135,,buol1237,Buol,blf,Papunesia,0.97727,121.519,Austronesian
 buol1237-2,Buol <Ḇo̱e̱wol̤o>,Stokhof1983Vol7.1,p.150,,buol1237,Buol,blf,Papunesia,0.97727,121.519,Austronesian
 burm1264-1,Monaü,Galis1955,p.143,,burm1264,Burmeso,bzu,Papunesia,-2.47582,138.203,Burmeso
@@ -1106,6 +1120,9 @@ kamo1255-5,Mimika,Ray1912,pp.340-341,,kamo1255,Kamoro,kgq,Papunesia,-4.30433,135
 kamo1255-6,Nagramadu,Ray1912,pp.340-341,,kamo1255,Kamoro,kgq,Papunesia,-4.30433,135.883,Nuclear Trans New Guinea
 kamo1255-7,Nagramadu,Galis1955,p.141,,kamo1255,Kamoro,kgq,Papunesia,-4.30433,135.883,Nuclear Trans New Guinea
 kamu1260-1,Kamula,Lean1986Vol12,p.36,"SIL Word List, Reesink (1974); Reesink (1975, p.33).",kamu1260,Kamula,xla,Papunesia,-7.28798,142.639,Kamula-Elevala
+kana1286-1,Kanakanavu - cadinal,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu,xnb,Papunesia,23.3235,120.887,Austronesian
+kana1286-2,Kanakanavu - nonhuman,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu,xnb,Papunesia,23.3235,120.887,Austronesian
+kana1286-3,Kanakanavu - human,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu,xnb,Papunesia,23.3235,120.887,Austronesian
 kana1288-1,Sona,Lean1986Vol06,p.25,S.I.L Word List (1981). Village: Gadoa.,kana1288,Kanasi,soq,Papunesia,-10.1658,149.751,Dagan
 kand1301-1,Kandas,Lean1985Vol01,p.56,1 CSQ. Village: Kait.,kand1301,Kandas,kqw,Papunesia,-4.3652,152.781,Austronesian
 kang1289-1,"Kambang, (the island of) Kangean (off the east coast of Madura)",Stokhof1987Vol11,pp.274-275,,kang1289,Kangean,kkv,Papunesia,-7.98335,112.968,Austronesian
@@ -1166,6 +1183,9 @@ kaul1240-3,Kaulong,Throop1980,"pp.231, 238",,kaul1240,Kaulong,pss,Papunesia,-6.0
 kaur1269-1,Kauer,Stokhof1987Vol10.2,p.169,,kaur1269,Kaur,vkk,Papunesia,-4.6251,103.512,Austronesian
 kaur1271-1,Kaure,Galis1960,p.145,,kaur1271,Kaure-Narau,bpp,Papunesia,-3.39188,140.14,Kaure-Kosare
 kauw1242-1,Kauwerawetj,Galis1955,p.142,,kauw1242,Kauwera,xau,Papunesia,-2.22799,138.157,Greater Kwerba
+kava1241-1,Kavalan - cardinal,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan,ckv,Papunesia,24.6947,121.645,Austronesian
+kava1241-2,Kavalan - nonhuman,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan,ckv,Papunesia,24.6947,121.645,Austronesian
+kava1241-3,Kavalan - human,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan,ckv,Papunesia,24.6947,121.645,Austronesian
 kawa1276-1,Kawatsa,LeanMorobe,p.62,SIL Word List (undated).,kawa1276,Kawacha,kcb,Papunesia,-6.95411,146.20997,Angan
 kawa1276-2,Kawatsa,Smith1988,p.100,,kawa1276,Kawacha,kcb,Papunesia,-6.95411,146.20997,Angan
 kawe1240-1,Kawe,Remijsen2001,"pp.147, 152",,kawe1240,Kawe,kgb,Papunesia,-0.17313,130.327,Austronesian
@@ -2207,6 +2227,13 @@ pagi1244-2,Pagi,LeanSandaun,p.16,SIL Word List (1980). Village: Imbrinis.,pagi12
 pagu1249-1,Pagu,Stokhof1980Vol2,p.198,,pagu1249,Pagu,pgu,Papunesia,1.2134,127.78,North Halmahera
 pahi1246-1,Pahi,Laycock1967C09,p.36,,pahi1246,Pahi,lgt,Papunesia,-3.79935,142.299,Sepik
 paic1239-1,Paicî,Rivierre1983,passim,,paic1239,Paicî,pri,Papunesia,-21.096,165.15,Austronesian
+paiw1248-1,"Paiwan, Butanglu dialect - cardinal",Li2006,"pp.141, 142, 148-150",,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian
+paiw1248-2,"Paiwan, Butanglu dialect - human",Li2006,pp.148-150,,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian
+paiw1248-3,"Paiwan, Stimur dialect - cardinal",Li2006,"pp.141, 142, 148-150",,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian
+paiw1248-4,"Paiwan, Stimur dialect - nonhuman",Li2006,"pp.134, 148-150",,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian
+paiw1248-5,"Paiwan, Stimur dialect - human",Li2006,"pp.134, 148-150",,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian
+paiw1248-6,"Paiwan, Tjuabar dialect - cardinal",Li2006,"pp.141, 142, 148-150",,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian
+paiw1248-7,"Paiwan, Tjuabar dialect - human",Li2006,pp.148-150,,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian
 pakt1239-1,Pak,Blust2021,"pp.25, 30, 32, 38",,pakt1239,Pak-Tong,pkg,Papunesia,-2.05269,147.767,Austronesian
 pakt1239-2,Pak-Tong,Lean1985Vol02,p.18,1 CSQ. Village: Mokara.,pakt1239,Pak-Tong,pkg,Papunesia,-2.05269,147.767,Austronesian
 pala1344-1,Palauan,Grace1955pdf42,p.31,,pala1344,Palauan,pau,Papunesia,7.34138,134.476678,Austronesian
@@ -2324,6 +2351,15 @@ pura1257-3,Purari (Kapai village),Lean1986Vol11,p.37,SIL Word List (1975). Villa
 pura1257-4,Purari (Mariki and Urika villages),Lean1986Vol11,p.37,"2 CSQs. Villages: Mariki, Urika.",pura1257,Purari,iar,Papunesia,-7.59133,145.036,Purari
 pura1257-5,Namau,Ray1907,pp.331-332,,pura1257,Purari,iar,Papunesia,-7.59133,145.036,Purari
 puyu1239-1,Puyuma,Arnaud1998,pp.863-878 [word list item numbers],,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
+puyu1239-10,"Puyuma, Katipul dialect - human",Li2006,pp.148-150,,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
+puyu1239-2,"Puyuma, Puyuma dialect - cardinal",Li2006,"pp.139, 140-142, 148-150",,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
+puyu1239-3,"Puyuma, Puyuma dialect - nonhuman",Li2006,"pp.134, 139, 148-150",,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
+puyu1239-4,"Puyuma, Puyuma dialect - human",Li2006,"pp.134, 139, 148-150",,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
+puyu1239-5,"Puyuma, Pinaski dialect - cardinal",Li2006,pp.148-150,,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
+puyu1239-6,"Puyuma, Pinaski dialect - nonhuman",Li2006,pp.148-150,,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
+puyu1239-7,"Puyuma, Pinaski dialect - human",Li2006,pp.148-150,,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
+puyu1239-8,"Puyuma, Katipul dialect - cardinal",Li2006,pp.148-150,,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
+puyu1239-9,"Puyuma, Katipul dialect - nonhuman",Li2006,pp.148-150,,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
 pyuu1245-1,Pyu,Laycock1970D14,p.1998,,pyuu1245,Pyu,pby,Papunesia,-4.45003,141.018,Pyu
 pyuu1245-2,Pyu,Conrad1975,pp.26-29,,pyuu1245,Pyu,pby,Papunesia,-4.45003,141.018,Pyu
 qaqe1238-1,Baining,Lean1985Vol04,p.31,1 IMP Questionnaire.,qaqe1238,Qaqet,byx,Papunesia,-4.45258,151.702,Baining
@@ -2389,6 +2425,20 @@ roto1249-1,Rotokas,Lean1985Vol03,p.41,1 CSQ. Village: Hatetara.,roto1249,Rotokas
 roto1249-2,Rotokas (Togarao village),LeanBougainville,p.34,SIL (1975). Village: Togarao.,roto1249,Rotokas,roo,Papunesia,-5.94339,155.154,North Bougainville
 roto1249-3,Rotokas (based on Lincoln 1976; Firchow and Firchow 2008),Brown2021,p.31,,roto1249,Rotokas,roo,Papunesia,-5.94339,155.154,North Bougainville
 rotu1241-1,Rotuma,Codrington1885,"pp.236, 407",,rotu1241,Rotuman,rtm,Papunesia,-12.5008,177.066,Austronesian
+ruka1240-1,"Rukai, Tanan dialect - cardinal",Li2006,"pp.140-142, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
+ruka1240-10,"Rukai, Tona dialect - cardinal",Li2006,"pp.142, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
+ruka1240-11,"Rukai, Tona dialect - nonhuman",Li2006,pp.148-150,,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
+ruka1240-12,"Rukai, Tona dialect - human",Li2006,pp.148-150,,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
+ruka1240-13,"Rukai, Mantauran dialect - cardinal",Li2006,"pp.142, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
+ruka1240-14,"Rukai, Mantauran dialect - nonhuman",Li2006,pp.148-150,,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
+ruka1240-15,"Rukai, Mantauran dialect - human",Li2006,pp.148-150,,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
+ruka1240-2,"Rukai, Tanan dialect - inanimate",Li2006,"pp.134, 140, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
+ruka1240-4,"Rukai, Budai dialect - cardinal",Li2006,"pp.142, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
+ruka1240-5,"Rukai, Budai dialect - nonhuman",Li2006,pp.148-150,,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
+ruka1240-6,"Rukai, Budai dialect - human",Li2006,pp.148-150,,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
+ruka1240-7,"Rukai, Maga dialect - cardinal",Li2006,"pp.139, 142, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
+ruka1240-8,"Rukai, Maga dialect - nonhuman",Li2006,"pp.134, 139, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
+ruka1240-9,"Rukai, Maga dialect - human",Li2006,"pp.134, 139, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
 rumu1243-1,Kairi,Lean1986Vol11,p.17,SIL Word List (1975). Village: Kopi.,rumu1243,Rumu,klq,Papunesia,-7.17149,144.179,Turama-Kikori
 rumu1243-2,Kopi (Rumu),Bullock2015,p.66,,rumu1243,Rumu,klq,Papunesia,-7.17149,144.179,Turama-Kikori
 rung1259-1,Rungus,Lobel2016,pp.234-239,,rung1259,Rungus,drg,Papunesia,6.83989,116.743,Austronesian
@@ -2403,6 +2453,9 @@ saaa1241-5,Sa (Western),Gray2012,p.108,,saaa1241,Sa,sax,Papunesia,-15.9534,168.2
 saaa1241-6,Sa (Eastern),Gray2012,pp.108-110,,saaa1241,Sa,sax,Papunesia,-15.9534,168.228,Austronesian
 saaa1241-7,Sa (Southern),Gray2012,p.108,,saaa1241,Sa,sax,Papunesia,-15.9534,168.228,Austronesian
 saaa1241-8,Pentecote S. (Tribu de Nineboulo),Hagen1889,p.319,,saaa1241,Sa,sax,Papunesia,-15.9534,168.228,Austronesian
+saar1237-1,Saaroa - cardinal,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa,sxr,Papunesia,23.2632,120.711,Austronesian
+saar1237-2,Saaroa - nonhuman,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa,sxr,Papunesia,23.2632,120.711,Austronesian
+saar1237-3,Saaroa - human,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa,sxr,Papunesia,23.2632,120.711,Austronesian
 saba1263-1,Bazaar Malay,Aye2005,pp.79-80,,saba1263,Sabah Malay,msi,Papunesia,4.64808,117.024,Austronesian
 saba1267-1,Bisaya,Ray1913,pp.61-62,,saba1267,Sabah Bisaya,bsy,Papunesia,5.30433,115.512,Austronesian
 saba1267-2,Limbang Bisaya,Lobel2016,pp.234-239,,saba1267,Sabah Bisaya,bsy,Papunesia,5.30433,115.512,Austronesian
@@ -2414,6 +2467,8 @@ saep1240-2,Saep,Zgraggen1980RaiCoast,p.92,,saep1240,Saep,spd,Papunesia,-5.64812,
 safe1240-1,Safeyoka,Smith1988,p.101,,safe1240,Safeyoka,apz,Papunesia,-7.05417,146.09,Angan
 safe1240-2,Safeyoka (from IMP/SIL),LeanMorobe,pp.61-62,IMP/SIL Questionnaire (1978).,safe1240,Safeyoka,apz,Papunesia,-7.05417,146.09,Angan
 safe1240-3,Safeyoka (from SIL word list),LeanMorobe,p.62,SIL Word List (1972).,safe1240,Safeyoka,apz,Papunesia,-7.05417,146.09,Angan
+sais1237-1,"Saisiyat, Taai dialect",Li2006,"pp.139, 140-142, 148-150",,sais1237,Saisiyat,xsy,Papunesia,24.6043,121.067,Austronesian
+sais1237-2,"Pazih, Pazih dialect",Li2006,"pp.139, 141, 148-150",,sais1237,Saisiyat,xsy,Papunesia,24.6043,121.067,Austronesian
 saja1241-1,Sadjau Bassap,Rutten1916,p.251,,saja1241,Sajau-Latti,sjb,Papunesia,2.43432,117.401,Austronesian
 saja1241-2,Basa Latala (a Punan Sajau song language; from Lansing et al. 2022),Blevins2024,p.196,,saja1241,Sajau-Latti,sjb,Papunesia,2.43432,117.401,Austronesian
 saja1241-3,Punan Sajau (from Lansing et al. 2022),Blevins2024,p.196,,saja1241,Sajau-Latti,sjb,Papunesia,2.43432,117.401,Austronesian
@@ -2573,6 +2628,7 @@ sioo1240-1,Sio,Smith1988,pp.62-63,,sioo1240,Sio,xsi,Papunesia,-5.96037,147.353,A
 sioo1240-2,Sio (from CSQ),LeanMorobe,p.20,1 CSQ. Village: Sio,sioo1240,Sio,xsi,Papunesia,-5.96037,147.353,Austronesian
 sioo1240-3,Sio (from SIL word list),LeanMorobe,pp.19-20,SIL Word List (1975). Village: Sio 1.,sioo1240,Sio,xsi,Papunesia,-5.96037,147.353,Austronesian
 sioo1240-4,Sio (Sio #1 village),Lincoln1976,pp.2-5,,sioo1240,Sio,xsi,Papunesia,-5.96037,147.353,Austronesian
+sira1267-1,Siraya,Li2006,"pp.135, 140",,sira1267,Sirayaic,fos,Papunesia,22.9777,120.315,Austronesian
 siro1249-1,Maragum,Ray1919,p.329,,siro1249,Siroi,ssd,Papunesia,-5.52893,145.994,Nuclear Trans New Guinea
 siro1249-2,Rumba,Ray1919,p.329,,siro1249,Siroi,ssd,Papunesia,-5.52893,145.994,Nuclear Trans New Guinea
 siro1249-3,Siroi,LeanMadang,p.70,SIL Word List (undated). Village: Kumisanger.,siro1249,Siroi,ssd,Papunesia,-5.52893,145.994,Nuclear Trans New Guinea
@@ -2760,6 +2816,8 @@ tano1246-4,Antanosy (Bezaha),Serva2020,pone.0240170.s001.pdf,,tano1246,Tanosy Ma
 tano1246-5,Antanosy (Belamoty),Serva2020,pone.0240170.s001.pdf,,tano1246,Tanosy Malagasy,txy,Africa,-24.9186,47.1357,Austronesian
 tape1242-1,Tapei (Awim village),Kassell2017,pp.52-53,,tape1242,Tapei,afp,Papunesia,-4.77763,143.337,Arafundi
 tape1242-2,Tapei (Imboin-Awim villages),Kassell2017,pp.52-53,,tape1242,Tapei,afp,Papunesia,-4.77763,143.337,Arafundi
+taro1264-1,"Seediq, Paran dialect",Li2006,"pp.134, 140, 141, 148-150",,taro1264,Seediq,trv,Papunesia,23.9032,121.358,Austronesian
+taro1264-2,"Seediq, Toda dialect",Li2006,pp.148-150,,taro1264,Seediq,trv,Papunesia,23.9032,121.358,Austronesian
 tarp1240-1,Sufrai,Galis1955,p.161,,tarp1240,Tarpia,tpf,Papunesia,-2.322279,140.115497,Austronesian
 tarp1240-2,Tarfia,Ray1912,pp.340-341,,tarp1240,Tarpia,tpf,Papunesia,-2.322279,140.115497,Austronesian
 tata1257-1,Tatana,Lobel2016,pp.234-239,,tata1257,Tatana,txx,Papunesia,5.49808,115.553,Austronesian
@@ -2799,6 +2857,9 @@ tetu1246-2,Belu/Tetum (Timor) (mentioned in NBG 1896),Stokhof1983Vol6,pp.67-68,,
 tetu1246-3,Belu/Tetum (Timor) (mentioned in NBG 1905),Stokhof1983Vol6,p.80,,tetu1246,Tetun Dili,tdt,Papunesia,-8.58405,125.583,Austronesian
 tetu1246-4,Tetun,Arnaud1998,pp.863-879 [word list item numbers],,tetu1246,Tetun Dili,tdt,Papunesia,-8.58405,125.583,Austronesian
 teun1241-1,Teun,Taber1993,pp.418-419,,teun1241,Te'un,tve,Papunesia,-6.97086,129.143718,Austronesian
+thao1240-1,Thao - cardinal,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao,ssf,Papunesia,23.8333,120.93,Austronesian
+thao1240-2,Thao - nonhuman,Li2006,"pp.139, 148-150",,thao1240,Thao,ssf,Papunesia,23.8333,120.93,Austronesian
+thao1240-3,Thao - human,Li2006,"pp.139, 148-150",,thao1240,Thao,ssf,Papunesia,23.8333,120.93,Austronesian
 tian1237-1,Tiang,Lean1985Vol01,p.29,1 CSQ. Village: Piliwa.,tian1237,Tiang,tbj,Papunesia,-2.95505,150.935,Austronesian
 tido1248-1,Tidore,Teljeur1982,pp.145-146,,tido1248,Tidore,tvo,Papunesia,0.02461,127.746,North Halmahera
 tido1248-2,Tidore (from J. C. van der Meulen),Stokhof1980Vol2,p.184,,tido1248,Tidore,tvo,Papunesia,0.02461,127.746,North Halmahera
@@ -2889,6 +2950,9 @@ tsim1257-3,Tsimihety (Mandritsara),Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsi
 tsim1257-4,Tsimihety (Mampikony),Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian
 tsim1257-5,Tsimihety (Andapa),Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian
 tsim1257-6,Tsimihety (Antsohihy),Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety Malagasy,xmw,Africa,-15.4294,48.8102,Austronesian
+tsou1248-1,"Tsou, Duhtu dialect - cardinal",Li2006,"pp.140, 141, 148-150",,tsou1248,Tsou,tsu,Papunesia,23.216,120.787,Austronesian
+tsou1248-2,"Tsou, Duhtu dialect - nonhuman",Li2006,"pp.134, 148-150",,tsou1248,Tsou,tsu,Papunesia,23.216,120.787,Austronesian
+tsou1248-3,"Tsou, Duhtu dialect - human",Li2006,"pp.134, 148-150",,tsou1248,Tsou,tsu,Papunesia,23.216,120.787,Austronesian
 tuam1242-1,Pa’umotu - Takaroa/Takapoto,Charpentier2015,pp.1825-1843,,tuam1242,Tuamotuan,pmt,Papunesia,-16.17259,-146.321755,Austronesian
 tuam1242-10,Tuamotuan: esoteric counting system,Stimson1964,passim,,tuam1242,Tuamotuan,pmt,Papunesia,-16.17259,-146.321755,Austronesian
 tuam1242-11,Paumotu in general,Audran1920,p.43,,tuam1242,Tuamotuan,pmt,Papunesia,-16.17259,-146.321755,Austronesian
@@ -3278,67 +3342,3 @@ ziaa1250-3,Zia,Smith1988,p.106,,ziaa1250,Zia,zia,Papunesia,-7.95814,147.579,Nucl
 ziaa1250-4,Zia (Dona village),LeanMorobe,p.73,SIL Word List (1975). Village: Dona.,ziaa1250,Zia,zia,Papunesia,-7.95814,147.579,Nuclear Trans New Guinea
 ziaa1250-5,Zia (Siu village),LeanMorobe,pp.73-74,2 CSQs. Village: Siu.,ziaa1250,Zia,zia,Papunesia,-7.95814,147.579,Nuclear Trans New Guinea
 zima1244-1,Zimakani (Begua dialect),Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani,zik,Papunesia,-7.3701,141.452,Anim
-amis1246-1,"Amis, Farangaw dialect - cardinal",Li2006,"pp.135, 140, 141, 148-150",,amis1246,Amis,ami,Papunesia,23.0917,121.348,Austronesian
-amis1246-2,"Amis, Farangaw dialect - human",Li2006,"pp.135, 148-150",,amis1246,Amis,ami,Papunesia,23.0917,121.348,Austronesian
-atay1247-1,"Atayal, Mayrinax dialect - cardinal",Li2006,"pp.138, 140-142, 148-150",,atay1247,Atayal,tay,Papunesia,24.5209,121.388,Austronesian
-atay1247-2,"Atayal, Mayrinax dialect - nonhuman",Li2006,"pp.134, 138, 148-150",,atay1247,Atayal,tay,Papunesia,24.5209,121.388,Austronesian
-atay1247-3,"Atayal, Mayrinax dialect - human",Li2006,"pp.134, 138, 148-150",,atay1247,Atayal,tay,Papunesia,24.5209,121.388,Austronesian
-bunu1267-1,"Bunun, Takituduh dialect - cardinal",Li2006,"pp.140, 141, 148-150",,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
-bunu1267-2,"Bunun, Takituduh dialect - nonhuman",Li2006,pp.148-150,,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
-bunu1267-3,"Bunun, Takituduh dialect - human",Li2006,pp.148-150,,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
-bunu1267-4,"Bunun, Takbanuaz dialect - cardinal",Li2006,"pp.140, 141, 148-150",,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
-bunu1267-5,"Bunun, Takbanuaz dialect - nonhuman",Li2006,pp.148-150,,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
-bunu1267-6,"Bunun, Takbanuaz dialect - human",Li2006,pp.148-150,,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
-bunu1267-7,"Bunun, Isbukun dialect - cardinal",Li2006,"pp.140, 141, 148-150",,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
-bunu1267-8,"Bunun, Isbukun dialect - nonhuman",Li2006,"pp.134, 148-150",,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
-bunu1267-9,"Bunun, Isbukun dialect - human",Li2006,"pp.134, 148-150",,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian
-kana1286-1,Kanakanavu - cadinal,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu,xnb,Papunesia,23.3235,120.887,Austronesian
-kana1286-2,Kanakanavu - nonhuman,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu,xnb,Papunesia,23.3235,120.887,Austronesian
-kana1286-3,Kanakanavu - human,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu,xnb,Papunesia,23.3235,120.887,Austronesian
-kava1241-1,Kavalan - cardinal,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan,ckv,Papunesia,24.6947,121.645,Austronesian
-kava1241-2,Kavalan - nonhuman,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan,ckv,Papunesia,24.6947,121.645,Austronesian
-kava1241-3,Kavalan - human,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan,ckv,Papunesia,24.6947,121.645,Austronesian
-paiw1248-1,"Paiwan, Butanglu dialect - cardinal",Li2006,"pp.141, 142, 148-150",,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian
-paiw1248-2,"Paiwan, Butanglu dialect - human",Li2006,pp.148-150,,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian
-paiw1248-3,"Paiwan, Stimur dialect - cardinal",Li2006,"pp.141, 142, 148-150",,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian
-paiw1248-4,"Paiwan, Stimur dialect - nonhuman",Li2006,"pp.134, 148-150",,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian
-paiw1248-5,"Paiwan, Stimur dialect - human",Li2006,"pp.134, 148-150",,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian
-paiw1248-6,"Paiwan, Tjuabar dialect - cardinal",Li2006,"pp.141, 142, 148-150",,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian
-paiw1248-7,"Paiwan, Tjuabar dialect - human",Li2006,pp.148-150,,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian
-puyu1239-10,"Puyuma, Katipul dialect - human",Li2006,pp.148-150,,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
-puyu1239-2,"Puyuma, Puyuma dialect - cardinal",Li2006,"pp.139, 140-142, 148-150",,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
-puyu1239-3,"Puyuma, Puyuma dialect - nonhuman",Li2006,"pp.134, 139, 148-150",,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
-puyu1239-4,"Puyuma, Puyuma dialect - human",Li2006,"pp.134, 139, 148-150",,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
-puyu1239-5,"Puyuma, Pinaski dialect - cardinal",Li2006,pp.148-150,,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
-puyu1239-6,"Puyuma, Pinaski dialect - nonhuman",Li2006,pp.148-150,,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
-puyu1239-7,"Puyuma, Pinaski dialect - human",Li2006,pp.148-150,,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
-puyu1239-8,"Puyuma, Katipul dialect - cardinal",Li2006,pp.148-150,,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
-puyu1239-9,"Puyuma, Katipul dialect - nonhuman",Li2006,pp.148-150,,puyu1239,Puyuma,pyu,Papunesia,22.643,120.996,Austronesian
-ruka1240-1,"Rukai, Tanan dialect - cardinal",Li2006,"pp.140-142, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
-ruka1240-10,"Rukai, Tona dialect - cardinal",Li2006,"pp.142, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
-ruka1240-11,"Rukai, Tona dialect - nonhuman",Li2006,pp.148-150,,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
-ruka1240-12,"Rukai, Tona dialect - human",Li2006,pp.148-150,,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
-ruka1240-13,"Rukai, Mantauran dialect - cardinal",Li2006,"pp.142, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
-ruka1240-14,"Rukai, Mantauran dialect - nonhuman",Li2006,pp.148-150,,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
-ruka1240-15,"Rukai, Mantauran dialect - human",Li2006,pp.148-150,,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
-ruka1240-2,"Rukai, Tanan dialect - inanimate",Li2006,"pp.134, 140, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
-ruka1240-4,"Rukai, Budai dialect - cardinal",Li2006,"pp.142, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
-ruka1240-5,"Rukai, Budai dialect - nonhuman",Li2006,pp.148-150,,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
-ruka1240-6,"Rukai, Budai dialect - human",Li2006,pp.148-150,,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
-ruka1240-7,"Rukai, Maga dialect - cardinal",Li2006,"pp.139, 142, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
-ruka1240-8,"Rukai, Maga dialect - nonhuman",Li2006,"pp.134, 139, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
-ruka1240-9,"Rukai, Maga dialect - human",Li2006,"pp.134, 139, 148-150",,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian
-saar1237-1,Saaroa - cardinal,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa,sxr,Papunesia,23.2632,120.711,Austronesian
-saar1237-2,Saaroa - nonhuman,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa,sxr,Papunesia,23.2632,120.711,Austronesian
-saar1237-3,Saaroa - human,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa,sxr,Papunesia,23.2632,120.711,Austronesian
-sais1237-1,"Saisiyat, Taai dialect",Li2006,"pp.139, 140-142, 148-150",,sais1237,Saisiyat,xsy,Papunesia,24.6043,121.067,Austronesian
-sais1237-2,"Pazih, Pazih dialect",Li2006,"pp.139, 141, 148-150",,sais1237,Saisiyat,xsy,Papunesia,24.6043,121.067,Austronesian
-sira1267-1,Siraya,Li2006,"pp.135, 140",,sira1267,Sirayaic,fos,Papunesia,22.9777,120.315,Austronesian
-taro1264-1,"Seediq, Paran dialect",Li2006,"pp.134, 140, 141, 148-150",,taro1264,Seediq,trv,Papunesia,23.9032,121.358,Austronesian
-taro1264-2,"Seediq, Toda dialect",Li2006,pp.148-150,,taro1264,Seediq,trv,Papunesia,23.9032,121.358,Austronesian
-thao1240-1,Thao - cardinal,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao,ssf,Papunesia,23.8333,120.93,Austronesian
-thao1240-2,Thao - nonhuman,Li2006,"pp.139, 148-150",,thao1240,Thao,ssf,Papunesia,23.8333,120.93,Austronesian
-thao1240-3,Thao - human,Li2006,"pp.139, 148-150",,thao1240,Thao,ssf,Papunesia,23.8333,120.93,Austronesian
-tsou1248-1,"Tsou, Duhtu dialect - cardinal",Li2006,"pp.140, 141, 148-150",,tsou1248,Tsou,tsu,Papunesia,23.216,120.787,Austronesian
-tsou1248-2,"Tsou, Duhtu dialect - nonhuman",Li2006,"pp.134, 148-150",,tsou1248,Tsou,tsu,Papunesia,23.216,120.787,Austronesian
-tsou1248-3,"Tsou, Duhtu dialect - human",Li2006,"pp.134, 148-150",,tsou1248,Tsou,tsu,Papunesia,23.216,120.787,Austronesian
