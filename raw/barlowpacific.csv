@@ -1276,6 +1276,36 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 1,osol,,FALSE,Zgraggen1980Mabuso,p.92,,amel1241,Amele,amel1241-2
 1,leis,,FALSE,Zgraggen1980Mabuso,p.92,,amel1241,Amele,amel1241-2
 2,lɛis,,FALSE,Zgraggen1980Mabuso,p.92,,amel1241,Amele,amel1241-2
+1,cəcay,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+2,tosaʔ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+2,tosa,nonhuman,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+3,toloʔ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+4,səpat,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+5,limaʔ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+6,ʔənəm,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+7,pitoʔ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+8,faloʔ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+9,siwaʔ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+10,moʔtəp,,TRUE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+10,moʔtep,may have been a loan from Puyuma mukTep,TRUE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+10,poloʡ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+10,poloq,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+11,poloq cecay,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+12,poloq tosaʔ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+20,tosa poloq,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+30,tolo poloq,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+40,sepat poloq,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
+1,(ca)cəcay,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
+2,tatosaʔ,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
+2,ta-tosa,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
+3,tatoloʔ,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
+4,sasəpat,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
+5,lalimaʔ,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
+6,ʔaʔənəm,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
+7,pipitoʔ,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
+8,fafaloʔ,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
+9,sasiwaʔ,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
+10,mamoʔtəp,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
 1,ambak,,FALSE,LeanSandaun,p.37,1 CSQ. Village: Sunambu.,amol1235,Aru,amol1235-1
 2,nantiyou,,FALSE,LeanSandaun,p.37,1 CSQ. Village: Sunambu.,amol1235,Aru,amol1235-1
 3,warin,,FALSE,LeanSandaun,p.37,1 CSQ. Village: Sunambu.,amol1235,Aru,amol1235-1
@@ -2570,6 +2600,47 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 9,bidɪ soɣondeˈmɑʔ,,FALSE,Kriens2010,pp.48-49,,asue1235,Awyu: Busiri,asue1235-2
 10,bibimɑ,,FALSE,Kriens2010,pp.48-49,,asue1235,Awyu: Busiri,asue1235-2
 20,xobigi ˈkuruˌmɑ,,FALSE,Kriens2010,pp.48-49,,asue1235,Awyu: Busiri,asue1235-2
+1,qun,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+2,rusaʔ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+3,tuuʔ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+4,səpat,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+5,timaʔ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+6,matuuʔ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+6,ma-tuuʔ,‘2x3’ = 6,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+7,pituʔ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+8,maspat,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+8,ma-spat,‘2x4’ = 8,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+9,maqisuʔ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+10,puɤ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+11,magalpug cuʔ qun,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+12,magalpug cuʔ rusaʔ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+20,ma-pusa-l,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+20,mapusal,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+30,matuul,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+40,maspatul,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+100,kabhul,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
+1,qutux,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
+2,ʔusayiŋ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
+2,ʔusa-ing,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
+3,tuɤal,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
+4,sapaat,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
+5,imaɤal,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
+6,tayuʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
+7,mapituʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
+8,pat,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
+9,mamaqisuʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
+10,maɤalpuɤ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
+1,qutux,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
+2,rarusaʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
+2,ra-rusaʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
+3,tatuuʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
+4,saspat,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
+5,aimaʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
+6,mamatuuʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
+7,mapituʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
+8,mamaspat,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
+9,mamaqisuʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
+10,maɤalpuɤ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
 1,vam,There are only two [numerals],FALSE,Daniels2015,p.455,,atem1241,Mand,atem1241-1
 2,utɨmar,There are only two [numerals],FALSE,Daniels2015,p.455,,atem1241,Mand,atem1241-1
 1,βɑm,(waman [in Z’graggen 1980:46]),FALSE,Daniels2014Item335,p.33,,atem1241,Mand,atem1241-2
@@ -6323,6 +6394,117 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,yɛdɑŋɑ ɑirɑm,,FALSE,Laycock1971D34,p.5050,,bunn1240,Bun,bunn1240-1
 9,yɛdɑŋɑ ɑŋɡɑ́səkɑ,,FALSE,Laycock1971D34,p.5050,,bunn1240,Bun,bunn1240-1
 10,kəli ɑrɑwin,,FALSE,Laycock1971D34,p.5050,,bunn1240,Bun,bunn1240-1
+1,tasʔa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+2,dusa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+3,tau,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+4,paat,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+5,himaʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+6,num,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+6,nuum,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+7,pituʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+8,váuʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+9,sivaʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+10,macʔan,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+11,macʔan qan tasʔa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+12,macʔan qan dusa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+20,ma-pusa-n,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+20,mapusan,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+30,matiʔun,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+40,masipatun,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
+1,tasʔa,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
+2,dusa,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
+3,tau,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
+4,paat,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
+5,himaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
+6,nuum,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
+7,pituʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
+8,vauʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
+9,sivaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
+10,macʔan,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
+1,tatini,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
+2,dadusaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
+3,tatau,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
+4,saspat,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
+5,hahimaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
+6,ʔaʔaʔnum,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
+7,papituʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
+8,vaváuʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
+9,sasivaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
+10,mamacʔan,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
+1,tasʔa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+2,dusa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+3,tau,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+4,paat,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+5,himaʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+6,num,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+7,pituʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+8,vauʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+9,sivaʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+10,masʔan,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+11,macʔan qan tasʔa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+12,macʔan qan dusa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+20,ma-pusa-n,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+20,mapusan,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+30,matiʔun,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+40,masipatun,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
+1,tasʔa,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
+2,dusa,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
+3,tau,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
+4,paat,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
+5,himaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
+6,nuum,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
+7,pituʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
+8,vauʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
+9,sivaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
+10,masʔan,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
+1,tatiniʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
+2,dadusaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
+3,tatau,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
+4,saspat,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
+5,(ha)himaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
+6,(haʔ)num,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
+7,pituʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
+8,vauʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
+9,sasivaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
+10,mamasʔan,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
+1,tasaʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+2,dusa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+3,tau,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+4,paat,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+5,ʔimaʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+6,num,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+7,pituʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+8,vauʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+9,sivaʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+10,masʔan,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+11,macʔan qan tasʔa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+12,macʔan qan dusa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+20,ma-pusa-n,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+20,mapusan,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+30,matiʔun,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+40,masipatun,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
+1,tasa,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
+1,tasaʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
+2,dusa,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
+3,tau,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
+4,paat,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
+5,ʔimaʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
+6,nuum,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
+7,pituʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
+8,vauʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
+9,sivaʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
+10,masʔan,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
+1,taciniʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
+1,ta-tiniʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
+2,dadusaʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
+3,tatau,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
+4,saspat,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
+5,ʔaimaʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
+6,ʔabnum,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
+7,papítuʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
+8,vaváuʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
+9,sasivaʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
+10,mamasʔan,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
 1,Esa,,FALSE,Stokhof1983Vol7.1,p.135,,buol1237,Buol,buol1237-1
 2,Doea,,FALSE,Stokhof1983Vol7.1,p.135,,buol1237,Buol,buol1237-1
 3,Tèloe,,FALSE,Stokhof1983Vol7.1,p.135,,buol1237,Buol,buol1237-1
@@ -14263,6 +14445,46 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,dabia dabiamete,2 + 2,FALSE,Lean1986Vol12,p.36,"SIL Word List, Reesink (1974); Reesink (1975, p.33).",kamu1260,Kamula,kamu1260-1
 5,dosi ba'sana,may contain a ‘hand’ morpheme ‘do’,FALSE,Lean1986Vol12,p.36,"SIL Word List, Reesink (1974); Reesink (1975, p.33).",kamu1260,Kamula,kamu1260-1
 10,pasa'tana,,FALSE,Lean1986Vol12,p.36,"SIL Word List, Reesink (1974); Reesink (1975, p.33).",kamu1260,Kamula,kamu1260-1
+1,caáni,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+2,cuúsa,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+2,cuusa,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+3,tuulu,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+4,suúpatə,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+5,liíma,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+6,nəə́mə,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+7,piítu,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+8,áalu,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+9,síia,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+10,máanə,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+11,maane ucani,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+12,maane urucini,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+20,mapusane,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+30,matuunu,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+40,maspatúnu,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
+1,ucáni,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
+1,u-cani,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
+2,urúcini,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
+2,u-rucini,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
+3,utúlu,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
+4,usúpatə,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
+5,ulíma,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
+6,ənə́mə,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
+7,upítu,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
+8,aálu,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
+9,usía,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
+10,máanə,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
+1,tacíni,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
+1,ca-cini,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
+2,tasúsa,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
+2,ta-susa,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
+3,tatúlu,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
+4,sasúpatə,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
+5,lalíma,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
+6,nanə́mə,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
+7,papítu,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
+8,laláalu,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
+9,sasía,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
+10,mamáanə,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
 1,deʔa,,FALSE,Lean1986Vol06,p.25,S.I.L Word List (1981). Village: Gadoa.,kana1288,Sona,kana1288-1
 2,nata,,FALSE,Lean1986Vol06,p.25,S.I.L Word List (1981). Village: Gadoa.,kana1288,Sona,kana1288-1
 3,natade,2 + 1,FALSE,Lean1986Vol06,p.25,S.I.L Word List (1981). Village: Gadoa.,kana1288,Sona,kana1288-1
@@ -14993,6 +15215,45 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,kwamaparai,,FALSE,Galis1955,p.142,,kauw1242,Kauwerawetj,kauw1242-1
 10,kwaüm,,FALSE,Galis1955,p.142,,kauw1242,Kauwerawetj,kauw1242-1
 11,aberowe,,FALSE,Galis1955,p.142,,kauw1242,Kauwerawetj,kauw1242-1
+1,issa,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+2,zusa,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+3,turu,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+4,spat,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+5,rima,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+6,ʔnəm,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+7,pitu,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+8,waru,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+9,siwa,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+10,tRay,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+10,staRay,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+11,Rabtin yau ussiq,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+12,Rabitin yau uzusa,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+20,uzusabtin,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+30,uturubtin,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+40,uspatebtin,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
+1,ussiq,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
+2,uzusa,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
+2,u-zusa,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
+3,laturu,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
+4,uspat,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
+5,urima,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
+6,unnəm,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
+7,upitu,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
+8,uwaru,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
+9,usiwa,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
+10,Rabtin,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
+1,paqnənem,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
+1,paqnanem,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
+2,kinausa,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
+2,kin-ausa,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
+3,kinturu,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
+4,kinspat,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
+5,kinrima,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
+6,kinnannəm,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
+7,kinpitu,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
+8,kinwaru,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
+9,kinsiwa,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
+10,kinRabtin,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
 1,wana,,FALSE,LeanMorobe,p.62,SIL Word List (undated).,kawa1276,Kawatsa,kawa1276-1
 2,tavawu,,FALSE,LeanMorobe,p.62,SIL Word List (undated).,kawa1276,Kawatsa,kawa1276-1
 3,tavawuto,,FALSE,LeanMorobe,p.62,SIL Word List (undated).,kawa1276,Kawatsa,kawa1276-1
@@ -28636,6 +28897,92 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 20,caapwi åboro,"“a man” [cf. p.26 <åboro> ‘individual, living being, person, man’]",FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
 20,caapwi-åboro,"“a man” [cf. p.26 <åboro> ‘individual, living being, person, man’]",FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
 40,e̊re̊ilu-åboro,“two men”,FALSE,Rivierre1983,passim,,paic1239,Paicî,paic1239-1
+1,ita,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
+2,ɖusa,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
+3,t́əLu,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
+4,səpat́,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
+5,Lima,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
+6,unəm,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
+7,pit́u,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
+8,aLu,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
+9,siva,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
+10,puLuq,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
+11,puLuʔ katu ita,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
+12,puLuʔ katu Dusa,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
+100,iday,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
+1000,kuzulj,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
+1,maciziľ,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
+2,maɖusa,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
+3,mat́əLu,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
+4,masəpat́,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
+5,maLima,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
+6,maľunəm,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
+7,maľəpit́u,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
+8,maľaLu,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
+9,maľəsiva,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
+10,maľətapuLuq,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
+1,ita,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+2,ɖusa,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+3,təLu,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+4,səpat,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+5,Lima,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+6,unəm,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+7,pitu,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+8,aLu,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+9,siva,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+10,puLuʔ,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+11,puLuʔ katu ita,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+12,puLuʔ katu Dusa,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+20,Dusa puLuʔ,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+30,teLu a puLuʔ,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+40,sepat a puLuʔ,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+100,iday,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+1000,kuzulj,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
+1,ita,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
+2,ɖusa,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
+3,təLu,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
+4,səpat,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
+5,Lima,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
+6,unəm,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
+7,pitu,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
+8,aLu,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
+9,siva,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
+10,puLuʔ,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
+1,macidiľ,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
+1,ma-cidil,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
+2,maɖusa,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
+3,matəLu,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
+4,masəpat,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
+5,manəLima,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
+6,manəunəm,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
+7,manəpitu,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
+8,manaLu,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
+9,manəsiva,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
+10,mantapuLuʔ,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
+1,ita,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
+2,ɖusa,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
+3,t́əLu,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
+4,səpat́,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
+5,Lima,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
+6,unəm,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
+7,pit́u,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
+8,aLu,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
+9,siva,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
+10,puLuʔ,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
+11,puLuʔ katu ita,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
+12,puLuʔ katu Dusa,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
+100,iday,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
+1000,kuzulj,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
+1,macidiľ,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
+2,maɖusa,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
+3,mat́əLu,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
+4,masəpat́,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
+5,maLima,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
+6,maľə-unəm,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
+7,maľəpit́u,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
+8,maľəaLu,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
+9,maľəsiva,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
+10,malətapuLuʔ,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
 1,dih,,FALSE,Blust2021,"pp.25, 30, 32, 38",,pakt1239,Pak,pakt1239-1
 2,huoh,,FALSE,Blust2021,"pp.25, 30, 32, 38",,pakt1239,Pak,pakt1239-1
 3,duluh,,FALSE,Blust2021,"pp.25, 30, 32, 38",,pakt1239,Pak,pakt1239-1
@@ -30083,6 +30430,107 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 21,maka petaʔan misama saya,,FALSE,Arnaud1998,pp.863-878 [word list item numbers],,puyu1239,Puyuma,puyu1239-1
 100,saɭəman,,FALSE,Arnaud1998,pp.863-878 [word list item numbers],,puyu1239,Puyuma,puyu1239-1
 1000,kuɖul,,FALSE,Arnaud1998,pp.863-878 [word list item numbers],,puyu1239,Puyuma,puyu1239-1
+1,sasa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
+2,ʐaʐua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
+3,tatəLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
+4,aʔapat,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
+5,laluwaʈ,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
+6,aʔanəm,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
+7,papitu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
+8,wawaLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
+9,aʔiwa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
+10,makʈəp,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
+1,sa,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+2,ɖua,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+2,Dua,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+3,təLu,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+4,pat,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+5,Lima,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+6,nəm,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+7,pitu,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+8,waLu,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+9,iwa,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+10,puLuʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+11,mukTep misama Da saya,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+12,mukTep misama Da Duaya,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+20,makabTaʔan,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+30,makteLun,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+40,makapetel,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+1000,kuDul,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
+1,sasaya,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
+1,sasa-ya,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
+2,ɖuɖuaya,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
+2,Du-Dua-ya,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
+3,tutuLua,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
+4,papata,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
+5,luluaʈa,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
+6,nanəma,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
+7,pitupitua,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
+8,waLuwaLua,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
+9,wayawaya,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
+10,mukʈəp,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
+1,misasa,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
+1,mi-sasa,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
+2,miaɖua,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
+2,mia-Dua,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
+3,miatəLu,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
+4,miapat,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
+5,mialuaʈ,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
+6,mianəm,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
+7,miapitu,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
+8,miawaLu,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
+9,miaiwa,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
+10,mukʈəp,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
+1,sa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
+2,ʐua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
+3,tiLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
+4,pat,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
+5,Lima,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
+6,nəm,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
+7,pitu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
+8,waLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
+9,iwa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
+10,puluɦ,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
+1,(sa)saya,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
+2,(ʐu)ʐuaya,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
+3,(tu)tuLuwa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
+4,papata,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
+5,(lu)luaʈa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
+6,nanəma,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
+7,(pitu)pitua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
+8,(waLu)waLua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
+9,(wa)iwaya,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
+10,mukʈəp,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
+1,sasa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
+2,ʐaʐua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
+3,tatəLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
+4,aʔapat,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
+5,laluwaʈ,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
+6,aʔanəm,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
+7,papitu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
+8,wawaLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
+9,aʔiwa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
+10,papuLuɦ,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
+1,isa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
+2,ʐua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
+3,təLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
+4,pat,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
+5,Lima,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
+6,unəm,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
+7,pitu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
+8,waLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
+9,iwa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
+10,ʔuLuɦ,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
+1,sasaya,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
+2,ʐaʐuaya,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
+3,tatəLuwa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
+4,papata,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
+5,laluaʈa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
+6,nanəma,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
+7,pitua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
+8,waLuwaLua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
+9,iwaiwaya,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
+10,mukʈəp,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
 1,tɛfíye,,FALSE,Laycock1970D14,p.1998,,pyuu1245,Pyu,pyuu1245-1
 2,kɑsi,,FALSE,Laycock1970D14,p.1998,,pyuu1245,Pyu,pyuu1245-1
 3,nɑndɑŋ ɡkɑsi təfí,,FALSE,Laycock1970D14,p.1998,,pyuu1245,Pyu,pyuu1245-1
@@ -30982,6 +31430,182 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 100,tarau,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
 100,ta rau,one leaf,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
 1000,ef,,FALSE,Codrington1885,"pp.236, 407",,rotu1241,Rotuma,rotu1241-1
+1,əa,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+2,ɖosa,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+3,toLo,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+4,soʔatə,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+5,Lima,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+6,ənəmə,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+7,ʔito,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+8,vaLo,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+9,baŋatə,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+10,poLoko,,TRUE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+10,poLok,poLok may have been a loan from puLuq ‘ten’ in Paiwan due to close contact.,TRUE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+11,mangeal si ea,‘10+1 = 11’,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+12,mangeal si Dosa,‘10+2 = 12’,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+20,maʔosal,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+30,matoLol,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+40,masoʔatel,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+100,iday,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+1000,koDol,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
+1,íta,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
+1,nə́ga,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
+2,ɖósa,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
+3,tóo,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
+4,pátə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
+5,íma,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
+6,nə́mə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
+7,píto,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
+8,váo,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
+9,vaŋátə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
+10,pooko,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
+100,iday,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
+1000,koDol,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
+1,səsəsánə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
+2,ɖosá,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
+3,toó,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
+4,θipátə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
+5,imá,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
+6,ənə́mə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
+7,pitó,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
+8,vaó,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
+9,vaŋátə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
+10,maŋə́salə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
+1,taʔaŋəŋə́sa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
+2,taʔaɖósa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
+3,taʔatoo,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
+4,taʔaθípatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
+5,taʔaíma,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
+6,taʔaə́nəmə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
+7,taʔapíto,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
+8,taʔaváo,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
+9,taʔaváŋatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
+10,taʔamaŋəsálə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
+1,nəka,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
+2,nósa,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
+3,tóLo,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
+4,pátə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
+5,Lima,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
+6,nəmə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
+7,pito,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
+8,vaLo,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
+9,vaŋatə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
+10,poLoko,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
+100,iday,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
+1000,koDol,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
+1,maəáəa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
+2,máðoʔa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
+3,mátoLo,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
+4,máʔəpatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
+5,maLima,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
+6,maənəmə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
+7,mapito,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
+8,mavaLo,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
+9,mavaŋatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
+10,mamaŋələ,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
+1,ʔanoŋəaŋəa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
+2,ʔanoðáðoʔa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
+3,ʔanotátoLo,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
+4,ʔanoLáLima,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
+5,táLoLima,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
+6,taLoənəmə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
+7,taLopito,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
+8,tarovaLo,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
+9,tarovaŋatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
+10,taromaŋəlaə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
+1,əa,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
+1,ea,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
+2,ɖosa,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
+3,toLo,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
+4,soʔatə,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
+5,Lima,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
+6,ənəmə,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
+7,ʔito,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
+8,vaLo,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
+9,baŋatə,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
+10,maŋəalə,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
+10,ma-ngea-l,‘1x10’,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
+1,taŋəa,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
+1,ta-ngea,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
+2,taɖosa,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
+3,tatoLO,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
+4,tasoʔatə,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
+5,taLima,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
+6,taənəmə,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
+7,taʔito,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
+8,tavaLo,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
+9,tabaŋatə,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
+10,tamaŋəalə,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
+1,iθa,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
+2,ɖusa,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
+3,tuLu,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
+4,supatə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
+5,Lima,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
+6,ənəmə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
+7,pitu,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
+8,vaLu,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
+9,baŋatə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
+10,puLuku,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
+100,iday,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
+1000,koDol,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
+1,váəva,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
+2,ɖusa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
+3,tuLu,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
+4,supatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
+5,Lima,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
+6,ənəmə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
+7,pitu,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
+8,vaLu,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
+9,baŋatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
+10,maŋəalə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
+1,taŋəaŋəa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
+2,taɖusa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
+3,tatuLu,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
+4,tasupatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
+5,taLima,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
+6,taənəmə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
+7,tapitu,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
+8,tavaLo,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
+9,tabaŋatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
+10,taməŋə́alə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
+1,ɖɨga,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
+2,ɖusa,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
+2,Dusa,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
+3,turu,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
+4,patɨ,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
+5,rima,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
+6,nɨmɨ,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
+7,pitu,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
+8,varu,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
+9,vŋatɨ,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
+10,pruku,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
+100,iday,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
+1000,koDol,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
+1,sɨsaa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
+1,sɨssaa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
+1,ta-ngɨsa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
+2,ɖsaa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
+2,Dsaa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
+3,truu,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
+4,θpatɨ,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
+5,rmaa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
+6,ɨnɨmɨ,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
+7,ptuu,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
+8,vroo,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
+9,vŋatɨ,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
+10,mŋɨslɨ,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
+1,ta(ru)ŋɨsa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
+1,ta-ngɨsa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
+2,taɖusa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
+2,tar-Dusa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
+3,taturu,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
+4,taθiptɨ,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
+5,tarima,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
+6,taɨnmɨ,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
+7,tapitu,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
+8,tavaru,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
+9,tavaŋtɨ,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
+10,tamŋəsal,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
 1,reiapai,,FALSE,Lean1986Vol11,p.17,SIL Word List (1975). Village: Kopi.,rumu1243,Kairi,rumu1243-1
 2,tai,,FALSE,Lean1986Vol11,p.17,SIL Word List (1975). Village: Kopi.,rumu1243,Kairi,rumu1243-1
 3,here,,FALSE,Lean1986Vol11,p.17,SIL Word List (1975). Village: Kopi.,rumu1243,Kairi,rumu1243-1
@@ -31190,6 +31814,45 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 8,yétioul,,FALSE,Hagen1889,p.319,,saaa1241,Pentecote S. (Tribu de Nineboulo),saaa1241-8
 9,yapat,,FALSE,Hagen1889,p.319,,saaa1241,Pentecote S. (Tribu de Nineboulo),saaa1241-8
 10,sianfoul,,FALSE,Hagen1889,p.319,,saaa1241,Pentecote S. (Tribu de Nineboulo),saaa1241-8
+1,caani,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+2,suua,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+3,tuulu,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+4,paatə,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+5,kulima,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+6,kənəmə,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+7,kupitu,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+8,kualu,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+9,kusia,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+10,kumaaɬə,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+11,laiɬa ucani,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+12,laiɬa usua,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+20,mapuaɬe,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+30,matuluɬu,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+40,maupáteɬ,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
+1,ucani,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
+1,u-cani,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
+2,usua,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
+2,u-sua,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
+3,utulu,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
+4,upatə,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
+5,ulíma,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
+6,ənəmə,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
+7,upitu,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
+8,ualu,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
+9,usia,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
+10,maaɬə,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
+1,caciɬi,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
+1,ta-ciɬi,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
+2,sasua,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
+2,sa-sua,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
+3,tatulu,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
+4,aupatə,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
+5,lalíma,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
+6,aənəmə,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
+7,papitu,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
+8,lalaalu,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
+9,sasia,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
+10,ʔumaramaaɬə,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
 1,satu,,FALSE,Aye2005,pp.79-80,,saba1263,Bazaar Malay,saba1263-1
 2,dua,,FALSE,Aye2005,pp.79-80,,saba1263,Bazaar Malay,saba1263-1
 3,tiga,,FALSE,Aye2005,pp.79-80,,saba1263,Bazaar Malay,saba1263-1
@@ -31349,6 +32012,48 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 5,asava asava'ana,,FALSE,LeanMorobe,p.62,SIL Word List (1972).,safe1240,Safeyoka (from SIL word list),safe1240-3
 6,aha gupn'nena,,FALSE,LeanMorobe,p.62,SIL Word List (1972).,safe1240,Safeyoka (from SIL word list),safe1240-3
 10,aha me'wa pukuma,,FALSE,LeanMorobe,p.62,SIL Word List (1972).,safe1240,Safeyoka (from SIL word list),safe1240-3
+1,ʔæhæʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+2,roʃaʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+3,toLoʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+4,ʃəpat,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+5,Lasəβ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+6,ʃayβoʃiL,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+7,ʃayβoʃiL o ʔæhæʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+7,ʃayboʃiL o ʔæhæʔ,Saisiyat is the only [Formosan] language that indicates the numeral seven by ‘6+1’ = 7,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+8,kaʃpat,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+8,ka-ʃpat,‘2x4’ = 8,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+8,maykaʃpat,"things, people [i.e., adnominal numeral?]",FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+9,Laeʔhæʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+9,Lae-ʔhæʔ,"derived from PAn *esa ‘one’ +genitive’ + *Cu ‘that’; literally it means ‘one of/from that’, namely ‘10-1’ (Ogawa 1944, Tsuchida, pers. comm.).",FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+10,laŋpəz,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+11,laŋpəz o ʔæhæʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+12,laŋpəz o roʃaʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+20,ʃa-mʔiLæh,"(cf. mæʔiLæh ‘person’) ... presumably because each person has 20 digits, “the sum total of fingers and toes” (Heine 1997:20, Blust, pers. comm.).",FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+20,ʃamʔiLæh,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+30,matoLol,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+40,moneʃpat,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+100,kabœhœl,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
+1,ida,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+1,adaŋ,"things, people [i.e., adnominal numeral?]",FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+2,dusa,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+3,turu,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+4,supat,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+5,xasəp,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+5,xasep,"‘5’ ; Pazih is unique in that it is the only Formosan system that has almost a quiary system except for isit ‘ten’, and whose numerals from 6 to 9 are all additive",FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+6,xasəbuza,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+6,xaseb-uza,‘5+1’,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+7,xasəbidusa,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+7,xaseb-i-dusa,‘5+2’,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+8,xasəbituru,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+8,xaseb-i-turu,‘5+3’,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+9,xasəbisupat,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+9,xaseb-i-supat,‘5+4’,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+10,isit,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+11,isid-u adang,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+12,isid-u dusa,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+20,dua isit,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+30,turu a isit,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
+40,supat isit,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
 1,gílam,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassap,saja1241-1
 1,djí,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassap,saja1241-1
 2,dóewå,,FALSE,Rutten1916,p.251,,saja1241,Sadjau Bassap,saja1241-1
@@ -33882,6 +34587,9 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 11,saŋau kanaŋo taitu,,FALSE,Lincoln1976,pp.2-5,,sioo1240,Sio (Sio #1 village),sioo1240-4
 12,saŋau kanaŋo rua,,FALSE,Lincoln1976,pp.2-5,,sioo1240,Sio (Sio #1 village),sioo1240-4
 20,*tamota taitu,[cf. p.14 <tamota> ‘people’],FALSE,Lincoln1976,pp.2-5,,sioo1240,Sio (Sio #1 village),sioo1240-4
+2,rouha,nonhuman,FALSE,Li2006,"pp.135, 140",,sira1267,Siraya,sira1267-1
+2,ra-rouha,human,FALSE,Li2006,"pp.135, 140",,sira1267,Siraya,sira1267-1
+8,kou-gipat,‘2x4’ = 8,FALSE,Li2006,"pp.135, 140",,sira1267,Siraya,sira1267-1
 1,duaiiṅ,,FALSE,Ray1919,p.329,,siro1249,Maragum,siro1249-1
 2,ar,,FALSE,Ray1919,p.329,,siro1249,Maragum,siro1249-1
 3,kiṅ,,FALSE,Ray1919,p.329,,siro1249,Maragum,siro1249-1
@@ -36179,6 +36887,34 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 4,_,"NO ENTRY No word, or ‘two two’",FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Imboin-Awim villages),tape1242-2
 5,_,"DISQUALIFIED No word, ‘hand’ or ‘thumb’",FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Imboin-Awim villages),tape1242-2
 10,_,NO ENTRY No word,FALSE,Kassell2017,pp.52-53,,tape1242,Tapei (Imboin-Awim villages),tape1242-2
+1,kiŋal,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+2,daha,nonhuman,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+2,d-daha,human,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+3,teru,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+4,sepac,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+5,rima,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+6,mteru,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+6,m-teru,‘2x3’ = 6,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+7,mpitu,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+8,msepac,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+8,m-sepac,‘2x4’ = 8,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+9,mŋariʔ,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+10,maxal,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+11,maxal kingal,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+12,maxal dahal,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+20,mpusal,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+30,mterul,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+40,mspatul,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
+1,kiŋal,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
+2,daha,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
+3,təru,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
+4,səpac,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
+5,rima,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
+6,mtəru,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
+7,mpitu,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
+8,msəpac,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
+9,mŋariʔ,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
+10,maxal,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
 1,suksè,,FALSE,Galis1955,p.161,,tarp1240,Sufrai,tarp1240-1
 2,arko,,FALSE,Galis1955,p.161,,tarp1240,Sufrai,tarp1240-1
 3,tor,,FALSE,Galis1955,p.161,,tarp1240,Sufrai,tarp1240-1
@@ -36769,6 +37505,38 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 10,futuˈɔta,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
 100,raˈseta,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
 1000,rifˈnata,,FALSE,Taber1993,pp.418-419,,teun1241,Teun,teun1241-1
+1,taha,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+2,tuʃa,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+3,turu,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+4,ʃpat,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+5,rima,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+6,katuru,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+6,ka-turu,‘2x3’ = 6,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+7,pitu,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+8,kaʃpat,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+8,ka-ʃpat,‘2x4’ = 8,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+9,tanaθu,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+9,ta-na-θu,"derived from PAn *esa ‘one’ +genitive’ + *Cu ‘that’; literally it means ‘one of/from that’, namely ‘10-1’ (Ogawa 1944, Tsuchida, pers. comm.).",FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+10,makθin,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+11,makθin yanan tata,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+12,makθin yanan tuʃa,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+20,ma-puʃa-z,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+20,mapuʃaz,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+30,maturuz,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+40,maʃpatiz,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
+1,tata,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - nonhuman,thao1240-2
+2,latuʃa,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - nonhuman,thao1240-2
+2,la-tuʃa,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - nonhuman,thao1240-2
+3,laturu,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - nonhuman,thao1240-2
+4,laʃpat,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - nonhuman,thao1240-2
+5,larima,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - nonhuman,thao1240-2
+9,makatanaθu,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - nonhuman,thao1240-2
+2,tatuʃa,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - human,thao1240-3
+2,ta-tuʃa,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - human,thao1240-3
+3,taturu,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - human,thao1240-3
+4,ʃaʃpat,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - human,thao1240-3
+5,rarima,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - human,thao1240-3
+7,papitu,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - human,thao1240-3
 1,saka,,FALSE,Lean1985Vol01,p.29,1 CSQ. Village: Piliwa.,tian1237,Tiang,tian1237-1
 2,iwai,,FALSE,Lean1985Vol01,p.29,1 CSQ. Village: Piliwa.,tian1237,Tiang,tian1237-1
 3,utal,,FALSE,Lean1985Vol01,p.29,1 CSQ. Village: Piliwa.,tian1237,Tiang,tian1237-1
@@ -38377,6 +39145,25 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,telo,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Antsohihy),tsim1257-6
 4,efatra,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Antsohihy),tsim1257-6
 5,dimy,,FALSE,Serva2020,pone.0240170.s001.pdf,,tsim1257,Tsimihety (Antsohihy),tsim1257-6
+1,coni,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+2,ruso,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+3,turu,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+4,səptə,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+5,rimo,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+6,nomə,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+7,pitu,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+8,voru,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+9,sio,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+10,maskə,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+11,maskə veia ucni,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+12,maskə veia ueso,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+20,mapusku,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+30,mtuehu,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+40,misəptəhə,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
+1,coni,,FALSE,Li2006,"pp.134, 148-150",,tsou1248,"Tsou, Duhtu dialect - nonhuman",tsou1248-2
+2,ruso,No distinction beyond ‘two’,FALSE,Li2006,"pp.134, 148-150",,tsou1248,"Tsou, Duhtu dialect - nonhuman",tsou1248-2
+1,cihi,,FALSE,Li2006,"pp.134, 148-150",,tsou1248,"Tsou, Duhtu dialect - human",tsou1248-3
+2,roso,No distinction beyond ‘two’,FALSE,Li2006,"pp.134, 148-150",,tsou1248,"Tsou, Duhtu dialect - human",tsou1248-3
 1,ho’ē,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
 2,rua,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
 3,toru,,FALSE,Charpentier2015,pp.1825-1843,,tuam1242,Pa’umotu - Takaroa/Takapoto,tuam1242-1
@@ -42642,790 +43429,3 @@ Parameter_ID,Form,Comment,Loan,Source,Pages,Ultimate source,Glottocode,Name,Lang
 3,nimapa koapoma,2 + 1,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 4,nimapa nimapa,2 + 2,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
 5,ewago zeda,‘zeda’ = ‘hand’,FALSE,Lean1986Vol12,p.34,SIL Word List (1975). Village: Kavianaga (Begua d.).,zima1244,Zimakani (Begua dialect),zima1244-1
-1,qun,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-2,rusaʔ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-3,tuuʔ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-4,səpat,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-5,timaʔ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-6,matuuʔ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-6,ma-tuuʔ,‘2x3’ = 6,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-7,pituʔ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-8,maspat,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-8,ma-spat,‘2x4’ = 8,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-9,maqisuʔ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-10,puɤ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-11,magalpug cuʔ qun,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-12,magalpug cuʔ rusaʔ,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-20,ma-pusa-l,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-20,mapusal,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-30,matuul,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-40,maspatul,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-100,kabhul,,FALSE,Li2006,"pp.138, 140-142, 148-150",,atay1247,"Atayal, Mayrinax dialect - cardinal",atay1247-1
-1,qutux,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
-2,ʔusayiŋ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
-2,ʔusa-ing,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
-3,tuɤal,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
-4,sapaat,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
-5,imaɤal,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
-6,tayuʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
-7,mapituʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
-8,pat,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
-9,mamaqisuʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
-10,maɤalpuɤ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - nonhuman",atay1247-2
-1,qutux,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
-2,rarusaʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
-2,ra-rusaʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
-3,tatuuʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
-4,saspat,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
-5,aimaʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
-6,mamatuuʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
-7,mapituʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
-8,mamaspat,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
-9,mamaqisuʔ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
-10,maɤalpuɤ,,FALSE,Li2006,"pp.134, 138, 148-150",,atay1247,"Atayal, Mayrinax dialect - human",atay1247-3
-1,kiŋal,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-2,daha,nonhuman,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-2,d-daha,human,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-3,teru,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-4,sepac,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-5,rima,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-6,mteru,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-6,m-teru,‘2x3’ = 6,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-7,mpitu,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-8,msepac,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-8,m-sepac,‘2x4’ = 8,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-9,mŋariʔ,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-10,maxal,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-11,maxal kingal,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-12,maxal dahal,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-20,mpusal,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-30,mterul,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-40,mspatul,,FALSE,Li2006,"pp.134, 140, 141, 148-150",,taro1264,"Seediq, Paran dialect",taro1264-1
-1,kiŋal,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
-2,daha,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
-3,təru,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
-4,səpac,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
-5,rima,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
-6,mtəru,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
-7,mpitu,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
-8,msəpac,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
-9,mŋariʔ,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
-10,maxal,,FALSE,Li2006,pp.148-150,,taro1264,"Seediq, Toda dialect",taro1264-2
-1,coni,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-2,ruso,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-3,turu,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-4,səptə,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-5,rimo,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-6,nomə,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-7,pitu,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-8,voru,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-9,sio,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-10,maskə,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-11,maskə veia ucni,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-12,maskə veia ueso,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-20,mapusku,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-30,mtuehu,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-40,misəptəhə,,FALSE,Li2006,"pp.140, 141, 148-150",,tsou1248,"Tsou, Duhtu dialect - cardinal",tsou1248-1
-1,coni,,FALSE,Li2006,"pp.134, 148-150",,tsou1248,"Tsou, Duhtu dialect - nonhuman",tsou1248-2
-2,ruso,No distinction beyond ‘two’,FALSE,Li2006,"pp.134, 148-150",,tsou1248,"Tsou, Duhtu dialect - nonhuman",tsou1248-2
-1,cihi,,FALSE,Li2006,"pp.134, 148-150",,tsou1248,"Tsou, Duhtu dialect - human",tsou1248-3
-2,roso,No distinction beyond ‘two’,FALSE,Li2006,"pp.134, 148-150",,tsou1248,"Tsou, Duhtu dialect - human",tsou1248-3
-1,caáni,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-2,cuúsa,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-2,cuusa,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-3,tuulu,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-4,suúpatə,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-5,liíma,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-6,nəə́mə,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-7,piítu,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-8,áalu,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-9,síia,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-10,máanə,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-11,maane ucani,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-12,maane urucini,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-20,mapusane,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-30,matuunu,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-40,maspatúnu,,FALSE,Li2006,"pp.138, 141, 148-150",,kana1286,Kanakanavu - cadinal,kana1286-1
-1,ucáni,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
-1,u-cani,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
-2,urúcini,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
-2,u-rucini,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
-3,utúlu,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
-4,usúpatə,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
-5,ulíma,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
-6,ənə́mə,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
-7,upítu,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
-8,aálu,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
-9,usía,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
-10,máanə,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - nonhuman,kana1286-2
-1,tacíni,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
-1,ca-cini,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
-2,tasúsa,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
-2,ta-susa,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
-3,tatúlu,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
-4,sasúpatə,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
-5,lalíma,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
-6,nanə́mə,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
-7,papítu,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
-8,laláalu,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
-9,sasía,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
-10,mamáanə,,FALSE,Li2006,"pp.134, 138, 148-150",,kana1286,Kanakanavu - human,kana1286-3
-1,caani,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-2,suua,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-3,tuulu,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-4,paatə,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-5,kulima,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-6,kənəmə,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-7,kupitu,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-8,kualu,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-9,kusia,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-10,kumaaɬə,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-11,laiɬa ucani,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-12,laiɬa usua,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-20,mapuaɬe,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-30,matuluɬu,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-40,maupáteɬ,,FALSE,Li2006,"pp.138, 141, 148-150",,saar1237,Saaroa - cardinal,saar1237-1
-1,ucani,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
-1,u-cani,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
-2,usua,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
-2,u-sua,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
-3,utulu,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
-4,upatə,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
-5,ulíma,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
-6,ənəmə,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
-7,upitu,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
-8,ualu,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
-9,usia,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
-10,maaɬə,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - nonhuman,saar1237-2
-1,caciɬi,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
-1,ta-ciɬi,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
-2,sasua,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
-2,sa-sua,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
-3,tatulu,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
-4,aupatə,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
-5,lalíma,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
-6,aənəmə,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
-7,papitu,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
-8,lalaalu,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
-9,sasia,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
-10,ʔumaramaaɬə,,FALSE,Li2006,"pp.134, 138, 148-150",,saar1237,Saaroa - human,saar1237-3
-1,əa,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-2,ɖosa,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-3,toLo,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-4,soʔatə,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-5,Lima,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-6,ənəmə,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-7,ʔito,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-8,vaLo,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-9,baŋatə,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-10,poLoko,,TRUE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-10,poLok,poLok may have been a loan from puLuq ‘ten’ in Paiwan due to close contact.,TRUE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-11,mangeal si ea,‘10+1 = 11’,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-12,mangeal si Dosa,‘10+2 = 12’,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-20,maʔosal,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-30,matoLol,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-40,masoʔatel,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-100,iday,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-1000,koDol,,FALSE,Li2006,"pp.140-142, 148-150",,ruka1240,"Rukai, Tanan dialect - cardinal",ruka1240-1
-1,əa,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
-1,ea,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
-2,ɖosa,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
-3,toLo,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
-4,soʔatə,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
-5,Lima,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
-6,ənəmə,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
-7,ʔito,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
-8,vaLo,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
-9,baŋatə,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
-10,maŋəalə,,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
-10,ma-ngea-l,‘1x10’,FALSE,Li2006,"pp.134, 140, 148-150",,ruka1240,"Rukai, Tanan dialect - inanimate",ruka1240-2
-1,taŋəa,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
-1,ta-ngea,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
-2,taɖosa,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
-3,tatoLO,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
-4,tasoʔatə,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
-5,taLima,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
-6,taənəmə,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
-7,taʔito,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
-8,tavaLo,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
-9,tabaŋatə,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
-10,tamaŋəalə,,FALSE,Li2006,"pp.134, 148-150",,ruka1240,"Rukai, Tanan dialect - animate",ruka1240-3
-1,iθa,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
-2,ɖusa,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
-3,tuLu,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
-4,supatə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
-5,Lima,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
-6,ənəmə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
-7,pitu,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
-8,vaLu,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
-9,baŋatə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
-10,puLuku,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
-100,iday,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
-1000,koDol,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Budai dialect - cardinal",ruka1240-4
-1,váəva,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
-2,ɖusa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
-3,tuLu,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
-4,supatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
-5,Lima,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
-6,ənəmə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
-7,pitu,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
-8,vaLu,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
-9,baŋatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
-10,maŋəalə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - nonhuman",ruka1240-5
-1,taŋəaŋəa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
-2,taɖusa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
-3,tatuLu,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
-4,tasupatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
-5,taLima,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
-6,taənəmə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
-7,tapitu,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
-8,tavaLo,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
-9,tabaŋatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
-10,taməŋə́alə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Budai dialect - human",ruka1240-6
-1,ɖɨga,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
-2,ɖusa,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
-2,Dusa,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
-3,turu,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
-4,patɨ,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
-5,rima,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
-6,nɨmɨ,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
-7,pitu,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
-8,varu,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
-9,vŋatɨ,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
-10,pruku,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
-100,iday,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
-1000,koDol,,FALSE,Li2006,"pp.139, 142, 148-150",,ruka1240,"Rukai, Maga dialect - cardinal",ruka1240-7
-1,sɨsaa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
-1,sɨssaa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
-1,ta-ngɨsa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
-2,ɖsaa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
-2,Dsaa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
-3,truu,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
-4,θpatɨ,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
-5,rmaa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
-6,ɨnɨmɨ,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
-7,ptuu,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
-8,vroo,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
-9,vŋatɨ,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
-10,mŋɨslɨ,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - nonhuman",ruka1240-8
-1,ta(ru)ŋɨsa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
-1,ta-ngɨsa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
-2,taɖusa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
-2,tar-Dusa,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
-3,taturu,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
-4,taθiptɨ,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
-5,tarima,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
-6,taɨnmɨ,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
-7,tapitu,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
-8,tavaru,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
-9,tavaŋtɨ,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
-10,tamŋəsal,,FALSE,Li2006,"pp.134, 139, 148-150",,ruka1240,"Rukai, Maga dialect - human",ruka1240-9
-1,íta,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
-1,nə́ga,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
-2,ɖósa,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
-3,tóo,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
-4,pátə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
-5,íma,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
-6,nə́mə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
-7,píto,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
-8,váo,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
-9,vaŋátə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
-10,pooko,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
-100,iday,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
-1000,koDol,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Tona dialect - cardinal",ruka1240-10
-1,səsəsánə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
-2,ɖosá,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
-3,toó,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
-4,θipátə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
-5,imá,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
-6,ənə́mə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
-7,pitó,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
-8,vaó,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
-9,vaŋátə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
-10,maŋə́salə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - nonhuman",ruka1240-11
-1,taʔaŋəŋə́sa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
-2,taʔaɖósa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
-3,taʔatoo,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
-4,taʔaθípatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
-5,taʔaíma,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
-6,taʔaə́nəmə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
-7,taʔapíto,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
-8,taʔaváo,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
-9,taʔaváŋatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
-10,taʔamaŋəsálə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Tona dialect - human",ruka1240-12
-1,nəka,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
-2,nósa,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
-3,tóLo,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
-4,pátə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
-5,Lima,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
-6,nəmə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
-7,pito,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
-8,vaLo,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
-9,vaŋatə,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
-10,poLoko,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
-100,iday,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
-1000,koDol,,FALSE,Li2006,"pp.142, 148-150",,ruka1240,"Rukai, Mantauran dialect - cardinal",ruka1240-13
-1,maəáəa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
-2,máðoʔa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
-3,mátoLo,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
-4,máʔəpatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
-5,maLima,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
-6,maənəmə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
-7,mapito,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
-8,mavaLo,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
-9,mavaŋatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
-10,mamaŋələ,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - nonhuman",ruka1240-14
-1,ʔanoŋəaŋəa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
-2,ʔanoðáðoʔa,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
-3,ʔanotátoLo,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
-4,ʔanoLáLima,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
-5,táLoLima,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
-6,taLoənəmə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
-7,taLopito,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
-8,tarovaLo,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
-9,tarovaŋatə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
-10,taromaŋəlaə,,FALSE,Li2006,pp.148-150,,ruka1240,"Rukai, Mantauran dialect - human",ruka1240-15
-1,tasʔa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-2,dusa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-3,tau,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-4,paat,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-5,himaʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-6,num,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-6,nuum,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-7,pituʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-8,váuʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-9,sivaʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-10,macʔan,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-11,macʔan qan tasʔa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-12,macʔan qan dusa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-20,ma-pusa-n,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-20,mapusan,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-30,matiʔun,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-40,masipatun,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takituduh dialect - cardinal",bunu1267-1
-1,tasʔa,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
-2,dusa,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
-3,tau,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
-4,paat,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
-5,himaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
-6,nuum,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
-7,pituʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
-8,vauʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
-9,sivaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
-10,macʔan,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - nonhuman",bunu1267-2
-1,tatini,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
-2,dadusaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
-3,tatau,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
-4,saspat,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
-5,hahimaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
-6,ʔaʔaʔnum,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
-7,papituʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
-8,vaváuʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
-9,sasivaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
-10,mamacʔan,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takituduh dialect - human",bunu1267-3
-1,tasʔa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-2,dusa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-3,tau,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-4,paat,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-5,himaʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-6,num,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-7,pituʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-8,vauʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-9,sivaʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-10,masʔan,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-11,macʔan qan tasʔa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-12,macʔan qan dusa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-20,ma-pusa-n,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-20,mapusan,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-30,matiʔun,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-40,masipatun,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Takbanuaz dialect - cardinal",bunu1267-4
-1,tasʔa,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
-2,dusa,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
-3,tau,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
-4,paat,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
-5,himaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
-6,nuum,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
-7,pituʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
-8,vauʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
-9,sivaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
-10,masʔan,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - nonhuman",bunu1267-5
-1,tatiniʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
-2,dadusaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
-3,tatau,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
-4,saspat,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
-5,(ha)himaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
-6,(haʔ)num,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
-7,pituʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
-8,vauʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
-9,sasivaʔ,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
-10,mamasʔan,,FALSE,Li2006,pp.148-150,,bunu1267,"Bunun, Takbanuaz dialect - human",bunu1267-6
-1,tasaʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-2,dusa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-3,tau,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-4,paat,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-5,ʔimaʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-6,num,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-7,pituʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-8,vauʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-9,sivaʔ,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-10,masʔan,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-11,macʔan qan tasʔa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-12,macʔan qan dusa,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-20,ma-pusa-n,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-20,mapusan,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-30,matiʔun,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-40,masipatun,,FALSE,Li2006,"pp.140, 141, 148-150",,bunu1267,"Bunun, Isbukun dialect - cardinal",bunu1267-7
-1,tasa,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
-1,tasaʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
-2,dusa,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
-3,tau,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
-4,paat,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
-5,ʔimaʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
-6,nuum,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
-7,pituʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
-8,vauʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
-9,sivaʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
-10,masʔan,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - nonhuman",bunu1267-8
-1,taciniʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
-1,ta-tiniʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
-2,dadusaʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
-3,tatau,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
-4,saspat,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
-5,ʔaimaʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
-6,ʔabnum,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
-7,papítuʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
-8,vaváuʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
-9,sasivaʔ,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
-10,mamasʔan,,FALSE,Li2006,"pp.134, 148-150",,bunu1267,"Bunun, Isbukun dialect - human",bunu1267-9
-1,ita,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
-2,ɖusa,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
-3,t́əLu,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
-4,səpat́,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
-5,Lima,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
-6,unəm,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
-7,pit́u,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
-8,aLu,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
-9,siva,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
-10,puLuq,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
-11,puLuʔ katu ita,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
-12,puLuʔ katu Dusa,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
-100,iday,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
-1000,kuzulj,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Butanglu dialect - cardinal",paiw1248-1
-1,maciziľ,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
-2,maɖusa,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
-3,mat́əLu,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
-4,masəpat́,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
-5,maLima,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
-6,maľunəm,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
-7,maľəpit́u,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
-8,maľaLu,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
-9,maľəsiva,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
-10,maľətapuLuq,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Butanglu dialect - human",paiw1248-2
-1,ita,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-2,ɖusa,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-3,təLu,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-4,səpat,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-5,Lima,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-6,unəm,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-7,pitu,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-8,aLu,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-9,siva,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-10,puLuʔ,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-11,puLuʔ katu ita,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-12,puLuʔ katu Dusa,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-20,Dusa puLuʔ,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-30,teLu a puLuʔ,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-40,sepat a puLuʔ,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-100,iday,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-1000,kuzulj,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Stimur dialect - cardinal",paiw1248-3
-1,ita,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
-2,ɖusa,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
-3,təLu,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
-4,səpat,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
-5,Lima,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
-6,unəm,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
-7,pitu,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
-8,aLu,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
-9,siva,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
-10,puLuʔ,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - nonhuman",paiw1248-4
-1,macidiľ,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
-1,ma-cidil,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
-2,maɖusa,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
-3,matəLu,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
-4,masəpat,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
-5,manəLima,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
-6,manəunəm,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
-7,manəpitu,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
-8,manaLu,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
-9,manəsiva,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
-10,mantapuLuʔ,,FALSE,Li2006,"pp.134, 148-150",,paiw1248,"Paiwan, Stimur dialect - human",paiw1248-5
-1,ita,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
-2,ɖusa,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
-3,t́əLu,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
-4,səpat́,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
-5,Lima,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
-6,unəm,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
-7,pit́u,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
-8,aLu,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
-9,siva,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
-10,puLuʔ,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
-11,puLuʔ katu ita,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
-12,puLuʔ katu Dusa,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
-100,iday,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
-1000,kuzulj,,FALSE,Li2006,"pp.141, 142, 148-150",,paiw1248,"Paiwan, Tjuabar dialect - cardinal",paiw1248-6
-1,macidiľ,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
-2,maɖusa,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
-3,mat́əLu,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
-4,masəpat́,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
-5,maLima,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
-6,maľə-unəm,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
-7,maľəpit́u,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
-8,maľəaLu,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
-9,maľəsiva,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
-10,malətapuLuʔ,,FALSE,Li2006,pp.148-150,,paiw1248,"Paiwan, Tjuabar dialect - human",paiw1248-7
-1,sa,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-2,ɖua,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-2,Dua,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-3,təLu,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-4,pat,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-5,Lima,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-6,nəm,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-7,pitu,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-8,waLu,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-9,iwa,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-10,puLuʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-11,mukTep misama Da saya,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-12,mukTep misama Da Duaya,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-20,makabTaʔan,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-30,makteLun,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-40,makapetel,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-1000,kuDul,,FALSE,Li2006,"pp.139, 140-142, 148-150",,puyu1239,"Puyuma, Puyuma dialect - cardinal",puyu1239-2
-1,sasaya,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
-1,sasa-ya,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
-2,ɖuɖuaya,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
-2,Du-Dua-ya,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
-3,tutuLua,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
-4,papata,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
-5,luluaʈa,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
-6,nanəma,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
-7,pitupitua,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
-8,waLuwaLua,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
-9,wayawaya,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
-10,mukʈəp,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - nonhuman",puyu1239-3
-1,misasa,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
-1,mi-sasa,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
-2,miaɖua,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
-2,mia-Dua,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
-3,miatəLu,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
-4,miapat,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
-5,mialuaʈ,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
-6,mianəm,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
-7,miapitu,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
-8,miawaLu,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
-9,miaiwa,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
-10,mukʈəp,,FALSE,Li2006,"pp.134, 139, 148-150",,puyu1239,"Puyuma, Puyuma dialect - human",puyu1239-4
-1,sa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
-2,ʐua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
-3,tiLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
-4,pat,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
-5,Lima,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
-6,nəm,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
-7,pitu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
-8,waLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
-9,iwa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
-10,puluɦ,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - cardinal",puyu1239-5
-1,(sa)saya,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
-2,(ʐu)ʐuaya,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
-3,(tu)tuLuwa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
-4,papata,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
-5,(lu)luaʈa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
-6,nanəma,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
-7,(pitu)pitua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
-8,(waLu)waLua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
-9,(wa)iwaya,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
-10,mukʈəp,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - nonhuman",puyu1239-6
-1,sasa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
-2,ʐaʐua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
-3,tatəLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
-4,aʔapat,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
-5,laluwaʈ,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
-6,aʔanəm,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
-7,papitu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
-8,wawaLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
-9,aʔiwa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
-10,papuLuɦ,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Pinaski dialect - human",puyu1239-7
-1,isa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
-2,ʐua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
-3,təLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
-4,pat,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
-5,Lima,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
-6,unəm,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
-7,pitu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
-8,waLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
-9,iwa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
-10,ʔuLuɦ,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - cardinal",puyu1239-8
-1,sasaya,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
-2,ʐaʐuaya,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
-3,tatəLuwa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
-4,papata,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
-5,laluaʈa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
-6,nanəma,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
-7,pitua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
-8,waLuwaLua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
-9,iwaiwaya,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
-10,mukʈəp,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - nonhuman",puyu1239-9
-1,sasa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
-2,ʐaʐua,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
-3,tatəLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
-4,aʔapat,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
-5,laluwaʈ,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
-6,aʔanəm,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
-7,papitu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
-8,wawaLu,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
-9,aʔiwa,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
-10,makʈəp,,FALSE,Li2006,pp.148-150,,puyu1239,"Puyuma, Katipul dialect - human",puyu1239-10
-1,taha,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-2,tuʃa,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-3,turu,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-4,ʃpat,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-5,rima,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-6,katuru,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-6,ka-turu,‘2x3’ = 6,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-7,pitu,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-8,kaʃpat,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-8,ka-ʃpat,‘2x4’ = 8,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-9,tanaθu,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-9,ta-na-θu,"derived from PAn *esa ‘one’ +genitive’ + *Cu ‘that’; literally it means ‘one of/from that’, namely ‘10-1’ (Ogawa 1944, Tsuchida, pers. comm.).",FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-10,makθin,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-11,makθin yanan tata,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-12,makθin yanan tuʃa,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-20,ma-puʃa-z,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-20,mapuʃaz,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-30,maturuz,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-40,maʃpatiz,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,thao1240,Thao - cardinal,thao1240-1
-1,tata,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - nonhuman,thao1240-2
-2,latuʃa,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - nonhuman,thao1240-2
-2,la-tuʃa,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - nonhuman,thao1240-2
-3,laturu,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - nonhuman,thao1240-2
-4,laʃpat,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - nonhuman,thao1240-2
-5,larima,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - nonhuman,thao1240-2
-9,makatanaθu,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - nonhuman,thao1240-2
-2,tatuʃa,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - human,thao1240-3
-2,ta-tuʃa,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - human,thao1240-3
-3,taturu,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - human,thao1240-3
-4,ʃaʃpat,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - human,thao1240-3
-5,rarima,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - human,thao1240-3
-7,papitu,,FALSE,Li2006,"pp.139, 148-150",,thao1240,Thao - human,thao1240-3
-1,ʔæhæʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-2,roʃaʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-3,toLoʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-4,ʃəpat,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-5,Lasəβ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-6,ʃayβoʃiL,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-7,ʃayβoʃiL o ʔæhæʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-7,ʃayboʃiL o ʔæhæʔ,Saisiyat is the only [Formosan] language that indicates the numeral seven by ‘6+1’ = 7,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-8,kaʃpat,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-8,ka-ʃpat,‘2x4’ = 8,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-8,maykaʃpat,"things, people [i.e., adnominal numeral?]",FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-9,Laeʔhæʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-9,Lae-ʔhæʔ,"derived from PAn *esa ‘one’ +genitive’ + *Cu ‘that’; literally it means ‘one of/from that’, namely ‘10-1’ (Ogawa 1944, Tsuchida, pers. comm.).",FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-10,laŋpəz,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-11,laŋpəz o ʔæhæʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-12,laŋpəz o roʃaʔ,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-20,ʃa-mʔiLæh,"(cf. mæʔiLæh ‘person’) ... presumably because each person has 20 digits, “the sum total of fingers and toes” (Heine 1997:20, Blust, pers. comm.).",FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-20,ʃamʔiLæh,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-30,matoLol,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-40,moneʃpat,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-100,kabœhœl,,FALSE,Li2006,"pp.139, 140-142, 148-150",,sais1237,"Saisiyat, Taai dialect",sais1237-1
-1,ida,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-1,adaŋ,"things, people [i.e., adnominal numeral?]",FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-2,dusa,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-3,turu,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-4,supat,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-5,xasəp,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-5,xasep,"‘5’ ; Pazih is unique in that it is the only Formosan system that has almost a quiary system except for isit ‘ten’, and whose numerals from 6 to 9 are all additive",FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-6,xasəbuza,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-6,xaseb-uza,‘5+1’,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-7,xasəbidusa,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-7,xaseb-i-dusa,‘5+2’,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-8,xasəbituru,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-8,xaseb-i-turu,‘5+3’,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-9,xasəbisupat,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-9,xaseb-i-supat,‘5+4’,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-10,isit,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-11,isid-u adang,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-12,isid-u dusa,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-20,dua isit,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-30,turu a isit,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-40,supat isit,,FALSE,Li2006,"pp.139, 141, 148-150",,sais1237,"Pazih, Pazih dialect",sais1237-2
-1,issa,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-2,zusa,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-3,turu,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-4,spat,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-5,rima,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-6,ʔnəm,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-7,pitu,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-8,waru,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-9,siwa,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-10,tRay,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-10,staRay,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-11,Rabtin yau ussiq,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-12,Rabitin yau uzusa,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-20,uzusabtin,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-30,uturubtin,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-40,uspatebtin,,FALSE,Li2006,"pp.139, 140, 141, 148-150",,kava1241,Kavalan - cardinal,kava1241-1
-1,ussiq,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
-2,uzusa,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
-2,u-zusa,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
-3,laturu,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
-4,uspat,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
-5,urima,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
-6,unnəm,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
-7,upitu,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
-8,uwaru,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
-9,usiwa,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
-10,Rabtin,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - nonhuman,kava1241-2
-1,paqnənem,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
-1,paqnanem,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
-2,kinausa,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
-2,kin-ausa,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
-3,kinturu,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
-4,kinspat,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
-5,kinrima,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
-6,kinnannəm,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
-7,kinpitu,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
-8,kinwaru,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
-9,kinsiwa,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
-10,kinRabtin,,FALSE,Li2006,"pp.134, 139, 148-150",,kava1241,Kavalan - human,kava1241-3
-1,cəcay,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-2,tosaʔ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-2,tosa,nonhuman,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-3,toloʔ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-4,səpat,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-5,limaʔ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-6,ʔənəm,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-7,pitoʔ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-8,faloʔ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-9,siwaʔ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-10,moʔtəp,,TRUE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-10,moʔtep,may have been a loan from Puyuma mukTep,TRUE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-10,poloʡ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-10,poloq,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-11,poloq cecay,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-12,poloq tosaʔ,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-20,tosa poloq,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-30,tolo poloq,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-40,sepat poloq,,FALSE,Li2006,"pp.135, 140, 141, 148-150",,amis1246,"Amis, Farangaw dialect - cardinal",amis1246-1
-1,(ca)cəcay,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
-2,tatosaʔ,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
-2,ta-tosa,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
-3,tatoloʔ,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
-4,sasəpat,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
-5,lalimaʔ,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
-6,ʔaʔənəm,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
-7,pipitoʔ,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
-8,fafaloʔ,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
-9,sasiwaʔ,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
-10,mamoʔtəp,,FALSE,Li2006,"pp.135, 148-150",,amis1246,"Amis, Farangaw dialect - human",amis1246-2
-2,rouha,nonhuman,FALSE,Li2006,"pp.135, 140",,sira1267,Siraya,sira1267-1
-2,ra-rouha,human,FALSE,Li2006,"pp.135, 140",,sira1267,Siraya,sira1267-1
-8,kou-gipat,‘2x4’ = 8,FALSE,Li2006,"pp.135, 140",,sira1267,Siraya,sira1267-1
