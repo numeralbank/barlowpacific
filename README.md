@@ -30,10 +30,10 @@ If you have data on numerals of the Pacific that you would like to contribute to
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 3,058 (linked to 1,475 different Glottocodes)
-- **Concepts:** 235 (linked to 128 different Concepticon concept sets)
-- **Lexemes:** 39,765
-- **Sources:** 502
+- **Varieties:** 3,380 (linked to 1,508 different Glottocodes)
+- **Concepts:** 279 (linked to 131 different Concepticon concept sets)
+- **Lexemes:** 44,469
+- **Sources:** 552
 - **Synonymy:** 1.09
 
 ## Possible Improvements:
